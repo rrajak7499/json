@@ -1,2510 +1,2519 @@
-[
-  {
-    "id": "1111",
-    "bed": {
-      "year-1": [
-        {
-          "id": 1,
-          "title": "b-ed-1-year-childhood-and-growing-up-501141-2016",
-          "url-id": "1uq2ujc_AFhGJpPPN9r5eF9NXJDl5-1oJ"
-        },
-        {
-          "id": 2,
-          "title": "b-ed-1-year-contemporary-india-and-education-501142-2016",
-          "url-id": "1H2mXUbFsoJSDSRxyyPJRC-Gj-JseRylq"
-        },
-        {
-          "id": 3,
-          "title": "b-ed-1-year-gender-school-and-society-501158-2016",
-          "url-id": "1XSZkUrW8IFK5PDmWgk5bvmHRUtc6kRXS"
-        },
-        {
-          "id": 4,
-          "title": "b-ed-1-year-pedagogy-of-social-science-1-history-civics-501312-2017",
-          "url-id": "19TUd9mjnyjrdV49wJiQZG1kvZ0ts4a6w"
-        },
-        {
-          "id": 5,
-          "title": "b-ed-1-year-pedagogy-of-english-501307-2017",
-          "url-id": "1Gp6FYYt1PXXAWazwW5L2j96ZXzu1e52g"
-        },
-        {
-          "id": 6,
-          "title": "b-ed-1-year-pedagogy-of-science-physical-science-501309-2017",
-          "url-id": "1if_HMOPwSgAEQ0n2KJcTk2tl4wysThrd"
-        },
-        {
-          "id": 7,
-          "title": "b-ed-1-year-language-across-the-curriculum-501304-2017",
-          "url-id": "1C3ZspZ7utJ1ol0K3FMANyMO11zxMAy6g"
-        },
-        {
-          "id": 8,
-          "title": "b-ed-1-year-gender-school-and-society-501306-2017",
-          "url-id": "1U2BCICUslAYmjPPbL_edlcE4YGfsxdTT"
-        },
-        {
-          "id": 9,
-          "title": "b-ed-1-year-education-501305-2017",
-          "url-id": "1c8bGEQOAC1fnl4xz3oVdK_VLwwKcAfg_"
-        },
-        {
-          "id": 10,
-          "title": "b-ed-1-year-learning-and-teaching-501303-2017",
-          "url-id": "1tyGnQz3ELLGN8BQT5BS8BDZh7YGCn5eu"
-        },
-        {
-          "id": 11,
-          "title": "b-ed-1-year-childhood-and-growing-up-501301-2017",
-          "url-id": "17FkMi_UTwH4nufeml6gNE35PB3AlZ9Cn"
-        },
-        {
-          "id": 12,
-          "title": "b-ed-1-year-contemporary-india-and-education-501302-2017",
-          "url-id": "1iNYgLnTdEo65cTgsM6WGVtuDHrjgjEQ3"
-        },
-        {
-          "id": 13,
-          "title": "b-ed-1-year-pedagogy-of-science-1-physical-science-501309-2019",
-          "url-id": "1LP6LL-kS93zsatCIXep4b11EM2N0NYyr"
-        },
-        {
-          "id": 14,
-          "title": "b-ed-1-year-understanding-discipline-and-subject-501305-2019",
-          "url-id": "1jNs4mXV66Nos7_HScwlWHriKhctdENu5"
-        },
-        {
-          "id": 15,
-          "title": "b-ed-1-year-language-across-the-curriculum-501304-2019",
-          "url-id": "12nfai1VVG7eNU8tw3iaMGUn_kCifustt"
-        },
-        {
-          "id": 16,
-          "title": "b-ed-1-year-learning-and-teaching-501303-2019",
-          "url-id": "1N6fFy0S76yhtO8mbxJ0mMs6e_LyY3BTm"
-        },
-        {
-          "id": 17,
-          "title": "b-ed-1-year-gender-school-and-society-501306-2019",
-          "url-id": "1O7WbkVbKVetFqLU7mfHtUrp8aNuQ_cl9"
-        },
-        {
-          "id": 18,
-          "title": "b-ed-1-year-contemporary-india-and-education-501302-2019",
-          "url-id": "1UdDidjCs4hkqu7ejQzlEEILIxelDZ_cU"
-        },
-        {
-          "id": 19,
-          "title": "b-ed-1-year-childhood-and-growing-up-501301-2019",
-          "url-id": "18_uWRhYOc6mQhs3orluYx5JRSJAhiuBx"
-        },
-        {
-          "id": 20,
-          "title": "b-ed-1-year-learning-and-teaching-501303-2020",
-          "url-id": "1Z0mznJXS-qMv7dMeJDIg7LWjy5fKI__2"
-        },
-        {
-          "id": 21,
-          "title": "b-ed-1-year-pedagogy-of-science-1-physical-science-501309-2020",
-          "url-id": "1uSmiTswPc87LqQZkY_0cMMM7veebq1wS"
-        },
-        {
-          "id": 22,
-          "title": "b-ed-1-year-understanding-discipline-and-subjects-501305-2020",
-          "url-id": "1aCQ30ecqfJiFk8dPl0XiashMwWmmZUzf"
-        },
-        {
-          "id": 23,
-          "title": "b-ed-1-year-gender-school-and-society-501306-2020",
-          "url-id": "1-bpDHEIq6pu_uj8dH6jxVK-5wkFT--CN"
-        },
-        {
-          "id": 24,
-          "title": "b-ed-1-year-language-across-the-curriculum-501304-2020",
-          "url-id": "1FCalpvGX49BaqrrMtDgY7TiM4i-yuxON"
-        },
-        {
-          "id": 25,
-          "title": "b-ed-1-year-contemporary-india-and-education-501302-2020",
-          "url-id": "1HryF-H-Js76bxulKBst_92yU9OPBX-a4"
-        },
-        {
-          "id": 26,
-          "title": "b-ed-1-year-childhood-and-growing-up-501301-2020",
-          "url-id": "1ehi9E948aQoQet340V81eZKXw5ESTfOQ"
-        }
-      ],
-      "year-2": [
-        {
-          "id": 1,
-          "title": "b-ed-2-year-teaching-of-physics-501268-2017",
-          "url-id": "1lk8P5h8deGtWfmi9-dIzWqJcqEINVq7Z"
-        },
-        {
-          "id": 2,
-          "title": "b-ed-2-year-teaching-of-sanskrit-501273-2017",
-          "url-id": "1lqj2l0tkwfFtySiaLHqQhn30Aammvne6"
-        },
-        {
-          "id": 3,
-          "title": "b-ed-2-year-teaching-of-urdu-501272-2017",
-          "url-id": "1w8LyaTf2ySaHm-l1kFZExtbcHRC8Cad3"
-        },
-        {
-          "id": 4,
-          "title": "b-ed-2-year-teaching-of-mathematics-501262-2017",
-          "url-id": "1CkLORKSEaxd4SeOiZet5Rznht3nq2aId"
-        },
-        {
-          "id": 5,
-          "title": "b-ed-2-year-teaching-of-hindi-501260-2017",
-          "url-id": "1U8TUgnZEcMzlzQaGa7-ANoy0-Ozv6DiD"
-        },
-        {
-          "id": 6,
-          "title": "b-ed-2-year-teaching-of-home-science-501271-2017",
-          "url-id": "1Uyxrfw4VBZHYwbkdC5i4y7P6Sh6zjy0d"
-        },
-        {
-          "id": 7,
-          "title": "b-ed-2-year-teaching-of-geography-501265-2017",
-          "url-id": "1VqTq4voqVnqMdEywKUGJKK9aoS7T2kPw"
-        },
-        {
-          "id": 8,
-          "title": "b-ed-2-year-teaching-of-english-501259-2017",
-          "url-id": "1xdhDjAWdnQnAvsXvWCejgQ9Cu2hxII1i"
-        },
-        {
-          "id": 9,
-          "title": "b-ed-2-year-teaching-of-chemistry-501267-2017",
-          "url-id": "1NHrTEzrQHkKlJ1_X8LBJLaWK0OmXebLc"
-        },
-        {
-          "id": 10,
-          "title": "b-ed-2-year-teaching-of-civics-501264-2017",
-          "url-id": "1t_Hw0nSXIoFMQh3qAPhCyB7koBsmKO34"
-        },
-        {
-          "id": 11,
-          "title": "b-ed-2-year-knowledge-and-curriculum-501279-2017",
-          "url-id": "1y9B0hvlLUsdSfCdDAEYnzclIl19UQlrg"
-        },
-        {
-          "id": 12,
-          "title": "b-ed-2-year-teaching-of-biological-science-501261-2017",
-          "url-id": "1-KbU7TJ281VTsArBn63nRp1lKiCvb7DH"
-        },
-        {
-          "id": 13,
-          "title": "b-ed-2-year-assessment-for-learning-501280-2017",
-          "url-id": "18oOgjstm2K6qoVxUrvDSYQUdQUROyd3U"
-        },
-        {
-          "id": 14,
-          "title": "b-ed-2-year-pedagogy-of-social-science-1-history-and-civics-501406-2018",
-          "url-id": "1Gq6MbDjNCDtvf9lMMD2k-SsInSnz747S"
-        },
-        {
-          "id": 15,
-          "title": "b-ed-2-year-creating-an-inclusive-school-501281-2017",
-          "url-id": "1ao3k6R6GqFVyInXlHrcbCqxWy3elFqPV"
-        },
-        {
-          "id": 16,
-          "title": "b-ed-2-year-environmental-education-501285-2017",
-          "url-id": "1zGMeWuYhoOVEr3JcN-WirIeEUiHjaK6c"
-        },
-        {
-          "id": 17,
-          "title": "b-ed-2-year-pedagogy-of-sanskrit-501412-2018",
-          "url-id": "1JdWpR92ZUggGLtZaG7u64Rbv7MU9fpwy"
-        },
-        {
-          "id": 18,
-          "title": "b-ed-2-year-pedagogy-of-mathematics-501405-2018",
-          "url-id": "1LT9XLDHrS4OpUQJqSGns6GOt-NwmapAg"
-        },
-        {
-          "id": 19,
-          "title": "b-ed-2-year-pedagogy-of-science-2-biological-science-501404-2018",
-          "url-id": "1nt7pxXMYBNaKZlwr-eG-acXH_GuTHx8e"
-        },
-        {
-          "id": 20,
-          "title": "b-ed-2-year-pedagogy-of-science-1-physical-science-501403-2018",
-          "url-id": "1wUla_9MpnKTlK3BhcZgje23MfUtzR86u"
-        },
-        {
-          "id": 21,
-          "title": "b-ed-2-year-pedagogy-of-home-science-501410-2018",
-          "url-id": "1MRiAwPsAMDIwCkBJREbUqNnHZUQ4jvGS"
-        },
-        {
-          "id": 22,
-          "title": "b-ed-2-year-pedagogy-of-commerce-501408-2018",
-          "url-id": "1c_auk9x-LDEDRTNmu6mpH_Jt5STEGZD7"
-        },
-        {
-          "id": 23,
-          "title": "b-ed-2-year-pedagogy-of-hindi-501402-2018",
-          "url-id": "1cYKRreICtKgzXoFTdnxd6jMDILhl-xwR"
-        },
-        {
-          "id": 24,
-          "title": "b-ed-2-year-pedagogy-of-english-501401-2018",
-          "url-id": "1zDyXv4nJxby_HPxdNoe4KJKia2tgMOUQ"
-        },
-        {
-          "id": 25,
-          "title": "b-ed-2-year-pedagogy-of-social-science-2-geography-and-economics-501407-2019",
-          "url-id": "1ABkk_lDT2EvLwsdKSbzzgGq9xj_AUuYo"
-        },
-        {
-          "id": 26,
-          "title": "b-ed-2-year-knowledge-and-curriculum-501418-2018",
-          "url-id": "1hB82lS6UdE5KJrFj-_tGiCcEQ6XDVITL"
-        },
-        {
-          "id": 27,
-          "title": "b-ed-2-year-pedagogy-of-social-science-1-history-and-civics-501406-2019",
-          "url-id": "1BPDy43tg6xAT9LkvZDI2VtXfhruIGwil"
-        },
-        {
-          "id": 28,
-          "title": "b-ed-2-year-environmental-education-501424-2018",
-          "url-id": "1OK8tVganmkynzB6k33RjgQpOcspN76cb"
-        },
-        {
-          "id": 29,
-          "title": "b-ed-2-year-pedagogy-of-home-science-501410-2019",
-          "url-id": "124NftNt2OPoGxSwmdMM77FOJgOUvRMhX"
-        },
-        {
-          "id": 30,
-          "title": "b-ed-2-year-pedagogy-of-science-1-physical-science-501403-2019",
-          "url-id": "1AhgMJlEoT3uDeTBWKWZjIu2OgxDel3VP"
-        },
-        {
-          "id": 31,
-          "title": "b-ed-2-year-pedagogy-of-science-2-biological-science-501404-2019",
-          "url-id": "1KZ8R6jqFcBHH-W510WdKrti1th3c1RIU"
-        },
-        {
-          "id": 32,
-          "title": "b-ed-2-year-pedagogy-of-mathematics-501405-2019",
-          "url-id": "1hFhguc1LtVaJONY0NTbg3sdXgvvl2TOK"
-        },
-        {
-          "id": 33,
-          "title": "b-ed-2-year-pedagogy-of-commerce-501408-2019",
-          "url-id": "16HJ2tjIZ4FCic9GZZ6Mxl7uWeTtKY7lz"
-        },
-        {
-          "id": 34,
-          "title": "b-ed-2-year-pedagogy-of-english-501401-2019",
-          "url-id": "1hXo1AED81d8wDURVG7WXkVkQ0adkldbs"
-        },
-        {
-          "id": 35,
-          "title": "b-ed-2-year-knowledge-and-curriculum-501418-2019",
-          "url-id": "1ujER53lBamv2lw7T5_GWuaWw8k4U_Hwp"
-        },
-        {
-          "id": 36,
-          "title": "b-ed-2-year-pedagogy-of-hindi-501402-2019",
-          "url-id": "1sAcH8bLy2-ic3SvD-TDrSTVfC3WheoC8"
-        },
-        {
-          "id": 37,
-          "title": "b-ed-2-year-creating-in-inclusive-school-501420-2019",
-          "url-id": "1UstoICVg25i8iiNlaKrWXvM2o68FmFK0"
-        },
-        {
-          "id": 38,
-          "title": "b-ed-2-year-pedagogy-of-science-1-physical-science-501403-2020",
-          "url-id": "1iGZUV-OHxE12OhKdFXpogxV8aV1sql7p"
-        },
-        {
-          "id": 39,
-          "title": "b-ed-2-year-assessment-for-learning-501419-2019",
-          "url-id": "1GHkJPX3D8mXsM6M0X6DwtLLp7UeOUfny"
-        },
-        {
-          "id": 40,
-          "title": "b-ed-2-year-environmental-education-501424-2019",
-          "url-id": "1sjkKXeyMhhstbuBQWlSgdnA17Ts5aLVL"
-        },
-        {
-          "id": 41,
-          "title": "b-ed-2-year-environmental-education-501424-2020",
-          "url-id": "1-XKbaF6KnLS-Mp5PXhOJcjXMB_cAuntP"
-        },
-        {
-          "id": 42,
-          "title": "b-ed-2-year-pedagogy-of-science-1-physical-science-501403-2021",
-          "url-id": "16MiR5HEQjnk_Svva7zGUTn8e84H9QG-I"
-        },
-        {
-          "id": 43,
-          "title": "b-ed-2-year-assessment-of-learning-501419-2020",
-          "url-id": "1UaPXaimczoInvncedeHHTnn8f6BUhXOf"
-        },
-        {
-          "id": 44,
-          "title": "b-ed-2-year-knowledge-and-curriculum-501418-2021",
-          "url-id": "1uOTrsa7VIj4UJEabVV2pw_JnLUVUy3_i"
-        },
-        {
-          "id": 45,
-          "title": "b-ed-2-year-environmental-education-501424-2021",
-          "url-id": "1UMwLFgJf8xL1PmMyoEwAiGHWnrjKOg-T"
-        },
-        {
-          "id": 46,
-          "title": "b-ed-2-year-assessment-for-learning-501419-2021",
-          "url-id": "1QJ8Jxad70Eu06CPjnlNSWeXdvpIEk3zF"
-        },
-        {
-          "id": 47,
-          "title": "b-ed-2-year-creating-in-inclusive-school-501420-2021",
-          "url-id": "1MjUqOxEL6mYqpuCEfNnHm_Gr0vTsvSeH"
-        }
-      ]
+{
+  "data": [
+    {
+      "id": "1111",
+      "title": "b-ed",
+      "b-ed": {
+        "year-1": [
+          {
+            "id": 1,
+            "title": "b-ed-1-year-childhood-and-growing-up-501141-2016",
+            "url-id": "1uq2ujc_AFhGJpPPN9r5eF9NXJDl5-1oJ"
+          },
+          {
+            "id": 2,
+            "title": "b-ed-1-year-contemporary-india-and-education-501142-2016",
+            "url-id": "1H2mXUbFsoJSDSRxyyPJRC-Gj-JseRylq"
+          },
+          {
+            "id": 3,
+            "title": "b-ed-1-year-gender-school-and-society-501158-2016",
+            "url-id": "1XSZkUrW8IFK5PDmWgk5bvmHRUtc6kRXS"
+          },
+          {
+            "id": 4,
+            "title": "b-ed-1-year-pedagogy-of-social-science-1-history-civics-501312-2017",
+            "url-id": "19TUd9mjnyjrdV49wJiQZG1kvZ0ts4a6w"
+          },
+          {
+            "id": 5,
+            "title": "b-ed-1-year-pedagogy-of-english-501307-2017",
+            "url-id": "1Gp6FYYt1PXXAWazwW5L2j96ZXzu1e52g"
+          },
+          {
+            "id": 6,
+            "title": "b-ed-1-year-pedagogy-of-science-physical-science-501309-2017",
+            "url-id": "1if_HMOPwSgAEQ0n2KJcTk2tl4wysThrd"
+          },
+          {
+            "id": 7,
+            "title": "b-ed-1-year-language-across-the-curriculum-501304-2017",
+            "url-id": "1C3ZspZ7utJ1ol0K3FMANyMO11zxMAy6g"
+          },
+          {
+            "id": 8,
+            "title": "b-ed-1-year-gender-school-and-society-501306-2017",
+            "url-id": "1U2BCICUslAYmjPPbL_edlcE4YGfsxdTT"
+          },
+          {
+            "id": 9,
+            "title": "b-ed-1-year-education-501305-2017",
+            "url-id": "1c8bGEQOAC1fnl4xz3oVdK_VLwwKcAfg_"
+          },
+          {
+            "id": 10,
+            "title": "b-ed-1-year-learning-and-teaching-501303-2017",
+            "url-id": "1tyGnQz3ELLGN8BQT5BS8BDZh7YGCn5eu"
+          },
+          {
+            "id": 11,
+            "title": "b-ed-1-year-childhood-and-growing-up-501301-2017",
+            "url-id": "17FkMi_UTwH4nufeml6gNE35PB3AlZ9Cn"
+          },
+          {
+            "id": 12,
+            "title": "b-ed-1-year-contemporary-india-and-education-501302-2017",
+            "url-id": "1iNYgLnTdEo65cTgsM6WGVtuDHrjgjEQ3"
+          },
+          {
+            "id": 13,
+            "title": "b-ed-1-year-pedagogy-of-science-1-physical-science-501309-2019",
+            "url-id": "1LP6LL-kS93zsatCIXep4b11EM2N0NYyr"
+          },
+          {
+            "id": 14,
+            "title": "b-ed-1-year-understanding-discipline-and-subject-501305-2019",
+            "url-id": "1jNs4mXV66Nos7_HScwlWHriKhctdENu5"
+          },
+          {
+            "id": 15,
+            "title": "b-ed-1-year-language-across-the-curriculum-501304-2019",
+            "url-id": "12nfai1VVG7eNU8tw3iaMGUn_kCifustt"
+          },
+          {
+            "id": 16,
+            "title": "b-ed-1-year-learning-and-teaching-501303-2019",
+            "url-id": "1N6fFy0S76yhtO8mbxJ0mMs6e_LyY3BTm"
+          },
+          {
+            "id": 17,
+            "title": "b-ed-1-year-gender-school-and-society-501306-2019",
+            "url-id": "1O7WbkVbKVetFqLU7mfHtUrp8aNuQ_cl9"
+          },
+          {
+            "id": 18,
+            "title": "b-ed-1-year-contemporary-india-and-education-501302-2019",
+            "url-id": "1UdDidjCs4hkqu7ejQzlEEILIxelDZ_cU"
+          },
+          {
+            "id": 19,
+            "title": "b-ed-1-year-childhood-and-growing-up-501301-2019",
+            "url-id": "18_uWRhYOc6mQhs3orluYx5JRSJAhiuBx"
+          },
+          {
+            "id": 20,
+            "title": "b-ed-1-year-learning-and-teaching-501303-2020",
+            "url-id": "1Z0mznJXS-qMv7dMeJDIg7LWjy5fKI__2"
+          },
+          {
+            "id": 21,
+            "title": "b-ed-1-year-pedagogy-of-science-1-physical-science-501309-2020",
+            "url-id": "1uSmiTswPc87LqQZkY_0cMMM7veebq1wS"
+          },
+          {
+            "id": 22,
+            "title": "b-ed-1-year-understanding-discipline-and-subjects-501305-2020",
+            "url-id": "1aCQ30ecqfJiFk8dPl0XiashMwWmmZUzf"
+          },
+          {
+            "id": 23,
+            "title": "b-ed-1-year-gender-school-and-society-501306-2020",
+            "url-id": "1-bpDHEIq6pu_uj8dH6jxVK-5wkFT--CN"
+          },
+          {
+            "id": 24,
+            "title": "b-ed-1-year-language-across-the-curriculum-501304-2020",
+            "url-id": "1FCalpvGX49BaqrrMtDgY7TiM4i-yuxON"
+          },
+          {
+            "id": 25,
+            "title": "b-ed-1-year-contemporary-india-and-education-501302-2020",
+            "url-id": "1HryF-H-Js76bxulKBst_92yU9OPBX-a4"
+          },
+          {
+            "id": 26,
+            "title": "b-ed-1-year-childhood-and-growing-up-501301-2020",
+            "url-id": "1ehi9E948aQoQet340V81eZKXw5ESTfOQ"
+          }
+        ],
+        "year-2": [
+          {
+            "id": 1,
+            "title": "b-ed-2-year-teaching-of-physics-501268-2017",
+            "url-id": "1lk8P5h8deGtWfmi9-dIzWqJcqEINVq7Z"
+          },
+          {
+            "id": 2,
+            "title": "b-ed-2-year-teaching-of-sanskrit-501273-2017",
+            "url-id": "1lqj2l0tkwfFtySiaLHqQhn30Aammvne6"
+          },
+          {
+            "id": 3,
+            "title": "b-ed-2-year-teaching-of-urdu-501272-2017",
+            "url-id": "1w8LyaTf2ySaHm-l1kFZExtbcHRC8Cad3"
+          },
+          {
+            "id": 4,
+            "title": "b-ed-2-year-teaching-of-mathematics-501262-2017",
+            "url-id": "1CkLORKSEaxd4SeOiZet5Rznht3nq2aId"
+          },
+          {
+            "id": 5,
+            "title": "b-ed-2-year-teaching-of-hindi-501260-2017",
+            "url-id": "1U8TUgnZEcMzlzQaGa7-ANoy0-Ozv6DiD"
+          },
+          {
+            "id": 6,
+            "title": "b-ed-2-year-teaching-of-home-science-501271-2017",
+            "url-id": "1Uyxrfw4VBZHYwbkdC5i4y7P6Sh6zjy0d"
+          },
+          {
+            "id": 7,
+            "title": "b-ed-2-year-teaching-of-geography-501265-2017",
+            "url-id": "1VqTq4voqVnqMdEywKUGJKK9aoS7T2kPw"
+          },
+          {
+            "id": 8,
+            "title": "b-ed-2-year-teaching-of-english-501259-2017",
+            "url-id": "1xdhDjAWdnQnAvsXvWCejgQ9Cu2hxII1i"
+          },
+          {
+            "id": 9,
+            "title": "b-ed-2-year-teaching-of-chemistry-501267-2017",
+            "url-id": "1NHrTEzrQHkKlJ1_X8LBJLaWK0OmXebLc"
+          },
+          {
+            "id": 10,
+            "title": "b-ed-2-year-teaching-of-civics-501264-2017",
+            "url-id": "1t_Hw0nSXIoFMQh3qAPhCyB7koBsmKO34"
+          },
+          {
+            "id": 11,
+            "title": "b-ed-2-year-knowledge-and-curriculum-501279-2017",
+            "url-id": "1y9B0hvlLUsdSfCdDAEYnzclIl19UQlrg"
+          },
+          {
+            "id": 12,
+            "title": "b-ed-2-year-teaching-of-biological-science-501261-2017",
+            "url-id": "1-KbU7TJ281VTsArBn63nRp1lKiCvb7DH"
+          },
+          {
+            "id": 13,
+            "title": "b-ed-2-year-assessment-for-learning-501280-2017",
+            "url-id": "18oOgjstm2K6qoVxUrvDSYQUdQUROyd3U"
+          },
+          {
+            "id": 14,
+            "title": "b-ed-2-year-pedagogy-of-social-science-1-history-and-civics-501406-2018",
+            "url-id": "1Gq6MbDjNCDtvf9lMMD2k-SsInSnz747S"
+          },
+          {
+            "id": 15,
+            "title": "b-ed-2-year-creating-an-inclusive-school-501281-2017",
+            "url-id": "1ao3k6R6GqFVyInXlHrcbCqxWy3elFqPV"
+          },
+          {
+            "id": 16,
+            "title": "b-ed-2-year-environmental-education-501285-2017",
+            "url-id": "1zGMeWuYhoOVEr3JcN-WirIeEUiHjaK6c"
+          },
+          {
+            "id": 17,
+            "title": "b-ed-2-year-pedagogy-of-sanskrit-501412-2018",
+            "url-id": "1JdWpR92ZUggGLtZaG7u64Rbv7MU9fpwy"
+          },
+          {
+            "id": 18,
+            "title": "b-ed-2-year-pedagogy-of-mathematics-501405-2018",
+            "url-id": "1LT9XLDHrS4OpUQJqSGns6GOt-NwmapAg"
+          },
+          {
+            "id": 19,
+            "title": "b-ed-2-year-pedagogy-of-science-2-biological-science-501404-2018",
+            "url-id": "1nt7pxXMYBNaKZlwr-eG-acXH_GuTHx8e"
+          },
+          {
+            "id": 20,
+            "title": "b-ed-2-year-pedagogy-of-science-1-physical-science-501403-2018",
+            "url-id": "1wUla_9MpnKTlK3BhcZgje23MfUtzR86u"
+          },
+          {
+            "id": 21,
+            "title": "b-ed-2-year-pedagogy-of-home-science-501410-2018",
+            "url-id": "1MRiAwPsAMDIwCkBJREbUqNnHZUQ4jvGS"
+          },
+          {
+            "id": 22,
+            "title": "b-ed-2-year-pedagogy-of-commerce-501408-2018",
+            "url-id": "1c_auk9x-LDEDRTNmu6mpH_Jt5STEGZD7"
+          },
+          {
+            "id": 23,
+            "title": "b-ed-2-year-pedagogy-of-hindi-501402-2018",
+            "url-id": "1cYKRreICtKgzXoFTdnxd6jMDILhl-xwR"
+          },
+          {
+            "id": 24,
+            "title": "b-ed-2-year-pedagogy-of-english-501401-2018",
+            "url-id": "1zDyXv4nJxby_HPxdNoe4KJKia2tgMOUQ"
+          },
+          {
+            "id": 25,
+            "title": "b-ed-2-year-pedagogy-of-social-science-2-geography-and-economics-501407-2019",
+            "url-id": "1ABkk_lDT2EvLwsdKSbzzgGq9xj_AUuYo"
+          },
+          {
+            "id": 26,
+            "title": "b-ed-2-year-knowledge-and-curriculum-501418-2018",
+            "url-id": "1hB82lS6UdE5KJrFj-_tGiCcEQ6XDVITL"
+          },
+          {
+            "id": 27,
+            "title": "b-ed-2-year-pedagogy-of-social-science-1-history-and-civics-501406-2019",
+            "url-id": "1BPDy43tg6xAT9LkvZDI2VtXfhruIGwil"
+          },
+          {
+            "id": 28,
+            "title": "b-ed-2-year-environmental-education-501424-2018",
+            "url-id": "1OK8tVganmkynzB6k33RjgQpOcspN76cb"
+          },
+          {
+            "id": 29,
+            "title": "b-ed-2-year-pedagogy-of-home-science-501410-2019",
+            "url-id": "124NftNt2OPoGxSwmdMM77FOJgOUvRMhX"
+          },
+          {
+            "id": 30,
+            "title": "b-ed-2-year-pedagogy-of-science-1-physical-science-501403-2019",
+            "url-id": "1AhgMJlEoT3uDeTBWKWZjIu2OgxDel3VP"
+          },
+          {
+            "id": 31,
+            "title": "b-ed-2-year-pedagogy-of-science-2-biological-science-501404-2019",
+            "url-id": "1KZ8R6jqFcBHH-W510WdKrti1th3c1RIU"
+          },
+          {
+            "id": 32,
+            "title": "b-ed-2-year-pedagogy-of-mathematics-501405-2019",
+            "url-id": "1hFhguc1LtVaJONY0NTbg3sdXgvvl2TOK"
+          },
+          {
+            "id": 33,
+            "title": "b-ed-2-year-pedagogy-of-commerce-501408-2019",
+            "url-id": "16HJ2tjIZ4FCic9GZZ6Mxl7uWeTtKY7lz"
+          },
+          {
+            "id": 34,
+            "title": "b-ed-2-year-pedagogy-of-english-501401-2019",
+            "url-id": "1hXo1AED81d8wDURVG7WXkVkQ0adkldbs"
+          },
+          {
+            "id": 35,
+            "title": "b-ed-2-year-knowledge-and-curriculum-501418-2019",
+            "url-id": "1ujER53lBamv2lw7T5_GWuaWw8k4U_Hwp"
+          },
+          {
+            "id": 36,
+            "title": "b-ed-2-year-pedagogy-of-hindi-501402-2019",
+            "url-id": "1sAcH8bLy2-ic3SvD-TDrSTVfC3WheoC8"
+          },
+          {
+            "id": 37,
+            "title": "b-ed-2-year-creating-in-inclusive-school-501420-2019",
+            "url-id": "1UstoICVg25i8iiNlaKrWXvM2o68FmFK0"
+          },
+          {
+            "id": 38,
+            "title": "b-ed-2-year-pedagogy-of-science-1-physical-science-501403-2020",
+            "url-id": "1iGZUV-OHxE12OhKdFXpogxV8aV1sql7p"
+          },
+          {
+            "id": 39,
+            "title": "b-ed-2-year-assessment-for-learning-501419-2019",
+            "url-id": "1GHkJPX3D8mXsM6M0X6DwtLLp7UeOUfny"
+          },
+          {
+            "id": 40,
+            "title": "b-ed-2-year-environmental-education-501424-2019",
+            "url-id": "1sjkKXeyMhhstbuBQWlSgdnA17Ts5aLVL"
+          },
+          {
+            "id": 41,
+            "title": "b-ed-2-year-environmental-education-501424-2020",
+            "url-id": "1-XKbaF6KnLS-Mp5PXhOJcjXMB_cAuntP"
+          },
+          {
+            "id": 42,
+            "title": "b-ed-2-year-pedagogy-of-science-1-physical-science-501403-2021",
+            "url-id": "16MiR5HEQjnk_Svva7zGUTn8e84H9QG-I"
+          },
+          {
+            "id": 43,
+            "title": "b-ed-2-year-assessment-of-learning-501419-2020",
+            "url-id": "1UaPXaimczoInvncedeHHTnn8f6BUhXOf"
+          },
+          {
+            "id": 44,
+            "title": "b-ed-2-year-knowledge-and-curriculum-501418-2021",
+            "url-id": "1uOTrsa7VIj4UJEabVV2pw_JnLUVUy3_i"
+          },
+          {
+            "id": 45,
+            "title": "b-ed-2-year-environmental-education-501424-2021",
+            "url-id": "1UMwLFgJf8xL1PmMyoEwAiGHWnrjKOg-T"
+          },
+          {
+            "id": 46,
+            "title": "b-ed-2-year-assessment-for-learning-501419-2021",
+            "url-id": "1QJ8Jxad70Eu06CPjnlNSWeXdvpIEk3zF"
+          },
+          {
+            "id": 47,
+            "title": "b-ed-2-year-creating-in-inclusive-school-501420-2021",
+            "url-id": "1MjUqOxEL6mYqpuCEfNnHm_Gr0vTsvSeH"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1112",
+      "title": "bba",
+      "bba": {
+        "sem1": [
+          {
+            "id": 1,
+            "title": "bba-1-sem-microeconomics-2013",
+            "url-id": "10fvgG9-dbyXa9mDsU1iWq2p6EZWLxP1R"
+          },
+          {
+            "id": 2,
+            "title": "bba-1-sem-marketing-management-1-2013",
+            "url-id": "1hkjvOxbYou6b3jOzn3qF6VGl0We2X2r1"
+          },
+          {
+            "id": 3,
+            "title": "bba-1-sem-macroeconomics-2013",
+            "url-id": "1nWYQhUe7loKU1SACiyeQKz-f3FkDrW-C"
+          },
+          {
+            "id": 4,
+            "title": "bba-1-sem-principles-and-practices-of-management-302101-2017",
+            "url-id": "1bIQWQYRhxvU-3yASth9-29sPlz1v7aw5"
+          },
+          {
+            "id": 5,
+            "title": "bba-1-sem-information-technology-in-management-1-2013",
+            "url-id": "1mLy4Y0f_Y7CskzFHiaOukohqYAhtohs_"
+          },
+          {
+            "id": 6,
+            "title": "bba-1-sem-communicative-english-2013",
+            "url-id": "1tDcTCM7tBsjQeo1aJaVGyjP4Vt1o3zYF"
+          },
+          {
+            "id": 7,
+            "title": "bba-1-sem-microeconomics-302102-2017",
+            "url-id": "1Q5pRM7p9As21IpL5bL28wq_IQPtLSHIj"
+          },
+          {
+            "id": 8,
+            "title": "bba-1-sem-marketing-management-1-302105-2017",
+            "url-id": "1RgYLCFj-ePkp98pagDuEjOND2iiR1yRN"
+          },
+          {
+            "id": 9,
+            "title": "bba-1-sem-information-technology-in-management-302104-2017",
+            "url-id": "1lYd8409R7dPMFsg0hhNJ4jlC646V2jr3"
+          },
+          {
+            "id": 10,
+            "title": "bba-1-sem-communicative-english-302106-2017",
+            "url-id": "1nuGzsX_jTcZ2liXHTBHbKXxhDicFqGc8"
+          },
+          {
+            "id": 11,
+            "title": "bba-1-sem-macro-economics-302103-2017",
+            "url-id": "1qSCE8sPgXMF6nQ-8EyR7_l9v0mzDSlkm"
+          },
+          {
+            "id": 12,
+            "title": "bba-1-sem-communicative-english-302106-2018",
+            "url-id": "1kLriEWQGOotIONk0oWjdeBDQxF77EGf3"
+          },
+          {
+            "id": 13,
+            "title": "bba-1-sem-marketing-management-1-302105-2018",
+            "url-id": "1kPcmmAzIv4Lag3j6Dnz1xHxXEUxxi81N"
+          },
+          {
+            "id": 14,
+            "title": "bba-1-sem-principles-and-practices-of-management-302101-2018",
+            "url-id": "1k_bh9ywqLSiFryokhGgaBubHDsgkW_Lh"
+          },
+          {
+            "id": 15,
+            "title": "bba-1-sem-microeconomics-302102-2018",
+            "url-id": "1SURPPBaqODFe609YkMH5L0JbHEitHHEl"
+          },
+          {
+            "id": 16,
+            "title": "bba-1-sem-macroeconomics-302103-2018",
+            "url-id": "1FtA3mRwXU_zqs6Mv_UZNelwnhh26wX4l"
+          },
+          {
+            "id": 17,
+            "title": "bba-1-sem-information-technology-in-management-1-302104-2018",
+            "url-id": "1en3hDSGQKRv-MSyKaPO-dgw3-ssCBYsK"
+          },
+          {
+            "id": 18,
+            "title": "bba-1-sem-microeconomics-302102-2019",
+            "url-id": "1VG5T_pqR56mdIW2U_AwtEBePdGFilUgd"
+          },
+          {
+            "id": 19,
+            "title": "bba-1-sem-principles-and-practices-of-management-302101-2019",
+            "url-id": "1YrfBQxM_Hxhtrrb63D_yLTQwbXZBbsp9"
+          },
+          {
+            "id": 20,
+            "title": "bba-1-sem-marketing-management-1-302105-2019",
+            "url-id": "1ccsO1EHYbeTCDkViqpZzb1POmAdG9c0U"
+          },
+          {
+            "id": 21,
+            "title": "bba-1-sem-information-technology-in-management-1-302104-2019",
+            "url-id": "1odi4tNTMif_k6btPSREX3WmI3taOu2h2"
+          },
+          {
+            "id": 22,
+            "title": "bba-1-sem-communicative-english-302106-2019",
+            "url-id": "1Z4pYWd0Tf7ZCnJi5taEqtwxKr5UF0E1P"
+          },
+          {
+            "id": 23,
+            "title": "bba-1-sem-macroeconomics-302103-2019",
+            "url-id": "1iA1dsEuL1HWJkWh7KwDvqoUWBT8JkDwb"
+          }
+        ],
+        "sem2": [
+          {
+            "id": 1,
+            "title": "bba-2-sem-business-organization-and-environment-2013",
+            "url-id": "1eFPIWl52rLsG-T48Q5aeJhBaCtegptBb"
+          },
+          {
+            "id": 2,
+            "title": "bba-2-sem-financial-management-2013",
+            "url-id": "1S28HdOZHuMJBTfwtWwWEktn6Hz6fowJW"
+          },
+          {
+            "id": 3,
+            "title": "bba-2-sem-information-technology-in-management-2-2013",
+            "url-id": "12xXdlDMHks_09qi1RXMnGn6GYrErAeXx"
+          },
+          {
+            "id": 4,
+            "title": "bba-2-sem-financial-management-1-2014",
+            "url-id": "11eF-Uzr1ucYWEJvnQKLJ87Lb3rOXk2XV"
+          },
+          {
+            "id": 5,
+            "title": "bba-2-sem-business-organization-and-environment-2014",
+            "url-id": "1we5fyPAEp0wHa5nkBdH0tiS_Dx0Dqjaa"
+          },
+          {
+            "id": 6,
+            "title": "bba-2-sem-human-resource-management-1-2014",
+            "url-id": "1lfuHgWVg2aL363xsvQVtFfv_cMbEjcu-"
+          },
+          {
+            "id": 7,
+            "title": "bba-2-sem-information-technology-in-management-2-2014",
+            "url-id": "1wkkGjUwGZnGBkZVusTxIOAtRjbc3NURP"
+          },
+          {
+            "id": 8,
+            "title": "bba-2-sem-information-technology-in-management-2-2015",
+            "url-id": "1WPlt_x9FWadyuDsb5j8CTNsBjC0S91uX"
+          },
+          {
+            "id": 9,
+            "title": "bba-2-sem-human-resource-management-1-2015",
+            "url-id": "1kfF2uhLfoSK4nXmVwvS7leyZC8IyV1dS"
+          },
+          {
+            "id": 10,
+            "title": "bba-2-sem-business-english-2014",
+            "url-id": "1yo5RJcadiRbEmxfgz0et81t5TmJuglSI"
+          },
+          {
+            "id": 11,
+            "title": "bba-2-sem-business-mathematics-and-statistics-1-2014",
+            "url-id": "11gTz1t2tgI_WJwx0gvGHfPMeEpol6QmC"
+          },
+          {
+            "id": 12,
+            "title": "bba-2-sem-business-organisation-and-environment-2015",
+            "url-id": "143d6ifhwq4QNL0Npg3VTih8q4Zsg87ut"
+          },
+          {
+            "id": 13,
+            "title": "bba-2-sem-business-english-2015",
+            "url-id": "1cafAcIX489KzclYJ7LIWMCWGqyYNdUj9"
+          },
+          {
+            "id": 14,
+            "title": "bba-2-sem-business-mathematics-and-statistics-1-2015",
+            "url-id": "1ubsD27OcaLFpsoazmWPZhl1tVkPP7Dbu"
+          },
+          {
+            "id": 15,
+            "title": "bba-2-sem-financial-management-1-2015",
+            "url-id": "1wDfxITcG-wPU3sm74uXIVqsn2Mu8VDA9"
+          },
+          {
+            "id": 16,
+            "title": "bba-2-sem-information-technology-in-management-2-management-information-system-302205-2017",
+            "url-id": "1yY-AQaGn7JgJla_j2-Q-rEZEYEZjzV-I"
+          },
+          {
+            "id": 17,
+            "title": "bba-2-sem-human-resource-management-1-organizational-behaviour-302203-2017",
+            "url-id": "18mitfFNUw2XZkbDr68bM0ZYONJRy0XKz"
+          },
+          {
+            "id": 18,
+            "title": "bba-2-sem-financial-management-1-302202-2017",
+            "url-id": "1EWU_QJyJ2UnBXAW6JntzrGH3EIqBfvPj"
+          },
+          {
+            "id": 19,
+            "title": "bba-2-sem-business-mathematics-and-statistics-1-mathematical-economics-302204-2017",
+            "url-id": "1Td6DpYjmS_lBL5yCbV246eqqELS1rfJ6"
+          },
+          {
+            "id": 20,
+            "title": "bba-2-sem-business-organization-and-environment-302201-2017",
+            "url-id": "1htqGVBzdijXTVk0br_yb6BVC1qh6l1se"
+          },
+          {
+            "id": 21,
+            "title": "bba-2-sem-business-english-302206-2017",
+            "url-id": "1Q4ZhXZ0g0NFuYeU56Mu-kapfgyCHRR7n"
+          },
+          {
+            "id": 22,
+            "title": "bba-2-sem-management-information-system-302205-2018",
+            "url-id": "1SP7tMfQuLbNIsNLATJOO_R8G6qcWiV9Y"
+          },
+          {
+            "id": 23,
+            "title": "bba-2-sem-business-organization-and-environment-302201-2018",
+            "url-id": "1nhOEf7DgERAJT2RmoZo5n1dsF3UqyOX7"
+          },
+          {
+            "id": 24,
+            "title": "bba-2-sem-business-mathematics-and-statistics-302204-2018",
+            "url-id": "1xPUw8kLMWoF9nUgaU3izdzcFwYgloOTF"
+          },
+          {
+            "id": 25,
+            "title": "bba-2-sem-human-resources-management-1-302203-2018",
+            "url-id": "1iyo0iybTXICDtSk6D6JtIXxul-bU5-y_"
+          },
+          {
+            "id": 26,
+            "title": "bba-2-sem-financial-management-1-financial-accounting-302202-2018",
+            "url-id": "1wHDHwLkOMFpKjMODwHENIyQdKMlSbAAM"
+          },
+          {
+            "id": 27,
+            "title": "bba-2-sem-business-english-302206-2018",
+            "url-id": "1T43e2J_D2G-k4PgYVJJejDW8XGiAfIox"
+          },
+          {
+            "id": 28,
+            "title": "bba-2-sem-hrm-organizational-behaviour-302203-2019",
+            "url-id": "1XEBrLhhaGW0OHpcEtq9Ulb731vjfqSXR"
+          },
+          {
+            "id": 29,
+            "title": "bba-2-sem-financial-management-financial-accounting-302202-2019",
+            "url-id": "1FY60MMioP2NP3e8-Ry92zAv5JwO7Sszn"
+          },
+          {
+            "id": 30,
+            "title": "bba-2-sem-information-technology-in-management-2-302205-2019",
+            "url-id": "1XVNgU8dhG8YEKlWH-ITwwYYcez7qE9cd"
+          },
+          {
+            "id": 31,
+            "title": "bba-2-sem-business-organization-and-environment-302201-2019",
+            "url-id": "1VlukeoQGlsSgDvs4iDwpW_nuh7uPcWSE"
+          },
+          {
+            "id": 32,
+            "title": "bba-2-sem-business-mathematics-and-statistics-1-302204-2019",
+            "url-id": "1lGfrVG4a6eLbODf9UOWaTZxLUaKCuUUY"
+          },
+          {
+            "id": 33,
+            "title": "bba-2-sem-business-english-302206-2019",
+            "url-id": "1AZKFKRVRV5GAyqG3EYYskgrppxR0Nyn2"
+          }
+        ],
+        "sem3": [
+          {
+            "id": 1,
+            "title": "bba-3-sem-human-resource-management-2015",
+            "url-id": "1nQeuTqnCBZyvagFRVdVTzbTFdcHmrQS4"
+          },
+          {
+            "id": 2,
+            "title": "bba-3-sem-marketing-management-2-2015",
+            "url-id": "18U9YF1BuwW4OXk90256-kNKQA1tehZHl"
+          },
+          {
+            "id": 3,
+            "title": "bba-3-sem-financial-management-2-2015",
+            "url-id": "1B94XYOB6tghZrxhnB8giR4GQWYL8L4LB"
+          },
+          {
+            "id": 4,
+            "title": "bba-3-sem-business-taxation-2015",
+            "url-id": "1QQ4adzt2KmXQyMtfJpldF9RNeedSYMQi"
+          },
+          {
+            "id": 5,
+            "title": "bba-3-sem-business-mathematics-and-statistics-2-2015",
+            "url-id": "1QjMHXZ5uLc6bVoSgt-vtZuUTCvJqxYOy"
+          },
+          {
+            "id": 6,
+            "title": "bba-3-sem-corporate-communication-2015",
+            "url-id": "1rPrQr0sp8VNaEMqiY1VPh_w7nVCyx3Qn"
+          },
+          {
+            "id": 7,
+            "title": "bba-3-sem-marketing-management-2-302301-2017",
+            "url-id": "1wmP2M1QrJ81VhW_B4rtmzC4XZ6XEjJNX"
+          },
+          {
+            "id": 8,
+            "title": "bba-3-sem-human-resource-management-2-302303-2017",
+            "url-id": "1BlJtTM8pRfeT2R2mTXaeq9TzVOLF48TK"
+          },
+          {
+            "id": 9,
+            "title": "bba-3-sem-financial-management-2-302302-2017",
+            "url-id": "1QtU-Hz1XPBkv4KunQMPDl0gSEkDDt-rW"
+          },
+          {
+            "id": 10,
+            "title": "bba-3-sem-corporate-communication-302305-2017",
+            "url-id": "1TZCyL8EsuDINwDZDhfqKvTyl8QQqkmeJ"
+          },
+          {
+            "id": 11,
+            "title": "bba-3-sem-business-taxation-302306-2017",
+            "url-id": "1D5cTohi44HIolzSh3z7Ck3uArVdUW4uC"
+          },
+          {
+            "id": 12,
+            "title": "bba-3-sem-business-mathematics-and-statistics-2-302304-2017",
+            "url-id": "1k5WPLMkRghzncQlTn5dNep84Lu_PCvAY"
+          },
+          {
+            "id": 13,
+            "title": "bba-3-sem-psychology-302307-2018",
+            "url-id": "1TNelz_8DKYJGdVmfHX9LiM1gdsLsFZ-e"
+          },
+          {
+            "id": 14,
+            "title": "bba-3-sem-human-resource-management-2-302303-2018",
+            "url-id": "1WvxhLWGRU8BWHlyNSvvrlr0ctXqMVXHF"
+          },
+          {
+            "id": 15,
+            "title": "bba-3-sem-marketing-management-2-302301-2018",
+            "url-id": "1uQ2X2mwJhFI8s2phUNJl5vrinPFObujg"
+          },
+          {
+            "id": 16,
+            "title": "bba-3-sem-financial-management-2-302302-2018",
+            "url-id": "1ryHsn8_UAtYJBWSQtqBK42qBM-jeLifj"
+          },
+          {
+            "id": 17,
+            "title": "bba-3-sem-marketing-management-2-302301-2019",
+            "url-id": "17ZUQed640_crawa62k2C7WTK_8fiGujF"
+          },
+          {
+            "id": 18,
+            "title": "bba-3-sem-business-mathematics-and-statistics-2-302304-2018",
+            "url-id": "1YJo6DRdMar-b26Cxdr4pv-RF8jpEiq4F"
+          },
+          {
+            "id": 19,
+            "title": "bba-3-sem-corporate-communication-302305-2018",
+            "url-id": "1tcbvlAaPKoweCLwmpq286b5xIScKOjqW"
+          },
+          {
+            "id": 20,
+            "title": "bba-3-sem-human-resource-management-2-302303-2019",
+            "url-id": "1oooKAZy7YQGPgNK_1w3ByVJSxsTHAQa4"
+          },
+          {
+            "id": 21,
+            "title": "bba-3-sem-business-mathematics-and-statistics-2-302304-2019",
+            "url-id": "1EAWCXyyjmNt0tNTZF7P7raeeg9dfdyZE"
+          },
+          {
+            "id": 22,
+            "title": "bba-3-sem-business-taxation-302306-2019",
+            "url-id": "1FY5W_IkK31DuHefUnwyGf8pbtW-1UT0u"
+          },
+          {
+            "id": 23,
+            "title": "bba-3-sem-financial-management-2-302302-2019",
+            "url-id": "1tn9secovaLDO7W0OH8wEnvQYpC3_BuVK"
+          },
+          {
+            "id": 24,
+            "title": "bba-3-sem-corporate-communication-302305-2019",
+            "url-id": "1QJStcX_nNQJn_h15mbcOs4xViMcoUGTT"
+          },
+          {
+            "id": 25,
+            "title": "bba-3-sem-corporate-communication-302305-2020",
+            "url-id": "1GNZKyBiwxHNLCxWUOhSGjrJ4kuVOZvsQ"
+          },
+          {
+            "id": 26,
+            "title": "bba-3-sem-business-taxation-302306-2020",
+            "url-id": "1HFtQfVmtVRbVBPzJKpExSiXZVWG7oApT"
+          },
+          {
+            "id": 27,
+            "title": "bba-3-sem-human-resource-management-2-302303-2020",
+            "url-id": "1bjQKaENlRc8kZCU_9rwDKZPdBjHTYF0R"
+          },
+          {
+            "id": 28,
+            "title": "bba-3-sem-business-mathematics-and-statistics-2-302304-2020",
+            "url-id": "1j5Z9CZ42sFSna2wIETU-79wlGz9MmEXn"
+          },
+          {
+            "id": 29,
+            "title": "bba-3-sem-marketing-management-2-consumer-behaviour-302301-2020",
+            "url-id": "193LFqjrNTP2AQ_7Gs-Od5d1svY1tu1vM"
+          },
+          {
+            "id": 30,
+            "title": "bba-3-sem-financial-management-2-managerial-accounting-302302-2020",
+            "url-id": "1IS_pdAY0z_nXjXF_-1HQuHtd1DrbzKfc"
+          }
+        ],
+        "sem4": [
+          {
+            "id": 1,
+            "title": "bba-4-sem-strategic-management-2016",
+            "url-id": "13c9UdR58Wd_utevK9y1oloMADKSNw7R-"
+          },
+          {
+            "id": 2,
+            "title": "bba-4-sem-social-and-marketing-research-methods-2016",
+            "url-id": "1yqKAqJfVdDYy0acPqT1V6RLPj3fZtp1m"
+          },
+          {
+            "id": 3,
+            "title": "bba-4-sem-operations-research-and-logistics-2016",
+            "url-id": "1TpDXvteXJVdofsTpJ7xLtSA95PEqSRnH"
+          },
+          {
+            "id": 4,
+            "title": "bba-4-sem-production-and-operations-management-2016",
+            "url-id": "1fHJpHNsaHeAniqIlKXDJvEF5W_wXkaw-"
+          },
+          {
+            "id": 5,
+            "title": "bba-4-sem-project-and-event-management-2016",
+            "url-id": "1vC3Tug06G37YjHOGc13nYn2YChkhSx8h"
+          },
+          {
+            "id": 6,
+            "title": "bba-4-sem-entrepreneurship-development-programme-2016",
+            "url-id": "1HgnS5WIUna5mCqKtmEE-RL21LMjsHFL2"
+          },
+          {
+            "id": 7,
+            "title": "bba-4-sem-strategic-management-302401-2017",
+            "url-id": "1YId51N2XjOPWdtFQt-GXnJvNlTvWL-zP"
+          },
+          {
+            "id": 8,
+            "title": "bba-4-sem-project-and-event-management-302404-2017",
+            "url-id": "12ZnmI_RKDr490w1MKeGCbSNYxCnNBTUd"
+          },
+          {
+            "id": 9,
+            "title": "bba-4-sem-production-and-operations-management-302402-2017",
+            "url-id": "16IJ9eRGM9F-MMjLXkNagI7IUBrNQ9ecn"
+          },
+          {
+            "id": 10,
+            "title": "bba-4-sem-operations-research-and-logistics-302403-2017",
+            "url-id": "1LPg0-8dKvBVwN5lngcjU_1Ok3A1h_53m"
+          },
+          {
+            "id": 11,
+            "title": "bba-4-sem-social-and-marketing-research-method-302405-2017",
+            "url-id": "10EkG5BIOHqczT_NnRIuWaStSJAKm3trF"
+          },
+          {
+            "id": 12,
+            "title": "bba-4-sem-social-and-marketing-research-method-302405-2018",
+            "url-id": "19g_xXMYnlqgx8y7_TC3jT_Kw5wKe_wYG"
+          },
+          {
+            "id": 13,
+            "title": "bba-4-sem-entrepreneruship-development-programme-302406-2017",
+            "url-id": "1fpL4bZK1enXteAPC8od5XcAkvu7uXu2b"
+          },
+          {
+            "id": 14,
+            "title": "bba-4-sem-strategic-management-302401-2018",
+            "url-id": "1sd16zOWrtxplG7-YYTIiRaonL9_XOf6b"
+          },
+          {
+            "id": 15,
+            "title": "bba-4-sem-operations-research-and-logistics-302403-2018",
+            "url-id": "1zfmz8405SnG4jgTmxncBEM12C5J5GVuO"
+          },
+          {
+            "id": 16,
+            "title": "bba-4-sem-production-and-operations-management-302402-2018",
+            "url-id": "1JjISXVGPvF7AjQxyhhiCEntks4fbTWxZ"
+          },
+          {
+            "id": 17,
+            "title": "bba-4-sem-project-and-event-management-302404-2018",
+            "url-id": "1Oud0rK-vO4vDxPEAjx7rs9OtDRfRl4VE"
+          },
+          {
+            "id": 18,
+            "title": "bba-4-sem-entrepreneruship-development-programme-302406-2018",
+            "url-id": "1uuifPWjlymNylOS6BQKCc67XzEYw2NFU"
+          },
+          {
+            "id": 19,
+            "title": "bba-4-sem-production-and-operations-management-302402-2019",
+            "url-id": "17XvP6fQatcU9-vqwjzjl_7DFC_90-Yg5"
+          },
+          {
+            "id": 20,
+            "title": "bba-4-sem-strategic-management-302401-2019",
+            "url-id": "126h7nkmc31jmTwVH1n4OYmhgWuLpDyPp"
+          },
+          {
+            "id": 21,
+            "title": "bba-4-sem-project-and-event-management-302404-2019",
+            "url-id": "1HYWo5_yGT_FSLGufT4RfEiHZ_uWjXZfv"
+          },
+          {
+            "id": 22,
+            "title": "bba-4-sem-social-and-marketing-research-method-302405-2019",
+            "url-id": "1wQi1xj7PHX-Jz9cdQilBUqMrBMXXjRBB"
+          },
+          {
+            "id": 23,
+            "title": "bba-4-sem-operations-research-and-logistics-302403-2019",
+            "url-id": "1qRFfCJJwLIAPUQor4xWdgmtDdH7M6nxo"
+          },
+          {
+            "id": 24,
+            "title": "bba-4-sem-entrepreneruship-development-programme-302406-2019",
+            "url-id": "1X-wNGhSEY5TfZdkzIQKGMAQ_FUcg7hGJ"
+          }
+        ],
+        "sem5": [
+          {
+            "id": 1,
+            "title": "bba-5-sem-security-analysis-and-portfolio-management-2016",
+            "url-id": "11-W-GgN61HceneFifOgdtuaWDy4XPVs0"
+          },
+          {
+            "id": 2,
+            "title": "bba-5-sem-retail-management-2016",
+            "url-id": "15gShnNnQwwlpl49uMtoLu2wjhg31shPI"
+          },
+          {
+            "id": 3,
+            "title": "bba-5-sem-indian-financial-system-2016",
+            "url-id": "1LwhaV_9OXpxNXfP6Yh5EopAo6yiJ9zAX"
+          },
+          {
+            "id": 4,
+            "title": "bba-5-sem-e-commerce-2016",
+            "url-id": "14GchRlZfCqS015BQvZhRR92WopKs41Ye"
+          },
+          {
+            "id": 5,
+            "title": "bba-5-sem-retail-management-302501-2018",
+            "url-id": "1fBABq3VBYnTrp6YIqh8KHPZbgMo_LMcR"
+          },
+          {
+            "id": 6,
+            "title": "bba-5-sem-security-analysis-and-protfolio-management-302503-2018",
+            "url-id": "1fiN3npuDUaekmX2zgjftf534kNjuxrL_"
+          },
+          {
+            "id": 7,
+            "title": "bba-5-sem-indian-financial-system-302502-2018",
+            "url-id": "1K4O3Np-N2hau7nI8zv-z0e2fJWc_xDRx"
+          },
+          {
+            "id": 8,
+            "title": "bba-5-sem-e-commerce-302504-2018",
+            "url-id": "12YplUS2ErtlHrEtk8h8AqjKE5CoKPln7"
+          },
+          {
+            "id": 9,
+            "title": "bba-5-sem-security-analysis-and-protfolio-management-302503-2019",
+            "url-id": "1rTJjpHjOtdlAqYwW8PddshLpkkOhDoGq"
+          },
+          {
+            "id": 10,
+            "title": "bba-5-sem-indian-financial-system-302502-2019",
+            "url-id": "1taYpj7oxmpgWQlIrvRk5KSaIwhmgXduU"
+          },
+          {
+            "id": 11,
+            "title": "bba-5-sem-e-commerce-302504-2019",
+            "url-id": "1xTFnwy6l-jp97Z6IMi54eKj-YTKxTAzm"
+          },
+          {
+            "id": 12,
+            "title": "bba-5-sem-retail-management-302501-2019",
+            "url-id": "1E6J5G5vGyUfIYbxzNhas8URhD317LNUw"
+          },
+          {
+            "id": 13,
+            "title": "bba-5-sem-retail-management-302501-2020",
+            "url-id": "1neoA78JEl2mkguYeZfDCLTBv6NEFk6VW"
+          },
+          {
+            "id": 14,
+            "title": "bba-5-sem-indian-financial-system-302502-2020",
+            "url-id": "1sbEkg0fLtax8t8aihGkg4OxWPVkuOd8C"
+          },
+          {
+            "id": 15,
+            "title": "bba-5-sem-e-commerce-302504-2020",
+            "url-id": "1AUxY3qpJi5a7XMsCninUj-_mBBj5ibAw"
+          },
+          {
+            "id": 16,
+            "title": "bba-5-sem-security-analysis-and-portfolio-management-302503-2020",
+            "url-id": "1Tzcyn_sVf39o7XkxBfxs8nDoWBzIHlpS"
+          }
+        ],
+        "sem6": [
+          {
+            "id": 1,
+            "title": "bba-6-sem-services-marketing-2017",
+            "url-id": "1DmTHMlieL3UgLOL18htqlxIDU8ZG6atY"
+          },
+          {
+            "id": 2,
+            "title": "bba-6-sem-risk-management-2017",
+            "url-id": "1aocLmdOO-o6KraotlZn0maJUUpK-Topp"
+          },
+          {
+            "id": 3,
+            "title": "bba-6-sem-international-finance-2017",
+            "url-id": "1PMyJW811o_MKR0qQ29gxOapWIXKe4B7J"
+          },
+          {
+            "id": 4,
+            "title": "bba-6-sem-business-law-and-industrial-relations-2017",
+            "url-id": "1Rp4QhGpyM1_hsnpd3JItBBGdJxnjnBQS"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1113",
+      "title": "bbe",
+      "bbe": {
+        "sem1": [
+          {
+            "id": 1,
+            "title": "bbe-1-sem-mathematics-for-business-and-economics-2015",
+            "url-id": "1oVLN9g0Q4rKjsMQwMGC_wRTScG6jW5JJ"
+          },
+          {
+            "id": 2,
+            "title": "bbe-1-sem-micro-economics-analysis-1-315101-2017",
+            "url-id": "1q_VoJF2Y_pbS5yeZLHuko8foNJYUkoLu"
+          },
+          {
+            "id": 3,
+            "title": "bbe-1-sem-mathematics-for-business-and-economics-315102-2017",
+            "url-id": "1u0Re0Q-XhQNw1mRUZ_gzZ8lNlbYi7L0H"
+          },
+          {
+            "id": 4,
+            "title": "bbe-1-sem-mathematics-for-business-and-economics-315102-2018",
+            "url-id": "1ADOaCxLQINMStWFDjLjDaJSgRT6Pp0V5"
+          },
+          {
+            "id": 5,
+            "title": "bbe-1-sem-microeconomic-analysis-1-315101-2018",
+            "url-id": "18_NLC5aLgq7mqN1lpSOrchWZruykhaee"
+          },
+          {
+            "id": 6,
+            "title": "bbe-1-sem-business-communication-315103-2017",
+            "url-id": "1EfO8Aa0l2PpxlJ1bEk020EqACHjNERc6"
+          },
+          {
+            "id": 7,
+            "title": "bbe-1-sem-business-communication-315103-2018",
+            "url-id": "1yjrYq2zF6_IcYSzrOPOWsOMXMLdgn1vO"
+          }
+        ],
+        "sem2": [
+          {
+            "id": 1,
+            "title": "bbe-2-sem-microeconomic-analysis-2-2016",
+            "url-id": "1etPwcMl0tY4VK3hWSXiAwKOrmo9FDoX9"
+          },
+          {
+            "id": 2,
+            "title": "bbe-2-sem-economics-of-money-banking-and-finance-2016",
+            "url-id": "1nxEMov04yQhZpiVlTaSKVQCvCHO_JG6g"
+          },
+          {
+            "id": 3,
+            "title": "bbe-2-sem-statistics-for-business-and-economics-315203-2017",
+            "url-id": "1wh6p3hfEqBSgaWI9Bj0ZAyuxIJAmT4G-"
+          },
+          {
+            "id": 4,
+            "title": "bbe-2-sem-statistics-for-business-and-economics-315203-2018",
+            "url-id": "1IQwX411mZgg_PuzMC-pscyF_7rAH9AgZ"
+          },
+          {
+            "id": 5,
+            "title": "bbe-2-sem-economics-of-money-banking-and-finance-315202-2017",
+            "url-id": "1WeKTOsyPTMdHVEsj2P3jZxvrSZ6yGmNo"
+          },
+          {
+            "id": 6,
+            "title": "bbe-2-sem-microeconomic-analysis-2-315201-2018",
+            "url-id": "1UzzE7xqb6-P1lr5X8At-b_ISWyDnd7ZE"
+          },
+          {
+            "id": 7,
+            "title": "bbe-2-sem-microeconomic-analysis-2-315201-2017",
+            "url-id": "1EkGXbOU5ZyoX__DnJwMJvqdxifp4zERG"
+          },
+          {
+            "id": 8,
+            "title": "bbe-2-sem-economics-of-money-banking-and-finance-315202-2018",
+            "url-id": "1efDMiR89tXrtM33_V4TtIQ1NOYARJ97y"
+          }
+        ],
+        "sem3": [
+          {
+            "id": 1,
+            "title": "bbe-3-sem-research-methodology-315303-2017",
+            "url-id": "139rddHrubsHJpBSNsNyukZJng1RJue3x"
+          },
+          {
+            "id": 2,
+            "title": "bbe-3-sem-public-finance-315301-2017",
+            "url-id": "1VmDg9hGu9bXHYa9yqzWH23H8XGjSA3DU"
+          },
+          {
+            "id": 3,
+            "title": "bbe-3-sem-macro-economic-policy-and-application-315302-2018",
+            "url-id": "11XoR_4KH4SmCeVfRjMnXuc47xEJqLomz"
+          },
+          {
+            "id": 4,
+            "title": "bbe-3-sem-public-finance-315301-2018",
+            "url-id": "1Py6k8Pw4NnL5sBvkIdUGqhy2iG142yvc"
+          },
+          {
+            "id": 5,
+            "title": "bbe-3-sem-research-methodology-315303-2018",
+            "url-id": "1r1pF82ZWOyZxNLaGO83hZCs80kGEYjRS"
+          },
+          {
+            "id": 6,
+            "title": "bbe-3-sem-macro-economic-policy-and-application-315302-2017",
+            "url-id": "1RKxShN3uTYrIoNGXOE-te6wDP3E5iMiG"
+          },
+          {
+            "id": 7,
+            "title": "bbe-3-sem-research-methodology-315303-2019",
+            "url-id": "19l-1wzvjvHCm7Cr3cx_2VZaZprxvTriO"
+          },
+          {
+            "id": 8,
+            "title": "bbe-3-sem-research-methodology-315303-2020",
+            "url-id": "1WD8IPW066Ufz7j21tciBpnSwnjYcpnim"
+          },
+          {
+            "id": 9,
+            "title": "bbe-3-sem-public-finance-315301-2019",
+            "url-id": "1xUyCDpAnWfMr7XPgnX-XBD8YlNxwfaQK"
+          },
+          {
+            "id": 10,
+            "title": "bbe-3-sem-macro-economic-policy-and-application-315302-2019",
+            "url-id": "1NvMt8FgauMwVnN9ds5BVdwUNhC8VyVBn"
+          },
+          {
+            "id": 11,
+            "title": "bbe-3-sem-public-finance-315301-2020",
+            "url-id": "147QEQgbITP_KUoXteBskN-7o27_-FVJS"
+          },
+          {
+            "id": 12,
+            "title": "bbe-3-sem-macroeconomic-policy-and-application-315302-2020",
+            "url-id": "17_jICNm5Qvy7osNCaK4Pj37Nsaf8KY1T"
+          }
+        ],
+        "sem4": [],
+        "sem5": [
+          {
+            "id": 1,
+            "title": "bbe-5-sem-econometrics-315502-2018",
+            "url-id": "1BYS5U4eyljEHm8focoqMTEZv67MaDrbr"
+          },
+          {
+            "id": 2,
+            "title": "bbe-5-sem-indias-economic-development-since-independence-315501-2018",
+            "url-id": "1ISdJq-MfPfA4AVrRVl_MEl49kOJLcb5v"
+          },
+          {
+            "id": 3,
+            "title": "bbe-5-sem-legal-aspects-of-business-315503-2018",
+            "url-id": "1CIWjqMvfax2ZYMe5gbGuz91EHex9NhMR"
+          },
+          {
+            "id": 4,
+            "title": "bbe-5-sem-econometrics-315502-2019",
+            "url-id": "19erhLmPV7x4TBsF2nLlkMyqsE4cgTW7O"
+          },
+          {
+            "id": 5,
+            "title": "bbe-5-sem-legal-aspects-of-business-315503-2019",
+            "url-id": "1PMmfG32HoldgJe4aVwQaZIRydvkyct3M"
+          },
+          {
+            "id": 6,
+            "title": "bbe-5-sem-indias-economic-development-since-independence-315501-2019",
+            "url-id": "1S9UHMAHlO5LQ454fYI60NvettiY-6_Rk"
+          },
+          {
+            "id": 7,
+            "title": "bbe-5-sem-legal-aspects-of-business-315503-2020",
+            "url-id": "1_r5q_4wolOxdO8grvUpq5GHj-uIMfSa2"
+          },
+          {
+            "id": 8,
+            "title": "bbe-5-sem-indias-economic-development-since-independence-315501-2020",
+            "url-id": "1E2eSzuC2aRyQaNujilZPzBV9Q99rnlBH"
+          },
+          {
+            "id": 9,
+            "title": "bbe-5-sem-econometrics-315502-2020",
+            "url-id": "1Ei17BNJPnC1Cue3AuVyACRXsiGmZX_Qy"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1114",
+      "title": "bca",
+      "bca": {
+        "sem1": [
+          {
+            "id": 1,
+            "title": "bca-1-sem-principles-of-management-and-organization-2013",
+            "url-id": "1XGb4sJOxAwvshEIInAmDnIfA1wlxHgSt"
+          },
+          {
+            "id": 2,
+            "title": "bca-1-sem-python-programming-2013",
+            "url-id": "1_95Vj3EXW18IcwWSt7PJeWfI8rygdlJA"
+          },
+          {
+            "id": 3,
+            "title": "bca-1-sem-imformation-technology-and-application-303103-2013",
+            "url-id": "1lV1ZUveAUiNctj1k9i8_FuKqznSpfW3M"
+          },
+          {
+            "id": 4,
+            "title": "bca-1-sem-principle-of-management-and-organization-2014",
+            "url-id": "1SdFcAKgQmwekhLlV_1JSYwh15kbrmSXe"
+          },
+          {
+            "id": 5,
+            "title": "bca-1-sem-communicative-english-2013",
+            "url-id": "14unFGZpN1JyAv8_L4X1b8vykdG7px2ZY"
+          },
+          {
+            "id": 6,
+            "title": "bca-1-sem-basic-mathematics-2013",
+            "url-id": "1sMtyuhKsK697Y2iHES2oCRzcUONM_nEK"
+          },
+          {
+            "id": 7,
+            "title": "bca-1-sem-problem-solving-and-programming-concept-2014",
+            "url-id": "1iYptVzrjBAp4bbnXraIk4eHZEh9ydftD"
+          },
+          {
+            "id": 8,
+            "title": "bca-1-sem-communication-english-2014",
+            "url-id": "1WBBuEzvzx8BfuqQx1Ifw-0R5FGwS19nv"
+          },
+          {
+            "id": 9,
+            "title": "bca-1-sem-basic-mathematics-2014",
+            "url-id": "13rKIxZ4osu1Cg3wnhs8XPv-DIPBvCfzK"
+          },
+          {
+            "id": 10,
+            "title": "bca-1-sem-information-technology-and-application-2014",
+            "url-id": "1Q1rInL7zucoXIFR_EVTiy4Bb5q98BewA"
+          },
+          {
+            "id": 11,
+            "title": "bca-1-sem-problem-solving-and-programming-concepts-2015",
+            "url-id": "12D0ILHAXl54kUVV52pRLOOTSQT6YfEuR"
+          },
+          {
+            "id": 12,
+            "title": "bca-1-sem-information-technology-and-applications-303103-2015",
+            "url-id": "1Ese-t2MMposRr3xWZo_B4aRbXeYvNztU"
+          },
+          {
+            "id": 13,
+            "title": "bca-1-sem-information-technology-and-applications-303103-2016",
+            "url-id": "1JAX0v-JlOH83d3IdY3eR7M8j0asP1wA0"
+          },
+          {
+            "id": 14,
+            "title": "bca-1-sem-information-technology-and-application-303103-2017",
+            "url-id": "1lbpNwGvm7KB6AY7MJzC8jxKkBUHwhh4X"
+          },
+          {
+            "id": 15,
+            "title": "bca-1-sem-principles-of-management-and-organization-303104-2017",
+            "url-id": "1iU6e_kaNvfRf5xH_9XshH1aSXkDumnFY"
+          },
+          {
+            "id": 16,
+            "title": "bca-1-sem-problem-solving-and-programming-concepts-303106-2017",
+            "url-id": "157_pH2ISj5ucyia-br3IbvGO6nslKqZR"
+          },
+          {
+            "id": 17,
+            "title": "bca-1-sem-basic-mathematics-303102-2017",
+            "url-id": "1AKoA6J5D9SlxW9f0rS-jQ1VcQhyJqQ9V"
+          },
+          {
+            "id": 18,
+            "title": "bca-1-sem-communicative-english-303101-2017",
+            "url-id": "1BuFGC2DdVjcQNZFs4fB_snDE2EZrJ9dx"
+          },
+          {
+            "id": 19,
+            "title": "bca-1-sem-python-programming-303105-2018",
+            "url-id": "1_krwM8knsxw9FVRhteLUb-uSwXRpupbo"
+          },
+          {
+            "id": 20,
+            "title": "bca-1-sem-basic-mathematics-303102-2018",
+            "url-id": "1rgAhXYyYZa19bbrnyZnjBli4ea11iPTR"
+          },
+          {
+            "id": 21,
+            "title": "bca-1-sem-communicative-english-303101-2019",
+            "url-id": "1G8yGFPQl9PSJ3QdRht5sQxi8hKW7GwdF"
+          },
+          {
+            "id": 22,
+            "title": "bca-1-sem-principles-of-management-and-organization-303104-2018",
+            "url-id": "1WSimoG2dzVMD-iw-7wRNP46i3S7caEya"
+          },
+          {
+            "id": 23,
+            "title": "bca-1-sem-information-technology-and-application-303103-2018",
+            "url-id": "13ZM0yPvDzw4xDaOtkG0T7lX2xPkfN0j4"
+          },
+          {
+            "id": 24,
+            "title": "bca-1-sem-python-programming-303105-2019",
+            "url-id": "1Z6xXMSWO053bfHGB6yydnjes04InBgQY"
+          },
+          {
+            "id": 25,
+            "title": "bca-1-sem-communicative-english-303101-2018",
+            "url-id": "1gotqUb9lGMB3fGYqwLq9whVxxPG5pQtV"
+          },
+          {
+            "id": 26,
+            "title": "bca-1-sem-principles-of-management-and-organization-303104-2019",
+            "url-id": "1pvAoKxr1tJjOCQ2HpKmlrU5cwOZjZr5U"
+          },
+          {
+            "id": 27,
+            "title": "bca-1-sem-information-technology-and-application-303103-2019",
+            "url-id": "186XQNvj-0o-pE0MgiUeuwmEEvRfFELF4"
+          }
+        ],
+        "sem2": [
+          {
+            "id": 1,
+            "title": "bca-2-sem-system-analysis-and-design-2014",
+            "url-id": "1_vcPjczxvAxX7JOp0B6893F0vK5LGLLv"
+          },
+          {
+            "id": 2,
+            "title": "bca-2-sem-business-english-2014",
+            "url-id": "12DfMqRT3Lrlwncezs9NLaPd20WLCyOIA"
+          },
+          {
+            "id": 3,
+            "title": "bca-2-sem-operating-system-and-unix-2014",
+            "url-id": "10IK_L-POflyAIe2D19RNOxUlgWvmssah"
+          },
+          {
+            "id": 4,
+            "title": "bca-2-sem-mathematics-numerical-techniques-2014",
+            "url-id": "19DL6Vu_Ba_JVccrGdCwPo4MzJWiGaLnb"
+          },
+          {
+            "id": 5,
+            "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-2014",
+            "url-id": "1YmugP4zJslkNXzpmbp2O1dxSuP2dxMgy"
+          },
+          {
+            "id": 6,
+            "title": "bca-2-sem-system-analysis-and-design-2015",
+            "url-id": "1xGFW55FN7-iw5AioCzlHiX1RIIQe96wP"
+          },
+          {
+            "id": 7,
+            "title": "bca-2-sem-business-communication-2015",
+            "url-id": "1CjBO8xr8pYErZr2BPQtpDe9NqGhEO3l6"
+          },
+          {
+            "id": 8,
+            "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-2015",
+            "url-id": "1kiRYmc_vNWQkdLRqkZn6HBkbX0Sej45l"
+          },
+          {
+            "id": 9,
+            "title": "bca-2-sem-mathematics-2015",
+            "url-id": "1XMZCkTeiec7PhmrSOBf1JKBeF6AbNT-I"
+          },
+          {
+            "id": 10,
+            "title": "bca-2-sem-system-analysis-and-design-2016",
+            "url-id": "1BaNfHw9SrNAHqx_-oXAcbmOqCH6_HV7w"
+          },
+          {
+            "id": 11,
+            "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-2016",
+            "url-id": "1UXA4gdHQ9l0FU7KlcW6eiD_Bke7qwKK2"
+          },
+          {
+            "id": 12,
+            "title": "bca-2-sem-operating-system-and-unix-2016",
+            "url-id": "1hJVj_sVk7StcHmFkFSv1D42ZmeoEYnNY"
+          },
+          {
+            "id": 13,
+            "title": "bca-2-sem-system-analysis-and-design-303203-2017",
+            "url-id": "1IPyUcX-zYhDuc_6PChHcRHx8_NLaWbKR"
+          },
+          {
+            "id": 14,
+            "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-303204-2017",
+            "url-id": "1F_SlklW86y_EUTZYEuNEhu2-J5EsQEwD"
+          },
+          {
+            "id": 15,
+            "title": "bca-2-sem-mathematics-2016",
+            "url-id": "1V-dUdOmzcGLWyyFQcljEC-Fnp7B35sZl"
+          },
+          {
+            "id": 16,
+            "title": "bca-2-sem-mathematics-numerical-techniques-303202-2017",
+            "url-id": "1e8Ix6OVPXDYT4h-_KisItcH0uI8KxWKN"
+          },
+          {
+            "id": 17,
+            "title": "bca-2-sem-operating-system-and-unix-303205-2017",
+            "url-id": "16XhW0fDjmdQJRsKyOY6O8N7jOc-FAoGx"
+          },
+          {
+            "id": 18,
+            "title": "bca-2-sem-system-analysis-and-design-303203-2018",
+            "url-id": "1CxDzcErsE0UMmvEfJk5SYkrh3ovFTLKS"
+          },
+          {
+            "id": 19,
+            "title": "bca-2-sem-business-english-303201-2017",
+            "url-id": "1QrYd7OVQGUCa8fmb9yCKw1aPZaazT89D"
+          },
+          {
+            "id": 20,
+            "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-303204-2018",
+            "url-id": "1LGoTEaFlZeEZLstTPvHLBOA_KcgsOj41"
+          },
+          {
+            "id": 21,
+            "title": "bca-2-sem-operating-system-and-unix-303205-2018",
+            "url-id": "1rPUrBs5oxefMni-S3bvSkhxB7kLr7Mzo"
+          },
+          {
+            "id": 22,
+            "title": "bca-2-sem-system-analysis-and-design-303203-2019",
+            "url-id": "1QNKWrlSjqBpqQp7VlRcxwRKegoM_6hap"
+          },
+          {
+            "id": 23,
+            "title": "bca-2-sem-mathematics-numerical-techniques-303202-2018",
+            "url-id": "1zRURO15Pl1V2zVLybMRZQJIAX9MA3Fd1"
+          },
+          {
+            "id": 24,
+            "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-303204-2019",
+            "url-id": "18ksEL1bYwJoVv0rOppBCS9DqvR_vHHNh"
+          },
+          {
+            "id": 25,
+            "title": "bca-2-sem-business-english-303201-2018",
+            "url-id": "1AALHeCYX1hL0IXUyAZAXLcLejxIF2vxj"
+          },
+          {
+            "id": 26,
+            "title": "bca-2-sem-mathematics-numerical-technique-303202-2019",
+            "url-id": "19xNKmwW6diEE4ccUXgSvCm1MQrZIYaa4"
+          },
+          {
+            "id": 27,
+            "title": "bca-2-sem-operating-system-and-unix-303205-2019",
+            "url-id": "1VHG_D_L4Z8DkjmHNMxl9qE70q8BkvbT2"
+          },
+          {
+            "id": 28,
+            "title": "bca-2-sem-system-analysis-and-design-303203-2021",
+            "url-id": "1epaBiT5bJlCwwnrvoYOoOpCVWoDwn8n1"
+          },
+          {
+            "id": 29,
+            "title": "bca-2-sem-business-english-303201-2019",
+            "url-id": "1zdLM6X0ml8D7ooSW5m0LVOBF-JyIMHXh"
+          },
+          {
+            "id": 30,
+            "title": "bca-2-sem-operating-system-and-unix-303205-2021",
+            "url-id": "1-4CjBzpd1Dm5GkjaIK8O_EwgqYnh7BPL"
+          },
+          {
+            "id": 31,
+            "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-303204-2021",
+            "url-id": "1CyeLLdzZSTeBwd6HRkzwdPaUtJD8UAkt"
+          },
+          {
+            "id": 32,
+            "title": "bca-2-sem-mathematics-numerical-techniques-303202-2021",
+            "url-id": "12NTG63VDjFKL41-Qz51wP25DOg8JpvPM"
+          },
+          {
+            "id": 33,
+            "title": "bca-2-sem-business-english-303201-2021",
+            "url-id": "1DxEDB7T4Of9ANDa3dYBfjZF8VQoD0YSU"
+          }
+        ],
+        "sem3": [
+          {
+            "id": 1,
+            "title": "bca-3-sem-java-programming-303303-2019",
+            "url-id": "1Ann6d1yniS6KZzroMD50oaAc34XuvMnj"
+          },
+          {
+            "id": 2,
+            "title": "bca-3-sem-software-engineering-2014",
+            "url-id": "1eECZ4YGZbmMk8WhgvySKoX-Ib3b1YBlW"
+          },
+          {
+            "id": 3,
+            "title": "bca-3-sem-java-programming-2014",
+            "url-id": "1eGq6EdzD2e-7utP6AS2iO4iZHABwkXcR"
+          },
+          {
+            "id": 4,
+            "title": "bca-3-sem-object-oriented-programming-using-cpp-2014",
+            "url-id": "1aTf7D18pyOZcDn51eYvT2JBRoG0Mu2st"
+          },
+          {
+            "id": 5,
+            "title": "bca-3-sem-internet-and-web-designing-2014",
+            "url-id": "1z2M02TIq0DN0I-r17FZX1TRi3cViXB9X"
+          },
+          {
+            "id": 6,
+            "title": "bca-3-sem-object-oriented-programming-using-cpp-303301-2017",
+            "url-id": "1dkupHwEBebVSYopJ6F66hH_BU5tcOYbO"
+          },
+          {
+            "id": 7,
+            "title": "bca-3-sem-java-programming-303303-2017",
+            "url-id": "1hDyeJVaup4SFMC9I1mYu7QmsUeIdRi6W"
+          },
+          {
+            "id": 8,
+            "title": "bca-3-sem-software-engineering-303304-2017",
+            "url-id": "1m7GAuDjNEK88jPFWdU_C7cAVe2XnT161"
+          },
+          {
+            "id": 9,
+            "title": "bca-3-sem-software-engineering-303304-2018",
+            "url-id": "1h_oec4rw3O8Qf0LMJimkX8-XI6zlLFRA"
+          },
+          {
+            "id": 10,
+            "title": "bca-3-sem-internet-and-web-designing-303302-2017",
+            "url-id": "1frblgypJ0FJVb28ODFovVbMB7eaYIFpf"
+          },
+          {
+            "id": 11,
+            "title": "bca-3-sem-object-oriented-programming-using-cpp-303301-2018",
+            "url-id": "11TJr1QpjeEw3vFM_2HUGIIVn3Y5w_vUc"
+          },
+          {
+            "id": 12,
+            "title": "bca-3-sem-java-programming-303303-2018",
+            "url-id": "1D49wSpe8x5YquML5eCAwUOOGB5-s0gEq"
+          },
+          {
+            "id": 13,
+            "title": "bca-3-sem-internet-and-web-designing-303302-2018",
+            "url-id": "1JMW8Of6HUcUX6LNklOrrL4e1ZSe0M6IY"
+          },
+          {
+            "id": 14,
+            "title": "bca-3-sem-internet-and-web-designing-303302-2019",
+            "url-id": "1_QngN44vPXwM7ZhU3T5nQoR1MmHoLC7V"
+          },
+          {
+            "id": 15,
+            "title": "bca-3-sem-software-engineering-303304-2019",
+            "url-id": "1g58mNKvYzElvlASYhmYoEs310qY9Ye41"
+          },
+          {
+            "id": 16,
+            "title": "bca-3-sem-object-oriented-programming-using-cpp-303301-2019",
+            "url-id": "1ZnG_U2bAawrImYloqIlaQdwyZKRtTnP3"
+          },
+          {
+            "id": 17,
+            "title": "bca-3-sem-software-engineering-303304-2020",
+            "url-id": "1b8O81-00HpB67ZHzYev1KQL2SoUO5Van"
+          },
+          {
+            "id": 18,
+            "title": "bca-3-sem-object-oriented-programming-using-cpp-303301-2020",
+            "url-id": "1CVyBuSQgKiUI11ynl3xcC0xLLh3i97fG"
+          },
+          {
+            "id": 19,
+            "title": "bca-3-sem-java-programming-303303-2020",
+            "url-id": "1G6_n7EyYZiLXLe4YQkNInCjs4G4uwNkg"
+          },
+          {
+            "id": 20,
+            "title": "bca-3-sem-internet-and-web-designing-303302-2020",
+            "url-id": "1TKMH9mntXZpyXzYwLH4OHKFnc7Y0kjbc"
+          }
+        ],
+        "sem4": [
+          {
+            "id": 1,
+            "title": "bca-4-sem-relational-database-management-system-2015",
+            "url-id": "1cqiJvGJJiXXf-7JoRJYuiYeyYVkM9Q_Z"
+          },
+          {
+            "id": 2,
+            "title": "bca-4-sem-introduction-to-statistics-2015",
+            "url-id": "1Q0RFsSusu58bjTCebZTq5OrZuSpuJGho"
+          },
+          {
+            "id": 3,
+            "title": "bca-4-sem-relation-data-base-management-system-303401-2017",
+            "url-id": "1jzgBlH9JHmL-h4d6xEJJ6HcJSRiJQo9b"
+          },
+          {
+            "id": 4,
+            "title": "bca-4-sem-digital-electronics-computer-system-architecture-and-organization-2015",
+            "url-id": "1JK3Ic2gz_9oj-IaaIINwpRBi-cOrLn6J"
+          },
+          {
+            "id": 5,
+            "title": "bca-4-sem-file-and-data-structure-2015",
+            "url-id": "1cWiKKx75uwbcs1IUHiHRVQNYKNARtFw1"
+          },
+          {
+            "id": 6,
+            "title": "bca-4-sem-digital-electronics-computer-system-architecture-and-organization-303402-2017",
+            "url-id": "1K7spPqVy9wl_wzV8qpgm7e7wQq_WE5Zz"
+          },
+          {
+            "id": 7,
+            "title": "bca-4-sem-introduction-to-business-statistics-303404-2017",
+            "url-id": "1QihRKkdzYAmyo_Q4McVQmnH13lsvoexc"
+          },
+          {
+            "id": 8,
+            "title": "bca-4-sem-file-and-data-structure-303403-2017",
+            "url-id": "1o67ZD3urHgYd0eevrWHeLKVZJjUfGfrD"
+          },
+          {
+            "id": 9,
+            "title": "bca-4-sem-relational-database-management-system-303401-2018",
+            "url-id": "1ijeapZHfRtqBxnvgxwLnb0L8NawMLXpG"
+          },
+          {
+            "id": 10,
+            "title": "bca-4-sem-introduction-to-business-statistics-303404-2018",
+            "url-id": "1Pv5_2XyPMMWHm74cbB7SXDz0RPiaNNvu"
+          },
+          {
+            "id": 11,
+            "title": "bca-4-sem-digital-electronics-computer-architecture-and-organisation-303402-2018",
+            "url-id": "1_C5Y5Lmc8L5wfMepir2v60o0GWwb0FPF"
+          },
+          {
+            "id": 12,
+            "title": "bca-4-sem-file-and-data-structure-303403-2018",
+            "url-id": "1ozeUVO1O86UCZhrbCyi1M9y6ndOJvl-A"
+          },
+          {
+            "id": 13,
+            "title": "bca-4-sem-introduction-to-business-statistics-303404-2019",
+            "url-id": "1G7SdGBLinTS_sLxO_62G5BDC_9JtyGT1"
+          },
+          {
+            "id": 14,
+            "title": "bca-4-sem-digital-electronics-computer-architecture-and-organisation-303402-2019",
+            "url-id": "1um8Meg-W9i88A84lKDLBUMFvRov3uByD"
+          },
+          {
+            "id": 15,
+            "title": "bca-4-sem-file-and-data-structure-303403-2019",
+            "url-id": "1SqvsVXpvQqChD9RjM9TTlQxKJG4qMsAy"
+          },
+          {
+            "id": 16,
+            "title": "bca-4-sem-relational-data-base-management-system-303401-209",
+            "url-id": "134Ci1f_dBB-Vid0BjBjZSoPD0OAiukaK"
+          }
+        ],
+        "sem5": [
+          {
+            "id": 1,
+            "title": "bca-5-sem-business-accounting-and-enterprise-resource-planning-303504-2020",
+            "url-id": "1s_0sjIEPxm3ZtSx1jfeT6bG26jS--0JW"
+          },
+          {
+            "id": 2,
+            "title": "bca-5-sem-graphics-and-multimedia-2015",
+            "url-id": "1ilKGCZd0gqa86-HMndFtBENFVM3ahSoC"
+          },
+          {
+            "id": 3,
+            "title": "bca-5-sem-computer-network-cs-and-cst-2015",
+            "url-id": "1OEaN8TQnBqYYhpRM-GEKOybFCiieVMwE"
+          },
+          {
+            "id": 4,
+            "title": "bca-5-sem-graphics-and-multimedia-303502-2018",
+            "url-id": "1Vp9ar7MzX4L2zaOoYxLI8UzzxdaU1tOp"
+          },
+          {
+            "id": 5,
+            "title": "bca-5-sem-windows-programming-using-vb-dot-net-303501-2018",
+            "url-id": "1RaRn5oWnIIt5bms-DE6PtitYLIYbJq3N"
+          },
+          {
+            "id": 6,
+            "title": "bca-5-sem-windows-programming-using-vb-dot-net-303501-2019",
+            "url-id": "1tbIS4I4rb6HKTlQukCZ0A4NVcAqZeCrD"
+          },
+          {
+            "id": 7,
+            "title": "bca-5-sem-computer-network-data-communication-and-client-server-technology-303503-2018",
+            "url-id": "18gS1gN9aYremNAuRo8-pJp51XFcUY5_G"
+          },
+          {
+            "id": 8,
+            "title": "bca-5-sem-business-accounting-and-enterprise-resource-planning-303504-2018",
+            "url-id": "12I7BUKaWrA9ap3KzBbzWrSvZyL51PoZp"
+          },
+          {
+            "id": 9,
+            "title": "bca-5-sem-graphics-and-multimedia-303502-2019",
+            "url-id": "17jsbFUN6Sajfz5kGKoWKpimKsVsvkgi9"
+          },
+          {
+            "id": 10,
+            "title": "bca-5-sem-computer-network-data-communication-and-client-server-technology-303503-2019",
+            "url-id": "1T9A9On46jcj7Q4xYq7lPBRBUuJh4o9uY"
+          },
+          {
+            "id": 11,
+            "title": "bca-5-sem-computer-network-data-communication-and-client-server-technology-303503-2020",
+            "url-id": "1NZCrodf_lyPJsxCBwgfXXFk2JfWMM5o2"
+          },
+          {
+            "id": 12,
+            "title": "bca-5-sem-graphics-and-multimedia-303502-2020",
+            "url-id": "1UAf8pnRUiI3FaaXQ7kSxBlmWnb1M_OIs"
+          },
+          {
+            "id": 13,
+            "title": "bca-5-sem-windows-programming-using-vb-dot-net-303501-20120",
+            "url-id": "1Aw3D15zxmhtrijaX2Uv3aM7slE7d9n5J"
+          }
+        ],
+        "sem6": [
+          {
+            "id": 1,
+            "title": "bca-6-sem-e-commerce-2015",
+            "url-id": "1DL5ilhk6J15jC6woFluS5993FGJCnCZj"
+          },
+          {
+            "id": 2,
+            "title": "bca-6-sem-web-technology-2015",
+            "url-id": "1Y6kXPZ7zzPA2U7w4ZW4bo65RihqG2PXj"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1115",
+      "title": "bcom",
+      "bcom": {
+        "sem1": [
+          {
+            "id": 1,
+            "title": "bcom-prof-1-sem-financial-accounting-1-2015",
+            "url-id": "1KoATVOZwHsd_1I21I50AZ5l-ZCWGyuaH"
+          },
+          {
+            "id": 2,
+            "title": "bcom-prof-1-sem-financial-accounting-1-313101-2015",
+            "url-id": "1RZjHw5JXtEC4fn-zYVeXeltgXk7Kw3RU"
+          },
+          {
+            "id": 3,
+            "title": "bcom-prof-1-sem-business-statistics-2015",
+            "url-id": "1nbJidEG224HmW1JTTIaU3oDZ3g4k3mj2"
+          },
+          {
+            "id": 4,
+            "title": "bcom-prof-1-sem-basic-spreadsheet-concept-2015",
+            "url-id": "1F9Ou_ABtU07aGVi4xudYjyQBsdCGo-Qe"
+          },
+          {
+            "id": 5,
+            "title": "bcom-prof-1-sem-business-organization-and-management-313103-2015",
+            "url-id": "1BdC1kKpV69jEb1pRh1gZedTQWwwoo8Mf"
+          },
+          {
+            "id": 6,
+            "title": "bcom-prof-1-sem-business-statistics-313104-2016",
+            "url-id": "11RdKl3LKG1hOVO-FGRzmRKGD0e6JjGe9"
+          },
+          {
+            "id": 7,
+            "title": "bcom-prof-1-sem-communicative-english-313106-2016",
+            "url-id": "1FSsAHeSGDqs98DtyN54v2UPjnzp0UyS2"
+          },
+          {
+            "id": 8,
+            "title": "bcom-prof-1-sem-financial-accounting-1-313101-2016",
+            "url-id": "16VZ5fl6dRVY2nYqhcPmml9eALoyvYQMq"
+          },
+          {
+            "id": 9,
+            "title": "bcom-prof-1-sem-business-organization-and-management-313103-2016",
+            "url-id": "1AdotEPOVDSasU6XjiGezejC-yqI6l30b"
+          },
+          {
+            "id": 10,
+            "title": "bcom-prof-1-sem-basic-spreadsheet-concepts-313105-2016",
+            "url-id": "14D5OexYwCnNlCUN1Ndk-KSv6XHtQS0li"
+          },
+          {
+            "id": 11,
+            "title": "bcom-prof-1-sem-communicative-english-313106-2018",
+            "url-id": "1AOwES0Jj5ZL9CXKDxA841ZupoyWfLnAI"
+          },
+          {
+            "id": 12,
+            "title": "bcom-prof-1-sem-business-statistics-313104-2018",
+            "url-id": "1xGWzPiQiWXj-tb_B-4nc8ISJ3G0nh1h7"
+          },
+          {
+            "id": 13,
+            "title": "bcom-prof-1-sem-business-organization-and-management-313103-2018",
+            "url-id": "1_JFm-lWMnl9H8Kd0azn2ehIpVfRYA_mX"
+          },
+          {
+            "id": 14,
+            "title": "bcom-prof-1-sem-financial-accounting-1-313101-2019",
+            "url-id": "1_7KnjmIWM7g310wweFtoxdoEiRiniOEh"
+          },
+          {
+            "id": 15,
+            "title": "bcom-prof-1-sem-basic-spreadsheet-concepts-313105-2018",
+            "url-id": "1cuBsGE4tJ3lLnsrsQnV6muFDVTd27POA"
+          },
+          {
+            "id": 16,
+            "title": "bcom-prof-1-sem-communicative-english-313106-2019",
+            "url-id": "1dHwyqvaZ7Gr9uzNebxEDkfRL_LlXFlTx"
+          },
+          {
+            "id": 17,
+            "title": "bcom-prof-1-sem-business-economics-313102-2018",
+            "url-id": "1dqmemu9M1Yw0zlAdXTAsr8X85xWTHmID"
+          },
+          {
+            "id": 18,
+            "title": "bcom-prof-1-sem-business-statistics-313104-2019",
+            "url-id": "1GObevLrebjMMnSQILwWgBkydUsehUA9d"
+          },
+          {
+            "id": 19,
+            "title": "bcom-prof-1-sem-basic-spreadsheet-concepts-313105-2019",
+            "url-id": "1N5qKIeBFhugVHA86S-4RtT-GoLFqPlXf"
+          },
+          {
+            "id": 20,
+            "title": "bcom-prof-1-sem-business-organization-and-management-313103-2019",
+            "url-id": "1yF-QaYeGWbd1B_kxKUrqC_xwjxVQvnB8"
+          },
+          {
+            "id": 21,
+            "title": "bcom-prof-1-sem-business-economics-313102-2019",
+            "url-id": "1fGOibqhZ-ZuiPItk6QWegVqBGsq3sjgg"
+          }
+        ],
+        "sem2": [
+          {
+            "id": 1,
+            "title": "bcom-2-sem-prof-mercantile-corporate-law-313202-2015",
+            "url-id": "1A42lnOrV3t-LXMLGde7Nq1RORzyPu8Ap"
+          },
+          {
+            "id": 2,
+            "title": "bcom-2-sem-prof-it-for-accounting-313204-2015",
+            "url-id": "1DYbR3pOVpM6UOBfIsNtR9gxJVUejYZja"
+          },
+          {
+            "id": 3,
+            "title": "bcom-prof-2-sem-mercantile-corporate-law-2016",
+            "url-id": "1I6fZCR1YVlw_65UBwXCYWyw6jCS4dt26"
+          },
+          {
+            "id": 4,
+            "title": "bcom-2-sem-prof-intermediate-spreadsheet-concepts-313205-2015",
+            "url-id": "1x8wtrMymMwEroNkMTyja8DKUArU3GKnD"
+          },
+          {
+            "id": 5,
+            "title": "bcom-prof-2-sem-it-for-accounting-2016",
+            "url-id": "1hw12cY6U9mIcU_iASAhHFIPyojRR1POe"
+          },
+          {
+            "id": 6,
+            "title": "bcom-prof-2-sem-financial-accounting-2-2016",
+            "url-id": "1hXG_93Y8sZ8ZCHe8a-1L_KtXYKyMxXhE"
+          },
+          {
+            "id": 7,
+            "title": "bcom-prof-2-sem-intermediate-spreadsheet-2016",
+            "url-id": "1zD2Z8gTQuyeUgntLweL__8hVOcyiv94g"
+          },
+          {
+            "id": 8,
+            "title": "bcom-prof-2-sem-business-mathematics-2016",
+            "url-id": "1EQrqpcbxJ7xwHAjXWCkrnmk9Det88YYj"
+          },
+          {
+            "id": 9,
+            "title": "bcom-prof-2-sem-business-english-2016",
+            "url-id": "1Xq_FAudaXDxnHrh59A8PKQm6S4pRQK2c"
+          },
+          {
+            "id": 10,
+            "title": "bcom-2-sem-prof-mercantile-corporate-law-313202-2017",
+            "url-id": "1KZEsiQasA8eZ6vJ0KGfOoWDPTloVHYl1"
+          },
+          {
+            "id": 11,
+            "title": "bcom-2-sem-prof-financial-accounting-2-313201-2017",
+            "url-id": "1WWMRsdVTPaZ5EjrScsNQQrzitQitwQfJ"
+          },
+          {
+            "id": 12,
+            "title": "bcom-2-sem-prof-it-for-accounting-313204-2017",
+            "url-id": "1pinLwRm7y5nhwm5vfyFwpAokbn4A1p7b"
+          },
+          {
+            "id": 13,
+            "title": "bcom-prof-2-sem-it-for-accounting-313204-2018",
+            "url-id": "10J5RHJPK6AOFcv9DxnMX3botnGXg2cEn"
+          },
+          {
+            "id": 14,
+            "title": "bcom-2-sem-prof-business-english-313206-2017",
+            "url-id": "1MlPeWqOOLRlH7M3n6Z1Jr-A0ZhXpXm2O"
+          },
+          {
+            "id": 15,
+            "title": "bcom-prof-2-sem-business-mathematics-313203-2017",
+            "url-id": "1Nq09pI8rkZDsfRTH__KmNTocPMJ4zV65"
+          },
+          {
+            "id": 16,
+            "title": "bcom-2-sem-prof-business-english-313206-2018",
+            "url-id": "1X4zY6jsba1x2JMuYHnE57V7UNRpjt8l8"
+          },
+          {
+            "id": 17,
+            "title": "bcom-prof-2-sem-intermediate-spreadsheet-concepts-313205-2018",
+            "url-id": "1B0ZUaVBXEHqbnbzgF6FNZyfk4vcLmwGg"
+          },
+          {
+            "id": 18,
+            "title": "bcom-prof-2-sem-business-mathematics-313203-2018",
+            "url-id": "1k_hPsEV5BmAQkCE1swrp7RVdu28LveDB"
+          },
+          {
+            "id": 19,
+            "title": "bcom-prof-2-sem-business-law-313202-2018",
+            "url-id": "10FBYVW_KR1qhTzLGOXQYbzF0pl7nNhHU"
+          },
+          {
+            "id": 20,
+            "title": "bcom-prof-2-sem-financial-accounting-2-313201-2018",
+            "url-id": "1zys5ZWxxVDlb6TOaOZkPg-Cfrubd22ty"
+          },
+          {
+            "id": 21,
+            "title": "bcom-prof-2-sem-business-english-313206-2018",
+            "url-id": "18OfKvh_QWgYjIaFIbyx0YISH8z-pkRnK"
+          },
+          {
+            "id": 22,
+            "title": "bcom-2-sem-prof-financial-accounting-2-313201-2019",
+            "url-id": "1Tt8bHVQoIl4uMCtEozXG2BYhhvrtK6oQ"
+          },
+          {
+            "id": 23,
+            "title": "bcom-2-sem-prof-intermediate-spreadsheet-concepts-313205-2019",
+            "url-id": "1yN_cR3Rks1BVCRLU3x-W60fraJTkIvQu"
+          },
+          {
+            "id": 24,
+            "title": "bcom-2-sem-prof-mercantile-corporate-law-313202-2019",
+            "url-id": "16SmNGVFSPS3DBN4embQl2jWsJ7l0veFP"
+          },
+          {
+            "id": 25,
+            "title": "bcom-2-sem-prof-it-for-accounting-313204-2019",
+            "url-id": "1SlBJwGqXXx7Ence5pke9Gp0aU51Sxzyv"
+          },
+          {
+            "id": 26,
+            "title": "bcom-prof-2-sem-business-mathematics-313203-2019",
+            "url-id": "1-fqFVqn9G-sAGPMKjYoPA35bif7TOIX7"
+          }
+        ],
+        "sem3": [
+          {
+            "id": 1,
+            "title": "bcom-prof-3-sem-taxation-laws-313302-2015",
+            "url-id": "17Tf-flf2Zl2s1OW2fGmM1oWVLTsI3hBL"
+          },
+          {
+            "id": 2,
+            "title": "bcom-prof-3-sem-project-appraisal-finance-and-management-313305-2015",
+            "url-id": "1i_tPkfUMjx1zlG8ujJdPc_TvYpQoUtXY"
+          },
+          {
+            "id": 3,
+            "title": "bcom-prof-3-sem-entrepreneurship-313303-2015",
+            "url-id": "1LuRnBBkXLBiTZWBujr2N8bVEux1olNZ2"
+          },
+          {
+            "id": 4,
+            "title": "bcom-prof-3-sem-e-commerce-313304-2015",
+            "url-id": "1564lHRsrY_WPaVG-RI455jyDFaeZykxA"
+          },
+          {
+            "id": 5,
+            "title": "bcom-prof-3-sem-management-accounting-313301-2015",
+            "url-id": "1eVgElBCcOw-Z7unbyRNsruS8rZRHVM_B"
+          },
+          {
+            "id": 6,
+            "title": "bcom-3-sem-prof-taxation-laws-1-313302-2017",
+            "url-id": "1iV_50B7sIKnHtjvYvkbjn_pEzQS0n89w"
+          },
+          {
+            "id": 7,
+            "title": "bcom-prof-3-sem-taxation-laws-313302-2018",
+            "url-id": "1-8nhcnFs3DWF-cOW0RZbBSWd1xCCJcqO"
+          },
+          {
+            "id": 8,
+            "title": "bcom-3-sem-prof-project-appraisal-finance-and-management-313305-2017",
+            "url-id": "1Jhg1EyIqrvF4HZTa0f02ceJ1UrdutNRa"
+          },
+          {
+            "id": 9,
+            "title": "bcom-3-sem-prof-management-accounting-313301-2017",
+            "url-id": "1ifNLu9wfIrnupsVBhqcalA4F5O7TbKc_"
+          },
+          {
+            "id": 10,
+            "title": "bcom-prof-3-sem-project-appraisal-finance-and-management-313305-2018",
+            "url-id": "15ndOtOWMi3JGRHskcNy5rda_hS2m6R8K"
+          },
+          {
+            "id": 11,
+            "title": "bcom-prof-3-sem-management-accounting-313301-2018",
+            "url-id": "1dwCggDBWXsxoF-jYi1-rlpRwLV02TI3l"
+          },
+          {
+            "id": 12,
+            "title": "bcom-prof-3-sem-e-commerce-313304-2018",
+            "url-id": "1BDJBzOpowphxMe9nEmI-6yWSCAK-ugIK"
+          },
+          {
+            "id": 13,
+            "title": "bcom-3-sem-prof-taxation-laws-1-313302-2019",
+            "url-id": "1LuqRUeQaIKRT5NuvfYLzA8SpMFxzA9Dd"
+          },
+          {
+            "id": 14,
+            "title": "bcom-prof-3-sem-entrepreneurship-313303-2018",
+            "url-id": "1xhEpKhS9C4vVFjVE7ZO1wyiGNGKyyj-z"
+          },
+          {
+            "id": 15,
+            "title": "bcom-3-sem-prof-taxation-laws-313302-2020",
+            "url-id": "13QUHz9ergUqdxN8xhxhBgA0TVrkjm1-s"
+          },
+          {
+            "id": 16,
+            "title": "bcom-3-sem-prof-project-appraisal-finance-and-management-313305-2019",
+            "url-id": "18qIw1kR6PBVDXtEtSS_xjMZPRZ00y-0A"
+          },
+          {
+            "id": 17,
+            "title": "bcom-3-sem-prof-entrepreneurship-313303-2019",
+            "url-id": "13HtPWQQLtgs_6dMbOA-3oY0lfRJkMkQN"
+          },
+          {
+            "id": 18,
+            "title": "bcom-3-sem-prof-management-accounting-313301-2019",
+            "url-id": "1EcQcBEGk_4xETE2OC6L74HbuTSJfbAAN"
+          },
+          {
+            "id": 19,
+            "title": "bcom-3-sem-prof-e-commerce-313304-2019",
+            "url-id": "1kbdIqUnSc2CK0_6DdwNohqGRNTlKSiaC"
+          },
+          {
+            "id": 20,
+            "title": "bcom-3-sem-prof-project-appraisal-finance-and-management-313305-2020",
+            "url-id": "1Cv1xjerotJB2L2iSYzDnqa9RBDG_UuXK"
+          },
+          {
+            "id": 21,
+            "title": "bcom-3-sem-prof-management-accounting-313301-2020",
+            "url-id": "1PYdXvZrbdd5fNLt1Wnsg1q9m-FCtUDJV"
+          },
+          {
+            "id": 22,
+            "title": "bcom-3-sem-prof-entrepreneurship-313303-2020",
+            "url-id": "1hGffJ8EbLOYW2eyGeU4meHc6fSgX963V"
+          },
+          {
+            "id": 23,
+            "title": "bcom-3-sem-prof-e-commerce-313304-2020",
+            "url-id": "1HvIpbpCOGyc_g6LxzVHUmjR4VkeOF1nH"
+          }
+        ],
+        "sem4": [
+          {
+            "id": 1,
+            "title": "bcom-prof-4-sem-business-research-methodology-313405-2015",
+            "url-id": "1HEHvu3OINKadu-nvvbCP4uzxVnolSM0Q"
+          },
+          {
+            "id": 2,
+            "title": "bcom-prof-4-sem-cost-accounting-313401-jun-2015",
+            "url-id": "1wHIeeXhiyv1cpd5brz3arvcAL0r9ZUvX"
+          },
+          {
+            "id": 3,
+            "title": "bcom-prof-4-sem-business-research-methodology-313405-2016",
+            "url-id": "15VuVmNvOJ7J_84zh-mJoJ_4NaHGfeZH5"
+          },
+          {
+            "id": 4,
+            "title": "bcom-4-sem-prof-taxation-laws-2-313404-2017",
+            "url-id": "1QVJr-MNMg5U3ZcTS_Q4x4LLVe-SNkifH"
+          },
+          {
+            "id": 5,
+            "title": "bcom-prof-4-sem-cost-accounting-313401-2017",
+            "url-id": "1TZCvvjshNJzDvfx7LE2-D28e0Upry_j5"
+          },
+          {
+            "id": 6,
+            "title": "bcom-prof-4-sem-cost-accounting-313401-2016",
+            "url-id": "1KpZXKyqEJobTFxzW_igmbn2jZx7iHjzf"
+          },
+          {
+            "id": 7,
+            "title": "bcom-4-sem-prof-auditing-313403-2017",
+            "url-id": "13g82SGOAZC_IKiiDYO58qhSSnQqf4cBC"
+          },
+          {
+            "id": 8,
+            "title": "bcom-4-sem-prof-financial-management-313402-2017",
+            "url-id": "1Fczgkjs6bmJ2c5Gkj8Sr0gaAPyIgjRcA"
+          },
+          {
+            "id": 9,
+            "title": "bcom-4-sem-prof-business-research-methodology-313405-2017",
+            "url-id": "1eqOxcT-qmhX8Du2MUw0DJ_kaMSDto-pA"
+          },
+          {
+            "id": 10,
+            "title": "bcom-4-sem-prof-taxation-law-2-313404-2018",
+            "url-id": "1a1E6HKMCCiOSxiMisofqef77IuZGj5r3"
+          },
+          {
+            "id": 11,
+            "title": "bcom-4-sem-prof-financial-management-313402-2018",
+            "url-id": "1Efxyd9Py6JGnP58WkGTXyaTEQ5xdD2td"
+          },
+          {
+            "id": 12,
+            "title": "bcom-prof-4-sem-business-research-methodology-313405-2018",
+            "url-id": "1Q4l1mJFOuCAeu5Osut8-qjBYv-ZtytHS"
+          },
+          {
+            "id": 13,
+            "title": "bcom-4-sem-prof-auditing-313403-2018",
+            "url-id": "1tEOd21XUciJgnIeLnZUFdAdn6OszdJkG"
+          }
+        ],
+        "sem5": [
+          {
+            "id": 1,
+            "title": "bcom-5-sem-prof-security-analysis-and-protfolio-management-313502-2018",
+            "url-id": "1RbhmNetBa40BpZTeESOifc2-qvk9CLCq"
+          },
+          {
+            "id": 2,
+            "title": "bcom-5-sem-prof-principles-and-practice-of-banking-313503-2018",
+            "url-id": "1SpBgCxeBeqK1Mn_xILOLpBxfXlVZY56G"
+          },
+          {
+            "id": 3,
+            "title": "bcom-5-sem-prof-principles-and-practice-of-insurance-313504-2018",
+            "url-id": "1vjEcKfN_B3q6vb7-rZeyOkDhLgHA_J41"
+          },
+          {
+            "id": 4,
+            "title": "bcom-5-sem-prof-security-analysis-and-portfolio-management-313502-2019",
+            "url-id": "1dJLAjRmjhi3MMcLdWC-R5EEiXUQX8vUS"
+          },
+          {
+            "id": 5,
+            "title": "bcom-5-sem-prof-financial-institutions-services-and-markets-313501-2018",
+            "url-id": "1rj7_PwPu8Sjc1jIW-9StfBEskaWDFRsN"
+          },
+          {
+            "id": 6,
+            "title": "bcom-5-sem-prof-financial-institutions-services-and-markets-313501-2019",
+            "url-id": "1MormDQTQ_J_T7xgn0LzOy5Bsx_1tOT3j"
+          },
+          {
+            "id": 7,
+            "title": "bcom-5-sem-prof-principles-and-practice-of-banking-313503-2019",
+            "url-id": "1YZjVkAAXdY9OS71KzGHyyk-Dc_1BovmY"
+          },
+          {
+            "id": 8,
+            "title": "bcom-5-sem-prof-principle-and-practice-of-insurance-313504-2019",
+            "url-id": "1t4jJbzzbFkZy7oL3-M4AxfgJfJu3oRg8"
+          },
+          {
+            "id": 9,
+            "title": "bcom-5-sem-prof-security-analysis-and-portfolio-management-313502-2020",
+            "url-id": "1Lmb2Xf0s6CyTlEWYBiyiSTMiDxBVIsw1"
+          },
+          {
+            "id": 10,
+            "title": "bcom-5-sem-prof-principles-and-practice-of-insurance-313504-2020",
+            "url-id": "1SJPjZ_fOst-hRXqnaogRnfjvRjtzCrfA"
+          },
+          {
+            "id": 11,
+            "title": "bcom-5-sem-prof-principles-and-practice-of-banking-313503-2020",
+            "url-id": "1aWKFbcP7N5oydUw_K6GCd9Iu0-FbVFzp"
+          },
+          {
+            "id": 12,
+            "title": "bcom-5-sem-prof-financial-institutions-services-and-markets-313501-2020",
+            "url-id": "1Z5ximI4Hzz9zLZ50hnkxPym5DrKhIC0M"
+          }
+        ],
+        "sem6": []
+      }
+    },
+    {
+      "id": "1116",
+      "title": "bmc",
+      "bmc": {
+        "sem1": [
+          {
+            "id": 1,
+            "title": "bmc-1-sem-writing-for-media-316105-2017",
+            "url-id": "1NgG96tbST3kChWNOjPpJvN6RpvhMVxZr"
+          },
+          {
+            "id": 2,
+            "title": "bmc-1-sem-social-media-and-communication-316102-2017",
+            "url-id": "1Of9r3vpHNZuQ4shhS3r1tMOjUWMs8_Ak"
+          },
+          {
+            "id": 3,
+            "title": "bmc-1-sem-writing-for-media-316105-2018",
+            "url-id": "1R2AOi1YWwZRglh1gT1De85BFHkuWfhjY"
+          },
+          {
+            "id": 4,
+            "title": "bmc-1-sem-radio-broadcasting-316104-2017",
+            "url-id": "1k8LvyqqHd1lRfQJ3ROmVPAC1AbNBKnN5"
+          },
+          {
+            "id": 5,
+            "title": "bmc-1-sem-english-1-316101-2017",
+            "url-id": "1fm1mwNQQgC0WlSRuFvhNFhDqsi9B8Wll"
+          },
+          {
+            "id": 6,
+            "title": "bmc-1-sem-introduction-to-communication-316103-2017",
+            "url-id": "1rVd6i7VOkSKPnFoX-ht6VrOO0cbPcPOQ"
+          },
+          {
+            "id": 7,
+            "title": "bmc-1-sem-introduction-to-communication-316103-2018",
+            "url-id": "1QxUYz4B6VPGugckKa9AIZwEGtCKpalL3"
+          },
+          {
+            "id": 8,
+            "title": "bmc-1-sem-english-1-316101-2018",
+            "url-id": "1WXumMYyhJik7Ur1q3czj9XVjGvWVd_19"
+          },
+          {
+            "id": 9,
+            "title": "bmc-1-sem-social-media-and-communication-316102-2018",
+            "url-id": "1tJetrJho_-vUs2-yngp7qH2YP2DsYnmw"
+          },
+          {
+            "id": 10,
+            "title": "bmc-1-sem-radio-broadcasting-316104-2018",
+            "url-id": "1JHeMdgtrip9Lsit2iq3veDB0bWFANB5q"
+          }
+        ],
+        "sem2": [
+          {
+            "id": 1,
+            "title": "bmc-2-sem-social-media-and-communication-2-316202-2017",
+            "url-id": "14DcXrwE0F3ZUMZD-M065nAOW3Y_GKe1H"
+          },
+          {
+            "id": 2,
+            "title": "bmc-2-sem-media-education-316203-2017",
+            "url-id": "1qpTZoRfhI-ekmQgnyb92I4KjT48ksjrO"
+          },
+          {
+            "id": 3,
+            "title": "bmc-2-sem-english-316201-2017",
+            "url-id": "1FJINCWh53mPuwH4HYl2_GvwYMrqoipz6"
+          },
+          {
+            "id": 4,
+            "title": "bmc-2-sem-media-education-316203-2018",
+            "url-id": "1H65tp28iELFIG1-bvo-STxulhBz_-Cgm"
+          },
+          {
+            "id": 5,
+            "title": "bmc-2-sem-social-media-and-communication-2-316202-2018",
+            "url-id": "1f9F-h8e30Lqv3WUqZMZj40H2g0BkAg0A"
+          },
+          {
+            "id": 6,
+            "title": "bmc-2-sem-mass-communication-theories-316204-2017",
+            "url-id": "1te6U8FajcaNXqH0zvmrBHCOSqlhWaNEO"
+          },
+          {
+            "id": 7,
+            "title": "bmc-2-sem-english-2-316201-2018",
+            "url-id": "1DdK_SK_mmgZftBETZrywXvna_WlseddZ"
+          },
+          {
+            "id": 8,
+            "title": "bmc-2-sem-mass-communication-theories-316204-2018",
+            "url-id": "1MzgKzRGjhKn9cGrVxiytJLw9FkD18DbH"
+          }
+        ],
+        "sem3": [
+          {
+            "id": 1,
+            "title": "bmc-3-sem-print-journalism-316302-2017",
+            "url-id": "1H7204CNYqvq5girF-zcCCULNPye67Ydd"
+          },
+          {
+            "id": 2,
+            "title": "bmc-3-sem-public-relations-316301-2017",
+            "url-id": "1SoYHwszA_orRss0soSXgPph0jffiUQ4P"
+          },
+          {
+            "id": 3,
+            "title": "bmc-3-sem-television-production-1-316303-2017",
+            "url-id": "1kuaOBqQReDyjVN1fnnep7Rwc2mqpI82X"
+          },
+          {
+            "id": 4,
+            "title": "bmc-3-sem-communicative-hindi-316306-2017",
+            "url-id": "17CT9g9r_u0tUukM9oJc9t_i-Q6ExtPdk"
+          },
+          {
+            "id": 5,
+            "title": "bmc-3-sem-public-relations-316301-2018",
+            "url-id": "19k_ix4-Gk8YzCizV9YY6nxrlAIQOAJQC"
+          },
+          {
+            "id": 6,
+            "title": "bmc-3-sem-advertising-316304-2017",
+            "url-id": "1Z7dvPv84pOt_r-9XVEST4rC6uNiYqgSV"
+          },
+          {
+            "id": 7,
+            "title": "bmc-3-sem-television-production-1-316303-2018",
+            "url-id": "1pR6z1NukUibd_-xRGmF_pYpv0hW0Kzwf"
+          },
+          {
+            "id": 8,
+            "title": "bmc-3-sem-print-journalism-316302-2018",
+            "url-id": "1sIwjlIxPGERuy-NO2hEDqoKuNhs10lZD"
+          },
+          {
+            "id": 9,
+            "title": "bmc-3-sem-advertising-316304-2018",
+            "url-id": "1Q6A-xevg582DiBLw_HfEfwHV2dxuZN06"
+          },
+          {
+            "id": 10,
+            "title": "bmc-3-sem-communicative-hindi-2-316305-2018",
+            "url-id": "1KP-AYjerB4LtP2507OPoQjWLg6ZWhEuu"
+          }
+        ],
+        "sem4": [
+          {
+            "id": 1,
+            "title": "bmc-4-sem-television-production-2-316401-2017",
+            "url-id": "17iRFhSp6NAnC_YznkV-D2jxGhlflFyCX"
+          },
+          {
+            "id": 2,
+            "title": "bmc-4-sem-corporate-communication-316402-2017",
+            "url-id": "1AIhPK8jzcjxzTymh8AuPbYFECJC7-T5J"
+          },
+          {
+            "id": 3,
+            "title": "bmc-4-sem-communication-and-development-316403-2017",
+            "url-id": "1dgh3BPYLWxWHQEEEECPprOJQjt-REiFH"
+          },
+          {
+            "id": 4,
+            "title": "bmc-4-sem-film-studies-316404-2017",
+            "url-id": "1uBOQsufq9pyYvMX2wfKwj7eTqVWqEO5D"
+          },
+          {
+            "id": 5,
+            "title": "bmc-4-sem-communication-and-development-316403-2018",
+            "url-id": "1-Mm4q7if-ZUaS1cYP1UMJIETvgb-FDxa"
+          },
+          {
+            "id": 6,
+            "title": "bmc-4-sem-film-studies-316404-2018",
+            "url-id": "14cZOmsmCjShWOx9asx26uBALBPun0jOE"
+          },
+          {
+            "id": 7,
+            "title": "bmc-4-sem-corporate-communication-316402-2018",
+            "url-id": "1SUdN2DwHOp3dRGRoccxodDIqKkgbBsw6"
+          },
+          {
+            "id": 8,
+            "title": "bmc-4-sem-television-production-2-316401-2018",
+            "url-id": "1X9bOgatc4j2M-GeXFDyoz5mNBlBJat0i"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1117",
+      "title": "mtech",
+      "mtech": {
+        "sem1": [
+          {
+            "id": 1,
+            "title": "mtech-1-sem-applied-elasticity-and-plasticity-2018",
+            "url-id": "1jcdtsIYJgfYMWoweKfxoo5Ut4RucuxOz"
+          },
+          {
+            "id": 2,
+            "title": "mtech-1-sem-heat-transfer-1-conduction-and-radiation-heat-transfer-2018",
+            "url-id": "1n6RS217X-8tWj4Vi1N59_NnJt9auTpOM"
+          }
+        ]
+      }
     }
-  },
-  {
-    "id": "1112",
-    "bba": {
-      "sem1": [
-        {
-          "id": 1,
-          "title": "bba-1-sem-microeconomics-2013",
-          "url-id": "10fvgG9-dbyXa9mDsU1iWq2p6EZWLxP1R"
-        },
-        {
-          "id": 2,
-          "title": "bba-1-sem-marketing-management-1-2013",
-          "url-id": "1hkjvOxbYou6b3jOzn3qF6VGl0We2X2r1"
-        },
-        {
-          "id": 3,
-          "title": "bba-1-sem-macroeconomics-2013",
-          "url-id": "1nWYQhUe7loKU1SACiyeQKz-f3FkDrW-C"
-        },
-        {
-          "id": 4,
-          "title": "bba-1-sem-principles-and-practices-of-management-302101-2017",
-          "url-id": "1bIQWQYRhxvU-3yASth9-29sPlz1v7aw5"
-        },
-        {
-          "id": 5,
-          "title": "bba-1-sem-information-technology-in-management-1-2013",
-          "url-id": "1mLy4Y0f_Y7CskzFHiaOukohqYAhtohs_"
-        },
-        {
-          "id": 6,
-          "title": "bba-1-sem-communicative-english-2013",
-          "url-id": "1tDcTCM7tBsjQeo1aJaVGyjP4Vt1o3zYF"
-        },
-        {
-          "id": 7,
-          "title": "bba-1-sem-microeconomics-302102-2017",
-          "url-id": "1Q5pRM7p9As21IpL5bL28wq_IQPtLSHIj"
-        },
-        {
-          "id": 8,
-          "title": "bba-1-sem-marketing-management-1-302105-2017",
-          "url-id": "1RgYLCFj-ePkp98pagDuEjOND2iiR1yRN"
-        },
-        {
-          "id": 9,
-          "title": "bba-1-sem-information-technology-in-management-302104-2017",
-          "url-id": "1lYd8409R7dPMFsg0hhNJ4jlC646V2jr3"
-        },
-        {
-          "id": 10,
-          "title": "bba-1-sem-communicative-english-302106-2017",
-          "url-id": "1nuGzsX_jTcZ2liXHTBHbKXxhDicFqGc8"
-        },
-        {
-          "id": 11,
-          "title": "bba-1-sem-macro-economics-302103-2017",
-          "url-id": "1qSCE8sPgXMF6nQ-8EyR7_l9v0mzDSlkm"
-        },
-        {
-          "id": 12,
-          "title": "bba-1-sem-communicative-english-302106-2018",
-          "url-id": "1kLriEWQGOotIONk0oWjdeBDQxF77EGf3"
-        },
-        {
-          "id": 13,
-          "title": "bba-1-sem-marketing-management-1-302105-2018",
-          "url-id": "1kPcmmAzIv4Lag3j6Dnz1xHxXEUxxi81N"
-        },
-        {
-          "id": 14,
-          "title": "bba-1-sem-principles-and-practices-of-management-302101-2018",
-          "url-id": "1k_bh9ywqLSiFryokhGgaBubHDsgkW_Lh"
-        },
-        {
-          "id": 15,
-          "title": "bba-1-sem-microeconomics-302102-2018",
-          "url-id": "1SURPPBaqODFe609YkMH5L0JbHEitHHEl"
-        },
-        {
-          "id": 16,
-          "title": "bba-1-sem-macroeconomics-302103-2018",
-          "url-id": "1FtA3mRwXU_zqs6Mv_UZNelwnhh26wX4l"
-        },
-        {
-          "id": 17,
-          "title": "bba-1-sem-information-technology-in-management-1-302104-2018",
-          "url-id": "1en3hDSGQKRv-MSyKaPO-dgw3-ssCBYsK"
-        },
-        {
-          "id": 18,
-          "title": "bba-1-sem-microeconomics-302102-2019",
-          "url-id": "1VG5T_pqR56mdIW2U_AwtEBePdGFilUgd"
-        },
-        {
-          "id": 19,
-          "title": "bba-1-sem-principles-and-practices-of-management-302101-2019",
-          "url-id": "1YrfBQxM_Hxhtrrb63D_yLTQwbXZBbsp9"
-        },
-        {
-          "id": 20,
-          "title": "bba-1-sem-marketing-management-1-302105-2019",
-          "url-id": "1ccsO1EHYbeTCDkViqpZzb1POmAdG9c0U"
-        },
-        {
-          "id": 21,
-          "title": "bba-1-sem-information-technology-in-management-1-302104-2019",
-          "url-id": "1odi4tNTMif_k6btPSREX3WmI3taOu2h2"
-        },
-        {
-          "id": 22,
-          "title": "bba-1-sem-communicative-english-302106-2019",
-          "url-id": "1Z4pYWd0Tf7ZCnJi5taEqtwxKr5UF0E1P"
-        },
-        {
-          "id": 23,
-          "title": "bba-1-sem-macroeconomics-302103-2019",
-          "url-id": "1iA1dsEuL1HWJkWh7KwDvqoUWBT8JkDwb"
-        }
-      ],
-      "sem2": [
-        {
-          "id": 1,
-          "title": "bba-2-sem-business-organization-and-environment-2013",
-          "url-id": "1eFPIWl52rLsG-T48Q5aeJhBaCtegptBb"
-        },
-        {
-          "id": 2,
-          "title": "bba-2-sem-financial-management-2013",
-          "url-id": "1S28HdOZHuMJBTfwtWwWEktn6Hz6fowJW"
-        },
-        {
-          "id": 3,
-          "title": "bba-2-sem-information-technology-in-management-2-2013",
-          "url-id": "12xXdlDMHks_09qi1RXMnGn6GYrErAeXx"
-        },
-        {
-          "id": 4,
-          "title": "bba-2-sem-financial-management-1-2014",
-          "url-id": "11eF-Uzr1ucYWEJvnQKLJ87Lb3rOXk2XV"
-        },
-        {
-          "id": 5,
-          "title": "bba-2-sem-business-organization-and-environment-2014",
-          "url-id": "1we5fyPAEp0wHa5nkBdH0tiS_Dx0Dqjaa"
-        },
-        {
-          "id": 6,
-          "title": "bba-2-sem-human-resource-management-1-2014",
-          "url-id": "1lfuHgWVg2aL363xsvQVtFfv_cMbEjcu-"
-        },
-        {
-          "id": 7,
-          "title": "bba-2-sem-information-technology-in-management-2-2014",
-          "url-id": "1wkkGjUwGZnGBkZVusTxIOAtRjbc3NURP"
-        },
-        {
-          "id": 8,
-          "title": "bba-2-sem-information-technology-in-management-2-2015",
-          "url-id": "1WPlt_x9FWadyuDsb5j8CTNsBjC0S91uX"
-        },
-        {
-          "id": 9,
-          "title": "bba-2-sem-human-resource-management-1-2015",
-          "url-id": "1kfF2uhLfoSK4nXmVwvS7leyZC8IyV1dS"
-        },
-        {
-          "id": 10,
-          "title": "bba-2-sem-business-english-2014",
-          "url-id": "1yo5RJcadiRbEmxfgz0et81t5TmJuglSI"
-        },
-        {
-          "id": 11,
-          "title": "bba-2-sem-business-mathematics-and-statistics-1-2014",
-          "url-id": "11gTz1t2tgI_WJwx0gvGHfPMeEpol6QmC"
-        },
-        {
-          "id": 12,
-          "title": "bba-2-sem-business-organisation-and-environment-2015",
-          "url-id": "143d6ifhwq4QNL0Npg3VTih8q4Zsg87ut"
-        },
-        {
-          "id": 13,
-          "title": "bba-2-sem-business-english-2015",
-          "url-id": "1cafAcIX489KzclYJ7LIWMCWGqyYNdUj9"
-        },
-        {
-          "id": 14,
-          "title": "bba-2-sem-business-mathematics-and-statistics-1-2015",
-          "url-id": "1ubsD27OcaLFpsoazmWPZhl1tVkPP7Dbu"
-        },
-        {
-          "id": 15,
-          "title": "bba-2-sem-financial-management-1-2015",
-          "url-id": "1wDfxITcG-wPU3sm74uXIVqsn2Mu8VDA9"
-        },
-        {
-          "id": 16,
-          "title": "bba-2-sem-information-technology-in-management-2-management-information-system-302205-2017",
-          "url-id": "1yY-AQaGn7JgJla_j2-Q-rEZEYEZjzV-I"
-        },
-        {
-          "id": 17,
-          "title": "bba-2-sem-human-resource-management-1-organizational-behaviour-302203-2017",
-          "url-id": "18mitfFNUw2XZkbDr68bM0ZYONJRy0XKz"
-        },
-        {
-          "id": 18,
-          "title": "bba-2-sem-financial-management-1-302202-2017",
-          "url-id": "1EWU_QJyJ2UnBXAW6JntzrGH3EIqBfvPj"
-        },
-        {
-          "id": 19,
-          "title": "bba-2-sem-business-mathematics-and-statistics-1-mathematical-economics-302204-2017",
-          "url-id": "1Td6DpYjmS_lBL5yCbV246eqqELS1rfJ6"
-        },
-        {
-          "id": 20,
-          "title": "bba-2-sem-business-organization-and-environment-302201-2017",
-          "url-id": "1htqGVBzdijXTVk0br_yb6BVC1qh6l1se"
-        },
-        {
-          "id": 21,
-          "title": "bba-2-sem-business-english-302206-2017",
-          "url-id": "1Q4ZhXZ0g0NFuYeU56Mu-kapfgyCHRR7n"
-        },
-        {
-          "id": 22,
-          "title": "bba-2-sem-management-information-system-302205-2018",
-          "url-id": "1SP7tMfQuLbNIsNLATJOO_R8G6qcWiV9Y"
-        },
-        {
-          "id": 23,
-          "title": "bba-2-sem-business-organization-and-environment-302201-2018",
-          "url-id": "1nhOEf7DgERAJT2RmoZo5n1dsF3UqyOX7"
-        },
-        {
-          "id": 24,
-          "title": "bba-2-sem-business-mathematics-and-statistics-302204-2018",
-          "url-id": "1xPUw8kLMWoF9nUgaU3izdzcFwYgloOTF"
-        },
-        {
-          "id": 25,
-          "title": "bba-2-sem-human-resources-management-1-302203-2018",
-          "url-id": "1iyo0iybTXICDtSk6D6JtIXxul-bU5-y_"
-        },
-        {
-          "id": 26,
-          "title": "bba-2-sem-financial-management-1-financial-accounting-302202-2018",
-          "url-id": "1wHDHwLkOMFpKjMODwHENIyQdKMlSbAAM"
-        },
-        {
-          "id": 27,
-          "title": "bba-2-sem-business-english-302206-2018",
-          "url-id": "1T43e2J_D2G-k4PgYVJJejDW8XGiAfIox"
-        },
-        {
-          "id": 28,
-          "title": "bba-2-sem-hrm-organizational-behaviour-302203-2019",
-          "url-id": "1XEBrLhhaGW0OHpcEtq9Ulb731vjfqSXR"
-        },
-        {
-          "id": 29,
-          "title": "bba-2-sem-financial-management-financial-accounting-302202-2019",
-          "url-id": "1FY60MMioP2NP3e8-Ry92zAv5JwO7Sszn"
-        },
-        {
-          "id": 30,
-          "title": "bba-2-sem-information-technology-in-management-2-302205-2019",
-          "url-id": "1XVNgU8dhG8YEKlWH-ITwwYYcez7qE9cd"
-        },
-        {
-          "id": 31,
-          "title": "bba-2-sem-business-organization-and-environment-302201-2019",
-          "url-id": "1VlukeoQGlsSgDvs4iDwpW_nuh7uPcWSE"
-        },
-        {
-          "id": 32,
-          "title": "bba-2-sem-business-mathematics-and-statistics-1-302204-2019",
-          "url-id": "1lGfrVG4a6eLbODf9UOWaTZxLUaKCuUUY"
-        },
-        {
-          "id": 33,
-          "title": "bba-2-sem-business-english-302206-2019",
-          "url-id": "1AZKFKRVRV5GAyqG3EYYskgrppxR0Nyn2"
-        }
-      ],
-      "sem3": [
-        {
-          "id": 1,
-          "title": "bba-3-sem-human-resource-management-2015",
-          "url-id": "1nQeuTqnCBZyvagFRVdVTzbTFdcHmrQS4"
-        },
-        {
-          "id": 2,
-          "title": "bba-3-sem-marketing-management-2-2015",
-          "url-id": "18U9YF1BuwW4OXk90256-kNKQA1tehZHl"
-        },
-        {
-          "id": 3,
-          "title": "bba-3-sem-financial-management-2-2015",
-          "url-id": "1B94XYOB6tghZrxhnB8giR4GQWYL8L4LB"
-        },
-        {
-          "id": 4,
-          "title": "bba-3-sem-business-taxation-2015",
-          "url-id": "1QQ4adzt2KmXQyMtfJpldF9RNeedSYMQi"
-        },
-        {
-          "id": 5,
-          "title": "bba-3-sem-business-mathematics-and-statistics-2-2015",
-          "url-id": "1QjMHXZ5uLc6bVoSgt-vtZuUTCvJqxYOy"
-        },
-        {
-          "id": 6,
-          "title": "bba-3-sem-corporate-communication-2015",
-          "url-id": "1rPrQr0sp8VNaEMqiY1VPh_w7nVCyx3Qn"
-        },
-        {
-          "id": 7,
-          "title": "bba-3-sem-marketing-management-2-302301-2017",
-          "url-id": "1wmP2M1QrJ81VhW_B4rtmzC4XZ6XEjJNX"
-        },
-        {
-          "id": 8,
-          "title": "bba-3-sem-human-resource-management-2-302303-2017",
-          "url-id": "1BlJtTM8pRfeT2R2mTXaeq9TzVOLF48TK"
-        },
-        {
-          "id": 9,
-          "title": "bba-3-sem-financial-management-2-302302-2017",
-          "url-id": "1QtU-Hz1XPBkv4KunQMPDl0gSEkDDt-rW"
-        },
-        {
-          "id": 10,
-          "title": "bba-3-sem-corporate-communication-302305-2017",
-          "url-id": "1TZCyL8EsuDINwDZDhfqKvTyl8QQqkmeJ"
-        },
-        {
-          "id": 11,
-          "title": "bba-3-sem-business-taxation-302306-2017",
-          "url-id": "1D5cTohi44HIolzSh3z7Ck3uArVdUW4uC"
-        },
-        {
-          "id": 12,
-          "title": "bba-3-sem-business-mathematics-and-statistics-2-302304-2017",
-          "url-id": "1k5WPLMkRghzncQlTn5dNep84Lu_PCvAY"
-        },
-        {
-          "id": 13,
-          "title": "bba-3-sem-psychology-302307-2018",
-          "url-id": "1TNelz_8DKYJGdVmfHX9LiM1gdsLsFZ-e"
-        },
-        {
-          "id": 14,
-          "title": "bba-3-sem-human-resource-management-2-302303-2018",
-          "url-id": "1WvxhLWGRU8BWHlyNSvvrlr0ctXqMVXHF"
-        },
-        {
-          "id": 15,
-          "title": "bba-3-sem-marketing-management-2-302301-2018",
-          "url-id": "1uQ2X2mwJhFI8s2phUNJl5vrinPFObujg"
-        },
-        {
-          "id": 16,
-          "title": "bba-3-sem-financial-management-2-302302-2018",
-          "url-id": "1ryHsn8_UAtYJBWSQtqBK42qBM-jeLifj"
-        },
-        {
-          "id": 17,
-          "title": "bba-3-sem-marketing-management-2-302301-2019",
-          "url-id": "17ZUQed640_crawa62k2C7WTK_8fiGujF"
-        },
-        {
-          "id": 18,
-          "title": "bba-3-sem-business-mathematics-and-statistics-2-302304-2018",
-          "url-id": "1YJo6DRdMar-b26Cxdr4pv-RF8jpEiq4F"
-        },
-        {
-          "id": 19,
-          "title": "bba-3-sem-corporate-communication-302305-2018",
-          "url-id": "1tcbvlAaPKoweCLwmpq286b5xIScKOjqW"
-        },
-        {
-          "id": 20,
-          "title": "bba-3-sem-human-resource-management-2-302303-2019",
-          "url-id": "1oooKAZy7YQGPgNK_1w3ByVJSxsTHAQa4"
-        },
-        {
-          "id": 21,
-          "title": "bba-3-sem-business-mathematics-and-statistics-2-302304-2019",
-          "url-id": "1EAWCXyyjmNt0tNTZF7P7raeeg9dfdyZE"
-        },
-        {
-          "id": 22,
-          "title": "bba-3-sem-business-taxation-302306-2019",
-          "url-id": "1FY5W_IkK31DuHefUnwyGf8pbtW-1UT0u"
-        },
-        {
-          "id": 23,
-          "title": "bba-3-sem-financial-management-2-302302-2019",
-          "url-id": "1tn9secovaLDO7W0OH8wEnvQYpC3_BuVK"
-        },
-        {
-          "id": 24,
-          "title": "bba-3-sem-corporate-communication-302305-2019",
-          "url-id": "1QJStcX_nNQJn_h15mbcOs4xViMcoUGTT"
-        },
-        {
-          "id": 25,
-          "title": "bba-3-sem-corporate-communication-302305-2020",
-          "url-id": "1GNZKyBiwxHNLCxWUOhSGjrJ4kuVOZvsQ"
-        },
-        {
-          "id": 26,
-          "title": "bba-3-sem-business-taxation-302306-2020",
-          "url-id": "1HFtQfVmtVRbVBPzJKpExSiXZVWG7oApT"
-        },
-        {
-          "id": 27,
-          "title": "bba-3-sem-human-resource-management-2-302303-2020",
-          "url-id": "1bjQKaENlRc8kZCU_9rwDKZPdBjHTYF0R"
-        },
-        {
-          "id": 28,
-          "title": "bba-3-sem-business-mathematics-and-statistics-2-302304-2020",
-          "url-id": "1j5Z9CZ42sFSna2wIETU-79wlGz9MmEXn"
-        },
-        {
-          "id": 29,
-          "title": "bba-3-sem-marketing-management-2-consumer-behaviour-302301-2020",
-          "url-id": "193LFqjrNTP2AQ_7Gs-Od5d1svY1tu1vM"
-        },
-        {
-          "id": 30,
-          "title": "bba-3-sem-financial-management-2-managerial-accounting-302302-2020",
-          "url-id": "1IS_pdAY0z_nXjXF_-1HQuHtd1DrbzKfc"
-        }
-      ],
-      "sem4": [
-        {
-          "id": 1,
-          "title": "bba-4-sem-strategic-management-2016",
-          "url-id": "13c9UdR58Wd_utevK9y1oloMADKSNw7R-"
-        },
-        {
-          "id": 2,
-          "title": "bba-4-sem-social-and-marketing-research-methods-2016",
-          "url-id": "1yqKAqJfVdDYy0acPqT1V6RLPj3fZtp1m"
-        },
-        {
-          "id": 3,
-          "title": "bba-4-sem-operations-research-and-logistics-2016",
-          "url-id": "1TpDXvteXJVdofsTpJ7xLtSA95PEqSRnH"
-        },
-        {
-          "id": 4,
-          "title": "bba-4-sem-production-and-operations-management-2016",
-          "url-id": "1fHJpHNsaHeAniqIlKXDJvEF5W_wXkaw-"
-        },
-        {
-          "id": 5,
-          "title": "bba-4-sem-project-and-event-management-2016",
-          "url-id": "1vC3Tug06G37YjHOGc13nYn2YChkhSx8h"
-        },
-        {
-          "id": 6,
-          "title": "bba-4-sem-entrepreneurship-development-programme-2016",
-          "url-id": "1HgnS5WIUna5mCqKtmEE-RL21LMjsHFL2"
-        },
-        {
-          "id": 7,
-          "title": "bba-4-sem-strategic-management-302401-2017",
-          "url-id": "1YId51N2XjOPWdtFQt-GXnJvNlTvWL-zP"
-        },
-        {
-          "id": 8,
-          "title": "bba-4-sem-project-and-event-management-302404-2017",
-          "url-id": "12ZnmI_RKDr490w1MKeGCbSNYxCnNBTUd"
-        },
-        {
-          "id": 9,
-          "title": "bba-4-sem-production-and-operations-management-302402-2017",
-          "url-id": "16IJ9eRGM9F-MMjLXkNagI7IUBrNQ9ecn"
-        },
-        {
-          "id": 10,
-          "title": "bba-4-sem-operations-research-and-logistics-302403-2017",
-          "url-id": "1LPg0-8dKvBVwN5lngcjU_1Ok3A1h_53m"
-        },
-        {
-          "id": 11,
-          "title": "bba-4-sem-social-and-marketing-research-method-302405-2017",
-          "url-id": "10EkG5BIOHqczT_NnRIuWaStSJAKm3trF"
-        },
-        {
-          "id": 12,
-          "title": "bba-4-sem-social-and-marketing-research-method-302405-2018",
-          "url-id": "19g_xXMYnlqgx8y7_TC3jT_Kw5wKe_wYG"
-        },
-        {
-          "id": 13,
-          "title": "bba-4-sem-entrepreneruship-development-programme-302406-2017",
-          "url-id": "1fpL4bZK1enXteAPC8od5XcAkvu7uXu2b"
-        },
-        {
-          "id": 14,
-          "title": "bba-4-sem-strategic-management-302401-2018",
-          "url-id": "1sd16zOWrtxplG7-YYTIiRaonL9_XOf6b"
-        },
-        {
-          "id": 15,
-          "title": "bba-4-sem-operations-research-and-logistics-302403-2018",
-          "url-id": "1zfmz8405SnG4jgTmxncBEM12C5J5GVuO"
-        },
-        {
-          "id": 16,
-          "title": "bba-4-sem-production-and-operations-management-302402-2018",
-          "url-id": "1JjISXVGPvF7AjQxyhhiCEntks4fbTWxZ"
-        },
-        {
-          "id": 17,
-          "title": "bba-4-sem-project-and-event-management-302404-2018",
-          "url-id": "1Oud0rK-vO4vDxPEAjx7rs9OtDRfRl4VE"
-        },
-        {
-          "id": 18,
-          "title": "bba-4-sem-entrepreneruship-development-programme-302406-2018",
-          "url-id": "1uuifPWjlymNylOS6BQKCc67XzEYw2NFU"
-        },
-        {
-          "id": 19,
-          "title": "bba-4-sem-production-and-operations-management-302402-2019",
-          "url-id": "17XvP6fQatcU9-vqwjzjl_7DFC_90-Yg5"
-        },
-        {
-          "id": 20,
-          "title": "bba-4-sem-strategic-management-302401-2019",
-          "url-id": "126h7nkmc31jmTwVH1n4OYmhgWuLpDyPp"
-        },
-        {
-          "id": 21,
-          "title": "bba-4-sem-project-and-event-management-302404-2019",
-          "url-id": "1HYWo5_yGT_FSLGufT4RfEiHZ_uWjXZfv"
-        },
-        {
-          "id": 22,
-          "title": "bba-4-sem-social-and-marketing-research-method-302405-2019",
-          "url-id": "1wQi1xj7PHX-Jz9cdQilBUqMrBMXXjRBB"
-        },
-        {
-          "id": 23,
-          "title": "bba-4-sem-operations-research-and-logistics-302403-2019",
-          "url-id": "1qRFfCJJwLIAPUQor4xWdgmtDdH7M6nxo"
-        },
-        {
-          "id": 24,
-          "title": "bba-4-sem-entrepreneruship-development-programme-302406-2019",
-          "url-id": "1X-wNGhSEY5TfZdkzIQKGMAQ_FUcg7hGJ"
-        }
-      ],
-      "sem5": [
-        {
-          "id": 1,
-          "title": "bba-5-sem-security-analysis-and-portfolio-management-2016",
-          "url-id": "11-W-GgN61HceneFifOgdtuaWDy4XPVs0"
-        },
-        {
-          "id": 2,
-          "title": "bba-5-sem-retail-management-2016",
-          "url-id": "15gShnNnQwwlpl49uMtoLu2wjhg31shPI"
-        },
-        {
-          "id": 3,
-          "title": "bba-5-sem-indian-financial-system-2016",
-          "url-id": "1LwhaV_9OXpxNXfP6Yh5EopAo6yiJ9zAX"
-        },
-        {
-          "id": 4,
-          "title": "bba-5-sem-e-commerce-2016",
-          "url-id": "14GchRlZfCqS015BQvZhRR92WopKs41Ye"
-        },
-        {
-          "id": 5,
-          "title": "bba-5-sem-retail-management-302501-2018",
-          "url-id": "1fBABq3VBYnTrp6YIqh8KHPZbgMo_LMcR"
-        },
-        {
-          "id": 6,
-          "title": "bba-5-sem-security-analysis-and-protfolio-management-302503-2018",
-          "url-id": "1fiN3npuDUaekmX2zgjftf534kNjuxrL_"
-        },
-        {
-          "id": 7,
-          "title": "bba-5-sem-indian-financial-system-302502-2018",
-          "url-id": "1K4O3Np-N2hau7nI8zv-z0e2fJWc_xDRx"
-        },
-        {
-          "id": 8,
-          "title": "bba-5-sem-e-commerce-302504-2018",
-          "url-id": "12YplUS2ErtlHrEtk8h8AqjKE5CoKPln7"
-        },
-        {
-          "id": 9,
-          "title": "bba-5-sem-security-analysis-and-protfolio-management-302503-2019",
-          "url-id": "1rTJjpHjOtdlAqYwW8PddshLpkkOhDoGq"
-        },
-        {
-          "id": 10,
-          "title": "bba-5-sem-indian-financial-system-302502-2019",
-          "url-id": "1taYpj7oxmpgWQlIrvRk5KSaIwhmgXduU"
-        },
-        {
-          "id": 11,
-          "title": "bba-5-sem-e-commerce-302504-2019",
-          "url-id": "1xTFnwy6l-jp97Z6IMi54eKj-YTKxTAzm"
-        },
-        {
-          "id": 12,
-          "title": "bba-5-sem-retail-management-302501-2019",
-          "url-id": "1E6J5G5vGyUfIYbxzNhas8URhD317LNUw"
-        },
-        {
-          "id": 13,
-          "title": "bba-5-sem-retail-management-302501-2020",
-          "url-id": "1neoA78JEl2mkguYeZfDCLTBv6NEFk6VW"
-        },
-        {
-          "id": 14,
-          "title": "bba-5-sem-indian-financial-system-302502-2020",
-          "url-id": "1sbEkg0fLtax8t8aihGkg4OxWPVkuOd8C"
-        },
-        {
-          "id": 15,
-          "title": "bba-5-sem-e-commerce-302504-2020",
-          "url-id": "1AUxY3qpJi5a7XMsCninUj-_mBBj5ibAw"
-        },
-        {
-          "id": 16,
-          "title": "bba-5-sem-security-analysis-and-portfolio-management-302503-2020",
-          "url-id": "1Tzcyn_sVf39o7XkxBfxs8nDoWBzIHlpS"
-        }
-      ],
-      "sem6": [
-        {
-          "id": 1,
-          "title": "bba-6-sem-services-marketing-2017",
-          "url-id": "1DmTHMlieL3UgLOL18htqlxIDU8ZG6atY"
-        },
-        {
-          "id": 2,
-          "title": "bba-6-sem-risk-management-2017",
-          "url-id": "1aocLmdOO-o6KraotlZn0maJUUpK-Topp"
-        },
-        {
-          "id": 3,
-          "title": "bba-6-sem-international-finance-2017",
-          "url-id": "1PMyJW811o_MKR0qQ29gxOapWIXKe4B7J"
-        },
-        {
-          "id": 4,
-          "title": "bba-6-sem-business-law-and-industrial-relations-2017",
-          "url-id": "1Rp4QhGpyM1_hsnpd3JItBBGdJxnjnBQS"
-        }
-      ]
-    }
-  },
-  {
-    "id": "1113",
-    "bbe": {
-      "sem1": [
-        {
-          "id": 1,
-          "title": "bbe-1-sem-mathematics-for-business-and-economics-2015",
-          "url-id": "1oVLN9g0Q4rKjsMQwMGC_wRTScG6jW5JJ"
-        },
-        {
-          "id": 2,
-          "title": "bbe-1-sem-micro-economics-analysis-1-315101-2017",
-          "url-id": "1q_VoJF2Y_pbS5yeZLHuko8foNJYUkoLu"
-        },
-        {
-          "id": 3,
-          "title": "bbe-1-sem-mathematics-for-business-and-economics-315102-2017",
-          "url-id": "1u0Re0Q-XhQNw1mRUZ_gzZ8lNlbYi7L0H"
-        },
-        {
-          "id": 4,
-          "title": "bbe-1-sem-mathematics-for-business-and-economics-315102-2018",
-          "url-id": "1ADOaCxLQINMStWFDjLjDaJSgRT6Pp0V5"
-        },
-        {
-          "id": 5,
-          "title": "bbe-1-sem-microeconomic-analysis-1-315101-2018",
-          "url-id": "18_NLC5aLgq7mqN1lpSOrchWZruykhaee"
-        },
-        {
-          "id": 6,
-          "title": "bbe-1-sem-business-communication-315103-2017",
-          "url-id": "1EfO8Aa0l2PpxlJ1bEk020EqACHjNERc6"
-        },
-        {
-          "id": 7,
-          "title": "bbe-1-sem-business-communication-315103-2018",
-          "url-id": "1yjrYq2zF6_IcYSzrOPOWsOMXMLdgn1vO"
-        }
-      ],
-      "sem2": [
-        {
-          "id": 1,
-          "title": "bbe-2-sem-microeconomic-analysis-2-2016",
-          "url-id": "1etPwcMl0tY4VK3hWSXiAwKOrmo9FDoX9"
-        },
-        {
-          "id": 2,
-          "title": "bbe-2-sem-economics-of-money-banking-and-finance-2016",
-          "url-id": "1nxEMov04yQhZpiVlTaSKVQCvCHO_JG6g"
-        },
-        {
-          "id": 3,
-          "title": "bbe-2-sem-statistics-for-business-and-economics-315203-2017",
-          "url-id": "1wh6p3hfEqBSgaWI9Bj0ZAyuxIJAmT4G-"
-        },
-        {
-          "id": 4,
-          "title": "bbe-2-sem-statistics-for-business-and-economics-315203-2018",
-          "url-id": "1IQwX411mZgg_PuzMC-pscyF_7rAH9AgZ"
-        },
-        {
-          "id": 5,
-          "title": "bbe-2-sem-economics-of-money-banking-and-finance-315202-2017",
-          "url-id": "1WeKTOsyPTMdHVEsj2P3jZxvrSZ6yGmNo"
-        },
-        {
-          "id": 6,
-          "title": "bbe-2-sem-microeconomic-analysis-2-315201-2018",
-          "url-id": "1UzzE7xqb6-P1lr5X8At-b_ISWyDnd7ZE"
-        },
-        {
-          "id": 7,
-          "title": "bbe-2-sem-microeconomic-analysis-2-315201-2017",
-          "url-id": "1EkGXbOU5ZyoX__DnJwMJvqdxifp4zERG"
-        },
-        {
-          "id": 8,
-          "title": "bbe-2-sem-economics-of-money-banking-and-finance-315202-2018",
-          "url-id": "1efDMiR89tXrtM33_V4TtIQ1NOYARJ97y"
-        }
-      ],
-      "sem3": [
-        {
-          "id": 1,
-          "title": "bbe-3-sem-research-methodology-315303-2017",
-          "url-id": "139rddHrubsHJpBSNsNyukZJng1RJue3x"
-        },
-        {
-          "id": 2,
-          "title": "bbe-3-sem-public-finance-315301-2017",
-          "url-id": "1VmDg9hGu9bXHYa9yqzWH23H8XGjSA3DU"
-        },
-        {
-          "id": 3,
-          "title": "bbe-3-sem-macro-economic-policy-and-application-315302-2018",
-          "url-id": "11XoR_4KH4SmCeVfRjMnXuc47xEJqLomz"
-        },
-        {
-          "id": 4,
-          "title": "bbe-3-sem-public-finance-315301-2018",
-          "url-id": "1Py6k8Pw4NnL5sBvkIdUGqhy2iG142yvc"
-        },
-        {
-          "id": 5,
-          "title": "bbe-3-sem-research-methodology-315303-2018",
-          "url-id": "1r1pF82ZWOyZxNLaGO83hZCs80kGEYjRS"
-        },
-        {
-          "id": 6,
-          "title": "bbe-3-sem-macro-economic-policy-and-application-315302-2017",
-          "url-id": "1RKxShN3uTYrIoNGXOE-te6wDP3E5iMiG"
-        },
-        {
-          "id": 7,
-          "title": "bbe-3-sem-research-methodology-315303-2019",
-          "url-id": "19l-1wzvjvHCm7Cr3cx_2VZaZprxvTriO"
-        },
-        {
-          "id": 8,
-          "title": "bbe-3-sem-research-methodology-315303-2020",
-          "url-id": "1WD8IPW066Ufz7j21tciBpnSwnjYcpnim"
-        },
-        {
-          "id": 9,
-          "title": "bbe-3-sem-public-finance-315301-2019",
-          "url-id": "1xUyCDpAnWfMr7XPgnX-XBD8YlNxwfaQK"
-        },
-        {
-          "id": 10,
-          "title": "bbe-3-sem-macro-economic-policy-and-application-315302-2019",
-          "url-id": "1NvMt8FgauMwVnN9ds5BVdwUNhC8VyVBn"
-        },
-        {
-          "id": 11,
-          "title": "bbe-3-sem-public-finance-315301-2020",
-          "url-id": "147QEQgbITP_KUoXteBskN-7o27_-FVJS"
-        },
-        {
-          "id": 12,
-          "title": "bbe-3-sem-macroeconomic-policy-and-application-315302-2020",
-          "url-id": "17_jICNm5Qvy7osNCaK4Pj37Nsaf8KY1T"
-        }
-      ],
-      "sem4": [],
-      "sem5": [
-        {
-          "id": 1,
-          "title": "bbe-5-sem-econometrics-315502-2018",
-          "url-id": "1BYS5U4eyljEHm8focoqMTEZv67MaDrbr"
-        },
-        {
-          "id": 2,
-          "title": "bbe-5-sem-indias-economic-development-since-independence-315501-2018",
-          "url-id": "1ISdJq-MfPfA4AVrRVl_MEl49kOJLcb5v"
-        },
-        {
-          "id": 3,
-          "title": "bbe-5-sem-legal-aspects-of-business-315503-2018",
-          "url-id": "1CIWjqMvfax2ZYMe5gbGuz91EHex9NhMR"
-        },
-        {
-          "id": 4,
-          "title": "bbe-5-sem-econometrics-315502-2019",
-          "url-id": "19erhLmPV7x4TBsF2nLlkMyqsE4cgTW7O"
-        },
-        {
-          "id": 5,
-          "title": "bbe-5-sem-legal-aspects-of-business-315503-2019",
-          "url-id": "1PMmfG32HoldgJe4aVwQaZIRydvkyct3M"
-        },
-        {
-          "id": 6,
-          "title": "bbe-5-sem-indias-economic-development-since-independence-315501-2019",
-          "url-id": "1S9UHMAHlO5LQ454fYI60NvettiY-6_Rk"
-        },
-        {
-          "id": 7,
-          "title": "bbe-5-sem-legal-aspects-of-business-315503-2020",
-          "url-id": "1_r5q_4wolOxdO8grvUpq5GHj-uIMfSa2"
-        },
-        {
-          "id": 8,
-          "title": "bbe-5-sem-indias-economic-development-since-independence-315501-2020",
-          "url-id": "1E2eSzuC2aRyQaNujilZPzBV9Q99rnlBH"
-        },
-        {
-          "id": 9,
-          "title": "bbe-5-sem-econometrics-315502-2020",
-          "url-id": "1Ei17BNJPnC1Cue3AuVyACRXsiGmZX_Qy"
-        }
-      ]
-    }
-  },
-  {
-    "id": "1114",
-    "bca": {
-      "sem1": [
-        {
-          "id": 1,
-          "title": "bca-1-sem-principles-of-management-and-organization-2013",
-          "url-id": "1XGb4sJOxAwvshEIInAmDnIfA1wlxHgSt"
-        },
-        {
-          "id": 2,
-          "title": "bca-1-sem-python-programming-2013",
-          "url-id": "1_95Vj3EXW18IcwWSt7PJeWfI8rygdlJA"
-        },
-        {
-          "id": 3,
-          "title": "bca-1-sem-imformation-technology-and-application-303103-2013",
-          "url-id": "1lV1ZUveAUiNctj1k9i8_FuKqznSpfW3M"
-        },
-        {
-          "id": 4,
-          "title": "bca-1-sem-principle-of-management-and-organization-2014",
-          "url-id": "1SdFcAKgQmwekhLlV_1JSYwh15kbrmSXe"
-        },
-        {
-          "id": 5,
-          "title": "bca-1-sem-communicative-english-2013",
-          "url-id": "14unFGZpN1JyAv8_L4X1b8vykdG7px2ZY"
-        },
-        {
-          "id": 6,
-          "title": "bca-1-sem-basic-mathematics-2013",
-          "url-id": "1sMtyuhKsK697Y2iHES2oCRzcUONM_nEK"
-        },
-        {
-          "id": 7,
-          "title": "bca-1-sem-problem-solving-and-programming-concept-2014",
-          "url-id": "1iYptVzrjBAp4bbnXraIk4eHZEh9ydftD"
-        },
-        {
-          "id": 8,
-          "title": "bca-1-sem-communication-english-2014",
-          "url-id": "1WBBuEzvzx8BfuqQx1Ifw-0R5FGwS19nv"
-        },
-        {
-          "id": 9,
-          "title": "bca-1-sem-basic-mathematics-2014",
-          "url-id": "13rKIxZ4osu1Cg3wnhs8XPv-DIPBvCfzK"
-        },
-        {
-          "id": 10,
-          "title": "bca-1-sem-information-technology-and-application-2014",
-          "url-id": "1Q1rInL7zucoXIFR_EVTiy4Bb5q98BewA"
-        },
-        {
-          "id": 11,
-          "title": "bca-1-sem-problem-solving-and-programming-concepts-2015",
-          "url-id": "12D0ILHAXl54kUVV52pRLOOTSQT6YfEuR"
-        },
-        {
-          "id": 12,
-          "title": "bca-1-sem-information-technology-and-applications-303103-2015",
-          "url-id": "1Ese-t2MMposRr3xWZo_B4aRbXeYvNztU"
-        },
-        {
-          "id": 13,
-          "title": "bca-1-sem-information-technology-and-applications-303103-2016",
-          "url-id": "1JAX0v-JlOH83d3IdY3eR7M8j0asP1wA0"
-        },
-        {
-          "id": 14,
-          "title": "bca-1-sem-information-technology-and-application-303103-2017",
-          "url-id": "1lbpNwGvm7KB6AY7MJzC8jxKkBUHwhh4X"
-        },
-        {
-          "id": 15,
-          "title": "bca-1-sem-principles-of-management-and-organization-303104-2017",
-          "url-id": "1iU6e_kaNvfRf5xH_9XshH1aSXkDumnFY"
-        },
-        {
-          "id": 16,
-          "title": "bca-1-sem-problem-solving-and-programming-concepts-303106-2017",
-          "url-id": "157_pH2ISj5ucyia-br3IbvGO6nslKqZR"
-        },
-        {
-          "id": 17,
-          "title": "bca-1-sem-basic-mathematics-303102-2017",
-          "url-id": "1AKoA6J5D9SlxW9f0rS-jQ1VcQhyJqQ9V"
-        },
-        {
-          "id": 18,
-          "title": "bca-1-sem-communicative-english-303101-2017",
-          "url-id": "1BuFGC2DdVjcQNZFs4fB_snDE2EZrJ9dx"
-        },
-        {
-          "id": 19,
-          "title": "bca-1-sem-python-programming-303105-2018",
-          "url-id": "1_krwM8knsxw9FVRhteLUb-uSwXRpupbo"
-        },
-        {
-          "id": 20,
-          "title": "bca-1-sem-basic-mathematics-303102-2018",
-          "url-id": "1rgAhXYyYZa19bbrnyZnjBli4ea11iPTR"
-        },
-        {
-          "id": 21,
-          "title": "bca-1-sem-communicative-english-303101-2019",
-          "url-id": "1G8yGFPQl9PSJ3QdRht5sQxi8hKW7GwdF"
-        },
-        {
-          "id": 22,
-          "title": "bca-1-sem-principles-of-management-and-organization-303104-2018",
-          "url-id": "1WSimoG2dzVMD-iw-7wRNP46i3S7caEya"
-        },
-        {
-          "id": 23,
-          "title": "bca-1-sem-information-technology-and-application-303103-2018",
-          "url-id": "13ZM0yPvDzw4xDaOtkG0T7lX2xPkfN0j4"
-        },
-        {
-          "id": 24,
-          "title": "bca-1-sem-python-programming-303105-2019",
-          "url-id": "1Z6xXMSWO053bfHGB6yydnjes04InBgQY"
-        },
-        {
-          "id": 25,
-          "title": "bca-1-sem-communicative-english-303101-2018",
-          "url-id": "1gotqUb9lGMB3fGYqwLq9whVxxPG5pQtV"
-        },
-        {
-          "id": 26,
-          "title": "bca-1-sem-principles-of-management-and-organization-303104-2019",
-          "url-id": "1pvAoKxr1tJjOCQ2HpKmlrU5cwOZjZr5U"
-        },
-        {
-          "id": 27,
-          "title": "bca-1-sem-information-technology-and-application-303103-2019",
-          "url-id": "186XQNvj-0o-pE0MgiUeuwmEEvRfFELF4"
-        }
-      ],
-      "sem2": [
-        {
-          "id": 1,
-          "title": "bca-2-sem-system-analysis-and-design-2014",
-          "url-id": "1_vcPjczxvAxX7JOp0B6893F0vK5LGLLv"
-        },
-        {
-          "id": 2,
-          "title": "bca-2-sem-business-english-2014",
-          "url-id": "12DfMqRT3Lrlwncezs9NLaPd20WLCyOIA"
-        },
-        {
-          "id": 3,
-          "title": "bca-2-sem-operating-system-and-unix-2014",
-          "url-id": "10IK_L-POflyAIe2D19RNOxUlgWvmssah"
-        },
-        {
-          "id": 4,
-          "title": "bca-2-sem-mathematics-numerical-techniques-2014",
-          "url-id": "19DL6Vu_Ba_JVccrGdCwPo4MzJWiGaLnb"
-        },
-        {
-          "id": 5,
-          "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-2014",
-          "url-id": "1YmugP4zJslkNXzpmbp2O1dxSuP2dxMgy"
-        },
-        {
-          "id": 6,
-          "title": "bca-2-sem-system-analysis-and-design-2015",
-          "url-id": "1xGFW55FN7-iw5AioCzlHiX1RIIQe96wP"
-        },
-        {
-          "id": 7,
-          "title": "bca-2-sem-business-communication-2015",
-          "url-id": "1CjBO8xr8pYErZr2BPQtpDe9NqGhEO3l6"
-        },
-        {
-          "id": 8,
-          "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-2015",
-          "url-id": "1kiRYmc_vNWQkdLRqkZn6HBkbX0Sej45l"
-        },
-        {
-          "id": 9,
-          "title": "bca-2-sem-mathematics-2015",
-          "url-id": "1XMZCkTeiec7PhmrSOBf1JKBeF6AbNT-I"
-        },
-        {
-          "id": 10,
-          "title": "bca-2-sem-system-analysis-and-design-2016",
-          "url-id": "1BaNfHw9SrNAHqx_-oXAcbmOqCH6_HV7w"
-        },
-        {
-          "id": 11,
-          "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-2016",
-          "url-id": "1UXA4gdHQ9l0FU7KlcW6eiD_Bke7qwKK2"
-        },
-        {
-          "id": 12,
-          "title": "bca-2-sem-operating-system-and-unix-2016",
-          "url-id": "1hJVj_sVk7StcHmFkFSv1D42ZmeoEYnNY"
-        },
-        {
-          "id": 13,
-          "title": "bca-2-sem-system-analysis-and-design-303203-2017",
-          "url-id": "1IPyUcX-zYhDuc_6PChHcRHx8_NLaWbKR"
-        },
-        {
-          "id": 14,
-          "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-303204-2017",
-          "url-id": "1F_SlklW86y_EUTZYEuNEhu2-J5EsQEwD"
-        },
-        {
-          "id": 15,
-          "title": "bca-2-sem-mathematics-2016",
-          "url-id": "1V-dUdOmzcGLWyyFQcljEC-Fnp7B35sZl"
-        },
-        {
-          "id": 16,
-          "title": "bca-2-sem-mathematics-numerical-techniques-303202-2017",
-          "url-id": "1e8Ix6OVPXDYT4h-_KisItcH0uI8KxWKN"
-        },
-        {
-          "id": 17,
-          "title": "bca-2-sem-operating-system-and-unix-303205-2017",
-          "url-id": "16XhW0fDjmdQJRsKyOY6O8N7jOc-FAoGx"
-        },
-        {
-          "id": 18,
-          "title": "bca-2-sem-system-analysis-and-design-303203-2018",
-          "url-id": "1CxDzcErsE0UMmvEfJk5SYkrh3ovFTLKS"
-        },
-        {
-          "id": 19,
-          "title": "bca-2-sem-business-english-303201-2017",
-          "url-id": "1QrYd7OVQGUCa8fmb9yCKw1aPZaazT89D"
-        },
-        {
-          "id": 20,
-          "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-303204-2018",
-          "url-id": "1LGoTEaFlZeEZLstTPvHLBOA_KcgsOj41"
-        },
-        {
-          "id": 21,
-          "title": "bca-2-sem-operating-system-and-unix-303205-2018",
-          "url-id": "1rPUrBs5oxefMni-S3bvSkhxB7kLr7Mzo"
-        },
-        {
-          "id": 22,
-          "title": "bca-2-sem-system-analysis-and-design-303203-2019",
-          "url-id": "1QNKWrlSjqBpqQp7VlRcxwRKegoM_6hap"
-        },
-        {
-          "id": 23,
-          "title": "bca-2-sem-mathematics-numerical-techniques-303202-2018",
-          "url-id": "1zRURO15Pl1V2zVLybMRZQJIAX9MA3Fd1"
-        },
-        {
-          "id": 24,
-          "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-303204-2019",
-          "url-id": "18ksEL1bYwJoVv0rOppBCS9DqvR_vHHNh"
-        },
-        {
-          "id": 25,
-          "title": "bca-2-sem-business-english-303201-2018",
-          "url-id": "1AALHeCYX1hL0IXUyAZAXLcLejxIF2vxj"
-        },
-        {
-          "id": 26,
-          "title": "bca-2-sem-mathematics-numerical-technique-303202-2019",
-          "url-id": "19xNKmwW6diEE4ccUXgSvCm1MQrZIYaa4"
-        },
-        {
-          "id": 27,
-          "title": "bca-2-sem-operating-system-and-unix-303205-2019",
-          "url-id": "1VHG_D_L4Z8DkjmHNMxl9qE70q8BkvbT2"
-        },
-        {
-          "id": 28,
-          "title": "bca-2-sem-system-analysis-and-design-303203-2021",
-          "url-id": "1epaBiT5bJlCwwnrvoYOoOpCVWoDwn8n1"
-        },
-        {
-          "id": 29,
-          "title": "bca-2-sem-business-english-303201-2019",
-          "url-id": "1zdLM6X0ml8D7ooSW5m0LVOBF-JyIMHXh"
-        },
-        {
-          "id": 30,
-          "title": "bca-2-sem-operating-system-and-unix-303205-2021",
-          "url-id": "1-4CjBzpd1Dm5GkjaIK8O_EwgqYnh7BPL"
-        },
-        {
-          "id": 31,
-          "title": "bca-2-sem-problem-solving-technique-and-programming-in-c-303204-2021",
-          "url-id": "1CyeLLdzZSTeBwd6HRkzwdPaUtJD8UAkt"
-        },
-        {
-          "id": 32,
-          "title": "bca-2-sem-mathematics-numerical-techniques-303202-2021",
-          "url-id": "12NTG63VDjFKL41-Qz51wP25DOg8JpvPM"
-        },
-        {
-          "id": 33,
-          "title": "bca-2-sem-business-english-303201-2021",
-          "url-id": "1DxEDB7T4Of9ANDa3dYBfjZF8VQoD0YSU"
-        }
-      ],
-      "sem3": [
-        {
-          "id": 1,
-          "title": "bca-3-sem-java-programming-303303-2019",
-          "url-id": "1Ann6d1yniS6KZzroMD50oaAc34XuvMnj"
-        },
-        {
-          "id": 2,
-          "title": "bca-3-sem-software-engineering-2014",
-          "url-id": "1eECZ4YGZbmMk8WhgvySKoX-Ib3b1YBlW"
-        },
-        {
-          "id": 3,
-          "title": "bca-3-sem-java-programming-2014",
-          "url-id": "1eGq6EdzD2e-7utP6AS2iO4iZHABwkXcR"
-        },
-        {
-          "id": 4,
-          "title": "bca-3-sem-object-oriented-programming-using-cpp-2014",
-          "url-id": "1aTf7D18pyOZcDn51eYvT2JBRoG0Mu2st"
-        },
-        {
-          "id": 5,
-          "title": "bca-3-sem-internet-and-web-designing-2014",
-          "url-id": "1z2M02TIq0DN0I-r17FZX1TRi3cViXB9X"
-        },
-        {
-          "id": 6,
-          "title": "bca-3-sem-object-oriented-programming-using-cpp-303301-2017",
-          "url-id": "1dkupHwEBebVSYopJ6F66hH_BU5tcOYbO"
-        },
-        {
-          "id": 7,
-          "title": "bca-3-sem-java-programming-303303-2017",
-          "url-id": "1hDyeJVaup4SFMC9I1mYu7QmsUeIdRi6W"
-        },
-        {
-          "id": 8,
-          "title": "bca-3-sem-software-engineering-303304-2017",
-          "url-id": "1m7GAuDjNEK88jPFWdU_C7cAVe2XnT161"
-        },
-        {
-          "id": 9,
-          "title": "bca-3-sem-software-engineering-303304-2018",
-          "url-id": "1h_oec4rw3O8Qf0LMJimkX8-XI6zlLFRA"
-        },
-        {
-          "id": 10,
-          "title": "bca-3-sem-internet-and-web-designing-303302-2017",
-          "url-id": "1frblgypJ0FJVb28ODFovVbMB7eaYIFpf"
-        },
-        {
-          "id": 11,
-          "title": "bca-3-sem-object-oriented-programming-using-cpp-303301-2018",
-          "url-id": "11TJr1QpjeEw3vFM_2HUGIIVn3Y5w_vUc"
-        },
-        {
-          "id": 12,
-          "title": "bca-3-sem-java-programming-303303-2018",
-          "url-id": "1D49wSpe8x5YquML5eCAwUOOGB5-s0gEq"
-        },
-        {
-          "id": 13,
-          "title": "bca-3-sem-internet-and-web-designing-303302-2018",
-          "url-id": "1JMW8Of6HUcUX6LNklOrrL4e1ZSe0M6IY"
-        },
-        {
-          "id": 14,
-          "title": "bca-3-sem-internet-and-web-designing-303302-2019",
-          "url-id": "1_QngN44vPXwM7ZhU3T5nQoR1MmHoLC7V"
-        },
-        {
-          "id": 15,
-          "title": "bca-3-sem-software-engineering-303304-2019",
-          "url-id": "1g58mNKvYzElvlASYhmYoEs310qY9Ye41"
-        },
-        {
-          "id": 16,
-          "title": "bca-3-sem-object-oriented-programming-using-cpp-303301-2019",
-          "url-id": "1ZnG_U2bAawrImYloqIlaQdwyZKRtTnP3"
-        },
-        {
-          "id": 17,
-          "title": "bca-3-sem-software-engineering-303304-2020",
-          "url-id": "1b8O81-00HpB67ZHzYev1KQL2SoUO5Van"
-        },
-        {
-          "id": 18,
-          "title": "bca-3-sem-object-oriented-programming-using-cpp-303301-2020",
-          "url-id": "1CVyBuSQgKiUI11ynl3xcC0xLLh3i97fG"
-        },
-        {
-          "id": 19,
-          "title": "bca-3-sem-java-programming-303303-2020",
-          "url-id": "1G6_n7EyYZiLXLe4YQkNInCjs4G4uwNkg"
-        },
-        {
-          "id": 20,
-          "title": "bca-3-sem-internet-and-web-designing-303302-2020",
-          "url-id": "1TKMH9mntXZpyXzYwLH4OHKFnc7Y0kjbc"
-        }
-      ],
-      "sem4": [
-        {
-          "id": 1,
-          "title": "bca-4-sem-relational-database-management-system-2015",
-          "url-id": "1cqiJvGJJiXXf-7JoRJYuiYeyYVkM9Q_Z"
-        },
-        {
-          "id": 2,
-          "title": "bca-4-sem-introduction-to-statistics-2015",
-          "url-id": "1Q0RFsSusu58bjTCebZTq5OrZuSpuJGho"
-        },
-        {
-          "id": 3,
-          "title": "bca-4-sem-relation-data-base-management-system-303401-2017",
-          "url-id": "1jzgBlH9JHmL-h4d6xEJJ6HcJSRiJQo9b"
-        },
-        {
-          "id": 4,
-          "title": "bca-4-sem-digital-electronics-computer-system-architecture-and-organization-2015",
-          "url-id": "1JK3Ic2gz_9oj-IaaIINwpRBi-cOrLn6J"
-        },
-        {
-          "id": 5,
-          "title": "bca-4-sem-file-and-data-structure-2015",
-          "url-id": "1cWiKKx75uwbcs1IUHiHRVQNYKNARtFw1"
-        },
-        {
-          "id": 6,
-          "title": "bca-4-sem-digital-electronics-computer-system-architecture-and-organization-303402-2017",
-          "url-id": "1K7spPqVy9wl_wzV8qpgm7e7wQq_WE5Zz"
-        },
-        {
-          "id": 7,
-          "title": "bca-4-sem-introduction-to-business-statistics-303404-2017",
-          "url-id": "1QihRKkdzYAmyo_Q4McVQmnH13lsvoexc"
-        },
-        {
-          "id": 8,
-          "title": "bca-4-sem-file-and-data-structure-303403-2017",
-          "url-id": "1o67ZD3urHgYd0eevrWHeLKVZJjUfGfrD"
-        },
-        {
-          "id": 9,
-          "title": "bca-4-sem-relational-database-management-system-303401-2018",
-          "url-id": "1ijeapZHfRtqBxnvgxwLnb0L8NawMLXpG"
-        },
-        {
-          "id": 10,
-          "title": "bca-4-sem-introduction-to-business-statistics-303404-2018",
-          "url-id": "1Pv5_2XyPMMWHm74cbB7SXDz0RPiaNNvu"
-        },
-        {
-          "id": 11,
-          "title": "bca-4-sem-digital-electronics-computer-architecture-and-organisation-303402-2018",
-          "url-id": "1_C5Y5Lmc8L5wfMepir2v60o0GWwb0FPF"
-        },
-        {
-          "id": 12,
-          "title": "bca-4-sem-file-and-data-structure-303403-2018",
-          "url-id": "1ozeUVO1O86UCZhrbCyi1M9y6ndOJvl-A"
-        },
-        {
-          "id": 13,
-          "title": "bca-4-sem-introduction-to-business-statistics-303404-2019",
-          "url-id": "1G7SdGBLinTS_sLxO_62G5BDC_9JtyGT1"
-        },
-        {
-          "id": 14,
-          "title": "bca-4-sem-digital-electronics-computer-architecture-and-organisation-303402-2019",
-          "url-id": "1um8Meg-W9i88A84lKDLBUMFvRov3uByD"
-        },
-        {
-          "id": 15,
-          "title": "bca-4-sem-file-and-data-structure-303403-2019",
-          "url-id": "1SqvsVXpvQqChD9RjM9TTlQxKJG4qMsAy"
-        },
-        {
-          "id": 16,
-          "title": "bca-4-sem-relational-data-base-management-system-303401-209",
-          "url-id": "134Ci1f_dBB-Vid0BjBjZSoPD0OAiukaK"
-        }
-      ],
-      "sem5": [
-        {
-          "id": 1,
-          "title": "bca-5-sem-business-accounting-and-enterprise-resource-planning-303504-2020",
-          "url-id": "1s_0sjIEPxm3ZtSx1jfeT6bG26jS--0JW"
-        },
-        {
-          "id": 2,
-          "title": "bca-5-sem-graphics-and-multimedia-2015",
-          "url-id": "1ilKGCZd0gqa86-HMndFtBENFVM3ahSoC"
-        },
-        {
-          "id": 3,
-          "title": "bca-5-sem-computer-network-cs-and-cst-2015",
-          "url-id": "1OEaN8TQnBqYYhpRM-GEKOybFCiieVMwE"
-        },
-        {
-          "id": 4,
-          "title": "bca-5-sem-graphics-and-multimedia-303502-2018",
-          "url-id": "1Vp9ar7MzX4L2zaOoYxLI8UzzxdaU1tOp"
-        },
-        {
-          "id": 5,
-          "title": "bca-5-sem-windows-programming-using-vb-dot-net-303501-2018",
-          "url-id": "1RaRn5oWnIIt5bms-DE6PtitYLIYbJq3N"
-        },
-        {
-          "id": 6,
-          "title": "bca-5-sem-windows-programming-using-vb-dot-net-303501-2019",
-          "url-id": "1tbIS4I4rb6HKTlQukCZ0A4NVcAqZeCrD"
-        },
-        {
-          "id": 7,
-          "title": "bca-5-sem-computer-network-data-communication-and-client-server-technology-303503-2018",
-          "url-id": "18gS1gN9aYremNAuRo8-pJp51XFcUY5_G"
-        },
-        {
-          "id": 8,
-          "title": "bca-5-sem-business-accounting-and-enterprise-resource-planning-303504-2018",
-          "url-id": "12I7BUKaWrA9ap3KzBbzWrSvZyL51PoZp"
-        },
-        {
-          "id": 9,
-          "title": "bca-5-sem-graphics-and-multimedia-303502-2019",
-          "url-id": "17jsbFUN6Sajfz5kGKoWKpimKsVsvkgi9"
-        },
-        {
-          "id": 10,
-          "title": "bca-5-sem-computer-network-data-communication-and-client-server-technology-303503-2019",
-          "url-id": "1T9A9On46jcj7Q4xYq7lPBRBUuJh4o9uY"
-        },
-        {
-          "id": 11,
-          "title": "bca-5-sem-computer-network-data-communication-and-client-server-technology-303503-2020",
-          "url-id": "1NZCrodf_lyPJsxCBwgfXXFk2JfWMM5o2"
-        },
-        {
-          "id": 12,
-          "title": "bca-5-sem-graphics-and-multimedia-303502-2020",
-          "url-id": "1UAf8pnRUiI3FaaXQ7kSxBlmWnb1M_OIs"
-        },
-        {
-          "id": 13,
-          "title": "bca-5-sem-windows-programming-using-vb-dot-net-303501-20120",
-          "url-id": "1Aw3D15zxmhtrijaX2Uv3aM7slE7d9n5J"
-        }
-      ],
-      "sem6": [
-        {
-          "id": 1,
-          "title": "bca-6-sem-e-commerce-2015",
-          "url-id": "1DL5ilhk6J15jC6woFluS5993FGJCnCZj"
-        },
-        {
-          "id": 2,
-          "title": "bca-6-sem-web-technology-2015",
-          "url-id": "1Y6kXPZ7zzPA2U7w4ZW4bo65RihqG2PXj"
-        }
-      ]
-    }
-  },
-  {
-    "id": "1115",
-    "bcom": {
-      "sem1": [
-        {
-          "id": 1,
-          "title": "bcom-prof-1-sem-financial-accounting-1-2015",
-          "url-id": "1KoATVOZwHsd_1I21I50AZ5l-ZCWGyuaH"
-        },
-        {
-          "id": 2,
-          "title": "bcom-prof-1-sem-financial-accounting-1-313101-2015",
-          "url-id": "1RZjHw5JXtEC4fn-zYVeXeltgXk7Kw3RU"
-        },
-        {
-          "id": 3,
-          "title": "bcom-prof-1-sem-business-statistics-2015",
-          "url-id": "1nbJidEG224HmW1JTTIaU3oDZ3g4k3mj2"
-        },
-        {
-          "id": 4,
-          "title": "bcom-prof-1-sem-basic-spreadsheet-concept-2015",
-          "url-id": "1F9Ou_ABtU07aGVi4xudYjyQBsdCGo-Qe"
-        },
-        {
-          "id": 5,
-          "title": "bcom-prof-1-sem-business-organization-and-management-313103-2015",
-          "url-id": "1BdC1kKpV69jEb1pRh1gZedTQWwwoo8Mf"
-        },
-        {
-          "id": 6,
-          "title": "bcom-prof-1-sem-business-statistics-313104-2016",
-          "url-id": "11RdKl3LKG1hOVO-FGRzmRKGD0e6JjGe9"
-        },
-        {
-          "id": 7,
-          "title": "bcom-prof-1-sem-communicative-english-313106-2016",
-          "url-id": "1FSsAHeSGDqs98DtyN54v2UPjnzp0UyS2"
-        },
-        {
-          "id": 8,
-          "title": "bcom-prof-1-sem-financial-accounting-1-313101-2016",
-          "url-id": "16VZ5fl6dRVY2nYqhcPmml9eALoyvYQMq"
-        },
-        {
-          "id": 9,
-          "title": "bcom-prof-1-sem-business-organization-and-management-313103-2016",
-          "url-id": "1AdotEPOVDSasU6XjiGezejC-yqI6l30b"
-        },
-        {
-          "id": 10,
-          "title": "bcom-prof-1-sem-basic-spreadsheet-concepts-313105-2016",
-          "url-id": "14D5OexYwCnNlCUN1Ndk-KSv6XHtQS0li"
-        },
-        {
-          "id": 11,
-          "title": "bcom-prof-1-sem-communicative-english-313106-2018",
-          "url-id": "1AOwES0Jj5ZL9CXKDxA841ZupoyWfLnAI"
-        },
-        {
-          "id": 12,
-          "title": "bcom-prof-1-sem-business-statistics-313104-2018",
-          "url-id": "1xGWzPiQiWXj-tb_B-4nc8ISJ3G0nh1h7"
-        },
-        {
-          "id": 13,
-          "title": "bcom-prof-1-sem-business-organization-and-management-313103-2018",
-          "url-id": "1_JFm-lWMnl9H8Kd0azn2ehIpVfRYA_mX"
-        },
-        {
-          "id": 14,
-          "title": "bcom-prof-1-sem-financial-accounting-1-313101-2019",
-          "url-id": "1_7KnjmIWM7g310wweFtoxdoEiRiniOEh"
-        },
-        {
-          "id": 15,
-          "title": "bcom-prof-1-sem-basic-spreadsheet-concepts-313105-2018",
-          "url-id": "1cuBsGE4tJ3lLnsrsQnV6muFDVTd27POA"
-        },
-        {
-          "id": 16,
-          "title": "bcom-prof-1-sem-communicative-english-313106-2019",
-          "url-id": "1dHwyqvaZ7Gr9uzNebxEDkfRL_LlXFlTx"
-        },
-        {
-          "id": 17,
-          "title": "bcom-prof-1-sem-business-economics-313102-2018",
-          "url-id": "1dqmemu9M1Yw0zlAdXTAsr8X85xWTHmID"
-        },
-        {
-          "id": 18,
-          "title": "bcom-prof-1-sem-business-statistics-313104-2019",
-          "url-id": "1GObevLrebjMMnSQILwWgBkydUsehUA9d"
-        },
-        {
-          "id": 19,
-          "title": "bcom-prof-1-sem-basic-spreadsheet-concepts-313105-2019",
-          "url-id": "1N5qKIeBFhugVHA86S-4RtT-GoLFqPlXf"
-        },
-        {
-          "id": 20,
-          "title": "bcom-prof-1-sem-business-organization-and-management-313103-2019",
-          "url-id": "1yF-QaYeGWbd1B_kxKUrqC_xwjxVQvnB8"
-        },
-        {
-          "id": 21,
-          "title": "bcom-prof-1-sem-business-economics-313102-2019",
-          "url-id": "1fGOibqhZ-ZuiPItk6QWegVqBGsq3sjgg"
-        }
-      ],
-      "sem2": [
-        {
-          "id": 1,
-          "title": "bcom-2-sem-prof-mercantile-corporate-law-313202-2015",
-          "url-id": "1A42lnOrV3t-LXMLGde7Nq1RORzyPu8Ap"
-        },
-        {
-          "id": 2,
-          "title": "bcom-2-sem-prof-it-for-accounting-313204-2015",
-          "url-id": "1DYbR3pOVpM6UOBfIsNtR9gxJVUejYZja"
-        },
-        {
-          "id": 3,
-          "title": "bcom-prof-2-sem-mercantile-corporate-law-2016",
-          "url-id": "1I6fZCR1YVlw_65UBwXCYWyw6jCS4dt26"
-        },
-        {
-          "id": 4,
-          "title": "bcom-2-sem-prof-intermediate-spreadsheet-concepts-313205-2015",
-          "url-id": "1x8wtrMymMwEroNkMTyja8DKUArU3GKnD"
-        },
-        {
-          "id": 5,
-          "title": "bcom-prof-2-sem-it-for-accounting-2016",
-          "url-id": "1hw12cY6U9mIcU_iASAhHFIPyojRR1POe"
-        },
-        {
-          "id": 6,
-          "title": "bcom-prof-2-sem-financial-accounting-2-2016",
-          "url-id": "1hXG_93Y8sZ8ZCHe8a-1L_KtXYKyMxXhE"
-        },
-        {
-          "id": 7,
-          "title": "bcom-prof-2-sem-intermediate-spreadsheet-2016",
-          "url-id": "1zD2Z8gTQuyeUgntLweL__8hVOcyiv94g"
-        },
-        {
-          "id": 8,
-          "title": "bcom-prof-2-sem-business-mathematics-2016",
-          "url-id": "1EQrqpcbxJ7xwHAjXWCkrnmk9Det88YYj"
-        },
-        {
-          "id": 9,
-          "title": "bcom-prof-2-sem-business-english-2016",
-          "url-id": "1Xq_FAudaXDxnHrh59A8PKQm6S4pRQK2c"
-        },
-        {
-          "id": 10,
-          "title": "bcom-2-sem-prof-mercantile-corporate-law-313202-2017",
-          "url-id": "1KZEsiQasA8eZ6vJ0KGfOoWDPTloVHYl1"
-        },
-        {
-          "id": 11,
-          "title": "bcom-2-sem-prof-financial-accounting-2-313201-2017",
-          "url-id": "1WWMRsdVTPaZ5EjrScsNQQrzitQitwQfJ"
-        },
-        {
-          "id": 12,
-          "title": "bcom-2-sem-prof-it-for-accounting-313204-2017",
-          "url-id": "1pinLwRm7y5nhwm5vfyFwpAokbn4A1p7b"
-        },
-        {
-          "id": 13,
-          "title": "bcom-prof-2-sem-it-for-accounting-313204-2018",
-          "url-id": "10J5RHJPK6AOFcv9DxnMX3botnGXg2cEn"
-        },
-        {
-          "id": 14,
-          "title": "bcom-2-sem-prof-business-english-313206-2017",
-          "url-id": "1MlPeWqOOLRlH7M3n6Z1Jr-A0ZhXpXm2O"
-        },
-        {
-          "id": 15,
-          "title": "bcom-prof-2-sem-business-mathematics-313203-2017",
-          "url-id": "1Nq09pI8rkZDsfRTH__KmNTocPMJ4zV65"
-        },
-        {
-          "id": 16,
-          "title": "bcom-2-sem-prof-business-english-313206-2018",
-          "url-id": "1X4zY6jsba1x2JMuYHnE57V7UNRpjt8l8"
-        },
-        {
-          "id": 17,
-          "title": "bcom-prof-2-sem-intermediate-spreadsheet-concepts-313205-2018",
-          "url-id": "1B0ZUaVBXEHqbnbzgF6FNZyfk4vcLmwGg"
-        },
-        {
-          "id": 18,
-          "title": "bcom-prof-2-sem-business-mathematics-313203-2018",
-          "url-id": "1k_hPsEV5BmAQkCE1swrp7RVdu28LveDB"
-        },
-        {
-          "id": 19,
-          "title": "bcom-prof-2-sem-business-law-313202-2018",
-          "url-id": "10FBYVW_KR1qhTzLGOXQYbzF0pl7nNhHU"
-        },
-        {
-          "id": 20,
-          "title": "bcom-prof-2-sem-financial-accounting-2-313201-2018",
-          "url-id": "1zys5ZWxxVDlb6TOaOZkPg-Cfrubd22ty"
-        },
-        {
-          "id": 21,
-          "title": "bcom-prof-2-sem-business-english-313206-2018",
-          "url-id": "18OfKvh_QWgYjIaFIbyx0YISH8z-pkRnK"
-        },
-        {
-          "id": 22,
-          "title": "bcom-2-sem-prof-financial-accounting-2-313201-2019",
-          "url-id": "1Tt8bHVQoIl4uMCtEozXG2BYhhvrtK6oQ"
-        },
-        {
-          "id": 23,
-          "title": "bcom-2-sem-prof-intermediate-spreadsheet-concepts-313205-2019",
-          "url-id": "1yN_cR3Rks1BVCRLU3x-W60fraJTkIvQu"
-        },
-        {
-          "id": 24,
-          "title": "bcom-2-sem-prof-mercantile-corporate-law-313202-2019",
-          "url-id": "16SmNGVFSPS3DBN4embQl2jWsJ7l0veFP"
-        },
-        {
-          "id": 25,
-          "title": "bcom-2-sem-prof-it-for-accounting-313204-2019",
-          "url-id": "1SlBJwGqXXx7Ence5pke9Gp0aU51Sxzyv"
-        },
-        {
-          "id": 26,
-          "title": "bcom-prof-2-sem-business-mathematics-313203-2019",
-          "url-id": "1-fqFVqn9G-sAGPMKjYoPA35bif7TOIX7"
-        }
-      ],
-      "sem3": [
-        {
-          "id": 1,
-          "title": "bcom-prof-3-sem-taxation-laws-313302-2015",
-          "url-id": "17Tf-flf2Zl2s1OW2fGmM1oWVLTsI3hBL"
-        },
-        {
-          "id": 2,
-          "title": "bcom-prof-3-sem-project-appraisal-finance-and-management-313305-2015",
-          "url-id": "1i_tPkfUMjx1zlG8ujJdPc_TvYpQoUtXY"
-        },
-        {
-          "id": 3,
-          "title": "bcom-prof-3-sem-entrepreneurship-313303-2015",
-          "url-id": "1LuRnBBkXLBiTZWBujr2N8bVEux1olNZ2"
-        },
-        {
-          "id": 4,
-          "title": "bcom-prof-3-sem-e-commerce-313304-2015",
-          "url-id": "1564lHRsrY_WPaVG-RI455jyDFaeZykxA"
-        },
-        {
-          "id": 5,
-          "title": "bcom-prof-3-sem-management-accounting-313301-2015",
-          "url-id": "1eVgElBCcOw-Z7unbyRNsruS8rZRHVM_B"
-        },
-        {
-          "id": 6,
-          "title": "bcom-3-sem-prof-taxation-laws-1-313302-2017",
-          "url-id": "1iV_50B7sIKnHtjvYvkbjn_pEzQS0n89w"
-        },
-        {
-          "id": 7,
-          "title": "bcom-prof-3-sem-taxation-laws-313302-2018",
-          "url-id": "1-8nhcnFs3DWF-cOW0RZbBSWd1xCCJcqO"
-        },
-        {
-          "id": 8,
-          "title": "bcom-3-sem-prof-project-appraisal-finance-and-management-313305-2017",
-          "url-id": "1Jhg1EyIqrvF4HZTa0f02ceJ1UrdutNRa"
-        },
-        {
-          "id": 9,
-          "title": "bcom-3-sem-prof-management-accounting-313301-2017",
-          "url-id": "1ifNLu9wfIrnupsVBhqcalA4F5O7TbKc_"
-        },
-        {
-          "id": 10,
-          "title": "bcom-prof-3-sem-project-appraisal-finance-and-management-313305-2018",
-          "url-id": "15ndOtOWMi3JGRHskcNy5rda_hS2m6R8K"
-        },
-        {
-          "id": 11,
-          "title": "bcom-prof-3-sem-management-accounting-313301-2018",
-          "url-id": "1dwCggDBWXsxoF-jYi1-rlpRwLV02TI3l"
-        },
-        {
-          "id": 12,
-          "title": "bcom-prof-3-sem-e-commerce-313304-2018",
-          "url-id": "1BDJBzOpowphxMe9nEmI-6yWSCAK-ugIK"
-        },
-        {
-          "id": 13,
-          "title": "bcom-3-sem-prof-taxation-laws-1-313302-2019",
-          "url-id": "1LuqRUeQaIKRT5NuvfYLzA8SpMFxzA9Dd"
-        },
-        {
-          "id": 14,
-          "title": "bcom-prof-3-sem-entrepreneurship-313303-2018",
-          "url-id": "1xhEpKhS9C4vVFjVE7ZO1wyiGNGKyyj-z"
-        },
-        {
-          "id": 15,
-          "title": "bcom-3-sem-prof-taxation-laws-313302-2020",
-          "url-id": "13QUHz9ergUqdxN8xhxhBgA0TVrkjm1-s"
-        },
-        {
-          "id": 16,
-          "title": "bcom-3-sem-prof-project-appraisal-finance-and-management-313305-2019",
-          "url-id": "18qIw1kR6PBVDXtEtSS_xjMZPRZ00y-0A"
-        },
-        {
-          "id": 17,
-          "title": "bcom-3-sem-prof-entrepreneurship-313303-2019",
-          "url-id": "13HtPWQQLtgs_6dMbOA-3oY0lfRJkMkQN"
-        },
-        {
-          "id": 18,
-          "title": "bcom-3-sem-prof-management-accounting-313301-2019",
-          "url-id": "1EcQcBEGk_4xETE2OC6L74HbuTSJfbAAN"
-        },
-        {
-          "id": 19,
-          "title": "bcom-3-sem-prof-e-commerce-313304-2019",
-          "url-id": "1kbdIqUnSc2CK0_6DdwNohqGRNTlKSiaC"
-        },
-        {
-          "id": 20,
-          "title": "bcom-3-sem-prof-project-appraisal-finance-and-management-313305-2020",
-          "url-id": "1Cv1xjerotJB2L2iSYzDnqa9RBDG_UuXK"
-        },
-        {
-          "id": 21,
-          "title": "bcom-3-sem-prof-management-accounting-313301-2020",
-          "url-id": "1PYdXvZrbdd5fNLt1Wnsg1q9m-FCtUDJV"
-        },
-        {
-          "id": 22,
-          "title": "bcom-3-sem-prof-entrepreneurship-313303-2020",
-          "url-id": "1hGffJ8EbLOYW2eyGeU4meHc6fSgX963V"
-        },
-        {
-          "id": 23,
-          "title": "bcom-3-sem-prof-e-commerce-313304-2020",
-          "url-id": "1HvIpbpCOGyc_g6LxzVHUmjR4VkeOF1nH"
-        }
-      ],
-      "sem4": [
-        {
-          "id": 1,
-          "title": "bcom-prof-4-sem-business-research-methodology-313405-2015",
-          "url-id": "1HEHvu3OINKadu-nvvbCP4uzxVnolSM0Q"
-        },
-        {
-          "id": 2,
-          "title": "bcom-prof-4-sem-cost-accounting-313401-jun-2015",
-          "url-id": "1wHIeeXhiyv1cpd5brz3arvcAL0r9ZUvX"
-        },
-        {
-          "id": 3,
-          "title": "bcom-prof-4-sem-business-research-methodology-313405-2016",
-          "url-id": "15VuVmNvOJ7J_84zh-mJoJ_4NaHGfeZH5"
-        },
-        {
-          "id": 4,
-          "title": "bcom-4-sem-prof-taxation-laws-2-313404-2017",
-          "url-id": "1QVJr-MNMg5U3ZcTS_Q4x4LLVe-SNkifH"
-        },
-        {
-          "id": 5,
-          "title": "bcom-prof-4-sem-cost-accounting-313401-2017",
-          "url-id": "1TZCvvjshNJzDvfx7LE2-D28e0Upry_j5"
-        },
-        {
-          "id": 6,
-          "title": "bcom-prof-4-sem-cost-accounting-313401-2016",
-          "url-id": "1KpZXKyqEJobTFxzW_igmbn2jZx7iHjzf"
-        },
-        {
-          "id": 7,
-          "title": "bcom-4-sem-prof-auditing-313403-2017",
-          "url-id": "13g82SGOAZC_IKiiDYO58qhSSnQqf4cBC"
-        },
-        {
-          "id": 8,
-          "title": "bcom-4-sem-prof-financial-management-313402-2017",
-          "url-id": "1Fczgkjs6bmJ2c5Gkj8Sr0gaAPyIgjRcA"
-        },
-        {
-          "id": 9,
-          "title": "bcom-4-sem-prof-business-research-methodology-313405-2017",
-          "url-id": "1eqOxcT-qmhX8Du2MUw0DJ_kaMSDto-pA"
-        },
-        {
-          "id": 10,
-          "title": "bcom-4-sem-prof-taxation-law-2-313404-2018",
-          "url-id": "1a1E6HKMCCiOSxiMisofqef77IuZGj5r3"
-        },
-        {
-          "id": 11,
-          "title": "bcom-4-sem-prof-financial-management-313402-2018",
-          "url-id": "1Efxyd9Py6JGnP58WkGTXyaTEQ5xdD2td"
-        },
-        {
-          "id": 12,
-          "title": "bcom-prof-4-sem-business-research-methodology-313405-2018",
-          "url-id": "1Q4l1mJFOuCAeu5Osut8-qjBYv-ZtytHS"
-        },
-        {
-          "id": 13,
-          "title": "bcom-4-sem-prof-auditing-313403-2018",
-          "url-id": "1tEOd21XUciJgnIeLnZUFdAdn6OszdJkG"
-        }
-      ],
-      "sem5": [
-        {
-          "id": 1,
-          "title": "bcom-5-sem-prof-security-analysis-and-protfolio-management-313502-2018",
-          "url-id": "1RbhmNetBa40BpZTeESOifc2-qvk9CLCq"
-        },
-        {
-          "id": 2,
-          "title": "bcom-5-sem-prof-principles-and-practice-of-banking-313503-2018",
-          "url-id": "1SpBgCxeBeqK1Mn_xILOLpBxfXlVZY56G"
-        },
-        {
-          "id": 3,
-          "title": "bcom-5-sem-prof-principles-and-practice-of-insurance-313504-2018",
-          "url-id": "1vjEcKfN_B3q6vb7-rZeyOkDhLgHA_J41"
-        },
-        {
-          "id": 4,
-          "title": "bcom-5-sem-prof-security-analysis-and-portfolio-management-313502-2019",
-          "url-id": "1dJLAjRmjhi3MMcLdWC-R5EEiXUQX8vUS"
-        },
-        {
-          "id": 5,
-          "title": "bcom-5-sem-prof-financial-institutions-services-and-markets-313501-2018",
-          "url-id": "1rj7_PwPu8Sjc1jIW-9StfBEskaWDFRsN"
-        },
-        {
-          "id": 6,
-          "title": "bcom-5-sem-prof-financial-institutions-services-and-markets-313501-2019",
-          "url-id": "1MormDQTQ_J_T7xgn0LzOy5Bsx_1tOT3j"
-        },
-        {
-          "id": 7,
-          "title": "bcom-5-sem-prof-principles-and-practice-of-banking-313503-2019",
-          "url-id": "1YZjVkAAXdY9OS71KzGHyyk-Dc_1BovmY"
-        },
-        {
-          "id": 8,
-          "title": "bcom-5-sem-prof-principle-and-practice-of-insurance-313504-2019",
-          "url-id": "1t4jJbzzbFkZy7oL3-M4AxfgJfJu3oRg8"
-        },
-        {
-          "id": 9,
-          "title": "bcom-5-sem-prof-security-analysis-and-portfolio-management-313502-2020",
-          "url-id": "1Lmb2Xf0s6CyTlEWYBiyiSTMiDxBVIsw1"
-        },
-        {
-          "id": 10,
-          "title": "bcom-5-sem-prof-principles-and-practice-of-insurance-313504-2020",
-          "url-id": "1SJPjZ_fOst-hRXqnaogRnfjvRjtzCrfA"
-        },
-        {
-          "id": 11,
-          "title": "bcom-5-sem-prof-principles-and-practice-of-banking-313503-2020",
-          "url-id": "1aWKFbcP7N5oydUw_K6GCd9Iu0-FbVFzp"
-        },
-        {
-          "id": 12,
-          "title": "bcom-5-sem-prof-financial-institutions-services-and-markets-313501-2020",
-          "url-id": "1Z5ximI4Hzz9zLZ50hnkxPym5DrKhIC0M"
-        }
-      ],
-      "sem6": []
-    }
-  },
-  {
-    "id": "1116",
-    "bmc": {
-      "sem1": [
-        {
-          "id": 1,
-          "title": "bmc-1-sem-writing-for-media-316105-2017",
-          "url-id": "1NgG96tbST3kChWNOjPpJvN6RpvhMVxZr"
-        },
-        {
-          "id": 2,
-          "title": "bmc-1-sem-social-media-and-communication-316102-2017",
-          "url-id": "1Of9r3vpHNZuQ4shhS3r1tMOjUWMs8_Ak"
-        },
-        {
-          "id": 3,
-          "title": "bmc-1-sem-writing-for-media-316105-2018",
-          "url-id": "1R2AOi1YWwZRglh1gT1De85BFHkuWfhjY"
-        },
-        {
-          "id": 4,
-          "title": "bmc-1-sem-radio-broadcasting-316104-2017",
-          "url-id": "1k8LvyqqHd1lRfQJ3ROmVPAC1AbNBKnN5"
-        },
-        {
-          "id": 5,
-          "title": "bmc-1-sem-english-1-316101-2017",
-          "url-id": "1fm1mwNQQgC0WlSRuFvhNFhDqsi9B8Wll"
-        },
-        {
-          "id": 6,
-          "title": "bmc-1-sem-introduction-to-communication-316103-2017",
-          "url-id": "1rVd6i7VOkSKPnFoX-ht6VrOO0cbPcPOQ"
-        },
-        {
-          "id": 7,
-          "title": "bmc-1-sem-introduction-to-communication-316103-2018",
-          "url-id": "1QxUYz4B6VPGugckKa9AIZwEGtCKpalL3"
-        },
-        {
-          "id": 8,
-          "title": "bmc-1-sem-english-1-316101-2018",
-          "url-id": "1WXumMYyhJik7Ur1q3czj9XVjGvWVd_19"
-        },
-        {
-          "id": 9,
-          "title": "bmc-1-sem-social-media-and-communication-316102-2018",
-          "url-id": "1tJetrJho_-vUs2-yngp7qH2YP2DsYnmw"
-        },
-        {
-          "id": 10,
-          "title": "bmc-1-sem-radio-broadcasting-316104-2018",
-          "url-id": "1JHeMdgtrip9Lsit2iq3veDB0bWFANB5q"
-        }
-      ],
-      "sem2": [
-        {
-          "id": 1,
-          "title": "bmc-2-sem-social-media-and-communication-2-316202-2017",
-          "url-id": "14DcXrwE0F3ZUMZD-M065nAOW3Y_GKe1H"
-        },
-        {
-          "id": 2,
-          "title": "bmc-2-sem-media-education-316203-2017",
-          "url-id": "1qpTZoRfhI-ekmQgnyb92I4KjT48ksjrO"
-        },
-        {
-          "id": 3,
-          "title": "bmc-2-sem-english-316201-2017",
-          "url-id": "1FJINCWh53mPuwH4HYl2_GvwYMrqoipz6"
-        },
-        {
-          "id": 4,
-          "title": "bmc-2-sem-media-education-316203-2018",
-          "url-id": "1H65tp28iELFIG1-bvo-STxulhBz_-Cgm"
-        },
-        {
-          "id": 5,
-          "title": "bmc-2-sem-social-media-and-communication-2-316202-2018",
-          "url-id": "1f9F-h8e30Lqv3WUqZMZj40H2g0BkAg0A"
-        },
-        {
-          "id": 6,
-          "title": "bmc-2-sem-mass-communication-theories-316204-2017",
-          "url-id": "1te6U8FajcaNXqH0zvmrBHCOSqlhWaNEO"
-        },
-        {
-          "id": 7,
-          "title": "bmc-2-sem-english-2-316201-2018",
-          "url-id": "1DdK_SK_mmgZftBETZrywXvna_WlseddZ"
-        },
-        {
-          "id": 8,
-          "title": "bmc-2-sem-mass-communication-theories-316204-2018",
-          "url-id": "1MzgKzRGjhKn9cGrVxiytJLw9FkD18DbH"
-        }
-      ],
-      "sem3": [
-        {
-          "id": 1,
-          "title": "bmc-3-sem-print-journalism-316302-2017",
-          "url-id": "1H7204CNYqvq5girF-zcCCULNPye67Ydd"
-        },
-        {
-          "id": 2,
-          "title": "bmc-3-sem-public-relations-316301-2017",
-          "url-id": "1SoYHwszA_orRss0soSXgPph0jffiUQ4P"
-        },
-        {
-          "id": 3,
-          "title": "bmc-3-sem-television-production-1-316303-2017",
-          "url-id": "1kuaOBqQReDyjVN1fnnep7Rwc2mqpI82X"
-        },
-        {
-          "id": 4,
-          "title": "bmc-3-sem-communicative-hindi-316306-2017",
-          "url-id": "17CT9g9r_u0tUukM9oJc9t_i-Q6ExtPdk"
-        },
-        {
-          "id": 5,
-          "title": "bmc-3-sem-public-relations-316301-2018",
-          "url-id": "19k_ix4-Gk8YzCizV9YY6nxrlAIQOAJQC"
-        },
-        {
-          "id": 6,
-          "title": "bmc-3-sem-advertising-316304-2017",
-          "url-id": "1Z7dvPv84pOt_r-9XVEST4rC6uNiYqgSV"
-        },
-        {
-          "id": 7,
-          "title": "bmc-3-sem-television-production-1-316303-2018",
-          "url-id": "1pR6z1NukUibd_-xRGmF_pYpv0hW0Kzwf"
-        },
-        {
-          "id": 8,
-          "title": "bmc-3-sem-print-journalism-316302-2018",
-          "url-id": "1sIwjlIxPGERuy-NO2hEDqoKuNhs10lZD"
-        },
-        {
-          "id": 9,
-          "title": "bmc-3-sem-advertising-316304-2018",
-          "url-id": "1Q6A-xevg582DiBLw_HfEfwHV2dxuZN06"
-        },
-        {
-          "id": 10,
-          "title": "bmc-3-sem-communicative-hindi-2-316305-2018",
-          "url-id": "1KP-AYjerB4LtP2507OPoQjWLg6ZWhEuu"
-        }
-      ],
-      "sem4": [
-        {
-          "id": 1,
-          "title": "bmc-4-sem-television-production-2-316401-2017",
-          "url-id": "17iRFhSp6NAnC_YznkV-D2jxGhlflFyCX"
-        },
-        {
-          "id": 2,
-          "title": "bmc-4-sem-corporate-communication-316402-2017",
-          "url-id": "1AIhPK8jzcjxzTymh8AuPbYFECJC7-T5J"
-        },
-        {
-          "id": 3,
-          "title": "bmc-4-sem-communication-and-development-316403-2017",
-          "url-id": "1dgh3BPYLWxWHQEEEECPprOJQjt-REiFH"
-        },
-        {
-          "id": 4,
-          "title": "bmc-4-sem-film-studies-316404-2017",
-          "url-id": "1uBOQsufq9pyYvMX2wfKwj7eTqVWqEO5D"
-        },
-        {
-          "id": 5,
-          "title": "bmc-4-sem-communication-and-development-316403-2018",
-          "url-id": "1-Mm4q7if-ZUaS1cYP1UMJIETvgb-FDxa"
-        },
-        {
-          "id": 6,
-          "title": "bmc-4-sem-film-studies-316404-2018",
-          "url-id": "14cZOmsmCjShWOx9asx26uBALBPun0jOE"
-        },
-        {
-          "id": 7,
-          "title": "bmc-4-sem-corporate-communication-316402-2018",
-          "url-id": "1SUdN2DwHOp3dRGRoccxodDIqKkgbBsw6"
-        },
-        {
-          "id": 8,
-          "title": "bmc-4-sem-television-production-2-316401-2018",
-          "url-id": "1X9bOgatc4j2M-GeXFDyoz5mNBlBJat0i"
-        }
-      ]
-    }
-  },
-  {
-    "id": "1117",
-    "mtech": {
-      "sem1": [
-        {
-          "id": 1,
-          "title": "mtech-1-sem-applied-elasticity-and-plasticity-2018",
-          "url-id": "1jcdtsIYJgfYMWoweKfxoo5Ut4RucuxOz"
-        },
-        {
-          "id": 2,
-          "title": "mtech-1-sem-heat-transfer-1-conduction-and-radiation-heat-transfer-2018",
-          "url-id": "1n6RS217X-8tWj4Vi1N59_NnJt9auTpOM"
-        }
-      ]
-    }
-  }
-]
+  ]
+}
