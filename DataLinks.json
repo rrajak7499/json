@@ -1,8 +1,5 @@
-[
-  {
-    "id": "1111",
-    "title": "bed",
-    "bed": {
+{
+    "bed" : {
       "year-1": [
         {
           "id": 1,
@@ -372,11 +369,7 @@
           "url-id": "1MjUqOxEL6mYqpuCEfNnHm_Gr0vTsvSeH"
         }
       ]
-    }
-  },
-  {
-    "id": "1112",
-    "title": "bba",
+    },
     "bba": {
       "sem1": [
         {
@@ -1040,11 +1033,7 @@
           "url-id": "1Rp4QhGpyM1_hsnpd3JItBBGdJxnjnBQS"
         }
       ]
-    }
-  },
-  {
-    "id": "1113",
-    "title": "bbe",
+    },
     "bbe": {
       "sem1": [
         {
@@ -1235,11 +1224,7 @@
           "url-id": "1Ei17BNJPnC1Cue3AuVyACRXsiGmZX_Qy"
         }
       ]
-    }
-  },
-  {
-    "id": "1114",
-    "title": "bca",
+    },
     "bca": {
       "sem1": [
         {
@@ -1808,11 +1793,7 @@
           "url-id": "1Y6kXPZ7zzPA2U7w4ZW4bo65RihqG2PXj"
         }
       ]
-    }
-  },
-  {
-    "id": "1115",
-    "title": "bcom",
+    },
     "bcom": {
       "sem1": [
         {
@@ -2300,11 +2281,7 @@
         }
       ],
       "sem6": []
-    }
-  },
-  {
-    "id": "1116",
-    "title": "bmc",
+    },
     "bmc": {
       "sem1": [
         {
@@ -2494,11 +2471,7 @@
           "url-id": "1X9bOgatc4j2M-GeXFDyoz5mNBlBJat0i"
         }
       ]
-    }
-  },
-  {
-    "id": "1117",
-    "title": "mtech",
+    },
     "mtech": {
       "sem1": [
         {
@@ -2514,4 +2487,3 @@
       ]
     }
   }
-]
