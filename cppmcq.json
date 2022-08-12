@@ -1,0 +1,60 @@
+{
+  "c-programming-mcq-1": [
+    {
+      "id": 1,
+      "ques": "1. Which of the following is a logical operator?",
+      "optA": "a). &&",
+      "optB": "b). !=",
+      "optC": "c). |",
+      "optD": "d). All of the above",
+      "ans": "optA"
+    },
+    {
+      "id": 2,
+      "ques": "2. Which one of the following is a bitwise operator?",
+      "optA": "a). <",
+      "optB": "b). <<",
+      "optC": "c). =",
+      "optD": "d). ==",
+      "ans": "optB"
+    },
+    {
+      "id": 3,
+      "ques": "3. Which of the following is not a relational operator ?",
+      "optA": "a). !",
+      "optB": "b). !=",
+      "optC": "c). >=",
+      "optD": "d). <",
+      "ans": "optA"
+    }
+  ],
+  "c-programming-mcq-2": [
+    {
+      "id": 1,
+      "ques": "11. Which of the following is a logical operator?",
+      "optA": "a). &&",
+      "optB": "b). !=",
+      "optC": "c). |",
+      "optD": "d). All of the above",
+      "ans": "optA"
+    },
+    {
+      "id": 2,
+      "ques": "22. Which one of the following is a bitwise operator?",
+      "optA": "a). <",
+      "optB": "b). <<",
+      "optC": "c). =",
+      "optD": "d). ==",
+      "ans": "optB"
+    },
+    {
+      "id": 3,
+      "ques": "33. Which of the following is not a relational operator ?",
+      "optA": "a). !",
+      "optB": "b). !=",
+      "optC": "c). >=",
+      "optD": "d). <",
+      "ans": "optA"
+    }
+  ]
+}
