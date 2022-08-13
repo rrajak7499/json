@@ -2,6 +2,323 @@
   "mcq1": [
     {
       "id": 1,
+      "ques": "A program which translates a high-level language program into a machine language program is called ?",
+      "optA": "Compiler",
+      "optB": "Interpreters",
+      "optC": "Both (A) and (B)",
+      "optD": "None of the above",
+      "ans": "optC"
+    },
+    {
+      "id": 2,
+      "ques": "A sequence of instructions in a computer language to get the desired result is known as :",
+      "optA": "An algorithm",
+      "optB": "A decision table",
+      "optC": "A program",
+      "optD": "None of the above",
+      "ans": "optC"
+    },
+    {
+      "id": 3,
+      "ques": "Which type of errors are flagged by Compilers ?",
+      "optA": "Logical errors",
+      "optB": "Syntax errors",
+      "optC": "Both (A) and (B)",
+      "optD": "None of these",
+      "ans": "optB"
+    },
+    {
+      "id": 4,
+      "ques": "An algorithm is best described as :",
+      "optA": "A computer language",
+      "optB": "A step by step procedure for solving a problem",
+      "optC": "A branch of mathematics",
+      "optD": "None of the above",
+      "ans": "optB"
+    },
+    {
+      "id": 5,
+      "ques": "Bug means :",
+      "optA": "A logical error in a program",
+      "optB": "A difficult syntax error in a program",
+      "optC": "Both (A) and (B)",
+      "optD": "None of the above",
+      "ans": "optC"
+    },
+    {
+      "id": 6,
+      "ques": "The part of a machine level instruction which tells the central processor what has to be done ?",
+      "optA": "An operation code",
+      "optB": "An address",
+      "optC": "An operand",
+      "optD": "None of the above",
+      "ans": "optA"
+    },
+    {
+      "id": 7,
+      "ques": "Which of the following is not true about an interpreter?",
+      "optA": "Interpreter generates an object program from the source program.",
+      "optB": "Interpreter is a kind of translater",
+      "optC": "Interpreter analysis each source statement every time it is to be executed.",
+      "optD": "None of the above",
+      "ans": "optD"
+    },
+    {
+      "id": 8,
+      "ques": "The errors that can be pointed out by the compiler are :",
+      "optA": "Syntax errors",
+      "optB": "Semantic errors",
+      "optC": "Logical errors",
+      "optD": "None of the above",
+      "ans": "optA"
+    },
+    {
+      "id": 9,
+      "ques": "Which of the following statement is not true?",
+      "optA": "FORTRAN is a high-level language.",
+      "optB": "A FORTRAN program written for the IBM-PC, is totally different from a FORTRAN program written in for the execution of SUN machine.",
+      "optC": "FORTRAN is extensively used to write programs for programming scientific computations.",
+      "optD": "None of the above",
+      "ans": "optB"
+    },
+    {
+      "id": 10,
+      "ques": "A program that converts a high level language program to a set of instructions that can run on a computer is called a :",
+      "optA": "Compiler",
+      "optB": "Debugger",
+      "optC": "Editor",
+      "optD": "None of the above",
+      "ans": "optA"
+    },
+    {
+      "id": 11,
+      "ques": "The name given to a sequence of instructions in a computer language to get the desired result is :",
+      "optA": "A program",
+      "optB": "An algorithm",
+      "optC": "A pseudocode",
+      "optD": "A decision table",
+      "ans": "optA"
+    },
+    {
+      "id": 12,
+      "ques": "The language understood by a computer with out translation is called :",
+      "optA": "Command language",
+      "optB": "High-level language",
+      "optC": "Assembly language",
+      "optD": "Machine language",
+      "ans": "optD"
+    },
+    {
+      "id": 13,
+      "ques": "The mapping from assembly language instructions into machine language instructions is",
+      "optA": "Many-one",
+      "optB": "One-many",
+      "optC": "One-one",
+      "optD": "Many-many",
+      "ans": "optC"
+    },
+    {
+      "id": 14,
+      "ques": "A compiler is :",
+      "optA": "A machine-independent and OS-independent",
+      "optB": "Machine-dependent and OS-dependent",
+      "optC": "Machine-dependent and OS-independent",
+      "optD": "Machine-independent and OS-dependent",
+      "ans": "optB"
+    },
+    {
+      "id": 15,
+      "ques": "Which one of the following statements is incorrect?",
+      "optA": "A compiler compiles the source program.",
+      "optB": "An assembler takes an assembly program as input.",
+      "optC": "A compiler does the same type of function as interpreter.",
+      "optD": "None of these",
+      "ans": "optC"
+    },
+    {
+      "id": 16,
+      "ques": "A translator which reads an entire program written in high-level and converts it into machine language code is :",
+      "optA": "Assembler",
+      "optB": "Translator",
+      "optC": "Compiler",
+      "optD": "System software",
+      "ans": "optC"
+    },
+    {
+      "id": 17,
+      "ques": "Which of the following is not one of the process that a high-level language program must go through before it is ready to be executed?",
+      "optA": "Translation",
+      "optB": "Controlling",
+      "optC": "Loading",
+      "optD": "Linking",
+      "ans": "optB"
+    },
+    {
+      "id": 18,
+      "ques": "Which of the following is related to machine language ?",
+      "optA": "Difficult to learn",
+      "optB": "First generation language",
+      "optC": "Machine dependent",
+      "optD": "All of the above",
+      "ans": "optD"
+    },
+    {
+      "id": 19,
+      "ques": "The language C is:",
+      "optA": "An assembly language",
+      "optB": "A third generation high-level language",
+      "optC": "A machine language",
+      "optD": "None of the above",
+      "ans": "optB"
+    },
+    {
+      "id": 20,
+      "ques": "C compiler traps :",
+      "optA": "Logical errors",
+      "optB": "Syntax errors",
+      "optC": "Both (A) and (B)",
+      "optD": "None of these",
+      "ans": "optC"
+    }
+  ],
+  "mcq2": [
+    {
+      "id": 1,
+      "ques": "Who is father of C Language?",
+      "optA": "Bjarne Stroustrup",
+      "optB": "Dennis Ritchie",
+      "optC": "James A. Gosling",
+      "optD": "Dr. E.F. Codd",
+      "ans": "optB"
+    },
+    {
+      "id": 2,
+      "ques": "C Language developed as ______",
+      "optA": "AT & T Bell Laboratories of USA in 1972",
+      "optB": "AT & T Bell Laboratories of USA in 1970",
+      "optC": "Sun Microsystems in 1973",
+      "optD": "Cambridge University in 1972",
+      "ans": "optA"
+    },
+    {
+      "id": 3,
+      "ques": "C language is a",
+      "optA": "Completely high-level language",
+      "optB": "Completely low-level language",
+      "optC": "High-level language with low-level features",
+      "optD": "None of these",
+      "ans": "optC"
+    },
+    {
+      "id": 4,
+      "ques": "The ‘C’ language is",
+      "optA": "Context free language",
+      "optB": "Context sensitive lanugage",
+      "optC": "Regualar language",
+      "optD": "None of the above",
+      "ans": "optA"
+    },
+    {
+      "id": 5,
+      "ques": "C is _____ language?",
+      "optA": "Low level",
+      "optB": "High level",
+      "optC": "Assembly level",
+      "optD": "Machine level",
+      "ans": "optB"
+    },
+    {
+      "id": 6,
+      "ques": "C programs are converted into machine language with the help of",
+      "optA": "An editor",
+      "optB": "A compiler",
+      "optC": "An operating system",
+      "optD": "None of the above",
+      "ans": "optB"
+    },
+    {
+      "id": 7,
+      "ques": "What is the extension files by default for C Program ?",
+      "optA": ".doc",
+      "optB": ".ppt",
+      "optC": ".c",
+      "optD": ".exe",
+      "ans": "optC"
+    },
+    {
+      "id": 8,
+      "ques": "Standard ANSI C has _____ number of keywords ?",
+      "optA": "30",
+      "optB": "32",
+      "optC": "24",
+      "optD": "36",
+      "ans": "optB"
+    },
+    {
+      "id": 9,
+      "ques": "What is C Tokens?",
+      "optA": "The smallest individual units of c program",
+      "optB": "The basic element recognized by the compiler",
+      "optC": "The largest individual units of program",
+      "optD": "Both (a) and (b)",
+      "ans": "optD"
+    },
+    {
+      "id": 10,
+      "ques": "The sign ‘#’ of the compiler directive must appear at the ______ of a line",
+      "optA": "Beginning",
+      "optB": "Middle",
+      "optC": "End",
+      "optD": "None of the above",
+      "ans": "optA"
+    },
+    {
+      "id": 11,
+      "ques": "Which committee standardize ‘C’ programming language?",
+      "optA": "ANSI",
+      "optB": "W3C",
+      "optC": "TRAI",
+      "optD": "ISO",
+      "ans": "optA"
+    },
+    {
+      "id": 12,
+      "ques": "A Header file is :",
+      "optA": "A file that contains standard library functions",
+      "optB": "A file that contains definitions and macros",
+      "optC": "A file that contains user defined functions",
+      "optD": "A file that is present in current working directory",
+      "ans": "optB"
+    },
+    {
+      "id": 13,
+      "ques": "Which header file is designed for basic mathematical operations ?",
+      "optA": "Stdio.h",
+      "optB": "Dos.h",
+      "optC": "Math.h",
+      "optD": "Conio.h",
+      "ans": "optC"
+    },
+    {
+      "id": 14,
+      "ques": "The File structure is define in which of the following files :",
+      "optA": "stdlib.h",
+      "optB": "stdio.h",
+      "optC": "io.h",
+      "optD": "conio.h",
+      "ans": "optB"
+    },
+    {
+      "id": 15,
+      "ques": "Which header file should be included to use function like malloc(), calloc()?",
+      "optA": "memory.h",
+      "optB": "stdlib.h",
+      "optC": "dos.h",
+      "optD": "string.h",
+      "ans": "optB"
+    },
+    {
+      "id": 16,
       "ques": "Which of the following is a logical operator?",
       "optA": "&&",
       "optB": "!=",
@@ -10,7 +327,7 @@
       "ans": "optA"
     },
     {
-      "id": 2,
+      "id": 17,
       "ques": "Which one of the following is a bitwise operator?",
       "optA": "<",
       "optB": "<<",
@@ -19,13 +336,395 @@
       "ans": "optB"
     },
     {
-      "id": 3,
+      "id": 18,
       "ques": "Which of the following is not a relational operator ?",
       "optA": "!",
       "optB": "!=",
       "optC": ">=",
       "optD": "<",
       "ans": "optA"
+    },
+    {
+      "id": 19,
+      "ques": "“!=” represents :",
+      "optA": "Greater",
+      "optB": "Equal to",
+      "optC": "Not equal to",
+      "optD": "Lesser",
+      "ans": "optC"
+    },
+    {
+      "id": 20,
+      "ques": "What is the symbol used for conditional operator ?",
+      "optA": "==",
+      "optB": "/",
+      "optC": "?=",
+      "optD": "?:",
+      "ans": "optA"
     }
-  ]
+  ],
+  "mcq3": [
+    {
+      "id": 1,
+      "ques": "Which one of the following is a bitwise operator ?",
+      "optA": "==",
+      "optB": "=",
+      "optC": "<",
+      "optD": "<<",
+      "ans": "optD"
+    },
+    {
+      "id": 2,
+      "ques": "Which one is the special operator ?",
+      "optA": "<<",
+      "optB": "++",
+      "optC": "?:",
+      "optD": "Size of()",
+      "ans": "optD"
+    },
+    {
+      "id": 3,
+      "ques": "Which of the following is correct precedence order from higher to lower ?",
+      "optA": "(), <<, *, +",
+      "optB": "(), *, <<, +",
+      "optC": "(), *, +, <<",
+      "optD": "*, <<, (), +",
+      "ans": "optC"
+    },
+    {
+      "id": 4,
+      "ques": "P++ is called _______ operator.",
+      "optA": "Decrement",
+      "optB": "Post decrement",
+      "optC": "Post increment",
+      "optD": "Pre increment",
+      "ans": "optC"
+    },
+    {
+      "id": 5,
+      "ques": "Which of the following is not a relational operator ?",
+      "optA": "!",
+      "optB": "!=",
+      "optC": ">=",
+      "optD": "<",
+      "ans": "optA"
+    },
+    {
+      "id": 6,
+      "ques": "Does logical operator in C language are evaluated with short ciruit ?",
+      "optA": "True",
+      "optB": "False",
+      "optC": "Depends on compiler",
+      "optD": "None",
+      "ans": "optA"
+    },
+    {
+      "id": 7,
+      "ques": "Realtional operator cannot be used on",
+      "optA": "Structure",
+      "optB": "Long",
+      "optC": "String",
+      "optD": "Float",
+      "ans": "optA"
+    },
+    {
+      "id": 8,
+      "ques": "Which of the following is bitwise operator ?",
+      "optA": "&&",
+      "optB": "}}",
+      "optC": "!=",
+      "optD": "&",
+      "ans": "optD"
+    },
+    {
+      "id": 9,
+      "ques": "Which of the following is correct hierarchy of arithmetic operator in C.",
+      "optA": "/ + * –",
+      "optB": "* – / +",
+      "optC": "+ – / +",
+      "optD": "* / + –",
+      "ans": "optD"
+    },
+    {
+      "id": 10,
+      "ques": "Which operators are known as ternary operator ?",
+      "optA": "::, ?",
+      "optB": "&&",
+      "optC": "?:",
+      "optD": "None of the above",
+      "ans": "optC"
+    },
+    {
+      "id": 11,
+      "ques": "A C variable cannot start with",
+      "optA": "An alphabet",
+      "optB": "A number",
+      "optC": "A special symbol other than underscore",
+      "optD": "Both (b) and (c)",
+      "ans": "optD"
+    },
+    {
+      "id": 12,
+      "ques": "Select the odd one out with respect to type ?",
+      "optA": "Char",
+      "optB": "Int",
+      "optC": "Long",
+      "optD": "Float",
+      "ans": "optA"
+    },
+    {
+      "id": 13,
+      "ques": "Which type of variable can have same name in different function",
+      "optA": "Global variable",
+      "optB": "Static variable",
+      "optC": "Function argument",
+      "optD": "Both (b) and (c)",
+      "ans": "optD"
+    },
+    {
+      "id": 14,
+      "ques": "For 16-bit compiler allowable range for integer constants is ______ ?",
+      "optA": "-3.4e38 to 3.4e38",
+      "optB": "-32767 to 32768",
+      "optC": "-32768 to 32767",
+      "optD": "-32668 to 32667",
+      "ans": "optC"
+    },
+    {
+      "id": 15,
+      "ques": "Which of the following is false in ‘C’.",
+      "optA": "Capital letters can be used in variable names.",
+      "optB": "Variable names can contain a digit.",
+      "optC": "Variable names do not contain a blank space.",
+      "optD": "Keywords can be used as variable names.",
+      "ans": "optD"
+    },
+    {
+      "id": 16,
+      "ques": "An “int” datatype requires :",
+      "optA": "2 bytes",
+      "optB": "3 bytes",
+      "optC": "1 bytes",
+      "optD": "8 bytes",
+      "ans": "optA"
+    },
+    {
+      "id": 17,
+      "ques": "Which of the following spwcial symbol allowed in a variable name ?",
+      "optA": "*(Asterisk)",
+      "optB": "|(Pipeline)",
+      "optC": "-(Hyphen)",
+      "optD": "_(Underscore)",
+      "ans": "optD"
+    },
+    {
+      "id": 18,
+      "ques": "The structure combines variables of ______ data type.",
+      "optA": "Similar",
+      "optB": "Variable",
+      "optC": "Dissimilar",
+      "optD": "None of these",
+      "ans": "optC"
+    },
+    {
+      "id": 19,
+      "ques": "What is the value range of data type unsigned short int",
+      "optA": "-128 to 127",
+      "optB": "0 to 255",
+      "optC": "0 to 65535",
+      "optD": "0 to 128",
+      "ans": "optC"
+    },
+    {
+      "id": 20,
+      "ques": "How many of bytes in memory required for single character in computer ?",
+      "optA": "8 bytes",
+      "optB": "2 bytes",
+      "optC": "4 bytes",
+      "optD": "1 bytes",
+      "ans": "optD"
+    }
+  ],
+  "mcq4": [
+    {
+      "id": 1,
+      "ques": "Which of the following cannot be checeked in a swith case statement ?",
+      "optA": "Float",
+      "optB": "Interger",
+      "optC": "Character",
+      "optD": "None of the above",
+      "ans": "optA"
+    },
+    {
+      "id": 2,
+      "ques": "If ‘a’ is an interger variable, then a=5/2; will return a value",
+      "optA": "2.5",
+      "optB": "3",
+      "optC": "2",
+      "optD": "0",
+      "ans": "optC"
+    },
+    {
+      "id": 3,
+      "ques": "Which of the following is the correct way of declaring float pointer.",
+      "optA": "float ptr",
+      "optB": "float *ptr",
+      "optC": "*float ptr",
+      "optD": "None of above",
+      "ans": "optB"
+    },
+    {
+      "id": 4,
+      "ques": "Address stored in pointer variable is of type",
+      "optA": "Integer",
+      "optB": "Float",
+      "optC": "Char",
+      "optD": "Array",
+      "ans": "optA"
+    },
+    {
+      "id": 5,
+      "ques": "Which of the following can a format string of printf() function contain :",
+      "optA": "Character, format specifications and escape sequences",
+      "optB": "Character, interger and floats",
+      "optC": "Strings, integers and escape sequences",
+      "optD": "Inverted commas, precentage sign and backslash character",
+      "ans": "optA"
+    },
+    {
+      "id": 6,
+      "ques": "By default a function returns a value of type",
+      "optA": "Int",
+      "optB": "Char",
+      "optC": "Void",
+      "optD": "None of these",
+      "ans": "optC"
+    },
+    {
+      "id": 7,
+      "ques": "Which of the following are a collection of different data typed ?",
+      "optA": "Array",
+      "optB": "Structure",
+      "optC": "Char",
+      "optD": "All of the above",
+      "ans": "optB"
+    },
+    {
+      "id": 8,
+      "ques": "Which of the following can never be sent by call by value ?",
+      "optA": "Variable",
+      "optB": "Array",
+      "optC": "Structure",
+      "optD": "Both (a) and (c)",
+      "ans": "optB"
+    },
+    {
+      "id": 9,
+      "ques": "Collection of similar data type is _______",
+      "optA": "Array",
+      "optB": "Structure",
+      "optC": "Vector",
+      "optD": "None of the above",
+      "ans": "optA"
+    },
+    {
+      "id": 10,
+      "ques": "Which function is used to release the memory allotted in dynamic memory allocation ?",
+      "optA": "Malloc()",
+      "optB": "Free()",
+      "optC": "Calloc()",
+      "optD": "Delecte",
+      "ans": "optA"
+    },
+    {
+      "id": 11,
+      "ques": "Member of union use :",
+      "optA": "Different storage locations",
+      "optB": "Same storage locations",
+      "optC": "No storage locations",
+      "optD": "None of these",
+      "ans": "optB"
+    },
+    {
+      "id": 12,
+      "ques": "Which of the following is example of call by value ?",
+      "optA": "Num(*a, *b)",
+      "optB": "Num(a,b)",
+      "optC": "Num(&a,&b)",
+      "optD": "None of the above",
+      "ans": "optB"
+    },
+    {
+      "id": 13,
+      "ques": "How many elements can be store in the array A[35] ?",
+      "optA": "36",
+      "optB": "37",
+      "optC": "35",
+      "optD": "34",
+      "ans": "optA"
+    },
+    {
+      "id": 14,
+      "ques": "An array is a collection of :",
+      "optA": "Different data types scattered throughout memory",
+      "optB": "The same data type scattered throughout memory",
+      "optC": "The same data type placed next to each other in memory",
+      "optD": "Different data types placed next to each other in memory",
+      "ans": "optB"
+    },
+    {
+      "id": 15,
+      "ques": "If int S[5] is a one-dimensional array of integers, which of the following refers to the third element in the array ?",
+      "optA": "*(S+2)",
+      "optB": "*(S+3)",
+      "optC": "S+3",
+      "optD": "S+2",
+      "ans": "optA"
+    },
+    {
+      "id": 16,
+      "ques": "Which you pass an array as an argument to a function, what actually gets passed ?",
+      "optA": "Address of the array",
+      "optB": "Values of the elements of the array",
+      "optC": "Address of the first element of the array",
+      "optD": "Number of elements of the array",
+      "ans": "optC"
+    },
+    {
+      "id": 17,
+      "ques": "What is the difference between the 5’s in these two expressions? int num[5]; num[5]=11; select the correct answer.",
+      "optA": "First is particular element, second is type",
+      "optB": "First is array size, second is particular element",
+      "optC": "First is particular elements, second is array size",
+      "optD": "Both specify array size",
+      "ans": "optB"
+    },
+    {
+      "id": 18,
+      "ques": "What will happen if you assign a value to an element of an array whose subscript exceeds the size of the array?",
+      "optA": "The element will be set to 0",
+      "optB": "Nothing its done all the time",
+      "optC": "Other data may be overwritten",
+      "optD": "Error message from the compiler",
+      "ans": "optC"
+    },
+    {
+      "id": 19,
+      "ques": "Given the statement maruti. engine. bolts=25; which of the following is true ?",
+      "optA": "Structure bolts is nested within structure engine",
+      "optB": "Structure engine is nested within structure maruti",
+      "optC": "Structure maruti is nested within structure engine",
+      "optD": "Structure maruti is nested within structure bolts",
+      "ans": "optB"
+    },
+    {
+      "id": 20,
+      "ques": "An array elements are always stored in _________ memory locations.",
+      "optA": "Sequential",
+      "optB": "Random",
+      "optC": "Sequential and Random",
+      "optD": "None of the above",
+      "ans": "optA"
+    }
+  ],
 }
