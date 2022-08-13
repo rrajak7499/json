@@ -183,7 +183,7 @@
   ],
   "mcq2": [
     {
-      "id": 1,
+      "id": 21,
       "ques": "Who is father of C Language?",
       "optA": "Bjarne Stroustrup",
       "optB": "Dennis Ritchie",
@@ -192,7 +192,7 @@
       "ans": "optB"
     },
     {
-      "id": 2,
+      "id": 22,
       "ques": "C Language developed as ______",
       "optA": "AT & T Bell Laboratories of USA in 1972",
       "optB": "AT & T Bell Laboratories of USA in 1970",
@@ -201,7 +201,7 @@
       "ans": "optA"
     },
     {
-      "id": 3,
+      "id": 23,
       "ques": "C language is a",
       "optA": "Completely high-level language",
       "optB": "Completely low-level language",
@@ -210,7 +210,7 @@
       "ans": "optC"
     },
     {
-      "id": 4,
+      "id": 24,
       "ques": "The ‘C’ language is",
       "optA": "Context free language",
       "optB": "Context sensitive lanugage",
@@ -219,7 +219,7 @@
       "ans": "optA"
     },
     {
-      "id": 5,
+      "id": 25,
       "ques": "C is _____ language?",
       "optA": "Low level",
       "optB": "High level",
@@ -228,7 +228,7 @@
       "ans": "optB"
     },
     {
-      "id": 6,
+      "id": 26,
       "ques": "C programs are converted into machine language with the help of",
       "optA": "An editor",
       "optB": "A compiler",
@@ -237,7 +237,7 @@
       "ans": "optB"
     },
     {
-      "id": 7,
+      "id": 27,
       "ques": "What is the extension files by default for C Program ?",
       "optA": ".doc",
       "optB": ".ppt",
@@ -246,7 +246,7 @@
       "ans": "optC"
     },
     {
-      "id": 8,
+      "id": 28,
       "ques": "Standard ANSI C has _____ number of keywords ?",
       "optA": "30",
       "optB": "32",
@@ -255,7 +255,7 @@
       "ans": "optB"
     },
     {
-      "id": 9,
+      "id": 29,
       "ques": "What is C Tokens?",
       "optA": "The smallest individual units of c program",
       "optB": "The basic element recognized by the compiler",
@@ -264,7 +264,7 @@
       "ans": "optD"
     },
     {
-      "id": 10,
+      "id": 30,
       "ques": "The sign ‘#’ of the compiler directive must appear at the ______ of a line",
       "optA": "Beginning",
       "optB": "Middle",
@@ -273,7 +273,7 @@
       "ans": "optA"
     },
     {
-      "id": 11,
+      "id": 31,
       "ques": "Which committee standardize ‘C’ programming language?",
       "optA": "ANSI",
       "optB": "W3C",
@@ -282,7 +282,7 @@
       "ans": "optA"
     },
     {
-      "id": 12,
+      "id": 32,
       "ques": "A Header file is :",
       "optA": "A file that contains standard library functions",
       "optB": "A file that contains definitions and macros",
@@ -291,7 +291,7 @@
       "ans": "optB"
     },
     {
-      "id": 13,
+      "id": 33,
       "ques": "Which header file is designed for basic mathematical operations ?",
       "optA": "Stdio.h",
       "optB": "Dos.h",
@@ -300,7 +300,7 @@
       "ans": "optC"
     },
     {
-      "id": 14,
+      "id": 34,
       "ques": "The File structure is define in which of the following files :",
       "optA": "stdlib.h",
       "optB": "stdio.h",
@@ -309,7 +309,7 @@
       "ans": "optB"
     },
     {
-      "id": 15,
+      "id": 35,
       "ques": "Which header file should be included to use function like malloc(), calloc()?",
       "optA": "memory.h",
       "optB": "stdlib.h",
@@ -318,7 +318,7 @@
       "ans": "optB"
     },
     {
-      "id": 16,
+      "id": 36,
       "ques": "Which of the following is a logical operator?",
       "optA": "&&",
       "optB": "!=",
@@ -327,7 +327,7 @@
       "ans": "optA"
     },
     {
-      "id": 17,
+      "id": 37,
       "ques": "Which one of the following is a bitwise operator?",
       "optA": "<",
       "optB": "<<",
@@ -336,7 +336,7 @@
       "ans": "optB"
     },
     {
-      "id": 18,
+      "id": 38,
       "ques": "Which of the following is not a relational operator ?",
       "optA": "!",
       "optB": "!=",
@@ -345,7 +345,7 @@
       "ans": "optA"
     },
     {
-      "id": 19,
+      "id": 39,
       "ques": "“!=” represents :",
       "optA": "Greater",
       "optB": "Equal to",
@@ -354,7 +354,7 @@
       "ans": "optC"
     },
     {
-      "id": 20,
+      "id": 40,
       "ques": "What is the symbol used for conditional operator ?",
       "optA": "==",
       "optB": "/",
@@ -365,7 +365,7 @@
   ],
   "mcq3": [
     {
-      "id": 1,
+      "id": 41,
       "ques": "Which one of the following is a bitwise operator ?",
       "optA": "==",
       "optB": "=",
@@ -374,7 +374,7 @@
       "ans": "optD"
     },
     {
-      "id": 2,
+      "id": 42,
       "ques": "Which one is the special operator ?",
       "optA": "<<",
       "optB": "++",
@@ -383,7 +383,7 @@
       "ans": "optD"
     },
     {
-      "id": 3,
+      "id": 43,
       "ques": "Which of the following is correct precedence order from higher to lower ?",
       "optA": "(), <<, *, +",
       "optB": "(), *, <<, +",
@@ -392,7 +392,7 @@
       "ans": "optC"
     },
     {
-      "id": 4,
+      "id": 44,
       "ques": "P++ is called _______ operator.",
       "optA": "Decrement",
       "optB": "Post decrement",
@@ -401,7 +401,7 @@
       "ans": "optC"
     },
     {
-      "id": 5,
+      "id": 45,
       "ques": "Which of the following is not a relational operator ?",
       "optA": "!",
       "optB": "!=",
@@ -410,7 +410,7 @@
       "ans": "optA"
     },
     {
-      "id": 6,
+      "id": 46,
       "ques": "Does logical operator in C language are evaluated with short ciruit ?",
       "optA": "True",
       "optB": "False",
@@ -419,7 +419,7 @@
       "ans": "optA"
     },
     {
-      "id": 7,
+      "id": 47,
       "ques": "Realtional operator cannot be used on",
       "optA": "Structure",
       "optB": "Long",
@@ -428,7 +428,7 @@
       "ans": "optA"
     },
     {
-      "id": 8,
+      "id": 48,
       "ques": "Which of the following is bitwise operator ?",
       "optA": "&&",
       "optB": "}}",
@@ -437,7 +437,7 @@
       "ans": "optD"
     },
     {
-      "id": 9,
+      "id": 49,
       "ques": "Which of the following is correct hierarchy of arithmetic operator in C.",
       "optA": "/ + * –",
       "optB": "* – / +",
@@ -446,7 +446,7 @@
       "ans": "optD"
     },
     {
-      "id": 10,
+      "id": 50,
       "ques": "Which operators are known as ternary operator ?",
       "optA": "::, ?",
       "optB": "&&",
@@ -455,7 +455,7 @@
       "ans": "optC"
     },
     {
-      "id": 11,
+      "id": 51,
       "ques": "A C variable cannot start with",
       "optA": "An alphabet",
       "optB": "A number",
@@ -464,7 +464,7 @@
       "ans": "optD"
     },
     {
-      "id": 12,
+      "id": 52,
       "ques": "Select the odd one out with respect to type ?",
       "optA": "Char",
       "optB": "Int",
@@ -473,7 +473,7 @@
       "ans": "optA"
     },
     {
-      "id": 13,
+      "id": 53,
       "ques": "Which type of variable can have same name in different function",
       "optA": "Global variable",
       "optB": "Static variable",
@@ -482,7 +482,7 @@
       "ans": "optD"
     },
     {
-      "id": 14,
+      "id": 54,
       "ques": "For 16-bit compiler allowable range for integer constants is ______ ?",
       "optA": "-3.4e38 to 3.4e38",
       "optB": "-32767 to 32768",
@@ -491,7 +491,7 @@
       "ans": "optC"
     },
     {
-      "id": 15,
+      "id": 55,
       "ques": "Which of the following is false in ‘C’.",
       "optA": "Capital letters can be used in variable names.",
       "optB": "Variable names can contain a digit.",
@@ -500,7 +500,7 @@
       "ans": "optD"
     },
     {
-      "id": 16,
+      "id": 56,
       "ques": "An “int” datatype requires :",
       "optA": "2 bytes",
       "optB": "3 bytes",
@@ -509,7 +509,7 @@
       "ans": "optA"
     },
     {
-      "id": 17,
+      "id": 57,
       "ques": "Which of the following spwcial symbol allowed in a variable name ?",
       "optA": "*(Asterisk)",
       "optB": "|(Pipeline)",
@@ -518,7 +518,7 @@
       "ans": "optD"
     },
     {
-      "id": 18,
+      "id": 58,
       "ques": "The structure combines variables of ______ data type.",
       "optA": "Similar",
       "optB": "Variable",
@@ -527,7 +527,7 @@
       "ans": "optC"
     },
     {
-      "id": 19,
+      "id": 59,
       "ques": "What is the value range of data type unsigned short int",
       "optA": "-128 to 127",
       "optB": "0 to 255",
@@ -536,7 +536,7 @@
       "ans": "optC"
     },
     {
-      "id": 20,
+      "id": 60,
       "ques": "How many of bytes in memory required for single character in computer ?",
       "optA": "8 bytes",
       "optB": "2 bytes",
@@ -547,7 +547,7 @@
   ],
   "mcq4": [
     {
-      "id": 1,
+      "id": 61,
       "ques": "Which of the following cannot be checeked in a swith case statement ?",
       "optA": "Float",
       "optB": "Interger",
@@ -556,7 +556,7 @@
       "ans": "optA"
     },
     {
-      "id": 2,
+      "id": 62,
       "ques": "If ‘a’ is an interger variable, then a=5/2; will return a value",
       "optA": "2.5",
       "optB": "3",
@@ -565,7 +565,7 @@
       "ans": "optC"
     },
     {
-      "id": 3,
+      "id": 63,
       "ques": "Which of the following is the correct way of declaring float pointer.",
       "optA": "float ptr",
       "optB": "float *ptr",
@@ -574,7 +574,7 @@
       "ans": "optB"
     },
     {
-      "id": 4,
+      "id": 64,
       "ques": "Address stored in pointer variable is of type",
       "optA": "Integer",
       "optB": "Float",
@@ -583,7 +583,7 @@
       "ans": "optA"
     },
     {
-      "id": 5,
+      "id": 65,
       "ques": "Which of the following can a format string of printf() function contain :",
       "optA": "Character, format specifications and escape sequences",
       "optB": "Character, interger and floats",
@@ -592,7 +592,7 @@
       "ans": "optA"
     },
     {
-      "id": 6,
+      "id": 66,
       "ques": "By default a function returns a value of type",
       "optA": "Int",
       "optB": "Char",
@@ -601,7 +601,7 @@
       "ans": "optC"
     },
     {
-      "id": 7,
+      "id": 67,
       "ques": "Which of the following are a collection of different data typed ?",
       "optA": "Array",
       "optB": "Structure",
@@ -610,7 +610,7 @@
       "ans": "optB"
     },
     {
-      "id": 8,
+      "id": 68,
       "ques": "Which of the following can never be sent by call by value ?",
       "optA": "Variable",
       "optB": "Array",
@@ -619,7 +619,7 @@
       "ans": "optB"
     },
     {
-      "id": 9,
+      "id": 69,
       "ques": "Collection of similar data type is _______",
       "optA": "Array",
       "optB": "Structure",
@@ -628,7 +628,7 @@
       "ans": "optA"
     },
     {
-      "id": 10,
+      "id": 70,
       "ques": "Which function is used to release the memory allotted in dynamic memory allocation ?",
       "optA": "Malloc()",
       "optB": "Free()",
@@ -637,7 +637,7 @@
       "ans": "optA"
     },
     {
-      "id": 11,
+      "id": 71,
       "ques": "Member of union use :",
       "optA": "Different storage locations",
       "optB": "Same storage locations",
@@ -646,7 +646,7 @@
       "ans": "optB"
     },
     {
-      "id": 12,
+      "id": 72,
       "ques": "Which of the following is example of call by value ?",
       "optA": "Num(*a, *b)",
       "optB": "Num(a,b)",
@@ -655,7 +655,7 @@
       "ans": "optB"
     },
     {
-      "id": 13,
+      "id": 73,
       "ques": "How many elements can be store in the array A[35] ?",
       "optA": "36",
       "optB": "37",
@@ -664,7 +664,7 @@
       "ans": "optA"
     },
     {
-      "id": 14,
+      "id": 74,
       "ques": "An array is a collection of :",
       "optA": "Different data types scattered throughout memory",
       "optB": "The same data type scattered throughout memory",
@@ -673,7 +673,7 @@
       "ans": "optB"
     },
     {
-      "id": 15,
+      "id": 75,
       "ques": "If int S[5] is a one-dimensional array of integers, which of the following refers to the third element in the array ?",
       "optA": "*(S+2)",
       "optB": "*(S+3)",
@@ -682,7 +682,7 @@
       "ans": "optA"
     },
     {
-      "id": 16,
+      "id": 76,
       "ques": "Which you pass an array as an argument to a function, what actually gets passed ?",
       "optA": "Address of the array",
       "optB": "Values of the elements of the array",
@@ -691,7 +691,7 @@
       "ans": "optC"
     },
     {
-      "id": 17,
+      "id": 77,
       "ques": "What is the difference between the 5’s in these two expressions? int num[5]; num[5]=11; select the correct answer.",
       "optA": "First is particular element, second is type",
       "optB": "First is array size, second is particular element",
@@ -700,7 +700,7 @@
       "ans": "optB"
     },
     {
-      "id": 18,
+      "id": 78,
       "ques": "What will happen if you assign a value to an element of an array whose subscript exceeds the size of the array?",
       "optA": "The element will be set to 0",
       "optB": "Nothing its done all the time",
@@ -709,7 +709,7 @@
       "ans": "optC"
     },
     {
-      "id": 19,
+      "id": 79,
       "ques": "Given the statement maruti. engine. bolts=25; which of the following is true ?",
       "optA": "Structure bolts is nested within structure engine",
       "optB": "Structure engine is nested within structure maruti",
@@ -718,7 +718,7 @@
       "ans": "optB"
     },
     {
-      "id": 20,
+      "id": 80,
       "ques": "An array elements are always stored in _________ memory locations.",
       "optA": "Sequential",
       "optB": "Random",
@@ -726,5 +726,5 @@
       "optD": "None of the above",
       "ans": "optA"
     }
-  ],
+  ]
 }
