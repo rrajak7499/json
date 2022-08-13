@@ -2,7 +2,7 @@
   "mcq1": [
     {
       "id": 1,
-      "ques": "1. Which of the following is a logical operator?",
+      "ques": " Which of the following is a logical operator?",
       "optA": "&&",
       "optB": "!=",
       "optC": "|",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "ques": "2. Which one of the following is a bitwise operator?",
+      "ques": "Which one of the following is a bitwise operator?",
       "optA": "<",
       "optB": "<<",
       "optC": "=",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "ques": "3. Which of the following is not a relational operator ?",
+      "ques": "Which of the following is not a relational operator ?",
       "optA": "!",
       "optB": "!=",
       "optC": ">=",
