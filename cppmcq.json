@@ -2,7 +2,7 @@
   "mcq1": [
     {
       "id": 1,
-      "ques": " Which of the following is a logical operator?",
+      "ques": "Which of the following is a logical operator?",
       "optA": "&&",
       "optB": "!=",
       "optC": "|",
