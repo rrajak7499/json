@@ -1,5 +1,5 @@
 {
-  "c-programming-mcq-1": [
+  "mcq1": [
     {
       "id": 1,
       "ques": "1. Which of the following is a logical operator?",
@@ -28,7 +28,7 @@
       "ans": "optA"
     }
   ],
-  "c-programming-mcq-2": [
+  "mcq2": [
     {
       "id": 1,
       "ques": "11. Which of the following is a logical operator?",
