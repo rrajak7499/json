@@ -1,0 +1,611 @@
+{
+  "automaticControlSystem": {
+    "set1": [
+      {
+        "ques": "1. A system with large time constant corresponds to a _____ system.",
+        "A": " Fast ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Sluggish ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "id": 1
+      },
+      {
+        "ques": "2. The AC servomotor is basically a :",
+        "A": " Universal motor ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Capacitor motor ",
+        "C": " 2-Phase induction motor ",
+        "D": " 3-Phase induction motor ",
+        "id": 2
+      },
+      {
+        "ques": "3. Error or actuating signal is generated in a :",
+        "A": " Open loop system ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Closed loop system ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "id": 3
+      },
+      {
+        "ques": "4. In a block diagram error detector _____",
+        "A": " Changes the input signal ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Compares the input & Output signal ",
+        "C": " Changes the output signal ",
+        "D": " None of these ",
+        "id": 4
+      },
+      {
+        "ques": "5. The drag up rotor employed in a 2-phase induction motor to give :",
+        "A": " High inertia ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Low inertia ",
+        "C": " Low torque ",
+        "D": " High torque ",
+        "id": 5
+      },
+      {
+        "ques": "6. Damping in a control system is a function of",
+        "A": " Gain ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " √gain ",
+        "C": " 1/√gain ",
+        "D": " 1/gain ",
+        "id": 6
+      },
+      {
+        "ques": "7. Root locus is the plot of the roots of the characteristic equation of a closed loop system against variation in :",
+        "A": " Gain K ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Frequency ",
+        "C": " S ",
+        "D": " None of these ",
+        "id": 7
+      },
+      {
+        "ques": "8. Slope of factor K in plotting Bode Magnitude curve is :",
+        "A": " 0° ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " 90° ",
+        "C": " 45° ",
+        "D": " 20° ",
+        "id": 8
+      },
+      {
+        "ques": "9. If a zero appears in the first column of the Routh table, the system is :",
+        "A": " Marginally stable ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Necessarily stable ",
+        "C": " Necessarily unstable ",
+        "D": " Conditionally stable ",
+        "id": 9
+      },
+      {
+        "ques": "10. Which of the following technique provide quick transient and stability response ?",
+        "A": " Nyquist criterion ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Nicholas plot ",
+        "C": " Bode plot ",
+        "D": " Root locus ",
+        "id": 10
+      },
+      {
+        "ques": "11. The characteristic equation of a closed loop system is given by S²+4S+16=0. The undamped natural frequency in rad/sec is :",
+        "A": " 2 ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " 2√3 ",
+        "C": " 4 ",
+        "D": " 2√2 ",
+        "id": 11
+      },
+      {
+        "ques": "12. Which of the following may result in instability problem :",
+        "A": " Larger error ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " High selectivity ",
+        "C": " Noise ",
+        "D": " High gain ",
+        "id": 12
+      },
+      {
+        "ques": "13. In time domain specification, the delay time is the time required for the response to reach :",
+        "A": " 75% of final value ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " 25% of final value ",
+        "C": " 50% of final value ",
+        "D": " 100% of final value ",
+        "id": 13
+      },
+      {
+        "ques": "14. If all the roots of the characteristic equation lie in the left half of S-plane the system will be :",
+        "A": " Stable ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Unstable ",
+        "C": " Critically stable ",
+        "D": " None of the above ",
+        "id": 14
+      },
+      {
+        "ques": "15. Root locus is used to calculate :",
+        "A": " Marginal stability ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Absolute stability ",
+        "C": " Conditional stability ",
+        "D": " Relative stability ",
+        "id": 15
+      },
+      {
+        "ques": "16. Which of the test signal are best utilized by the stability analysis ?",
+        "A": " Impulse ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Step ",
+        "C": " Ramp ",
+        "D": " Parabolic ",
+        "id": 16
+      },
+      {
+        "ques": "17. The critical value of gain for the system is 40. The system is operating at a gain of 20. The gain margin of the system is :",
+        "A": " 2 dB ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " 3 dB ",
+        "C": " 6 dB ",
+        "D": " 4 dB ",
+        "id": 17
+      },
+      {
+        "ques": "18. Addition of zero at the origin causes ",
+        "A": " Improvement in transient response ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Reduction in steady state error ",
+        "C": " Reduction in settling time ",
+        "D": " Increase in damping constant ",
+        "id": 18
+      },
+      {
+        "ques": "19. Multiple signals as input can be used in which systems :",
+        "A": " Feedback systems ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Non-feedback systems ",
+        "C": " Any of (a) or (b) ",
+        "D": " Both (a) & (b) ",
+        "id": 19
+      },
+      {
+        "ques": "20. The characteristic equation of a system is given by 3S^4 +10S³+5S²+2=0. The system is :",
+        "A": " Stable ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Marginally stable ",
+        "C": " Unstable ",
+        "D": " Linear ",
+        "id": 20
+      }
+    ],
+    "set2": [],
+    "set3": [
+      {
+        "ques": "1. When the ouput of the system is independent of input signal, then the system is ",
+        "A": " Open loop control system ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Closed loop control system ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "id": 1
+      },
+      {
+        "ques": "2. A closed loop system basically different from open control system due to ______",
+        "A": " Error signal ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Actuating signal ",
+        "C": " Servomechanism ",
+        "D": " Feed back ",
+        "id": 2
+      },
+      {
+        "ques": "3. Introduction of feedback reduces the effect of ",
+        "A": " Error signal ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Disturbances ",
+        "C": " Noise signal ",
+        "D": " All of the above ",
+        "id": 3
+      },
+      {
+        "ques": "4. Which of the following is an example of the open loop control system ?",
+        "A": " Field controlled DC motor ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Metadyne ",
+        "C": " Stroboscope ",
+        "D": " Ward Veonard control ",
+        "id": 4
+      },
+      {
+        "ques": "5. The output is feedback at the input side through the ______ point.",
+        "A": " Differential ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Summing ",
+        "C": " Take off ",
+        "D": " None of these ",
+        "id": 5
+      },
+      {
+        "ques": "6. Advantages of open loop system is/are :",
+        "A": " Simple and economical ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Accurate ",
+        "C": " Reliable ",
+        "D": " All of the above ",
+        "id": 6
+      },
+      {
+        "ques": "7. The Laplace transform df(t)/dt of is :",
+        "A": " SF(s)+f(0) ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " SF(s)-f(0) ",
+        "C": " F(s)/s ",
+        "D": " F(s) ",
+        "id": 7
+      },
+      {
+        "ques": "8. The inverse Laplace of 1/S² is : ",
+        "A": " t² ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " t ",
+        "C": " 1 ",
+        "D": " 0 ",
+        "id": 8
+      },
+      {
+        "ques": "9. The transfer function of a system is defined as the ratio of output to input in ______",
+        "A": " Laplace Transform ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Forier Transform ",
+        "C": " Z-Transform ",
+        "D": " None of these ",
+        "id": 9
+      },
+      {
+        "ques": "10. Three blocks with gains of 5,8 and 2 respectively are connected in series, The total gain of the arrangement is :",
+        "A": " 15 ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " 80 ",
+        "C": " 40 ",
+        "D": " 20 ",
+        "id": 10
+      },
+      {
+        "ques": "11. Tachometers is a device which converts :",
+        "A": " Electrical energy to machanical energy ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Mechanical energy to electrical energy ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "id": 11
+      },
+      {
+        "ques": "12. If the damping ratin is equal to 1, a second-order system is ______",
+        "A": " Having maginary roots of the characteristic equation ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Underdamped ",
+        "C": " Critically damped with unequal roots ",
+        "D": " Critically damped with equal roots ",
+        "id": 12
+      },
+      {
+        "ques": "13. Root locus is symmetrical about :",
+        "A": " Real axis ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Imaginary axis ",
+        "C": " Both real and imaginary axis ",
+        "D": " None of these ",
+        "id": 13
+      },
+      {
+        "ques": "14. A signal which value changes from zero to another level ‘N’ in negligible rime is called ______",
+        "A": " Ramp signal ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Impulse signal ",
+        "C": " Step signal ",
+        "D": " None of these ",
+        "id": 14
+      },
+      {
+        "ques": "15. In time response specification, The time require to rach 50% off the final value in first attempt is called",
+        "A": " Settling time ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Delay time ",
+        "C": " Rise time ",
+        "D": " Peak time ",
+        "id": 15
+      },
+      {
+        "ques": "16. If the system has multiple poles on the imaginary axis, the system is :",
+        "A": " Unstable ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Stable ",
+        "C": " Conditionally stable ",
+        "D": " Marginally stable ",
+        "id": 16
+      },
+      {
+        "ques": "17. A graph of the magnitude of gain versus frequency is called ______",
+        "A": " Break frequency plot ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Frequency response plot ",
+        "C": " Frequency stability plot ",
+        "D": " Transient response plot ",
+        "id": 17
+      },
+      {
+        "ques": "18. Which of the following will constiture the state model of the system ?",
+        "A": " State equations ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Output equations ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "id": 18
+      },
+      {
+        "ques": "19. The Nyquist plot intersect the real axis at a=-2, the gain margin is ",
+        "A": " 2 ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " -2 ",
+        "C": " 1/2 ",
+        "D": " None of these ",
+        "id": 19
+      },
+      {
+        "ques": "20. Two stator windings of AC servomoter are oriented how many electrical degree a part",
+        "A": " 60° ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " 90° ",
+        "C": " 120° ",
+        "D": " 180° ",
+        "id": 20
+      }
+    ],
+    "set4": [
+      {
+        "ques": "1. Traffic light system is the example of :",
+        "A": " Open loop system ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Closed loop system ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "id": 1
+      },
+      {
+        "ques": "2. The gain margin of a second order system is ",
+        "A": " Zero ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Infinite ",
+        "C": " One ",
+        "D": " Two ",
+        "id": 2
+      },
+      {
+        "ques": "3. The most powerful controller is :",
+        "A": " PD controller ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " PI PI contoller\t",
+        "C": " PID controller ",
+        "D": " None of these ",
+        "id": 3
+      },
+      {
+        "ques": "4. A control system with excessive noise, is likely to suffer from",
+        "A": " Saturation in amplifying stages. ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Loss of gain ",
+        "C": " Vibrations ",
+        "D": " Oscillations ",
+        "id": 4
+      },
+      {
+        "ques": "5. The most commonly used input signal(s) in control system is/are ",
+        "A": " Step function ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Ramp or velocity function ",
+        "C": " Accelerating function ",
+        "D": " All of the above ",
+        "id": 5
+      },
+      {
+        "ques": "6. When the gain K is increased the system become :",
+        "A": " More stable ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Less stabe ",
+        "C": " Unstable ",
+        "D": " None of these ",
+        "id": 6
+      },
+      {
+        "ques": "7. An ideal potentiometer should have :",
+        "A": " Zero resolution ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Infinite resolution ",
+        "C": " A fime wire ",
+        "D": " A thick wire ",
+        "id": 7
+      },
+      {
+        "ques": "8. A static variable approach can be applied to _____ system",
+        "A": " Time variant ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Non linear ",
+        "C": " Linear and time invariant ",
+        "D": " All of the above ",
+        "id": 8
+      },
+      {
+        "ques": "9. The transfer function of a system is given as 100/(S²+20S+100), The system is ",
+        "A": " An over damped system ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " A critically damped system ",
+        "C": " An under damped system ",
+        "D": " An unstable system ",
+        "id": 9
+      },
+      {
+        "ques": "10. For handling multiple input multiple output system which one of the following is used :",
+        "A": " State variable approach ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Bode plot ",
+        "C": " Nyquist plot ",
+        "D": " Rootlocus technique ",
+        "id": 10
+      },
+      {
+        "ques": "11. Phase margin of a system is used to specify :",
+        "A": " Relative stability ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Absolute stability ",
+        "C": " Time response ",
+        "D": " Steady state error ",
+        "id": 11
+      },
+      {
+        "ques": "12. When the input frequency is varied from zero to infinity causing variations in magnitude and phase angle, the traced locus by phaser is called :",
+        "A": " Bode plot ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Polar plot ",
+        "C": " Root locus ",
+        "D": " Nyquist plot ",
+        "id": 12
+      },
+      {
+        "ques": "13. A system with gain margin close to unity or a phase marigin close to zero is :",
+        "A": " Highly stable ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Oscillatory ",
+        "C": " Highly unstable ",
+        "D": " None of these ",
+        "id": 13
+      },
+      {
+        "ques": "14. If the bandwidth of a system is increased the system response will",
+        "A": " Remain unaffected ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Become faster ",
+        "C": " Become slower ",
+        "D": " None of these ",
+        "id": 14
+      },
+      {
+        "ques": "15. The characteristic equation of a feedback control system is 2S^4+S³+3S²+5S+10=0. The number of roots in the right-half S plane is :",
+        "A": " Zero ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " 1 ",
+        "C": " 2 ",
+        "D": " 3 ",
+        "id": 15
+      },
+      {
+        "ques": "16. For a stable system, the phase margin :",
+        "A": " Is always positive ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Is always negative ",
+        "C": " May be positive and negative ",
+        "D": " None of these ",
+        "id": 16
+      },
+      {
+        "ques": "17. A system has a single pole at the origin, its impulse response is :",
+        "A": " Constant ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Ramp ",
+        "C": " Decaying exponential ",
+        "D": " Oscillatory ",
+        "id": 17
+      },
+      {
+        "ques": "18. Gain margin in the factor by which the system gain can be increased to drive it to the verge of :",
+        "A": " Stability ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Instability ",
+        "C": " Oscillation ",
+        "D": " Critical damping ",
+        "id": 18
+      },
+      {
+        "ques": "19. Which one of the following element is not required in an automatic control system.",
+        "A": " Error detector ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Sensor ",
+        "C": " Oscillator ",
+        "D": " All of the above ",
+        "id": 19
+      },
+      {
+        "ques": "20. The largest error between reference input and output during the transient period is called ",
+        "A": " Peak error ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Transient overshoot ",
+        "C": " Peak overshoot ",
+        "D": " Transient deviation ",
+        "id": 20
+      }
+    ]
+  }
+}

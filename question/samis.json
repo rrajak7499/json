@@ -1,0 +1,812 @@
+{
+  "samis": {
+    "set1": [
+      {
+        "ques": "1. SDLC Stands for :",
+        "A": " System Development Life Cycle ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Structure Design Life Cycle ",
+        "C": " System Design Life Cycle ",
+        "D": " Structure Development Life Cycle ",
+        "id": 1
+      },
+      {
+        "ques": "2. In which phase of SDLC the user actually start using the system?",
+        "A": " Implementation ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Design ",
+        "C": " Maintenance ",
+        "D": " Analysis ",
+        "id": 2
+      },
+      {
+        "ques": "3. A graphic representation of an information system is called :",
+        "A": " Flow chart ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Pictogram ",
+        "C": " Data flow diagram ",
+        "D": " Histogram ",
+        "id": 3
+      },
+      {
+        "ques": "4. A cost benefit analysis performed to access :",
+        "A": " Economic feasibility ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Operational feasibility ",
+        "C": " Techanical feasibility ",
+        "D": " All of the above ",
+        "id": 4
+      },
+      {
+        "ques": "5. The step by step instructions that solve a problem are called :",
+        "A": " An algorithm ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " A list ",
+        "C": " A plan ",
+        "D": " A sequential structure ",
+        "id": 5
+      },
+      {
+        "ques": "6. Grouping of all functionally related element is known as :",
+        "A": " Cohesion ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Coupling ",
+        "C": " Both (A) and (B) ",
+        "D": " None of the above ",
+        "id": 6
+      },
+      {
+        "ques": "7. In object oriented design, the attributes and methods are bundled togather is called : ",
+        "A": " Classes ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Objects ",
+        "C": " Encapsulation ",
+        "D": " Inheritance ",
+        "id": 7
+      },
+      {
+        "ques": "8. Documentation is prepared :",
+        "A": " At every stage ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " At system design ",
+        "C": " At system analysis ",
+        "D": " None of the above ",
+        "id": 8
+      },
+      {
+        "ques": "9. Who designs and implement database structure ?",
+        "A": " Clients ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Project Managers ",
+        "C": " Technical Writers ",
+        "D": " Database Administrators ",
+        "id": 9
+      },
+      {
+        "ques": "10. The process of identifying and correcting mistakes in a program is :",
+        "A": " Debugging ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Verification ",
+        "C": " Validation ",
+        "D": " Fragmentation ",
+        "id": 10
+      },
+      {
+        "ques": "11. FAST stands for :",
+        "A": " Functional Application Specification Technique ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Fast Application Specification Technique ",
+        "C": " Faciliated Application Specification Technique ",
+        "D": " None of the above ",
+        "id": 11
+      },
+      {
+        "ques": "12. System study involves :",
+        "A": " Identifying current defifiencies and establish new goals ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Documenting the existing system ",
+        "C": " Study of an existing system ",
+        "D": " All of the above ",
+        "id": 12
+      },
+      {
+        "ques": "13. Enhancement, upgrades and bug fixes are done during the ________ step in the SDLC.",
+        "A": " Maintenance and Evaluation ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Problem Identification ",
+        "C": " Design ",
+        "D": " Development and Documentation ",
+        "id": 13
+      },
+      {
+        "ques": "14. The primary objective of system design is to:",
+        "A": " Design the programs, database and test plan ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Design only user interfaces ",
+        "C": " Implement the system ",
+        "D": " Find out how the system will perform ",
+        "id": 14
+      },
+      {
+        "ques": "15. Software verification says :",
+        "A": " It satisfies the user requirement ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " It satisfies the business requirement ",
+        "C": " Checks errors in the program ",
+        "D": " None of the above ",
+        "id": 15
+      },
+      {
+        "ques": "16. White box testing is counducted to :",
+        "A": " Check output ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Improve code efficiency ",
+        "C": " To check behaviour under heavy load ",
+        "D": " None of the above ",
+        "id": 16
+      },
+      {
+        "ques": "17. System are modified whenever :",
+        "A": " User’s requirements change ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " New computers are introduced in the market ",
+        "C": " New software tool become available in the market ",
+        "D": " Other organization modify the system ",
+        "id": 17
+      },
+      {
+        "ques": "18. What is the programming style of the object oriented conceptual model ?",
+        "A": " Invariant relations ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Algorithms ",
+        "C": " Classes and objects ",
+        "D": " None of the above ",
+        "id": 18
+      },
+      {
+        "ques": "19. Which type of maintenance deals with the problems arise during use of software ?",
+        "A": " Corrective ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Adaptive ",
+        "C": " Preventive ",
+        "D": " None of the above ",
+        "id": 19
+      },
+      {
+        "ques": "20. The most important attribute of a system analyst is :",
+        "A": " Excellent programming skills ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Very good hardware design skills ",
+        "C": " Very good technical management skills ",
+        "D": " Verys good writing skills ",
+        "id": 20
+      }
+    ],
+    "set2": [
+      {
+        "ques": "1. Actual programming of software code is done during the ______ step in the SDLC.",
+        "A": " Maintenance and Evaluation ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Design ",
+        "C": " Analysis ",
+        "D": " Development and Documentation ",
+        "id": 1
+      },
+      {
+        "ques": "2. Problem analysis is done during",
+        "A": " System design phase ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " System analysis phase ",
+        "C": " Before system test ",
+        "D": " All of the above ",
+        "id": 2
+      },
+      {
+        "ques": "3. Which is not the phase of SDLC ? ",
+        "A": " Feasibility study ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Design ",
+        "C": " Analysis ",
+        "D": " Presentation ",
+        "id": 3
+      },
+      {
+        "ques": "4. System analyst have to interact with",
+        "A": " Managers of organizations ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Users in the organizations ",
+        "C": " Programming team ",
+        "D": " All of the above ",
+        "id": 4
+      },
+      {
+        "ques": "5. Coding and testing are done in a",
+        "A": " Top-down manner ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Bottom-up manner ",
+        "C": " Ad hoc manner ",
+        "D": " Cross sectional manner ",
+        "id": 5
+      },
+      {
+        "ques": "6. By technical feasibility of a solution we mean that",
+        "A": " Technology is abailable to implement it ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Persons are abailable to implement it ",
+        "C": " Person have technical ability to implement it ",
+        "D": " Funds are available to implement it ",
+        "id": 6
+      },
+      {
+        "ques": "7. After the design phase the document prepared is known as-",
+        "A": " System Specification ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Performance Specification ",
+        "C": " Design Specification ",
+        "D": " None of the above ",
+        "id": 7
+      },
+      {
+        "ques": "8. Spiral model is divided into ______ task regions.",
+        "A": " 3 ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " 6 ",
+        "C": " 5 ",
+        "D": " 4 ",
+        "id": 8
+      },
+      {
+        "ques": "9. ______ is a black box testing method. ",
+        "A": " Boundary value analysis ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Basic path testing ",
+        "C": " Code validation analysis ",
+        "D": " None of the above ",
+        "id": 9
+      },
+      {
+        "ques": "10. Project planning is done using :",
+        "A": " Gantt ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Spiral Model ",
+        "C": " Cocomo ",
+        "D": " DFD ",
+        "id": 10
+      },
+      {
+        "ques": "11. The ______ symbol is used in flowchart to represent a step that gets information from the user.",
+        "A": " Process ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Start/Stop ",
+        "C": " Input/Output ",
+        "D": " Selection/repetition ",
+        "id": 11
+      },
+      {
+        "ques": "12. In a DFD external entities are represented by a",
+        "A": " Rectangle ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Ellipse ",
+        "C": " Diamond shaped box ",
+        "D": " Circle ",
+        "id": 12
+      },
+      {
+        "ques": "13. The main objective of system modification is",
+        "A": " To use the latest software tools ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " To meet the user’s new/changed need ",
+        "C": " To use the latest hardware ",
+        "D": " To have the most modern system ",
+        "id": 13
+      },
+      {
+        "ques": "14. By Meta data we mean",
+        "A": " Very large data ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Data about data ",
+        "C": " Data dictionary ",
+        "D": " Meaningful data ",
+        "id": 14
+      },
+      {
+        "ques": "15. Software validation says",
+        "A": " It satifies the user requirement ",
+        "ans": " B ",
+        "exp": "It satisfies specified business requirements, needs or expectations.",
+        "B": " It satifies the business requirement ",
+        "C": " Checks errors in program ",
+        "D": " None of the above ",
+        "id": 15
+      },
+      {
+        "ques": "16. Black box testing is carried out",
+        "A": " To test functionality of the program ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " To test load ",
+        "C": " To test security ",
+        "D": " None of the above ",
+        "id": 16
+      },
+      {
+        "ques": "17. Which of the following techniques and notations would you find within UML ?",
+        "A": " Use cases ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Class diagrams ",
+        "C": " State diagrams ",
+        "D": " All of the above ",
+        "id": 17
+      },
+      {
+        "ques": "18. UML stands for",
+        "A": " Unified modeling language ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Unique modeling language ",
+        "C": " Universal model language ",
+        "D": " None of the above ",
+        "id": 18
+      },
+      {
+        "ques": "19. Changes made periodically to a system after its implementation is called",
+        "A": " System analysis ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " System review ",
+        "C": " System Maintenance ",
+        "D": " None of these ",
+        "id": 19
+      },
+      {
+        "ques": "20. ______ is a mesure of the degree of interdependence between modules.",
+        "A": " Cohesion ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Coupling ",
+        "C": " Analysis ",
+        "D": " None of the above ",
+        "id": 20
+      }
+    ],
+    "set3": [
+      {
+        "ques": "1. Which of the following is information gathering technique ?",
+        "A": " Interview ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Presentation ",
+        "C": " Questionnaires ",
+        "D": " All of the above ",
+        "id": 1
+      },
+      {
+        "ques": "2. BPR stands for :",
+        "A": " Business Process Re-engineering ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Back-up Process Re-engineering ",
+        "C": " Business Process Resource ",
+        "D": " Back-up Process Resource ",
+        "id": 2
+      },
+      {
+        "ques": "3. The line that marks the inside and outside of a system and that sets off the system from its environment is called :",
+        "A": " Boundary ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Subsystem ",
+        "C": " Component ",
+        "D": " None of these ",
+        "id": 3
+      },
+      {
+        "ques": "4. The extent to which subsystem or system performs a single function is called :",
+        "A": " Coupling ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Cohesion ",
+        "C": " Boundary ",
+        "D": " Re-engineering ",
+        "id": 4
+      },
+      {
+        "ques": "5. ______ system is a system that interacts freely with its environment, taking input and returning output ",
+        "A": " Coupling ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Cohesion ",
+        "C": " Open ",
+        "D": " Close ",
+        "id": 5
+      },
+      {
+        "ques": "6. Which of the following is category of CASE products ?",
+        "A": " Only Reverse Engineering ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Only Re-engineering ",
+        "C": " Desk Checking ",
+        "D": " Both (a) and (b) ",
+        "id": 6
+      },
+      {
+        "ques": "7. A picture of movement of ______ between external entities and the processes and data stores within a system, is called DFD.",
+        "A": " Data ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Coding ",
+        "C": " Graphics ",
+        "D": " None of these ",
+        "id": 7
+      },
+      {
+        "ques": "8. Data store in a DFD represents.",
+        "A": " A sequential file ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " A disk store ",
+        "C": " A repository of data ",
+        "D": " A random access memory ",
+        "id": 8
+      },
+      {
+        "ques": "9. ______ includes review of the existing procedures and information flow.",
+        "A": " Feasibility study ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Feasibility report ",
+        "C": " System design ",
+        "D": " System analysis ",
+        "id": 9
+      },
+      {
+        "ques": "10. A system that is part of a larger system is called a ",
+        "A": " Subsystem ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " System unit ",
+        "C": " System element ",
+        "D": " None of these ",
+        "id": 10
+      },
+      {
+        "ques": "11. ______ is a person who bridges the gap between users and technicians.",
+        "A": " System analyst ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " System programmer ",
+        "C": " System designer ",
+        "D": " None of these ",
+        "id": 11
+      },
+      {
+        "ques": "12. Design phase is followed by ",
+        "A": " Initial investigation ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Feasibility study ",
+        "C": " Analysis ",
+        "D": " Implementation ",
+        "id": 12
+      },
+      {
+        "ques": "13. A graphic representation of an information system is called",
+        "A": " Flow Chart ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Pictogram ",
+        "C": " Data flow diagram ",
+        "D": " Histogram ",
+        "id": 13
+      },
+      {
+        "ques": "14. A generic entity type that has a relationship with one or more subtype is called",
+        "A": " Supertype ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Modularity ",
+        "C": " Module testing ",
+        "D": " Desk checking ",
+        "id": 14
+      },
+      {
+        "ques": "15. Cost-Benefit Analysis is performed during ",
+        "A": " Analysis phase ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Design phase ",
+        "C": " Feasibility study phase ",
+        "D": " Implementation phase ",
+        "id": 15
+      },
+      {
+        "ques": "16. Unit testing is also known as :",
+        "A": " Integrated testing ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Sub testing ",
+        "C": " Module testing ",
+        "D": " None of these ",
+        "id": 16
+      },
+      {
+        "ques": "17. Which of the following is not the characteristic of a system ?",
+        "A": " Organization ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Interaction ",
+        "C": " Interdependence ",
+        "D": " Feedback ",
+        "id": 17
+      },
+      {
+        "ques": "18. In ______ system the interaction between various subsystem cannot be defined with certainty.",
+        "A": " Open system ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Closed system ",
+        "C": " Deterministic system ",
+        "D": " Probabilistic system ",
+        "id": 18
+      },
+      {
+        "ques": "19. In ______ questions in interview and on questionnaires that ask those responding to choose from among a set of specified response.",
+        "A": " Open-ended question ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Close-ended question ",
+        "C": " Module question ",
+        "D": " None of these ",
+        "id": 19
+      },
+      {
+        "ques": "20. which of the following is not a SDLC phase ?",
+        "A": " Re-engineering ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Analysis ",
+        "C": " Coding ",
+        "D": " Design ",
+        "id": 20
+      }
+    ],
+    "set4": [
+      {
+        "ques": "1. Which is not an element of a system ?",
+        "A": " Input and output ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Interaction ",
+        "C": " Control ",
+        "D": " Environment ",
+        "id": 1
+      },
+      {
+        "ques": "2. System where a central computer does the processing are ",
+        "A": " Batch processing ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Distributed processing ",
+        "C": " Centralized system ",
+        "D": " None of the above ",
+        "id": 2
+      },
+      {
+        "ques": "3. Durig which phase, database and file definitions are prepard?",
+        "A": " Initiation and planning ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Design ",
+        "C": " Implementation ",
+        "D": " Analysis ",
+        "id": 3
+      },
+      {
+        "ques": "4. The primary objective of system design is to –",
+        "A": " Design the programs, database and test plan ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Design only user interfaces ",
+        "C": " Implement the system ",
+        "D": " None of these ",
+        "id": 4
+      },
+      {
+        "ques": "5. A context diagram ",
+        "A": " Describes the context of a system ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " is a DFD which gives an overview of the system ",
+        "C": " is a detailed description of a system ",
+        "D": " is not used in drawing a detailed DFD ",
+        "id": 5
+      },
+      {
+        "ques": "6. Expert system is also known as :",
+        "A": " Decision Based System ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Management Based System ",
+        "C": " Knowledge Based System ",
+        "D": " None of these ",
+        "id": 6
+      },
+      {
+        "ques": "7. Which of the following is form of process model ?",
+        "A": " Data flow diagram ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "B": " Business process re-engineering ",
+        "C": " Interview ",
+        "D": " CASE tool ",
+        "id": 7
+      },
+      {
+        "ques": "8. Decision making model was proposed by ______",
+        "A": " Harry Goode ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Herbert A Simon ",
+        "C": " Recon Michal ",
+        "D": " None of these ",
+        "id": 8
+      },
+      {
+        "ques": "9. ERD stands for ______",
+        "A": " Enquiry Response Diagram ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Entry Relation Diagram ",
+        "C": " Entity Relationship Diagram ",
+        "D": " None of these ",
+        "id": 9
+      },
+      {
+        "ques": "10. A feasibility study is used to determine the proposed systems.",
+        "A": " Resource requirements ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Costs and benifits ",
+        "C": " Availability of hardware and software ",
+        "D": " All of the above ",
+        "id": 10
+      },
+      {
+        "ques": "11. The current major stage in the business use of IS is oriented towards ______",
+        "A": " Cost reduction and productivity ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Gaining competitive advantage ",
+        "C": " Strategic advantage and costs ",
+        "D": " Improved customer relationship management ",
+        "id": 11
+      },
+      {
+        "ques": "12. During the maintenance phase",
+        "A": " System requirements are established ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " System analysis is carried out ",
+        "C": " Programs are tested ",
+        "D": " None of these ",
+        "id": 12
+      },
+      {
+        "ques": "13. OOAD stands for ______",
+        "A": " Observation Oriented Analysis Design ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Object Oriented American Design ",
+        "C": " Object Oriented Analysis & Design ",
+        "D": " None of these ",
+        "id": 13
+      },
+      {
+        "ques": "14. Which of the following is property of an entity ?",
+        "A": " Relation ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Attribute ",
+        "C": " Data flow ",
+        "D": " Information ",
+        "id": 14
+      },
+      {
+        "ques": "15. After the design phase the document prepared is known as ______",
+        "A": " System specification ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "B": " Performance specification ",
+        "C": " Design specification ",
+        "D": " None of these ",
+        "id": 15
+      },
+      {
+        "ques": "16. HIPO stands for ______",
+        "A": " Hierarchy input process output ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Hierarchy input plus output ",
+        "C": " Hierarchy plus input process output ",
+        "D": " Hierarchy input output process ",
+        "id": 16
+      },
+      {
+        "ques": "17. DSS stands for –",
+        "A": " Discuss Support System ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Divide Support System ",
+        "C": " Decision Support System ",
+        "D": " None of these ",
+        "id": 17
+      },
+      {
+        "ques": "18. Everything external to a system that interacts with the system is called –",
+        "A": " Environment ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Boundary ",
+        "C": " Entity ",
+        "D": " Component ",
+        "id": 18
+      },
+      {
+        "ques": "19. Problem analysis is done during ",
+        "A": " System design phase ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " System analysis phase ",
+        "C": " Before system test ",
+        "D": " All of the above ",
+        "id": 19
+      },
+      {
+        "ques": "20. Which of the following is not a type of testing ?",
+        "A": " Unit ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Beta ",
+        "C": " Integration ",
+        "D": " Module ",
+        "id": 20
+      }
+    ]
+  }
+}

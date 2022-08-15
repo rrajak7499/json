@@ -1,0 +1,812 @@
+{
+  "softwareEngg": {
+    "set1": [
+      {
+        "ques": "1. Which of the following is black box testing?",
+        "A": " Basic path testing ",
+        "ans": " B ",
+        "exp": "Boundary value analysis is used in case design technique for black box testing.",
+        "B": " Boundary value analysis ",
+        "C": " Code path analysis ",
+        "D": " None of these ",
+        "id": 1
+      },
+      {
+        "ques": "2. How is software reliability defined? ",
+        "A": " Time ",
+        "ans": " A ",
+        "exp": "Software Reliability mainly concerned with the time component. Execution time of any sotware defined in software reliability.",
+        "B": " Efficiency ",
+        "C": " Quality ",
+        "D": " Speed ",
+        "id": 2
+      },
+      {
+        "ques": "3. Identify the disadvantage of spiral model ",
+        "A": " Doesn’t work well for smaller projects ",
+        "ans": " A ",
+        "exp": "All other options are the advantages of Spiral Model.",
+        "B": " High amount of risk analysis ",
+        "C": " Strong approval and documentation control",
+        "D": " Additional functionality can be added at a later date ",
+        "id": 3
+      },
+      {
+        "ques": "4. The testing in which code is checked ",
+        "A": " Black box testing ",
+        "ans": " B ",
+        "exp": "In white box testing internal component of software which means back end of software is checked.",
+        "B": " White box testing ",
+        "C": " Red box testing ",
+        "D": " Green box testing ",
+        "id": 4
+      },
+      {
+        "ques": "5. Which model can be selected if user is involved in all the phases of SDLC? ",
+        "A": " Water fall model ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "B": " Prototyping model ",
+        "C": " RAD model ",
+        "D": " Both (A) and (B) ",
+        "id": 5
+      },
+      {
+        "ques": "6. What kind of quality cost is incurred when an error is detected in a product prior to shipment? ",
+        "A": " Prevention ",
+        "ans": " B ",
+        "exp": "This includes rework, repair, and failure mode analysis.",
+        "B": " Internal failure ",
+        "C": " External failure ",
+        "D": " Appraisal ",
+        "id": 6
+      },
+      {
+        "ques": "7. Which of the following is a requirement management activity? ",
+        "A": " Investigation ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "B": " Design ",
+        "C": " Construction and Test ",
+        "D": " All of the mentioned ",
+        "id": 7
+      },
+      {
+        "ques": "8. The process of each manager follows during the life of project is known as- ",
+        "A": " Project Management ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "B": " Manager life cycle ",
+        "C": " Project Management Life Cycle ",
+        "D": " All of the mentioned ",
+        "id": 8
+      },
+      {
+        "ques": "9. The degree to which the design specification are followed during manufacturing is known as- ",
+        "A": " Quality of design ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "B": " Quality of conformance ",
+        "C": " Quality of testing ",
+        "D": " None of the mentioned ",
+        "id": 9
+      },
+      {
+        "ques": "10. Which is not the types of prototype model? ",
+        "A": " Horizontal Prototype ",
+        "ans": " C ",
+        "exp": "Their is no such thing as Diagonal Prototype whereas other options have their respective definitions.",
+        "B": " Vertical Prototype ",
+        "C": " Diagonal Prototype ",
+        "D": " Domain Prototype ",
+        "id": 10
+      },
+      {
+        "ques": "11. COCOMO model is use for- ",
+        "A": " Hardware Design ",
+        "ans": " C ",
+        "exp": "COCOMO model used in software estimation model.",
+        "B": " Data flow design ",
+        "C": " Software cost estimation ",
+        "D": " Hardware cost estimation ",
+        "id": 11
+      },
+      {
+        "ques": "12. What is DFD ? ",
+        "A": " The modern version of flow chart ",
+        "ans": " A ",
+        "exp": "Not Avilable",
+        "B": " Mainly used at system specification stage",
+        "C": " The primary output of the system design phase ",
+        "D": " All of the above ",
+        "id": 12
+      },
+      {
+        "ques": "13. Most creative and challenging phase of system life cycle is- ",
+        "A": " Feasibility study ",
+        "ans": " C  ",
+        "exp": "System design is the most creative and challengiing phase of SDLC.",
+        "B": " Maintenance ",
+        "C": " Design ",
+        "D": " None of these ",
+        "id": 13
+      },
+      {
+        "ques": "14. Expantion of SRS is- ",
+        "A": " Software Requirement Specification ",
+        "ans": " A ",
+        "exp": "Not Avilable",
+        "B": " Software Resource Specification ",
+        "C": " Software Recycle System ",
+        "D": " None of these ",
+        "id": 14
+      },
+      {
+        "ques": "15. Decision support systems are used to- ",
+        "A": " Evaluate and analyze the mission of organization ",
+        "ans": " A ",
+        "exp": "Not Avilable",
+        "B": " Perform multiple activies simultaneously ",
+        "C": " To perform accounting ",
+        "D": " None of the above ",
+        "id": 15
+      },
+      {
+        "ques": "16. A starting point in the design phase of a system design project is- ",
+        "A": " Bench marking ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "B": " Preparation of purchase contract ",
+        "C": " The determinaation requirements or hardware ",
+        "D": " Calling quotaion form hardware ",
+        "id": 16
+      },
+      {
+        "ques": "17. Cost of error correction is least at- ",
+        "A": " Implementation stage ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "B": " Design stage ",
+        "C": " Development stage ",
+        "D": " Requirement analysis stage ",
+        "id": 17
+      },
+      {
+        "ques": "18. Prototype is a- ",
+        "A": " Working model of existing system ",
+        "ans": " A : ",
+        "exp": "Prototype is a working model of existing system.",
+        "B": " Mini model of existing system ",
+        "C": " Mini model of processed system ",
+        "D": " None of the above ",
+        "id": 18
+      },
+      {
+        "ques": "19. The goal of modularization can be said to be- ",
+        "A": " Produce systems that have stamp or data coupling between models ",
+        "ans": " A ",
+        "exp": "Not Avilable",
+        "B": " Control and content coupling between models ",
+        "C": " Control and data coupling between models ",
+        "D": " Common and stamp coupling between models ",
+        "id": 19
+      },
+      {
+        "ques": "20. LOC in context to software engineering- ",
+        "A": " Linear OP code ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "B": " Line of code ",
+        "C": " Line of control ",
+        "D": " None of these ",
+        "id": 20
+      }
+    ],
+    "set2": [
+      {
+        "ques": "1. What are the characteristics of Software? ",
+        "A": " Software is developed or engineered, it is not manufactured in the classical sense. ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "B": " Software doesn’t “ware out” ",
+        "C": " Software can be custom-built or custom build ",
+        "D": " All mentioned above ",
+        "id": 1
+      },
+      {
+        "ques": "2. What is the simplest model of software development paradigm? ",
+        "A": " Spiral model ",
+        "ans": " D ",
+        "exp": "Water fall model is the simplest model of software development paradigm.",
+        "B": " Big Bang model ",
+        "C": " V- model ",
+        "D": " Water fall model ",
+        "id": 2
+      },
+      {
+        "ques": "3. Project risk factor is considered in which model?",
+        "A": " Spiral model ",
+        "ans": " A ",
+        "exp": "Spiral model is one of the most important Software Development Life Cycle models, which provides support for Risk Handling.",
+        "B": " Water fall model ",
+        "C": " Prototyping model ",
+        "D": " None of the above ",
+        "id": 3
+      },
+      {
+        "ques": "4. Which software-end factors affecting maintenance cost? ",
+        "A": " Structure of software program ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "B": " Programming language ",
+        "C": " Dependence on external environment ",
+        "D": " All mentioned above ",
+        "id": 4
+      },
+      {
+        "ques": "5. Software as system with many components interacting with each other? ",
+        "A": " Architectural design ",
+        "ans": " A ",
+        "exp": "The architectural design is the highest abstract version of the system. It identifies the software as a system with many components interacting with each other.",
+        "B": " High-level design ",
+        "C": " Detailed design ",
+        "D": " Both (B) and (C) ",
+        "id": 5
+      },
+      {
+        "ques": "6. FAST stand for- ",
+        "A": " Facilitated Application Software Technique ",
+        "ans": " C ",
+        "exp": "A team oriented approach is developed for needs gathering and is called facilitated application specification Techniques.",
+        "B": " Functional Application Software Technique",
+        "C": " Facilitated Application Specification Technique ",
+        "D": " None of the above ",
+        "id": 6
+      },
+      {
+        "ques": "7. COCOMO Stands for ",
+        "A": " Consumed Cost Model ",
+        "ans": " B ",
+        "exp": "The Constructive Cost Model (COCOMO) is a procedural software cost estimation model developed by Barry W. Boehm.",
+        "B": " Constructive Cost Model ",
+        "C": " Common Control Model ",
+        "D": " Composite Cost Model ",
+        "id": 7
+      },
+      {
+        "ques": "8. What is the most common measure for correctness? ",
+        "A": " Defects per KLOC ",
+        "ans": " A ",
+        "exp": "The most common measurement for correctness is defects per KLOC.",
+        "B": " Errors per KLOC ",
+        "C": " $ per KLOC ",
+        "D": " Pages of documentation per KLOC ",
+        "id": 8
+      },
+      {
+        "ques": "9. Which of the following is not defined in a good software requirement specification (SRS) document? ",
+        "A": " Functional Requirement ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "B": " Non-Functional Requirement ",
+        "C": " Goals of implementation ",
+        "D": " Algorithm for software implementation ",
+        "id": 9
+      },
+      {
+        "ques": "10. Requirement engineering process includes which of these steps? ",
+        "A": " Feasibility study ",
+        "ans": " D ",
+        "exp": "Requirement engineering process includes four steps which includes Feasibility study, Requirement gathering, Software Requirement specification & validation and software requirement management.",
+        "B": " Requirement gathering ",
+        "C": " Software Requirement specification & validation ",
+        "D": " All mentioned above ",
+        "id": 10
+      },
+      {
+        "ques": "11. Software Consists of – ",
+        "A": " Set of instructions + operating system ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "B": " program + documentation+ operating procedure ",
+        "C": " programs + hardware manuals ",
+        "D": " Set of programs ",
+        "id": 11
+      },
+      {
+        "ques": "12. SDLC stands for- ",
+        "A": " Software design life cycle ",
+        "ans": " B ",
+        "exp": "SDLC is a process used by the software industry to design, develop and test high quality software.",
+        "B": " Software development life cycle ",
+        "C": " System development life cycle ",
+        "D": " System design life cycle ",
+        "id": 12
+      },
+      {
+        "ques": "13. Which one is not step requirement engineering? ",
+        "A": " Requirement elicitation ",
+        "ans": " C ",
+        "exp": "Requirement Elicitation, Requirement Analysis, Requirement Documentation and Requirement Review are the four crucial process steps of requirement engineering.",
+        "B": " Requirement analysis ",
+        "C": " Requirement design ",
+        "D": " Requirements documentation ",
+        "id": 13
+      },
+      {
+        "ques": "14. Functional testing is also known as : ",
+        "A": " Structural testing ",
+        "ans": " B ",
+        "exp": "Behavioural Testing is usually a functional testing.",
+        "B": " Behavior testing ",
+        "C": " Regression Testing ",
+        "D": " none of the above ",
+        "id": 14
+      },
+      {
+        "ques": "15. Patch is known as- ",
+        "A": " Emergency fixes ",
+        "ans": " A  ",
+        "exp": "A software patch is an emergency fix which is worked upon the obsolete version whenever a vulnerability is encountered.",
+        "B": " Routine fixes ",
+        "C": " Critical fixes ",
+        "D": " None of the above ",
+        "id": 15
+      },
+      {
+        "ques": "16. Which is software process certification? ",
+        "A": " Microsoft certified ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "B": " CISCO certified ",
+        "C": " Java certified ",
+        "D": " ISO-9000 ",
+        "id": 16
+      },
+      {
+        "ques": "17. Effective software project management focuses on the Four P’s. Which are the Four P’s? ",
+        "A": " People, performance, payment, product ",
+        "ans": " B ",
+        "exp": "The management of software development is dependent on four factors : People, Product, Process and Project.",
+        "B": " People, product, process, project ",
+        "C": " People, product, performance, project ",
+        "D": " All of the above ",
+        "id": 17
+      },
+      {
+        "ques": "18. Functional point can be calculated by ",
+        "A": " UFP * CAF ",
+        "ans": " A ",
+        "exp": "Function points=UFP*CAF where UFP =unadjusted function points CAF =complexity adjustment factor.",
+        "B": " UFP * FAC ",
+        "C": " UFP * Cost ",
+        "D": " UFP * Productivity ",
+        "id": 18
+      },
+      {
+        "ques": "19. An independently deliverable piece of functionality access to its services through interfaces is called ",
+        "A": " Software measurement ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "B": " Software composition ",
+        "C": " Software measure ",
+        "D": " Software component ",
+        "id": 19
+      },
+      {
+        "ques": "20. Unified process is maintained by ",
+        "A": " Infosys ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "B": " Rational software corporation ",
+        "C": " SUN Microsystem ",
+        "D": " None of the above ",
+        "id": 20
+      }
+    ],
+    "set3": [
+      {
+        "ques": "1. Software engineering approach is used to achieve. ",
+        "A": " Better performance of hardware ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "B": " Error free software ",
+        "C": " Reusable software ",
+        "D": " Quality software product ",
+        "id": 1
+      },
+      {
+        "ques": "2. Management of software development is dependent on",
+        "A": " People ",
+        "ans": " D  ",
+        "exp": "The management of software development is dependent on four factors : People, Product, Process and Project.",
+        "B": " Product ",
+        "C": " Process ",
+        "D": " All of the above ",
+        "id": 2
+      },
+      {
+        "ques": "3. UML stands for ",
+        "A": " Uniform modeling language ",
+        "ans": " B  ",
+        "exp": "In the field of software engineering UML is intended to provide a standard way to visualize the design of a system.",
+        "B": " Unified modeling language ",
+        "C": " Unit modeling language ",
+        "D": " Universal modeling language ",
+        "id": 3
+      },
+      {
+        "ques": "4. Effort is measured in terms of- ",
+        "A": " Person-months ",
+        "ans": " A ",
+        "exp": "The main cost of producing software is the manpower employed and the cost of developing software is generally measured in terms of person-months of effort spent in development.",
+        "B": " Rupees ",
+        "C": " Persons ",
+        "D": " Months ",
+        "id": 4
+      },
+      {
+        "ques": "5. Which phase is not available in software life cycle ? ",
+        "A": " Coding ",
+        "ans": " D ",
+        "exp": "Software life cycle cosists of following phases Planning, Defining Requirements, Designing, Building, Testing, Deployment and Maintenance.",
+        "B": " Testing ",
+        "C": " Maintenance ",
+        "D": " Abstraction ",
+        "id": 5
+      },
+      {
+        "ques": "6. Which one is the most important feature of spiral model ? ",
+        "A": " Quality Management ",
+        "ans": " B ",
+        "exp": "The most important feature of the spiral model is handling these unknown risks after the project has started.",
+        "B": " Risk Management ",
+        "C": " Performance Management ",
+        "D": " Efficiency Management ",
+        "id": 6
+      },
+      {
+        "ques": "7. Waterfall model is not suitable for- ",
+        "A": " Small projects ",
+        "ans": " C ",
+        "exp": "Waterfall model is not suitable for complex and object-oriented projects.",
+        "B": " Accomodating change ",
+        "C": " Complex projects ",
+        "D": " None of the above ",
+        "id": 7
+      },
+      {
+        "ques": "8. Spiral model was developed by- ",
+        "A": " Bev Littlewood ",
+        "ans": " B ",
+        "exp": "The spiral model in software engineering was first mentioned by Barry Boehm in his 1986 paper.",
+        "B": " Barry Boehm ",
+        "C": " Roger Pressman ",
+        "D": " Victor Basiti ",
+        "id": 8
+      },
+      {
+        "ques": "9. The basic concepts of ER model are- ",
+        "A": " Entity and relationship ",
+        "ans": " D ",
+        "exp": "There are three basic elements in an ER Diagram: entity, attribute, relationship.",
+        "B": " Relationships and keys ",
+        "C": " Entity, effects and relationship ",
+        "D": " Entity, relationship and attribute ",
+        "id": 9
+      },
+      {
+        "ques": "10. Requirements elicitation means- ",
+        "A": " Gathering of requirements ",
+        "ans": " D ",
+        "exp": "Requirements elicitation is a part of the requirements engineering process, usually followed by analysis and specification of the requirements.",
+        "B": " Capturing of requirements ",
+        "C": " Understanding of requirements ",
+        "D": " All of the above ",
+        "id": 10
+      },
+      {
+        "ques": "11. Which one is not a size measure for software- ",
+        "A": " LOC ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "B": " Function count ",
+        "C": " Cyclomatic complexity ",
+        "D": " Halsteads program length ",
+        "id": 11
+      },
+      {
+        "ques": "12. COCOMO was developed initially by- ",
+        "A": " B.W. Bohem ",
+        "ans": " A ",
+        "exp": "The Constructive Cost Model (COCOMO) is a procedural software cost estimation model developed by Barry W. Boehm.",
+        "B": " Gregg Rothermal ",
+        "C": " B. Beizer ",
+        "D": " Rajeev Mall ",
+        "id": 12
+      },
+      {
+        "ques": "13. Cost estimation for a project may include ",
+        "A": " Software cost ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "B": " Hardware cost ",
+        "C": " Personnel cost ",
+        "D": " All of the above ",
+        "id": 13
+      },
+      {
+        "ques": "14. Functional testing is known as- ",
+        "A": " Structural testing ",
+        "ans": " B ",
+        "exp": "Behavioural Testing is usually a functional testing.",
+        "B": " Behaviour testing ",
+        "C": " Regression testing ",
+        "D": " None of the above ",
+        "id": 14
+      },
+      {
+        "ques": "15. A system that does not interact with internal environment is called- ",
+        "A": " Closed system ",
+        "ans": " C ",
+        "exp": "An open system must interact with external environment. It receives inputs from and delivers outputs to the outside of the system.",
+        "B": " Logical system ",
+        "C": " Open system ",
+        "D": " Hierarichal system ",
+        "id": 15
+      },
+      {
+        "ques": "16. How many stages are in COCOMO-II ",
+        "A": " 2 ",
+        "ans": " B ",
+        "exp": "COCOMO II provides the following three-stage series of models for estimation of Application Generator, System Integration, and Infrastructure software projects.",
+        "B": " 3 ",
+        "C": " 4 ",
+        "D": " 5 ",
+        "id": 16
+      },
+      {
+        "ques": "17. A node with indegree #0 and outdegree =0 is called ",
+        "A": " Source node ",
+        "ans": " A ",
+        "exp": "Not Avilable",
+        "B": " Predicate node ",
+        "C": " Destination node ",
+        "D": " None of the above ",
+        "id": 17
+      },
+      {
+        "ques": "18. Alpha testing is done by ? ",
+        "A": " Customer ",
+        "ans": " B  ",
+        "exp": "Alpha Testing is performed by the Testers within the organization.",
+        "B": " Tester ",
+        "C": " Developer ",
+        "D": " All of the above ",
+        "id": 18
+      },
+      {
+        "ques": "19. Acceptance testing is done by- ",
+        "A": " Developers ",
+        "ans": " B ",
+        "exp": "Acceptance testing (UAT) is a type of testing, which is done by the customer before accepting the final product.",
+        "B": " Customers ",
+        "C": " Testers ",
+        "D": " All of above ",
+        "id": 19
+      },
+      {
+        "ques": "20. Cyclomatic complexity is developed by- ",
+        "A": " B.W. Bochm ",
+        "ans": " B  ",
+        "exp": "Cyclomatic complexity was developed by Thomas J. McCabe Sr. in 1976.",
+        "B": " T.J. McCable ",
+        "C": " B.W. Little wood ",
+        "D": " Victor Basili ",
+        "id": 20
+      }
+    ],
+    "set4": [
+      {
+        "ques": "1. Software is ",
+        "A": " Superset of programs ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Subset of programs ",
+        "C": " Set of programs ",
+        "D": " None of these ",
+        "id": 1
+      },
+      {
+        "ques": "2. During software development, which factor is most crucial ",
+        "A": " People ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Product ",
+        "C": " Process ",
+        "D": " Project ",
+        "id": 2
+      },
+      {
+        "ques": "3. Program is _____________ ",
+        "A": " Subset of software ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Superset of software ",
+        "C": " Software ",
+        "D": " Note of the above ",
+        "id": 3
+      },
+      {
+        "ques": "4. What is the main aim of software engineering? ",
+        "A": " Reliable software ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Cost effective software ",
+        "C": " Reliable and cost effective software ",
+        "D": " None of the above ",
+        "id": 4
+      },
+      {
+        "ques": "5. First level of prototype is evaluated by _______ ",
+        "A": " Developer ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Tester ",
+        "C": " User ",
+        "D": " System Analyst ",
+        "id": 5
+      },
+      {
+        "ques": "6. Which phase is refers to the support phase of software development ? ",
+        "A": " Acceptance Phase",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Testing ",
+        "C": " Maintenance ",
+        "D": " None of the above ",
+        "id": 6
+      },
+      {
+        "ques": "7. Which software enables the program to adequately manipulate information? ",
+        "A": " Instructions ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Data Structures ",
+        "C": " Documents ",
+        "D": " All of the above ",
+        "id": 7
+      },
+      {
+        "ques": "8. Which is not a software life cycle model ",
+        "A": " Waterfall model ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Spiral model ",
+        "C": " Prototyping model ",
+        "D": " Capability maturity model ",
+        "id": 8
+      },
+      {
+        "ques": "9. DFD stands for ",
+        "A": " Data flow design ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Descriptive functional design ",
+        "C": " Data flow digram ",
+        "D": " None of the above ",
+        "id": 9
+      },
+      {
+        "ques": "10. Which is not a characteristics of a good SRS ",
+        "A": " Correct ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Complete ",
+        "C": " Consistent ",
+        "D": " Brief ",
+        "id": 10
+      },
+      {
+        "ques": "11. Alpha and Beta Testing are forms of _______ ",
+        "A": " Acceptance testing ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Integration testing ",
+        "C": " System testing ",
+        "D": " Unit testing ",
+        "id": 11
+      },
+      {
+        "ques": "12. Estimation of software development effort for organic software in COCOMO is ",
+        "A": " E = 2.4 (KLOC)^1.05 PM ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " E = 3.4 (KLOC)^1.06 PM ",
+        "C": " E = 2.0 (KLOC)^1.05 PM ",
+        "D": " E = 2.4 (KLOC)^1.07 PM ",
+        "id": 12
+      },
+      {
+        "ques": "13. Software Requirement Specification(SRS) is also known as specification of _______ ",
+        "A": " White box testing ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Acceptance testing ",
+        "C": " Integrated testing ",
+        "D": " Black bok testing ",
+        "id": 13
+      },
+      {
+        "ques": "14. Which one is not a strategy for design ",
+        "A": " Bottom up design ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "B": " Top down design ",
+        "C": " Embedded design ",
+        "D": " Hybrid design ",
+        "id": 14
+      },
+      {
+        "ques": "15. Software mistakes during coding are known as ",
+        "A": " Failures ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Defects ",
+        "C": " Bugs ",
+        "D": " Errors ",
+        "id": 15
+      },
+      {
+        "ques": "16. Grouping of all functionally related elements is known as _______ ",
+        "A": " Cohesion ",
+        "ans": " ",
+        "exp": "Not Avilable",
+        "B": " Coupling ",
+        "C": " Both (a) & (B) ",
+        "D": " None of the above ",
+        "id": 16
+      },
+      {
+        "ques": "17. For a function of n variables, boundary value analysis yields ",
+        "A": " 4n+3 test cases ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " 4n+1 test cases ",
+        "C": " n+4 test cases ",
+        "D": " None of the above ",
+        "id": 17
+      },
+      {
+        "ques": "18. A node with indegree =0 and outdegree != is called ",
+        "A": " Source node ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Destination node ",
+        "C": " Transfer node ",
+        "D": " None of the above ",
+        "id": 18
+      },
+      {
+        "ques": "19. Beta testing is carried out by ",
+        "A": " Users ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Developers ",
+        "C": " Testers ",
+        "D": " All of the above ",
+        "id": 19
+      },
+      {
+        "ques": "20. Testing the software is basically ",
+        "A": " Verification ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Validation ",
+        "C": " Verification and Validation ",
+        "D": " None of the above ",
+        "id": 20
+      }
+    ]
+  }
+}

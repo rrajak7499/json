@@ -1,0 +1,206 @@
+{
+  "ecommerce": {
+    "set1": [
+      {
+        "ques": "1. Which of the following is a part of the four main types for e-commerce ? ",
+        "A": " B2B ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " B2C ",
+        "C": " C2B ",
+        "D": " All of the above ",
+        "id": 1
+      },
+      {
+        "ques": "2. The dimension of e-commerce that enables commerce across national boundaries.",
+        "A": " Interactivity ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Global Reach ",
+        "C": " Richness ",
+        "D": " Equility ",
+        "id": 2
+      },
+      {
+        "ques": "3. Which of the following is not considered to be one of the three phases of e-commerce.",
+        "A": " Innovation ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Consolidation  ",
+        "C": " Preservation ",
+        "D": " Reinvention ",
+        "id": 3
+      },
+      {
+        "ques": "4. Which segment do eBay, Amazon.com belong ",
+        "A": " B2Bs ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " B2Cs ",
+        "C": " C2Bs ",
+        "D": " C2Cs ",
+        "id": 4
+      },
+      {
+        "ques": "5. Which segment is an example of eBay",
+        "A": " B2B ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " C2B  ",
+        "C": " C2C ",
+        "D": " None of the above ",
+        "id": 5
+      },
+      {
+        "ques": "6. The best product to sell in B2C e-commerce are-",
+        "A": " Small Products ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Digital Products ",
+        "C": " Specially Products ",
+        "D": " Fresh Products ",
+        "id": 6
+      },
+      {
+        "ques": "7. In which website global easy buy is facilitated",
+        "A": " Ebay.com ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Amazon.com ",
+        "C": " Yepme.com ",
+        "D": " None of these ",
+        "id": 7
+      },
+      {
+        "ques": "8. Which products are people most likely to be comfortable buying on the Internet.",
+        "A": " Books ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " PCs ",
+        "C": " CDs ",
+        "D": " All of the above ",
+        "id": 8
+      },
+      {
+        "ques": "9. Digital products are best suited for B2C e-commerce because they ",
+        "A": " Are commodity like product ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Can be mass-customized ",
+        "C": " Can be delivered at the time of purchase ",
+        "D": " All of the above\t",
+        "id": 9
+      },
+      {
+        "ques": "10. Which of the following is an example of portal.",
+        "A": " Amazon ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Ebay ",
+        "C": " Yahoo ",
+        "D": " Facebook ",
+        "id": 10
+      },
+      {
+        "ques": "11. Business model solution is related with ",
+        "A": " SCM ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " EDI ",
+        "C": " ERP ",
+        "D": " None of these ",
+        "id": 11
+      },
+      {
+        "ques": "12. Compared to Internet users, The number of cell Phage subscribe is ",
+        "A": " About the same ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "B": " Slightly fewer ",
+        "C": " Much fewer ",
+        "D": " Much longer ",
+        "id": 12
+      },
+      {
+        "ques": "13. The percentage of customer who visit a website and actively by some thing is defined.",
+        "A": " Spam ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Mail ",
+        "C": " Conversion rate ",
+        "D": " Click ",
+        "id": 13
+      },
+      {
+        "ques": "14. Which of the following is not a horizontal portal.",
+        "A": " AOL ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Yahoo ",
+        "C": " Sailnet ",
+        "D": " MSN ",
+        "id": 14
+      },
+      {
+        "ques": "15. What are materials used in production in a manufacturing company.",
+        "A": " Direct Material ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Indirect Material ",
+        "C": " EDI\t",
+        "D": " None of these ",
+        "id": 15
+      },
+      {
+        "ques": "16. The strategy designed to complete in all market around the globe is called.",
+        "A": " Cost Strategy\t",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Focus Strategy ",
+        "C": " scope ",
+        "D": " None of these ",
+        "id": 16
+      },
+      {
+        "ques": "17. The company equipment that the system uses to achieve its e-commerce functionality is.",
+        "A": " Hardware Platform ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Transaction Platform ",
+        "C": " Content Platform ",
+        "D": " None of these ",
+        "id": 17
+      },
+      {
+        "ques": "18. Amazon.com is well known for which e-commerce marketing technique.",
+        "A": " Banner ads ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Pop us ads ",
+        "C": " Affiliate program ",
+        "D": " Virtual Marketing ",
+        "id": 18
+      },
+      {
+        "ques": "19. Redundant navigation refers to ",
+        "A": " Load quickly ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Product offering ",
+        "C": " Foll Proof navigation ",
+        "D": " Alternative navigation of the same content ",
+        "id": 19
+      },
+      {
+        "ques": "20. Which form of e-market place brings togather buyer and sellers from the same industry",
+        "A": " Horizontal ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Vertical ",
+        "C": " Integrated  ",
+        "D": " Inclined ",
+        "id": 20
+      }
+    ]
+  }
+}

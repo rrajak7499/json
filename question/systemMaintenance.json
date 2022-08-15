@@ -1,0 +1,611 @@
+{
+  "systemMaintenance": {
+    "set1": [],
+    "set2": [
+      {
+        "ques": "1. Which system works on Hardware ? ",
+        "A": " Environment ",
+        "ans": " C ",
+        "exp": "An operating system (OS) is system software that manages computer hardware and software resources.",
+        "B": " System ",
+        "C": " Operating ",
+        "D": " None of these ",
+        "id": 1
+      },
+      {
+        "ques": "2. Operating system is a general kind of —— software. ",
+        "A": " Communication ",
+        "ans": " C ",
+        "exp": "Operating system is a general kind of system software.",
+        "B": " Application ",
+        "C": " System ",
+        "D": " Word processing software ",
+        "id": 2
+      },
+      {
+        "ques": "3. CPU and memory system are installed an —— ",
+        "A": " Expansion Board ",
+        "ans": " B ",
+        "exp": "Motherboard is the most essential part of computer and it provide a single socket for CPU whereas for memory, normally one or more slots are available.",
+        "B": " Mother Board ",
+        "C": " Storage device ",
+        "D": " Output ",
+        "id": 3
+      },
+      {
+        "ques": "4. What is the full form of “GUI” ",
+        "A": " Graphical user internet ",
+        "ans": " C ",
+        "exp": "A graphical user interface (GUI) is a type of user interface through which users interact with electronic devices via visual indicator representations.",
+        "B": " Graphics and user internet ",
+        "C": " Graphical user interface ",
+        "D": " Graphical user installation ",
+        "id": 4
+      },
+      {
+        "ques": "5. Laser printer made by which company and when? ",
+        "A": " ‘Sony’ 1971 ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " ‘Xerox’ 1969 ",
+        "C": " ‘IBM’ 1970 ",
+        "D": " ‘Apple’ 1974 ",
+        "id": 5
+      },
+      {
+        "ques": "6. BIOS of the computer is stored in —— ",
+        "A": " RAM ",
+        "ans": " C  ",
+        "exp": "BIOS is a program that’s stored in nonvolatile memory such as read-only memory (ROM) or flash memory, making it firmware.",
+        "B": " Hard Disk ",
+        "C": " ROM ",
+        "D": " FLOPPY Drive ",
+        "id": 6
+      },
+      {
+        "ques": "7. What is the diameter of the droplets of the ink present in the Inkjet printer. ",
+        "A": " 100 Micron ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " 1000 Micron ",
+        "C": " 50 Micron ",
+        "D": " 10 Micron ",
+        "id": 7
+      },
+      {
+        "ques": "8. In which part of the computer pricessing is done.(Processing is done in which part of the computer)",
+        "A": " CPU ",
+        "ans": " A ",
+        "exp": "Computer processing is done by CPU( Central processing unit)",
+        "B": " RAM ",
+        "C": " Operating system ",
+        "D": " Mother board ",
+        "id": 8
+      },
+      {
+        "ques": "9. Any data of information which enter in the memory of the computer are known as- ",
+        "A": " Storage ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Input ",
+        "C": " Output ",
+        "D": " Information ",
+        "id": 9
+      },
+      {
+        "ques": "10. The assembled programme in the ROM is called",
+        "A": " Hardware ",
+        "ans": " B ",
+        "exp": "Firmware is held in non-volatile memory devices such as ROM, EPROM, or flash memory.",
+        "B": " Firmware ",
+        "C": " Software ",
+        "D": " All of the above ",
+        "id": 10
+      },
+      {
+        "ques": "11. Which interface one bit is transferred at a time.",
+        "A": " Parallel ",
+        "ans": " C ",
+        "exp": "Serial interface transfers one bit at a time.",
+        "B": " SCSI ",
+        "C": " Serial ",
+        "D": " Firewire ",
+        "id": 11
+      },
+      {
+        "ques": "12. Moving your CPUs speed beyond its normal operating range is callled ",
+        "A": " Over clocking ",
+        "ans": " A ",
+        "exp": "overclocking is the practice of increasing the clock rate of a computer to exceed that certified by the manufacturer.",
+        "B": " Over driving ",
+        "C": " Over powering ",
+        "D": " Over speeding ",
+        "id": 12
+      },
+      {
+        "ques": "13. Which PORT is typically known as a serial port? ",
+        "A": " DVI ",
+        "ans": " B  ",
+        "exp": "A COM port is a bidirectional serial interface that allows sending and receiving data bit by bit.",
+        "B": " COM 1 ",
+        "C": " LPT 1 ",
+        "D": " SCSI ",
+        "id": 13
+      },
+      {
+        "ques": "14. Which password is used in the BIOS(CMOS) to prevent end uses from accessing the BIOS contents.",
+        "A": " Supervisor ",
+        "ans": " A  ",
+        "exp": "The supervisor (or system) password is used so that only the technician can get into the BIOS (CMOS).",
+        "B": " User ",
+        "C": " Administrator ",
+        "D": " Local ",
+        "id": 14
+      },
+      {
+        "ques": "15. Which of the following form factors does a VGA connector comply with? ",
+        "A": " 8P 8C ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " 15-pin D shell ",
+        "C": " Micro ATX ",
+        "D": " RG-6 ",
+        "id": 15
+      },
+      {
+        "ques": "16. What is the PC equivalent of Fire wire? ",
+        "A": " IEEE 1284 ",
+        "ans": " C  ",
+        "exp": "FireWire is also called IEEE 1394, is a connecting device used primarily for adding peripherals to a computer.",
+        "B": " USB ",
+        "C": " IEEE 1394 ",
+        "D": " ISA ",
+        "id": 16
+      },
+      {
+        "ques": "17. What is the full form of the EEPROM ",
+        "A": " Electrically Ersable Programmable Read Only Memory ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Erasable Electric Programme Read Only Memory ",
+        "C": " Both (A) and (B) ",
+        "D": " None of above ",
+        "id": 17
+      },
+      {
+        "ques": "18. What is an LCD display’s contrst ratio defined as? ",
+        "A": " Power consumption ",
+        "ans": " C ",
+        "exp": "Contrast ratio is a figure used to measure the luminance difference between the brightest white and the darkest black.",
+        "B": " Display resolution and brightness ",
+        "C": " The Darkest and Lightest outputs ",
+        "D": " Power savings ",
+        "id": 18
+      },
+      {
+        "ques": "19. In which of the following slots would you place an 8X video card? ",
+        "A": " PCI ",
+        "ans": " C ",
+        "exp": "AGP expansion cards are available in four versions: 1X, 2X, 4X and 8X. AGP-8X is the fastest, with a transfer rate of 2,100 megabytes per second.",
+        "B": " PCIE ",
+        "C": " AGP ",
+        "D": " AMR ",
+        "id": 19
+      },
+      {
+        "ques": "20. Which of the following is the newest type of mouse connection ",
+        "A": " Serial ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " USB ",
+        "C": " PS/2 ",
+        "D": " Parallel ",
+        "id": 20
+      }
+    ],
+    "set3": [
+      {
+        "ques": "1. Which of the following is a typical speed of a SATA hard drive. ",
+        "A": " 1000 Mbps ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " 3.1 GHz ",
+        "C": " 8 GB ",
+        "D": " 7200 RPM ",
+        "id": 1
+      },
+      {
+        "ques": "2. The Printer connects to your computer with a ……? ",
+        "A": " DB25 parallel port ",
+        "ans": " A  ",
+        "exp": "The DB25 parallel port is initially used to connect printers, and is sometimes referred to as “printer port” (LPT).",
+        "B": " 21 pin serial port ",
+        "C": " USB port ",
+        "D": " MIDI port ",
+        "id": 2
+      },
+      {
+        "ques": "3. Which company introduced the first desktop laser printer called Laserjet. ",
+        "A": " Compaq ",
+        "ans": " B  ",
+        "exp": "The HP(Hewlett-Packard) LaserJet was the world’s first desktop laser printer, introduced in 1984 at about $3,500.",
+        "B": " Hewlett-packard ",
+        "C": " Epson ",
+        "D": " Cannon ",
+        "id": 3
+      },
+      {
+        "ques": "4. Which of the following in not there in motherboard. ",
+        "A": " System clock ",
+        "ans": " D  ",
+        "exp": "VDT (video display terminal) is a type of equipment for visual display, such as computer screens.",
+        "B": " Buses ",
+        "C": " Ports ",
+        "D": " VDT ",
+        "id": 4
+      },
+      {
+        "ques": "5. Which of the following printer produces most noise? ",
+        "A": " DOT matrix printer ",
+        "ans": " A  ",
+        "exp": "DOT matrix printer is an impact printer in which a character is printerd on the paper by the back and forth movement of a print head against the ribbon drenched in ink.",
+        "B": " Inkjet printer ",
+        "C": " Inkjet printer ",
+        "D": " None of these ",
+        "id": 5
+      },
+      {
+        "ques": "6. BIOS stands for: ",
+        "A": " Basic input output system ",
+        "ans": " A ",
+        "exp": "BIOS is a program used by the processor of the computer to get the system started once it is turned on.",
+        "B": " Binary input output system ",
+        "C": " Basic input off system ",
+        "D": " All of the above ",
+        "id": 6
+      },
+      {
+        "ques": "7. What is called VDU ",
+        "A": " Screen ",
+        "ans": " C  ",
+        "exp": "VDU(Visual display unit) is an older British term used to describe any device used with computers to display text and images.",
+        "B": " Monitor ",
+        "C": " Both (a) and (b) ",
+        "D": " Printer ",
+        "id": 7
+      },
+      {
+        "ques": "8. Which of the following are not a part of the ROM.",
+        "A": " FLASH ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " DRAM ",
+        "C": " SRAM ",
+        "D": " None of the above ",
+        "id": 8
+      },
+      {
+        "ques": "9. Which of the following are not a part of the RAM.",
+        "A": " RDRAM ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " DRAM ",
+        "C": " SRAM ",
+        "D": " PRAM ",
+        "id": 9
+      },
+      {
+        "ques": "10. Which of the following is the permanent memory of the computer: ",
+        "A": " RAM ",
+        "ans": " B  ",
+        "exp": "ROM is non-volatile memory that is the information stored in it data is not lost even if power supply goes off. So, in ROM information is stored permanently.",
+        "B": " ROM ",
+        "C": " CPU ",
+        "D": " Processor ",
+        "id": 10
+      },
+      {
+        "ques": "11. Which of the following memory programme cann’t be removed by us? ",
+        "A": " RAM ",
+        "ans": " B  ",
+        "exp": "The information from ROM can only be read and it is not possible to write fresh information to it.",
+        "B": " ROM ",
+        "C": " Cache memory ",
+        "D": " Virtual memory ",
+        "id": 11
+      },
+      {
+        "ques": "12. What is the name of the microprocessor manufactured by Pentium. ",
+        "A": " IC 8085 ",
+        "ans": " B ",
+        "exp": "Pentium, Family of microprocessors developed by Intel Corp. Introduced in 1993 as the successor to Intel’s 80486 microprocessor.",
+        "B": " IC 80486 ",
+        "C": " IC 80386 ",
+        "D": " All of the above ",
+        "id": 12
+      },
+      {
+        "ques": "13. What is UNIX. ",
+        "A": " Only a Multiprogramming system ",
+        "ans": " D ",
+        "exp": "Unix is a multi-user and multitasking operating system developed in the 1960s in AT&T Labs.",
+        "B": " Only a Time-sharing system ",
+        "C": " No Time sharing and non multiprogramming system ",
+        "D": " Time sharing and multiprogramming system both. ",
+        "id": 13
+      },
+      {
+        "ques": "14. Which of the following is an optical disk. ",
+        "A": " ROM ",
+        "ans": " C  ",
+        "exp": "An optical disk drive (ODD) uses a laser light to read data from or write data to an optical disc. These include CDs, DVDs, and Blu-ray discs.",
+        "B": " Hard Disk ",
+        "C": " DVD ",
+        "D": " Register ",
+        "id": 14
+      },
+      {
+        "ques": "15. Efficiency of CPU is measured in: ",
+        "A": " DPI ",
+        "ans": " C  ",
+        "exp": "MIPS( Millions of Instruction Per Second)",
+        "B": " PPI ",
+        "C": " MIPS ",
+        "D": " MSPI ",
+        "id": 15
+      },
+      {
+        "ques": "16. What is full form of VGA ",
+        "A": " Vector graphic adaptor ",
+        "ans": " D ",
+        "exp": "A Video Graphics Array (VGA) connector is a standard connector used for computer video output.",
+        "B": " Vector graphic array ",
+        "C": " Virtual graphic array ",
+        "D": " Video graphic array ",
+        "id": 16
+      },
+      {
+        "ques": "17. What is the name of the 64-bit microprocessor manufactured by AMD ",
+        "A": " Opteron ",
+        "ans": " D  ",
+        "exp": "AMD introduces its Opteron and Athlon 64 processor lines, based on its AMD64 architecture which is the first x86-based 64-bit processor architecture.",
+        "B": " Athlon ",
+        "C": " RISC-9000 ",
+        "D": " Both (a) and (b) ",
+        "id": 17
+      },
+      {
+        "ques": "18. Text and image and displayed on monitor by individual dots called. ",
+        "A": " Cursor ",
+        "ans": " B ",
+        "exp": "A pixel is represented by a dot or square on a computer monitor display screen. Pixels are the basic building blocks of a digital image.",
+        "B": " Pixels ",
+        "C": " CRT ",
+        "D": " LED ",
+        "id": 18
+      },
+      {
+        "ques": "19. Intel pentium chip uses: ",
+        "A": " CISC design ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " RISC design ",
+        "C": " Both of above ",
+        "D": " None of above ",
+        "id": 19
+      },
+      {
+        "ques": "20. Which of the following printer is suitable to print multiple carbon copies at once? ",
+        "A": " Impact printer ",
+        "ans": " A  ",
+        "exp": "Impact printer refers to printers that work by banging a head or needle against an ink ribbon to make a mark on the paper.",
+        "B": " Laser printer ",
+        "C": " Ink jet printer ",
+        "D": " All of the above ",
+        "id": 20
+      }
+    ],
+    "set4": [
+      {
+        "ques": "1. Form what location are the 1st computer instructions available on boot up ",
+        "A": " ROM BIOS ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " CPU ",
+        "C": " Boot.ini ",
+        "D": " CoNFIG.sys ",
+        "id": 1
+      },
+      {
+        "ques": "2. Missing slot covers on a computer can cause ",
+        "A": " Over heat ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Power surges ",
+        "C": " EMI ",
+        "D": " Incomplete path for ESD ",
+        "id": 2
+      },
+      {
+        "ques": "3. Which motherboard from factor uses 120 pin connector ",
+        "A": " ATX ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " AT ",
+        "C": " BABY AT ",
+        "D": " All of the above ",
+        "id": 3
+      },
+      {
+        "ques": "4. A Hard disk is divided into tracks which are further subdivided into ",
+        "A": " Clustes ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Sectors ",
+        "C": " Vectors ",
+        "D": " Heads ",
+        "id": 4
+      },
+      {
+        "ques": "5. In laser printer technology , what happens during the conditioning stage ",
+        "A": " The corona wire places a uniform positive charge on the paper ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " A uniform negative charge is placed on the photo sensitive drum ",
+        "C": " A uniform negative charge is placed on the toner ",
+        "D": " All of the above ",
+        "id": 5
+      },
+      {
+        "ques": "6. Your customer tells you the print quality of their dot matrix printer is light then dark. Which of the following could cause the problem ",
+        "A": " Paper slippage ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Improper ribbon advancement ",
+        "C": " Paper thikness ",
+        "D": " Head position ",
+        "id": 6
+      },
+      {
+        "ques": "7. The 34 pin connection on an I/O card is for ",
+        "A": " Floppy drive ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " SCSI drive ",
+        "C": " IDE drive ",
+        "D": " ZIP drive ",
+        "id": 7
+      },
+      {
+        "ques": "8. What toool is used to test serial and parallel ports ",
+        "A": " High volt probe ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Cable scanner ",
+        "C": " Loop backs (wrap plugs) ",
+        "D": " Sniffer ",
+        "id": 8
+      },
+      {
+        "ques": "9. You were installing an application ir windows 95 , and the computer crashes, what do you do ",
+        "A": " Press alt + ctrl + delete , twice ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Press alt + ctrl + delete , and end the task ",
+        "C": " Press the reset button on the computer ",
+        "D": " Turn off computer and boot from a floppy disk ",
+        "id": 9
+      },
+      {
+        "ques": "10. How many devices can be used on a single SCSI bus ?Keep in mind that the SCSI host adapter counts as device ",
+        "A": " 1 ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " 8 ",
+        "C": " 20 ",
+        "D": " 10 ",
+        "id": 10
+      },
+      {
+        "ques": "11. _______ helps prevent power surges ",
+        "A": " Surge suppressor ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Spike protector ",
+        "C": " UPS system ",
+        "D": " High – grade multimeter ",
+        "id": 11
+      },
+      {
+        "ques": "12. If the memory slots have 30 pins then the chip is a ",
+        "A": " DIMM ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " SIMM ",
+        "C": " SDRAM ",
+        "D": " All of the above ",
+        "id": 12
+      },
+      {
+        "ques": "13. How many pins on a VGA ",
+        "A": " 15 ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " 9 ",
+        "C": " 25 ",
+        "D": " 32 ",
+        "id": 13
+      },
+      {
+        "ques": "14. During the normal PC boot process , which of the following is active first ",
+        "A": " RAM BIOS ",
+        "ans": " ",
+        "exp": "Not Avilable",
+        "B": " CMOS ",
+        "C": " ROM BIOS ",
+        "D": " Hard disk information ",
+        "id": 14
+      },
+      {
+        "ques": "15. A _______ monitor looks like a televisn and are normally used with non-portable computer systems ",
+        "A": " CRT ",
+        "ans": " A ",
+        "exp": "Not Avilable",
+        "B": " LCD ",
+        "C": " LED ",
+        "D": " Flat panel monitor ",
+        "id": 15
+      },
+      {
+        "ques": "16. PCI stands for __________",
+        "A": " Peripheral component interconnect ",
+        "ans": " A",
+        "exp": "Not Avilable",
+        "B": " Partial component interconnect ",
+        "C": " Peripheral component interaction ",
+        "D": " Partial component interaction ",
+        "id": 16
+      },
+      {
+        "ques": "17. Which of the following is used in main-memory ",
+        "A": " SRAM ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " DRAM ",
+        "C": " PRAM ",
+        "D": " DDR ",
+        "id": 17
+      },
+      {
+        "ques": "18. What does USB stand for ",
+        "A": " Universal signal board ",
+        "ans": " C",
+        "exp": "Not Avilable",
+        "B": " Universal signal bus ",
+        "C": " Universal serial bus ",
+        "D": " Universal serial board ",
+        "id": 18
+      },
+      {
+        "ques": "19. Which of the following is not a magnetic disk ",
+        "A": " Floppy ",
+        "ans": " D",
+        "exp": "Not Avilable",
+        "B": " Winchester ",
+        "C": " Zip ",
+        "D": " Flash ",
+        "id": 19
+      },
+      {
+        "ques": "20. CPU and memory system are installed on ",
+        "A": " Expansion board ",
+        "ans": " B",
+        "exp": "Not Avilable",
+        "B": " Mother board ",
+        "C": " Storage device ",
+        "D": " Output ",
+        "id": 20
+      }
+    ]
+  }
+}

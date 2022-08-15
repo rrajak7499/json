@@ -1,0 +1,196 @@
+{
+  "artificalIntelligence": {
+    "set1": [
+      {
+        "A": " Integer ",
+        "B": " Boolean ",
+        "C": " Character ",
+        "D": " All of the above ",
+        "ans": " B  ",
+        "exp": "The data type best suited to represent logical values in C++ is the Boolean type.",
+        "id": 1,
+        "ques": "1. Which type is best suited to represent the logical values ? "
+      },
+      {
+        "A": " Implementation defined ",
+        "B": " Can’t say ",
+        "C": " Yes they are different ",
+        "D": " No they are not different ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "ques": "2. Is the size of character literal different in C and C++ ? "
+      },
+      {
+        "A": " char, 1 ",
+        "B": " int, 1 ",
+        "C": " float, 8 ",
+        "D": " char, 4 ",
+        "ans": " A ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "ques": "3. Size of C++ objects are expressed in terms of multiples of the size of a _____ and the size of char is _____ "
+      },
+      {
+        "A": " All function ",
+        "B": " Constructors ",
+        "C": " Destructors ",
+        "D": " None ",
+        "ans": " D ",
+        "exp": "Constructor creates an Object and Destructor destroys the object. They are not supposed to return anything, not even void.",
+        "id": 4,
+        "ques": "4. _____ have the return type void ? "
+      },
+      {
+        "A": " Int ",
+        "B": " Float ",
+        "C": " String ",
+        "D": " None ",
+        "ans": " A ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "ques": "5. Which variable does equals in size with enum variable ? "
+      },
+      {
+        "A": " Const ",
+        "B": " Preprocessor ",
+        "C": " Literals ",
+        "D": " None of above ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "ques": "6. The constants are also called as : "
+      },
+      {
+        "A": " Structure creator ",
+        "B": " Structure signifier ",
+        "C": " Structure specifier ",
+        "D": " None of above ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "ques": "7. The decleration of structure is also called as ? "
+      },
+      {
+        "A": " Postfix ",
+        "B": " Unary ",
+        "C": " Shift ",
+        "D": " Equality ",
+        "ans": " A ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "ques": "8. Which operator is having the higest precedence ? "
+      },
+      {
+        "A": " Single line ",
+        "B": " Multi line ",
+        "C": " Single and multiline ",
+        "D": " None ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "ques": "9. What type of comments does C++ support ? "
+      },
+      {
+        "A": " Call by value ",
+        "B": " Call by reference ",
+        "C": " Call by pointer ",
+        "D": " None ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "ques": "10. Which is more effective while calling the functions? "
+      },
+      {
+        "A": " 0 ",
+        "B": " 1 ",
+        "C": " 2 ",
+        "D": " 3 ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "ques": "11. How many minimum number of functions are needed to be presented in C++ ? "
+      },
+      {
+        "A": " Operator overloading ",
+        "B": " Constructor overloading ",
+        "C": " Destructor overloading ",
+        "D": " None ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "ques": "12. Function overloading is also similar to which of the following ? "
+      },
+      {
+        "A": " Very long function that can hardly run ",
+        "B": " One function containing another one or more functions inside it. ",
+        "C": " Two or more functions within the same class with different features. ",
+        "D": " None ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "ques": "13. Overloaded function are "
+      },
+      {
+        "A": " Public ",
+        "B": " Private ",
+        "C": " Protected ",
+        "D": " Both private and protected ",
+        "ans": " D ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "ques": "15. Which of these following members are not accessed by using direct member access operator ? "
+      },
+      {
+        "A": " Function overloading ",
+        "B": " Operator overloading ",
+        "C": " Member overloading ",
+        "D": " None ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "ques": "16. Pick the other name of operator function "
+      },
+      {
+        "A": " Use constructor and destructor ",
+        "B": " Set a global error indicator ",
+        "C": " Use break keyword ",
+        "D": " None of the above ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "ques": "17. What is most suitable for returning the logical errors in the program ? "
+      },
+      {
+        "A": " Members ",
+        "B": " Functions ",
+        "C": " Both member and functions ",
+        "D": " None of the above ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "ques": "18. Which of the following can derived class inherit ? "
+      },
+      {
+        "A": " Dynamic binding ",
+        "B": " Polymorphism ",
+        "C": " Both (A) and (B) ",
+        "D": " None ",
+        "ans": " C ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "ques": "19. Which of the following advantages we lose by using multiple inheritance ? "
+      },
+      {
+        "A": " va_list ",
+        "B": " va_start ",
+        "C": " va_arg ",
+        "D": " None ",
+        "ans": " B ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "ques": "20. What will initialize the list of arguments in stdarg.h header file ? "
+      }
+    ]
+  }
+}
