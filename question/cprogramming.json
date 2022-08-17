@@ -6,19 +6,19 @@
         "A": " Compiler ",
         "ans": "C",
         "exp": "Both are translator which translate one language to other.",
-        "B": "  Interpreters ",
-        "C": "  Both (A) and (B) ",
-        "D": "  None of the above ",
+        "B": "Interpreters ",
+        "C": "Both (A) and (B) ",
+        "D": "None of the above ",
         "id": 1
       },
       {
         "ques": "2. A sequence of instructions in a computer language to get the desired result is known as :",
-        "A": " An algorithm ",
+        "A": "An algorithm",
         "ans": "C",
         "exp": "Not Avilable",
-        "B": "  A decision table ",
-        "C": "  A program ",
-        "D": "  None of the above ",
+        "B": "A decision table",
+        "C": "A program ",
+        "D": "None of the above",
         "id": 2
       },
       {
@@ -34,7 +34,7 @@
       {
         "ques": "4. An algorithm is best described as :",
         "A": " A computer language ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  A step by step procedure for solving a problem ",
         "C": "  A branch of mathematics ",
@@ -44,9 +44,9 @@
       {
         "ques": "5. Bug means :",
         "A": " A logical error in a program ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Bug means any type of error in a program.",
-        "B": "  A difficult syntax error in a program ",
+        "B": "A difficult syntax error in a program ",
         "C": "  Both (A) and (B) ",
         "D": "  None of the above ",
         "id": 5
@@ -54,7 +54,7 @@
       {
         "ques": "6. The part of a machine level instruction which tells the central processor what has to be done ?",
         "A": " An operation code ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  An address ",
         "C": "  An operand ",
@@ -64,7 +64,7 @@
       {
         "ques": "7. Which of the following is not true about an interpreter?",
         "A": " Interpreter generates an object program from the source program. ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  Interpreter is a kind of translater ",
         "C": "  Interpreter analysis each source statement every time it is to be executed. ",
@@ -74,7 +74,7 @@
       {
         "ques": "8. The errors that can be pointed out by the compiler are :",
         "A": " Syntax errors ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Semantic errors ",
         "C": "  Logical errors ",
@@ -84,7 +84,7 @@
       {
         "ques": "9. Which of the following statement is not true?",
         "A": " FORTRAN is a high-level language. ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  A FORTRAN program written for the IBM-PC, is totally different from a FORTRAN program written in for the execution of SUN machine. ",
         "C": "  FORTRAN is extensively used to write programs for programming scientific computations. ",
@@ -94,7 +94,7 @@
       {
         "ques": "10. A program that converts a high level language program to a set of instructions that can run on a computer is called a :",
         "A": " Compiler ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Debugger ",
         "C": "  Editor ",
@@ -104,7 +104,7 @@
       {
         "ques": "11. The name given to a sequence of instructions in a computer language to get the desired result is : ",
         "A": " A program ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  An algorithm ",
         "C": "  A pseudocode ",
@@ -114,7 +114,7 @@
       {
         "ques": "12. The language understood by a computer with out translation is called :",
         "A": " Command language ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  High-level language ",
         "C": "  Assembly language ",
@@ -124,7 +124,7 @@
       {
         "ques": "13. The mapping from assembly language instructions into machine language instructions is",
         "A": " Many-one ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  One-many ",
         "C": "  One-one ",
@@ -134,7 +134,7 @@
       {
         "ques": "14. A compiler is :",
         "A": " A machine-independent and OS-independent ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  Machine-dependent and OS-dependent ",
         "C": "  Machine-dependent and OS-independent ",
@@ -144,7 +144,7 @@
       {
         "ques": "15. Which one of the following statements is incorrect?",
         "A": " A compiler compiles the source program. ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  An assembler takes an assembly program as input. ",
         "C": "  A compiler does the same type of function as interpreter. ",
@@ -156,7 +156,7 @@
       {
         "ques": "1. Who is father of C Language?",
         "A": " Bjarne Stroustrup ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  Dennis Ritchie ",
         "C": "  James A. Gosling ",
@@ -166,7 +166,7 @@
       {
         "ques": "2. C Language developed as ______",
         "A": " AT & T Bell Laboratories of USA in 1972 ",
-        "ans": " A ",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  AT & T Bell Laboratories of USA in 1970 ",
         "C": "  Sun Microsystems in 1973 ",
@@ -176,7 +176,7 @@
       {
         "ques": "3. C language is a",
         "A": " Completely high-level language ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  Completely low-level language ",
         "C": "  High-level language with low-level features ",
@@ -186,7 +186,7 @@
       {
         "ques": "4. The ‘C’ language is",
         "A": " Context free language ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Context sensitive lanugage ",
         "C": "  Regualar language ",
@@ -196,7 +196,7 @@
       {
         "ques": "5. C is _____ language?",
         "A": " Low level ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  High level ",
         "C": "  Assembly level ",
@@ -206,7 +206,7 @@
       {
         "ques": "6. C programs are converted into machine language with the help of",
         "A": " An editor ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  A compiler ",
         "C": "  An operating system ",
@@ -216,7 +216,7 @@
       {
         "ques": "7. What is the extension files by default for C Program ?",
         "A": " .doc ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  .ppt ",
         "C": "  .c ",
@@ -226,7 +226,7 @@
       {
         "ques": "8. Standard ANSI C has _____ number of keywords ?",
         "A": " 30 ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  32 ",
         "C": "  24 ",
@@ -236,7 +236,7 @@
       {
         "ques": "9. What is C Tokens?",
         "A": " The smallest individual units of c program ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  The basic element recognized by the compiler ",
         "C": "  The largest individual units of program ",
@@ -246,7 +246,7 @@
       {
         "ques": "10. The sign ‘#’ of the compiler directive must appear at the ______ of a line",
         "A": " Beginning ",
-        "ans": " A",
+        "ans": "A",
         "exp": "‘#’ sign is used to define Header file in C Programming at Beginning.",
         "B": "  Middle ",
         "C": "  End ",
@@ -256,7 +256,7 @@
       {
         "ques": "11. Which committee standardize ‘C’ programming language?",
         "A": " ANSI ",
-        "ans": " A  ",
+        "ans": "A",
         "exp": "ANSI(American National Standards Institute)",
         "B": "  W3C ",
         "C": "  TRAI ",
@@ -266,7 +266,7 @@
       {
         "ques": "12. A Header file is :",
         "A": " A file that contains standard library functions ",
-        "ans": " B  ",
+        "ans": "B",
         "exp": "A header file is a file that contains C declarations and macro definitions to be shared between several source files.",
         "B": "  A file that contains definitions and macros ",
         "C": "  A file that contains user defined functions ",
@@ -276,7 +276,7 @@
       {
         "ques": "13. Which header file is designed for basic mathematical operations ?",
         "A": " Stdio.h ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  Dos.h ",
         "C": "  Math.h ",
@@ -286,7 +286,7 @@
       {
         "ques": "14. The File structure is define in which of the following files :",
         "A": " stdlib.h ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  stdio.h ",
         "C": "  io.h ",
@@ -296,7 +296,7 @@
       {
         "ques": "15. Which header file should be included to use function like malloc(), calloc()?",
         "A": " memory.h ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  stdlib.h ",
         "C": "  dos.h ",
@@ -308,7 +308,7 @@
       {
         "ques": "1. Which of the following is a logical operator?",
         "A": " && ",
-        "ans": " A  ",
+        "ans": "A",
         "exp": "In C programming three logical operators i.e. Logical AND(&&), OR(||) and NOT(!).",
         "B": "  != ",
         "C": "  | ",
@@ -318,7 +318,7 @@
       {
         "ques": "2. Which one of the following is a bitwise operator?",
         "A": " < ",
-        "ans": " B  ",
+        "ans": "B",
         "exp": "Bitwise left shift(<<), Bitwise right shift(>>)",
         "B": "  << ",
         "C": "  = ",
@@ -328,7 +328,7 @@
       {
         "ques": "3. Which of the following is not a relational operator ?",
         "A": " ! ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  != ",
         "C": "  >= ",
@@ -338,7 +338,7 @@
       {
         "ques": "4. “!=” represents :",
         "A": " Greater ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  Equal to ",
         "C": "  Not equal to ",
@@ -348,7 +348,7 @@
       {
         "ques": "5. What is the symbol used for conditional operator ?",
         "A": " == ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  / ",
         "C": "  ?= ",
@@ -358,7 +358,7 @@
       {
         "ques": "6. Which one of the following is a bitwise operator ?",
         "A": " == ",
-        "ans": " D ",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  = ",
         "C": "  < ",
@@ -368,7 +368,7 @@
       {
         "ques": "7. Which one is the special operator ?",
         "A": " << ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  ++ ",
         "C": "  ?: ",
@@ -378,7 +378,7 @@
       {
         "ques": "8. Which of the following is correct precedence order from higher to lower ?",
         "A": " (), <<, *, + ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  (), *, <<, + ",
         "C": "  (), *, +, << ",
@@ -388,7 +388,7 @@
       {
         "ques": "9. P++ is called _______ operator.",
         "A": " Decrement ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  Post decrement ",
         "C": "  Post increment ",
@@ -398,7 +398,7 @@
       {
         "ques": "10. Which of the following is not a relational operator ?",
         "A": " ! ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  != ",
         "C": "  >= ",
@@ -408,7 +408,7 @@
       {
         "ques": "11. Does logical operator in C language are evaluated with short ciruit ?",
         "A": " True ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  False ",
         "C": "  Depends on compiler ",
@@ -418,7 +418,7 @@
       {
         "ques": "12. Realtional operator cannot be used on ",
         "A": " Structure ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Long ",
         "C": "  String ",
@@ -428,7 +428,7 @@
       {
         "ques": "13. Which of the following is bitwise operator ?",
         "A": " && ",
-        "ans": " D   ",
+        "ans": "D",
         "exp": "Bitwise AND(&), Bitwise OR(|), Bitwise XOR(^)",
         "B": "  }} ",
         "C": "  != ",
@@ -438,7 +438,7 @@
       {
         "ques": "14. Which of the following is correct hierarchy of arithmetic operator in C.",
         "A": " / + * – ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  * – / + ",
         "C": "  + – / + ",
@@ -448,7 +448,7 @@
       {
         "ques": "15. Which operators are known as ternary operator ?",
         "A": " ::, ? ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  && ",
         "C": "  ?: ",
@@ -460,7 +460,7 @@
       {
         "ques": "1. A C variable cannot start with ",
         "A": " An alphabet ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  A number ",
         "C": "  A special symbol other than underscore ",
@@ -470,7 +470,7 @@
       {
         "ques": "2. Select the odd one out with respect to type ?",
         "A": " Char ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Int ",
         "C": "  Long ",
@@ -480,7 +480,7 @@
       {
         "ques": "3. Which type of variable can have same name in different function ",
         "A": " Global variable ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  Static variable ",
         "C": "  Function argument ",
@@ -490,7 +490,7 @@
       {
         "ques": "4. For 16-bit compiler allowable range for integer constants is ______ ?",
         "A": " -3.4e38 to 3.4e38 ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  -32767 to 32768 ",
         "C": "  -32768 to 32767 ",
@@ -500,7 +500,7 @@
       {
         "ques": "5. Which of the following is false in ‘C’.",
         "A": " Capital letters can be used in variable names. ",
-        "ans": " D ",
+        "ans": "D",
         "exp": "Keywords never be used in Variable declaration.",
         "B": "  Variable names can contain a digit. ",
         "C": "  Variable names do not contain a blank space. ",
@@ -510,7 +510,7 @@
       {
         "ques": "6. An “int” datatype requires :",
         "A": " 2 bytes ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  3 bytes ",
         "C": "  1 bytes ",
@@ -520,7 +520,7 @@
       {
         "ques": "7. Which of the following spwcial symbol allowed in a variable name ?",
         "A": " *(Asterisk) ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  |(Pipeline) ",
         "C": "  -(Hyphen) ",
@@ -530,7 +530,7 @@
       {
         "ques": "8. The structure combines variables of ______ data type.",
         "A": " Similar ",
-        "ans": " C",
+        "ans": "C",
         "exp": "The structure combines variables of dissimilar user-defined data types.",
         "B": "  Variable ",
         "C": "  Dissimilar ",
@@ -540,7 +540,7 @@
       {
         "ques": "9. What is the value range of data type unsigned short int",
         "A": " -128 to 127 ",
-        "ans": " C ",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  0 to 255 ",
         "C": "  0 to 65535 ",
@@ -550,7 +550,7 @@
       {
         "ques": "10. How many of bytes in memory required for single character in computer ?",
         "A": " 8 bytes ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  2 bytes ",
         "C": "  4 bytes ",
@@ -560,7 +560,7 @@
       {
         "ques": "11. Which of the following cannot be checeked in a swith case statement ?",
         "A": " Float ",
-        "ans": " A  ",
+        "ans": "A",
         "exp": "A switch-case statement must be an integer, char, short, long. Float and double are not allowed.",
         "B": "  Interger ",
         "C": "  Character ",
@@ -570,7 +570,7 @@
       {
         "ques": "12. If ‘a’ is an interger variable, then a=5/2; will return a value",
         "A": " 2.5 ",
-        "ans": " C  ",
+        "ans": "C",
         "exp": "Because integer store only whole number it doesn’t contain deecimal number.",
         "B": "  3 ",
         "C": "  2 ",
@@ -580,7 +580,7 @@
       {
         "ques": "13. Which of the following is the correct way of declaring float pointer.",
         "A": " float ptr ",
-        "ans": " B ",
+        "ans": "B",
         "exp": "Pointer declaration: datatype *var-name;",
         "B": "  float *ptr ",
         "C": "  *float ptr ",
@@ -590,7 +590,7 @@
       {
         "ques": "14. Address stored in pointer variable is of type",
         "A": " Integer ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Float ",
         "C": "  Char ",
@@ -600,7 +600,7 @@
       {
         "ques": "15. Which of the following can a format string of printf() function contain :",
         "A": " Character, format specifications and escape sequences ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Character, interger and floats ",
         "C": "  Strings, integers and escape sequences ",
@@ -612,7 +612,7 @@
       {
         "ques": "1. By default a function returns a value of type",
         "A": " Int ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  Char ",
         "C": "  Void ",
@@ -622,7 +622,7 @@
       {
         "ques": "2. Which of the following are a collection of different data typed ?",
         "A": " Array",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  Structure ",
         "C": "  Char ",
@@ -632,7 +632,7 @@
       {
         "ques": "3. Which of the following can never be sent by call by value ?",
         "A": " Variable ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  Array ",
         "C": "  Structure ",
@@ -642,7 +642,7 @@
       {
         "ques": "4. Collection of similar data type is _______",
         "A": " Array ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Structure ",
         "C": "  Vector ",
@@ -652,7 +652,7 @@
       {
         "ques": "5. Which function is used to release the memory allotted in dynamic memory allocation ?",
         "A": " Malloc() ",
-        "ans": " A   ",
+        "ans": "A",
         "exp": "Malloc() function in C is used to dynamically allocate a block of memory with specified size.",
         "B": "  Free() ",
         "C": "  Calloc() ",
@@ -662,7 +662,7 @@
       {
         "ques": "6. Member of union use :",
         "A": " Different storage locations ",
-        "ans": " B ",
+        "ans": "B",
         "exp": "Unions provide an efficient way of using the same memory location for multiple-purpose.",
         "B": "  Same storage locations ",
         "C": "  No storage locations ",
@@ -672,7 +672,7 @@
       {
         "ques": "7. Which of the following is example of call by value ?",
         "A": " Num(*a, *b) ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  Num(a,b) ",
         "C": "  Num(&a,&b) ",
@@ -682,7 +682,7 @@
       {
         "ques": "8. How many elements can be store in the array A[35] ?",
         "A": " 36 ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  37 ",
         "C": "  35 ",
@@ -692,7 +692,7 @@
       {
         "ques": "9. An array is a collection of :",
         "A": " Different data types scattered throughout memory ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  The same data type scattered throughout memory ",
         "C": "  the same data type placed next to each other in memory ",
@@ -702,7 +702,7 @@
       {
         "ques": "10. If int S[5] is a one-dimensional array of integers, which of the following refers to the third element in the array ?",
         "A": " *(S+2) ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  *(S+3) ",
         "C": "  S+3 ",
@@ -712,7 +712,7 @@
       {
         "ques": "11. Which you pass an array as an argument to a function, what actually gets passed ?",
         "A": " Address of the array ",
-        "ans": " C ",
+        "ans": "C",
         "exp": "When we pass an array as a funtion argument, it will pass only base address i.e. address of first element of array.",
         "B": "  Values of the elements of the array ",
         "C": "  Address of the first element of the array\t",
@@ -722,7 +722,7 @@
       {
         "ques": "12. What is the difference between the 5’s in these two expressions? int num[5]; num[5]=11; select the correct answer.",
         "A": " First is particular element, second is type ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  First is array size, second is particular element ",
         "C": "  First is particular elements, second is array size ",
@@ -732,7 +732,7 @@
       {
         "ques": "13. What will happen if you assign a value to an element of an array whose subscript exceeds the size of the array?",
         "A": " The element will be set to 0 ",
-        "ans": " C ",
+        "ans": "C",
         "exp": "The program may crash if some important data gets overwritten.",
         "B": "  Nothing its done all the time ",
         "C": "  Other data may be overwritten ",
@@ -742,7 +742,7 @@
       {
         "ques": "14. Given the statement maruti. engine. bolts=25; which of the following is true ?",
         "A": " Structure bolts is nested within structure engine ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  Structure engine is nested within structure maruti ",
         "C": "  Structure maruti is nested within structure engine ",
@@ -752,7 +752,7 @@
       {
         "ques": "15. An array elements are always stored in _________ memory locations.",
         "A": " Sequential ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Random ",
         "C": "  Sequential and Random ",
@@ -764,7 +764,7 @@
       {
         "ques": "1. Which of the following is not an example of Looping statement ?",
         "A": " For ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  Do-while ",
         "C": "  While ",
@@ -774,7 +774,7 @@
       {
         "ques": "2. Which of the statement we need to write in order to check any condition ?",
         "A": " If ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Break ",
         "C": "  Continue ",
@@ -784,7 +784,7 @@
       {
         "ques": "3. The ______ statement causes the loop to be terminated.",
         "A": " Exit ",
-        "ans": " B ",
+        "ans": "B",
         "exp": "In C programming break statement is terminate the loop immediately when it is encountered.",
         "B": "  Break ",
         "C": "  Default ",
@@ -794,7 +794,7 @@
       {
         "ques": "4. Which among the following is a unconditional control structure ?",
         "A": " Do-while ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  If-else ",
         "C": "  Goto ",
@@ -804,7 +804,7 @@
       {
         "ques": "5. Which is syntax of for loop?",
         "A": " for(intialization; condition; increment/decrement) ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  for(increment; expression; condition) ",
         "C": "  for(condition; expression; statement) ",
@@ -814,7 +814,7 @@
       {
         "ques": "6. A do-while loop is useful when we want that the statement within the loop must be executed :",
         "A": " Only once ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  At least once ",
         "C": "  More than once ",
@@ -824,7 +824,7 @@
       {
         "ques": "7. In what sequence tha initialization, testing and execution of body is done in a do-while loop ?",
         "A": " Initialization, execution of body, testing ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  Execution of body, initialization, testing ",
         "C": "  Initialization, testing, execution of body ",
@@ -834,7 +834,7 @@
       {
         "ques": "8. Which of the following statement is used to take the control to the beginning of the loop ?",
         "A": " Exit ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  Continue ",
         "C": "  Break ",
@@ -844,7 +844,7 @@
       {
         "ques": "9. What is the work of break keyword?",
         "A": " Halt execution of program ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  Restart execution of program ",
         "C": "  Exit from loop or switch statement ",
@@ -854,7 +854,7 @@
       {
         "ques": "10. A preprocessor directive is :",
         "A": " A message from compiler to the programmer ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  A message from compiler to the linker ",
         "C": "  A message from programmer to the preprocessor ",
@@ -864,7 +864,7 @@
       {
         "ques": "11. Which of the following is not a keyword in C language ?",
         "A": " Getchar ",
-        "ans": " D",
+        "ans": "D",
         "exp": "Not Avilable",
         "B": "  Int ",
         "C": "  Void ",
@@ -874,7 +874,7 @@
       {
         "ques": "12. ASCII value of ‘A’ is :",
         "A": " 65 ",
-        "ans": " A",
+        "ans": "A",
         "exp": "Not Avilable",
         "B": "  32 ",
         "C": "  97 ",
@@ -884,7 +884,7 @@
       {
         "ques": "13. Struct time {int hours; int minutes; int seconds;}t; Struct time *pt; pt=&t with reference to the above declarations, which of the following refers to seconds correctly",
         "A": " Pt.seconds ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  Pt->seconds ",
         "C": "  time.seconds ",
@@ -894,7 +894,7 @@
       {
         "ques": "14. An expression contains relational operators, assignment operators and arithmetic operators and arithmetic operators. In the absence of parenthesis, the will be evaluated in which of the following order.",
         "A": " Assignment, relational, arithmetic ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  Arithmetic, relational, assignment ",
         "C": "  Relational, arithmetic, assignment ",
@@ -904,7 +904,7 @@
       {
         "ques": "15. Hierachy decides which operator ",
         "A": " is most important ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Not Avilable",
         "B": "  is used first ",
         "C": "  is fastest ",
