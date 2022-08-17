@@ -14,7 +14,7 @@
       {
         "ques": "2. A sequence of instructions in a computer language to get the desired result is known as :",
         "A": " An algorithm ",
-        "ans": " C",
+        "ans": "C",
         "exp": "Not Avilable",
         "B": "  A decision table ",
         "C": "  A program ",
@@ -24,7 +24,7 @@
       {
         "ques": "3. Which type of errors are flagged by Compilers ?",
         "A": " Logical errors ",
-        "ans": " B",
+        "ans": "B",
         "exp": "Compiler detect only syntax errors which involves incorrect punctuation, incorrect word sequence, undefined terms, or misuse of terms.",
         "B": "  Syntax errors ",
         "C": "  Both (A) and (B) ",
