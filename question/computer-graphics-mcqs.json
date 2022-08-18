@@ -1,6 +1,6 @@
 {
   "computer-graphics-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Dots ",
         "B": " Pixels ",
@@ -152,7 +152,7 @@
         "sol": " A"
       }
     ],
-    "set10": [
+    "10": [
       {
         "A": " Rendering effect ",
         "B": " Shading effect ",
@@ -304,7 +304,7 @@
         "sol": " B "
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Walt Disney ",
         "B": " J. Stuart Blackton ",
@@ -456,7 +456,7 @@
         "sol": " B"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " 2 ",
         "B": " 3 ",
@@ -608,7 +608,7 @@
         "sol": " B"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " Digital differential analyzer ",
         "B": " Digital data analyzer ",
@@ -760,7 +760,7 @@
         "sol": " A "
       }
     ],
-    "set5": [
+    "5": [
       {
         "A": " Digital differential analyzer ",
         "B": " Digital data analyzer ",
@@ -912,7 +912,7 @@
         "sol": " A "
       }
     ],
-    "set6": [
+    "6": [
       {
         "A": " Liquid cathode display ",
         "B": " Liquid crystal display ",
@@ -1064,7 +1064,7 @@
         "sol": " A"
       }
     ],
-    "set7": [
+    "7": [
       {
         "A": " Monitor that have color ",
         "B": " Monitor that have color not available ",
@@ -1216,7 +1216,7 @@
         "sol": " A"
       }
     ],
-    "set8": [
+    "8": [
       {
         "A": " Control ray tube ",
         "B": " Computer ray tube ",
@@ -1368,7 +1368,7 @@
         "sol": " C"
       }
     ],
-    "set9": [
+    "9": [
       {
         "A": " Control ray tube ",
         "B": " Computer ray tube ",
