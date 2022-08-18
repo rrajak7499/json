@@ -1,6 +1,6 @@
 {
   "testing-and-maintenance-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Fuse ",
         "B": " Circuit breaker ",
@@ -202,7 +202,7 @@
         "sol": " B"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Excitation ",
         "B": " Load ",
@@ -404,7 +404,7 @@
         "sol": " A"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " Water ",
         "B": " Foam ",
