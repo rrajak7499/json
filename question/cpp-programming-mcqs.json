@@ -1,6 +1,6 @@
 {
   "cpp-programming-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " int ",
         "B": " short ",
@@ -152,7 +152,7 @@
         "sol": " A "
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Semantic analysis ",
         "B": " Syntax analysis ",
