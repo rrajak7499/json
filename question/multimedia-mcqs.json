@@ -1,6 +1,6 @@
 {
   "multimedia-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Multimedia ",
         "B": " Hyper media ",
@@ -152,7 +152,7 @@
         "sol": " A"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Clipart ",
         "B": " Bitmap ",
@@ -304,7 +304,7 @@
         "sol": " B"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " Multimedia System ",
         "B": " Multimedia Messaging Services ",
@@ -456,7 +456,7 @@
         "sol": " C"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " MPEG1 ",
         "B": " MPEG2 ",
@@ -608,7 +608,7 @@
         "sol": " D"
       }
     ],
-    "set5": [
+    "5": [
       {
         "A": " RDBMS ",
         "B": " DBMS ",
@@ -760,7 +760,7 @@
         "sol": " D"
       }
     ],
-    "set6": [
+    "6": [
       {
         "A": " 5 bits per sample ",
         "B": " 6 bits per sample ",
@@ -912,7 +912,7 @@
         "sol": " D"
       }
     ],
-    "set7": [
+    "7": [
       {
         "A": " CAVE ",
         "B": " BOOM ",
