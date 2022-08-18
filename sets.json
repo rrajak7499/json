@@ -3,570 +3,570 @@
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     },
     {
       "id": 5,
       "title": "Set - 5",
-      "slug": "set5"
+      "slug": "5"
     }
   ],
   "artificial-intelligence-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     }
   ],
   "automatic-control-system-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     }
   ],
   "c-programming-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     },
     {
       "id": 5,
       "title": "Set - 5",
-      "slug": "set5"
+      "slug": "5"
     },
     {
       "id": 6,
       "title": "Set - 6",
-      "slug": "set6"
+      "slug": "6"
     }
   ],
   "computer-architecture-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     }
   ],
   "computer-graphics-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     },
     {
       "id": 5,
       "title": "Set - 5",
-      "slug": "set5"
+      "slug": "5"
     },
     {
       "id": 6,
       "title": "Set - 6",
-      "slug": "set6"
+      "slug": "6"
     },
     {
       "id": 7,
       "title": "Set - 7",
-      "slug": "set7"
+      "slug": "7"
     },
     {
       "id": 8,
       "title": "Set - 8",
-      "slug": "set8"
+      "slug": "8"
     },
     {
       "id": 9,
       "title": "Set - 9",
-      "slug": "set9"
+      "slug": "9"
     },
     {
       "id": 10,
       "title": "Set - 10",
-      "slug": "set10"
+      "slug": "10"
     }
   ],
   "cpp-programming-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     }
   ],
   "data-structure-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     }
   ],
   "dbms-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     },
     {
       "id": 5,
       "title": "Set - 5",
-      "slug": "set5"
+      "slug": "5"
     },
     {
       "id": 6,
       "title": "Set - 6",
-      "slug": "set6"
+      "slug": "6"
     }
   ],
   "digital-electronics-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     },
     {
       "id": 5,
       "title": "Set - 5",
-      "slug": "set5"
+      "slug": "5"
     },
     {
       "id": 6,
       "title": "Set - 6",
-      "slug": "set6"
+      "slug": "6"
     }
   ],
   "e-commerce-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     }
   ],
   "internet-and-web-technology-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     }
   ],
   "java-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     }
   ],
   "management-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     },
     {
       "id": 5,
       "title": "Set - 5",
-      "slug": "set5"
+      "slug": "5"
     },
     {
       "id": 6,
       "title": "Set - 6",
-      "slug": "set6"
+      "slug": "6"
     },
     {
       "id": 7,
       "title": "Set - 7",
-      "slug": "set7"
+      "slug": "7"
     }
   ],
   "multimedia-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     },
     {
       "id": 5,
       "title": "Set - 5",
-      "slug": "set5"
+      "slug": "5"
     },
     {
       "id": 6,
       "title": "Set - 6",
-      "slug": "set6"
+      "slug": "6"
     },
     {
       "id": 7,
       "title": "Set - 7",
-      "slug": "set7"
+      "slug": "7"
     }
   ],
   "networking-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     }
   ],
   "operating-system-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     }
   ],
   "power-electronics-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     }
   ],
   "samis-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     }
   ],
   "software-engineering-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     }
   ],
   "software-package-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     }
   ],
   "system-maintenance-mcqs": [
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     }
   ],
   "system-software-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     },
     {
       "id": 4,
       "title": "Set - 4",
-      "slug": "set4"
+      "slug": "4"
     },
     {
       "id": 5,
       "title": "Set - 5",
-      "slug": "set5"
+      "slug": "5"
     },
     {
       "id": 6,
       "title": "Set - 6",
-      "slug": "set6"
+      "slug": "6"
     },
     {
       "id": 7,
       "title": "Set - 7",
-      "slug": "set7"
+      "slug": "7"
     },
     {
       "id": 8,
       "title": "Set - 8",
-      "slug": "set8"
+      "slug": "8"
     },
     {
       "id": 9,
       "title": "Set - 9",
-      "slug": "set9"
+      "slug": "9"
     },
     {
       "id": 10,
       "title": "Set - 10",
-      "slug": "set10"
+      "slug": "10"
     }
   ],
   "testing-and-maintenance-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     }
   ],
   "visual-basic-mcqs": [
     {
       "id": 1,
       "title": "Set - 1",
-      "slug": "set1"
+      "slug": "1"
     },
     {
       "id": 2,
       "title": "Set - 2",
-      "slug": "set2"
+      "slug": "2"
     },
     {
       "id": 3,
       "title": "Set - 3",
-      "slug": "set3"
+      "slug": "3"
     }
   ]
 }
