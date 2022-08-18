@@ -1,6 +1,6 @@
 {
   "advance-communication-system-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " 5 to 10 GHz ",
         "B": " 15 to 20 GHz ",
@@ -202,7 +202,7 @@
         "sol": " C"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Troposphere ",
         "B": " Ionosphere ",
@@ -404,7 +404,7 @@
         "sol": " B"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " H 261 ",
         "B": " H 262 ",
@@ -606,7 +606,7 @@
         "sol": " D"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " Sky wava ",
         "B": " Ground wave ",
@@ -808,7 +808,7 @@
         "sol": " C"
       }
     ],
-    "set5": [
+    "5": [
       {
         "A": " Amplifies the signal ",
         "B": " Reflects the signal ",
