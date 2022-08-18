@@ -1,6 +1,6 @@
 {
   "dbms-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Data Bank Access ",
         "B": " Database Access ",
@@ -202,7 +202,7 @@
         "sol": " A"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " HLL ",
         "B": " DML ",
@@ -404,7 +404,7 @@
         "sol": " A"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " How and where ",
         "B": " View ",
@@ -606,7 +606,7 @@
         "sol": " D"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " Simple attribute ",
         "B": " Base attribute ",
@@ -808,7 +808,7 @@
         "sol": " D"
       }
     ],
-    "set5": [
+    "5": [
       {
         "A": " Unique Index ",
         "B": " Sequence ",
@@ -1010,7 +1010,7 @@
         "sol": " A"
       }
     ],
-    "set6": [
+    "6": [
       {
         "A": " Set Difference ",
         "B": " Cartesian Product ",
