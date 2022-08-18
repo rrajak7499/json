@@ -1,6 +1,6 @@
 {
   "computer-architecture-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Cache memory ",
         "B": " Secondary memory ",
@@ -202,7 +202,7 @@
         "sol": " A"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Instruction Code ",
         "B": " Micro operation ",
@@ -404,7 +404,7 @@
         "sol": " A"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " More, Faster\t",
         "B": " More, Slower ",
