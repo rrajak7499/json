@@ -1,6 +1,6 @@
 {
   "data-structure-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " O(n) ",
         "B": " O(log n) ",
@@ -202,7 +202,7 @@
         "sol": " D"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " 15 ",
         "B": " 19 ",
@@ -404,7 +404,7 @@
         "sol": " D"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " int arr[3]=(1,2,3); ",
         "B": " int arr(3)={1,2,3}; ",
@@ -606,7 +606,7 @@
         "sol": " B"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " Arrays have better cache locality that can make them better in terms of performance. ",
         "B": " It is easy to insert and delete elements in linked list. ",
