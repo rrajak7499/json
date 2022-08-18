@@ -1,6 +1,6 @@
 {
   "software-engineering-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Basic path testing ",
         "B": " Boundary value analysis ",
@@ -202,7 +202,7 @@
         "sol": " B "
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Software is developed or engineered, it is not manufactured in the classical sense. ",
         "B": " Software doesn’t “ware out” ",
@@ -404,7 +404,7 @@
         "sol": " B "
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " Better performance of hardware ",
         "B": " Error free software ",
@@ -606,7 +606,7 @@
         "sol": " B  "
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " Superset of programs ",
         "B": " Subset of programs ",
