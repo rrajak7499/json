@@ -1,6 +1,6 @@
 {
   "samis-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " System Development Life Cycle ",
         "B": " Structure Design Life Cycle ",
@@ -202,7 +202,7 @@
         "sol": " C"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Maintenance and Evaluation ",
         "B": " Design ",
@@ -404,7 +404,7 @@
         "sol": " B"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " Interview ",
         "B": " Presentation ",
@@ -606,7 +606,7 @@
         "sol": " A"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " Input and output ",
         "B": " Interaction ",
