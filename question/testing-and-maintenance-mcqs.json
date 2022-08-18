@@ -1,0 +1,610 @@
+{
+  "testing-and-maintenance-mcqs": {
+    "set1": [
+      {
+        "A": " Fuse ",
+        "B": " Circuit breaker ",
+        "C": " Rope ",
+        "D": " Cable ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Wires carrying electric current are covered with good insulator for safety purpose. It is called _",
+        "sol": " D"
+      },
+      {
+        "A": " Switch ",
+        "B": " Indicator ",
+        "C": " Fuse ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. A safety device which connected in series with live wire in circuit to protect equipments is called",
+        "sol": " C"
+      },
+      {
+        "A": " For longer period ",
+        "B": " Momentarily ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Electric shock by high voltage and high current stops breating ______",
+        "sol": " C"
+      },
+      {
+        "A": " Liquid extinguisher ",
+        "B": " Wet chemical extinguisher ",
+        "C": " CO2 extinguisher ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Electric fire is extinguished by ______",
+        "sol": " C"
+      },
+      {
+        "A": " It increases the life of machine ",
+        "B": " It reduces the breakdown to minimum ",
+        "C": " It increases the efficiency of machine ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Preventive maintenance is done due to the following :",
+        "sol": " D"
+      },
+      {
+        "A": " Checking of stationary parts ",
+        "B": " Checking of movable parts ",
+        "C": " Checking of surrounding in which the equipment has to work ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Factors considered during preparing maintenance schedule is/are",
+        "sol": " D"
+      },
+      {
+        "A": " Negligence ",
+        "B": " Incorrect installation ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Causes of breakdown of machines are ",
+        "sol": " A"
+      },
+      {
+        "A": " Checking of winding for their proper insulation ",
+        "B": " Checking of air gap between stator and rotor\t",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Monthly maintenance of motor includes :",
+        "sol": " C"
+      },
+      {
+        "A": " To prevent flow of air into the tank ",
+        "B": " To prevent flow of moisture into the tank ",
+        "C": " To take care of expansion and contraction of oil ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The function of conservator in a transformer is :",
+        "sol": " C"
+      },
+      {
+        "A": " Take fresh air for increasing cooling effect ",
+        "B": " Arrest flow of moisture into the tank ",
+        "C": " Control the level of oil in the tank ",
+        "D": " Filter transformer oil ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. In power transformer, the breather is provided to ",
+        "sol": " B"
+      },
+      {
+        "A": " Welding transformer ",
+        "B": " Oil cooled transformer ",
+        "C": " Air cooled transformer ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Buchholz relay is used in :",
+        "sol": " B"
+      },
+      {
+        "A": " Cooling to the winding ",
+        "B": " Insulation to the winding ",
+        "C": " Protection against atmospheric humidity ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Oil in the transformer is used for providing ",
+        "sol": " D"
+      },
+      {
+        "A": " Acidity test ",
+        "B": " Breakdown test ",
+        "C": " Crackle test ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. In order to determine suitability of the oil in transformer tests carried out are :",
+        "sol": " D"
+      },
+      {
+        "A": " Fault current ",
+        "B": " Load current ",
+        "C": " Charging current ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Isolators used in transmission line are capable of breaking ______",
+        "sol": " C"
+      },
+      {
+        "A": " To produce arc ",
+        "B": " To ionise the surrounding arc ",
+        "C": " To extinguish the arc ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The basic function of a circuit breaker is ______",
+        "sol": " C"
+      },
+      {
+        "A": " Insulation resistance ",
+        "B": " Earth resistance ",
+        "C": " Volatage ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Earth tester is used to measure :",
+        "sol": " B"
+      },
+      {
+        "A": " To support the weight of machine ",
+        "B": " To maintain the alignment of the machine ",
+        "C": " To provide firm for the machine ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. The main objective of foundation for electrical machine is :",
+        "sol": " D"
+      },
+      {
+        "A": " Electrical causes ",
+        "B": " Mechanical causes ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Cause of vibration in electrical machine is :",
+        "sol": " B"
+      },
+      {
+        "A": " Load ",
+        "B": " Rating ",
+        "C": " Type of motor ",
+        "D": " Air gap ",
+        "exp": "A large air-gap length leads to higher magnetizing current and poor power factor.",
+        "id": 19,
+        "prob": "19. Magnetisation current in three phase induction motor depends on :",
+        "sol": " D "
+      },
+      {
+        "A": " Speed ",
+        "B": " Voltage rating ",
+        "C": " KVA rating ",
+        "D": " Excitation ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. For proper parallel operation, alternators must have the same ______",
+        "sol": " B"
+      }
+    ],
+    "set2": [
+      {
+        "A": " Excitation ",
+        "B": " Load ",
+        "C": " Speed ",
+        "D": " Supply voltage ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The value of load angle for a synchronous motor depends mainly upon its",
+        "sol": " B"
+      },
+      {
+        "A": " Current rating ",
+        "B": " Voltage rating ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. The thickness of the insulation provided to the conductor depends upon",
+        "sol": " B"
+      },
+      {
+        "A": " The voltage may cause burns to the skin ",
+        "B": " It will cause flow of current through the body ",
+        "C": " The current may cause burns to the skin or inside the body ",
+        "D": " It may cause damage to the heart one nervous system ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. It is fatal to touch a live wire as :",
+        "sol": " B"
+      },
+      {
+        "A": " Short circuit ",
+        "B": " Over load ",
+        "C": " Open circuit ",
+        "D": " Short circuit & overload ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. A fuse in a motor circuit provides protection against",
+        "sol": " D"
+      },
+      {
+        "A": " It becomes currently hot ",
+        "B": " It becomes warm ",
+        "C": " It becomes slightly cold ",
+        "D": " It becomes extermly cold ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. While you are using a fire extinguisher containing CO2 what happens to the nozzle ",
+        "sol": " D"
+      },
+      {
+        "A": " Clip on meter ",
+        "B": " Lux meter ",
+        "C": " Megger ",
+        "D": " Earch megger ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Insulation resistance of a cable is measured by what type of meter",
+        "sol": " C"
+      },
+      {
+        "A": " Size ",
+        "B": " Age ",
+        "C": " Location ",
+        "D": " Oil used ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the following is not an important condition for prevention maintenance.",
+        "sol": " D"
+      },
+      {
+        "A": " Less idle time ",
+        "B": " Increase in productivity ",
+        "C": " Zero down time ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Total productive maintenance aims at",
+        "sol": " C"
+      },
+      {
+        "A": " Corrective maintenance ",
+        "B": " Timely maintenance ",
+        "C": " Scheduled maintenance ",
+        "D": " Preventive maintenance ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The following is not a classification of maintenance :",
+        "sol": " B"
+      },
+      {
+        "A": " Oil actuated relay ",
+        "B": " Current actuated relay ",
+        "C": " Gas actuated relay ",
+        "D": " Oil temperature actuated relay ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Buohholz relay is a",
+        "sol": " C"
+      },
+      {
+        "A": " Transformer protection ",
+        "B": " Bus-bar protection ",
+        "C": " Motor protection ",
+        "D": " Feeder protection ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Under voltage relays are mostly used for",
+        "sol": " C"
+      },
+      {
+        "A": " Maintenance test ",
+        "B": " Type test ",
+        "C": " Commissioning test ",
+        "D": " Reliability test ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. What test is performed to verify that the equipment is ready for energizings",
+        "sol": " C"
+      },
+      {
+        "A": " Heating the motor ",
+        "B": " Unbalancing of motor shaft ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Uneven gap in a induction motor is likely to cause",
+        "sol": " C"
+      },
+      {
+        "A": " Same reactance ",
+        "B": " Same resistance ",
+        "C": " More of resistance as compared to synchronous reactance ",
+        "D": " Less of resistance as compared to synchronous reactance ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Destable feature for successful parallel operation of two alternators is that both should have :",
+        "sol": " D"
+      },
+      {
+        "A": " Rated transformer voltage ",
+        "B": " Rated transformer cuurrent ",
+        "C": " Ditect current ",
+        "D": " High freqency supply ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The open circuit test in a transformer is performed with :",
+        "sol": " A"
+      },
+      {
+        "A": " Type test ",
+        "B": " Routine test ",
+        "C": " Noise level test ",
+        "D": " Special test ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. The test which is conducted in all transformer is :",
+        "sol": " B"
+      },
+      {
+        "A": " 28KV rms",
+        "B": " 11KV rms ",
+        "C": " 11KV peak ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. An 11KV transformer is subjected to one minute 50Hz test. The test voltage will be :",
+        "sol": " A"
+      },
+      {
+        "A": " To provide insulation and cooling ",
+        "B": " To provide protection against lighting ",
+        "C": " To provide protection against short-circuit ",
+        "D": " To provide lubrication ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. The function of oil in a transformer is",
+        "sol": " A"
+      },
+      {
+        "A": " Absorbing moisture ",
+        "B": " fonizing air ",
+        "C": " Clcansing the transfomer oil ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. The chemical used in the breather of a transfomer shoulld have the quality of :",
+        "sol": " A"
+      },
+      {
+        "A": " Temperature rise ",
+        "B": " Dielectric test ",
+        "C": " Load current test ",
+        "D": " Over voltage test ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which of the following test do not indicate that the transformer will work satisfactory for at least thirty years :",
+        "sol": " A"
+      }
+    ],
+    "set3": [
+      {
+        "A": " Water ",
+        "B": " Foam ",
+        "C": " CO2 & dry powder ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which type of fire extinguisher is used for electrical fire :",
+        "sol": " C"
+      },
+      {
+        "A": " Replacement of component ",
+        "B": " Repair of component ",
+        "C": " Service of component ",
+        "D": " All of the above\t",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Maintenance consist of the following action(s)",
+        "sol": " D"
+      },
+      {
+        "A": " Joint ",
+        "B": " Compromise ",
+        "C": " Bridge ",
+        "D": " In ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Scheduled maintenance is ______ between breakdown maintenance and the preventive maintenance.",
+        "sol": " B"
+      },
+      {
+        "A": " Preventive maintenance ",
+        "B": " Corrective maintenance ",
+        "C": " Adaptive maintenance ",
+        "D": " Perfective maintenance ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Changes are made to the system to reduce the future system failure chances is called :",
+        "sol": " A"
+      },
+      {
+        "A": " Equipment fails ",
+        "B": " Equipment produces noise ",
+        "C": " Equipment is available on minimum cost ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Corrective maintenance is needed when :",
+        "sol": " D"
+      },
+      {
+        "A": " Full load ",
+        "B": " No load ",
+        "C": " Block rotor ",
+        "D": " Open rotor ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. In an induction motor, the short circuit test is performed by ",
+        "sol": " C"
+      },
+      {
+        "A": " Copper losses in the stator ",
+        "B": " Friction and winding losses ",
+        "C": " Sum of (a) and (b) ",
+        "D": " Total losses in the rotor on no load ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Watt meter reading in no-load test of induction motor gives :",
+        "sol": " D"
+      },
+      {
+        "A": " Special test ",
+        "B": " Routine test ",
+        "C": " Type test ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Noise level test in a transfer is a :",
+        "sol": " C"
+      },
+      {
+        "A": " High voltage side ",
+        "B": " Low voltage side ",
+        "C": " Primary side ",
+        "D": " Secondary side ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. While conducting short-circuit test on a transformer the following side is short circuited",
+        "sol": " B"
+      },
+      {
+        "A": " Sludge ",
+        "B": " Odour ",
+        "C": " Gases ",
+        "D": " Moisture ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. A transformer oil must be free from :",
+        "sol": " D"
+      },
+      {
+        "A": " Low, low ",
+        "B": " High, high ",
+        "C": " Low, high ",
+        "D": " High, low ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The transformer oil should have ______ volatility and ______ viscosity.",
+        "sol": " A"
+      },
+      {
+        "A": " All-day efficiency ",
+        "B": " Temperature ",
+        "C": " Stray losses ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Sumpner’s test is conducted on transformers to determine",
+        "sol": " B"
+      },
+      {
+        "A": " 11 KV ",
+        "B": " 33 KV ",
+        "C": " 110 KV ",
+        "D": " 400 KV ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. The dielectric strength of transformer oil is expected to be :",
+        "sol": " B"
+      },
+      {
+        "A": " Voltage matching ",
+        "B": " Phase difference matching ",
+        "C": " Phase sequence matching ",
+        "D": " Frequency matching ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. To run two alternators in parallel, the dark lamp method test is performed to ensure proper :",
+        "sol": " D"
+      },
+      {
+        "A": " Any load ",
+        "B": " Only no load ",
+        "C": " Only full load ",
+        "D": " Only half load ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Swinburne’s test can be performed at :",
+        "sol": " B"
+      },
+      {
+        "A": " Types of foundation ",
+        "B": " Size of machine ",
+        "C": " Condition of soil ",
+        "D": " All of the above\t",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Size of foundation for electrical machine depends upon :",
+        "sol": " D"
+      },
+      {
+        "A": " By making proper ahgnment ",
+        "B": " By making proper designed foundation ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Vibration in electrical machine can be prevented :",
+        "sol": " C"
+      },
+      {
+        "A": " Which are not in exact alignment ",
+        "B": " Which are perfectly aligned ",
+        "C": " Whose axes intersect at a small angle ",
+        "D": " Have lateral misalignment ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. A universal coupling is used to connect two shafts",
+        "sol": " C"
+      },
+      {
+        "A": " Decrease dielectric constant ",
+        "B": " Decrease dielectric strength ",
+        "C": " Decrease insulation resistance ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Effect of moisture on the insulating materials is to ",
+        "sol": " D"
+      },
+      {
+        "A": " Block rotor test alone ",
+        "B": " Running light and blocked rotor and stator resistance tests ",
+        "C": " Both Blocked rotor and Running light test ",
+        "D": " Running light test alone ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. The complete circuit diagram of a 3-phase induction motor can be drawn with the help of ",
+        "sol": " B"
+      }
+    ]
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "computer-architecture-mcqs": {
+    "set1": [
+      {
+        "A": " Cache memory ",
+        "B": " Secondary memory ",
+        "C": " Register ",
+        "D": " RAM ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which of the following is lowest in memory hierarchy?",
+        "sol": " B"
+      },
+      {
+        "A": " CPU and RAM ",
+        "B": " RAM and ROM ",
+        "C": " CPU and Hard disk ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Cache memory acts between-",
+        "sol": " A"
+      },
+      {
+        "A": " Cycle stealing ",
+        "B": " Memory stealing ",
+        "C": " Burst mode ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. The technique where the controller is given complete access to main memory is –",
+        "sol": " C"
+      },
+      {
+        "A": " internal ",
+        "B": " extenal ",
+        "C": " hardware ",
+        "D": " software ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Interrupts initiated by an instruction is called as- ",
+        "sol": " B "
+      },
+      {
+        "A": " Main memory ",
+        "B": " Secondary memory ",
+        "C": " Cache memory ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which memory is used to copy instruction or data currently used by CPU ? ",
+        "sol": " C"
+      },
+      {
+        "A": " Instruction register ",
+        "B": " Program register ",
+        "C": " Control register ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which register holds the current instruction to be executed ?",
+        "sol": " A"
+      },
+      {
+        "A": " Memory stack ",
+        "B": " Stack pointer ",
+        "C": " Push operation ",
+        "D": " Pop operation ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. In stack organization address register is known as the : ",
+        "sol": " B "
+      },
+      {
+        "A": " Immediate addressing ",
+        "B": " Direct addressing ",
+        "C": " Register addressing ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. In which addressing the simplest address mode where an operand is fetched from memory is ______",
+        "sol": " B"
+      },
+      {
+        "A": " Input ",
+        "B": " Data ",
+        "C": " Information ",
+        "D": " Stored values ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. ______ are numbers and encoded characters generally used as operands.",
+        "sol": " B"
+      },
+      {
+        "A": " Single bus ",
+        "B": " Multiple bus ",
+        "C": " Star bus ",
+        "D": " RAM bus ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. ______ bus structure is usually used to connect I/O devices.",
+        "sol": " A"
+      },
+      {
+        "A": " DMA ",
+        "B": " Pipelining ",
+        "C": " Register ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Cycle stealing is used in ______",
+        "sol": " A"
+      },
+      {
+        "A": " Direct Memory Address ",
+        "B": " Direct Main Address ",
+        "C": " Direct Memory Access ",
+        "D": " Device Memory Access ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. DMA stands for ______",
+        "sol": " C"
+      },
+      {
+        "A": " Present input ",
+        "B": " Past output ",
+        "C": " Both present and past ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Combinational circuit depends only on ",
+        "sol": " A"
+      },
+      {
+        "A": " Register direct\t",
+        "B": " Register indirect ",
+        "C": " Immediate ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The addressing mode where address of DATA is stored in CPU register ?",
+        "sol": " B"
+      },
+      {
+        "A": " Control instruction set content ",
+        "B": " Control instruction set computer ",
+        "C": " Complex instruction set conversion ",
+        "D": " Complex instruction set computer ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. CISC stands for –",
+        "sol": " D"
+      },
+      {
+        "A": " ALU ",
+        "B": " CU ",
+        "C": " Input unit ",
+        "D": " Output unit ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Which of the following is responsible for co-ordinating various operations using timing signals ?",
+        "sol": " B"
+      },
+      {
+        "A": " Mapping function ",
+        "B": " Replacement algorithm ",
+        "C": " Nitrate ",
+        "D": " Miss penalty ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. The correspondence between the main memory blocks and those in the chache is specified by –",
+        "sol": " A"
+      },
+      {
+        "A": " AC ",
+        "B": " PC ",
+        "C": " IR ",
+        "D": " AR ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. The register that keeps track of the address of the next instruction to be executed is ______",
+        "sol": " B"
+      },
+      {
+        "A": " Operations ",
+        "B": " Addressing method ",
+        "C": " Stack data values ",
+        "D": " Address of top item ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. What is stored in the stack pointer ?",
+        "sol": " D"
+      },
+      {
+        "A": " Only one ",
+        "B": " No output ",
+        "C": " Two output\t",
+        "D": " Four output ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Multiplexer consist of how many number of ouputs?",
+        "sol": " A"
+      }
+    ],
+    "set2": [
+      {
+        "A": " Instruction Code ",
+        "B": " Micro operation ",
+        "C": " Accumulator ",
+        "D": " Register ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. A group of bits that tell the computer to perform a specific operation is known as",
+        "sol": " A"
+      },
+      {
+        "A": " Physical address ",
+        "B": " Logical address ",
+        "C": " Memory address ",
+        "D": " Word address ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. An address in main memory is called",
+        "sol": " A"
+      },
+      {
+        "A": " Parallel Register ",
+        "B": " Serial Register ",
+        "C": " Shift Register ",
+        "D": " Storage Register ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. A register capable of shifting its binary information either to the right or left is called a",
+        "sol": " C"
+      },
+      {
+        "A": " MOV ",
+        "B": " ORG ",
+        "C": " END ",
+        "D": " Both(B) and(C) ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the following are not a machine instructions?",
+        "sol": " D"
+      },
+      {
+        "A": " ROM ",
+        "B": " Programmable ",
+        "C": " Virtual Memory ",
+        "D": " Associative Memory ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Memory unit accessed by content is called",
+        "sol": " D"
+      },
+      {
+        "A": " 16 bits ",
+        "B": " 8 bits ",
+        "C": " 5 bits ",
+        "D": " 6 bits ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. In a system, which has 32 register the register id is _____ long.",
+        "sol": " C"
+      },
+      {
+        "A": " Decoding and storage ",
+        "B": " Fetching and executing ",
+        "C": " Decode and fetch ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The two phases of executing an instruction are",
+        "sol": " B"
+      },
+      {
+        "A": " Indirect addressing mode ",
+        "B": " Index addressing mode ",
+        "C": " Relative addressing mode ",
+        "D": " Offset addressing mode ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The addressing mode which make use of indirection pointer is _____",
+        "sol": " A"
+      },
+      {
+        "A": " Indexed with offset ",
+        "B": " Relative ",
+        "C": " Direct ",
+        "D": " Both (B) and (C) ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The addressing modem, which uses the PC instead of a general purpose register is _____",
+        "sol": " B"
+      },
+      {
+        "A": " Immediate ",
+        "B": " Register-direct ",
+        "C": " Definite ",
+        "D": " Relative ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. The addressing mode, where you directly specify the operand value is _____",
+        "sol": " A"
+      },
+      {
+        "A": " Compiler ",
+        "B": " Interpreter ",
+        "C": " Assembler ",
+        "D": " Converter ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. _____ Converts the programs written in assembly language into machine instructions.",
+        "sol": " C"
+      },
+      {
+        "A": " Opcode ",
+        "B": " Operators ",
+        "C": " Commands ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. The instructions like MOV and ADD are called as _____",
+        "sol": " A"
+      },
+      {
+        "A": " Data line ",
+        "B": " Control line ",
+        "C": " Address line ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. The interrupt-request line is a part of the",
+        "sol": " B"
+      },
+      {
+        "A": " Device interface ",
+        "B": " DMA controller ",
+        "C": " Data controller ",
+        "D": " Over lookers ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The DMA transfer are performed by a control circuit called as",
+        "sol": " B"
+      },
+      {
+        "A": " 4 ",
+        "B": " 2 ",
+        "C": " 3 ",
+        "D": " 1 ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The DMA controller has _____ registers.",
+        "sol": " C"
+      },
+      {
+        "A": " Processor Bus ",
+        "B": " System Bus ",
+        "C": " External Bus ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. The controller is connected to the _____",
+        "sol": " B"
+      },
+      {
+        "A": " 64 bits ",
+        "B": " 24 bits ",
+        "C": " 32 bits ",
+        "D": " 16 bits ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. The registers of the controller are _____",
+        "sol": " C"
+      },
+      {
+        "A": " BUS ",
+        "B": " Peripheral wires ",
+        "C": " Both (A) and (B) ",
+        "D": " Interal wires ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. A collection of lines that connects several devices is called _____",
+        "sol": " C"
+      },
+      {
+        "A": " Word addressable ",
+        "B": " Byte addressable ",
+        "C": " Bit addressable ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Memory address refers to the successive memory words and the machine is called as",
+        "sol": " A"
+      },
+      {
+        "A": " Interrupt ",
+        "B": " Halt ",
+        "C": " Wait ",
+        "D": " Process ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. An exception conditions in a computer system by event external to the CPU is called",
+        "sol": " A"
+      }
+    ],
+    "set3": [
+      {
+        "A": " More, Faster\t",
+        "B": " More, Slower ",
+        "C": " Less, Slower ",
+        "D": " Less, Faster ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Dynamic RAM consumes ______ power and ______ than the static RAM.",
+        "sol": " C"
+      },
+      {
+        "A": " Zero flag ",
+        "B": " Carry flag ",
+        "C": " Auxiliary carry flag ",
+        "D": " Parity flag ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which flag of the 8085’s flag register is not accessible to programmer directly?",
+        "sol": " C"
+      },
+      {
+        "A": " Locality of reference ",
+        "B": " Locality of data ",
+        "C": " Locality of memory ",
+        "D": " Locality of reference & memory ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Cache memory works on the principle of ",
+        "sol": " A"
+      },
+      {
+        "A": " Dynamic RAM ",
+        "B": " Static RAM ",
+        "C": " EEROM ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the memory holds the information when the power supply is swithched off?",
+        "sol": " C"
+      },
+      {
+        "A": " INTR ",
+        "B": " RST 7.5 ",
+        "C": " TRAP ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which of the following interrupt is markable?",
+        "sol": " D"
+      },
+      {
+        "A": " Interrupt based data transfer\t",
+        "B": " DMA based data transfer ",
+        "C": " Polled mode data transfer ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Cycle stealing techique is used in ",
+        "sol": " B"
+      },
+      {
+        "A": " Large Instruction Set ",
+        "B": " One Instruction Per Cycle ",
+        "C": " Simple Addressing Modes ",
+        "D": " Register to Register Operation ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the following is not a characteristic of a RISC architecture.",
+        "sol": " A"
+      },
+      {
+        "A": " Content Addressable Memory ",
+        "B": " Cache Memory ",
+        "C": " Main Memory ",
+        "D": " Virtual Memory ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Associative memory is some times called as ",
+        "sol": " A"
+      },
+      {
+        "A": " Integers ",
+        "B": " Whole numbers ",
+        "C": " Real Integers ",
+        "D": " Boolean values ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Floating point representation is used to store",
+        "sol": " C"
+      },
+      {
+        "A": " Too bulky ",
+        "B": " Unreliable ",
+        "C": " Too slow ",
+        "D": " It is volatile ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. What characteristics of RAM memory makes it not suitable for permanent storage ?",
+        "sol": " D"
+      },
+      {
+        "A": " An output of a program ",
+        "B": " A group of bits that instruct the computer to perform specific operation ",
+        "C": " The digital circuit that insturct the computer to perform specific operation ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. An instruction code is ",
+        "sol": " B"
+      },
+      {
+        "A": " The instruction is being executed ",
+        "B": " The next instruction to be read from memory ",
+        "C": " The opearands ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. The program counter(PC) holds the address of ",
+        "sol": " B"
+      },
+      {
+        "A": " To initiate sequence of micro operations ",
+        "B": " To initiate the execution of a program ",
+        "C": " To stop the execution of a program ",
+        "D": " To shutdown the computer ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. The function of the control unit in digital computer is ",
+        "sol": " A"
+      },
+      {
+        "A": " Internal Memory ",
+        "B": " External Memory ",
+        "C": " Command Memory ",
+        "D": " Control Memory ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. A memory that is the part of a Control unit is known as-",
+        "sol": " D"
+      },
+      {
+        "A": " Nibble ",
+        "B": " A byte ",
+        "C": " An Octet ",
+        "D": " Both (b) and (c) ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. A group of eight bits is known as ",
+        "sol": " D "
+      },
+      {
+        "A": " Local effect ",
+        "B": " Locality of reference ",
+        "C": " Frame of reference ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. The tendency of a processor to access the same set of memory locations repetively over a short period of time is known as ",
+        "sol": " B"
+      },
+      {
+        "A": " From on instruction to a non-sequential instruction of a program ",
+        "B": " From our program to another ",
+        "C": " During execution of an instruction due to an interrupt cycle ",
+        "D": " None of the above statement is ture ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. The CPU state is saved in the event of a transer control-",
+        "sol": " C "
+      },
+      {
+        "A": " 16 ",
+        "B": " 128 ",
+        "C": " 32 ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. A compter uses RAM chips of 1024 x 1 capacity. How many chips are needed to provide a memory capacity of 16k bytes.",
+        "sol": " B"
+      },
+      {
+        "A": " Division\t",
+        "B": " Multiplication ",
+        "C": " Subtraction ",
+        "D": " Division and Multiplication ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Booth’s algorithm is used for :",
+        "sol": " B"
+      },
+      {
+        "A": " Three address instructions ",
+        "B": " Two address instructions ",
+        "C": " One address instructions ",
+        "D": " Zero address instruction ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. The instruction that does not need any address field is :",
+        "sol": " D"
+      }
+    ]
+  }
+}

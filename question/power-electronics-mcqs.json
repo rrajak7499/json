@@ -1,0 +1,610 @@
+{
+  "power-electronics-mcqs": {
+    "set1": [
+      {
+        "A": " Electrons only ",
+        "B": " Electrons or holes ",
+        "C": " Electrons and holes ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. In a thyristor, anode current is made of ",
+        "sol": " C"
+      },
+      {
+        "A": " Diode AC Switch ",
+        "B": " TRIODE AC Switch ",
+        "C": " Both (a) and (b) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. A DIAC can be terned as :",
+        "sol": " A"
+      },
+      {
+        "A": " Before the peak point ",
+        "B": " Between peak and valley points ",
+        "C": " After the valley point ",
+        "D": " Both (a) and (c) ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. A UJT exhibits negative resistance region :",
+        "sol": " B"
+      },
+      {
+        "A": " DC to AC ",
+        "B": " AC to DC ",
+        "C": " Both (a) and (b) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Inverter converts :",
+        "sol": " A"
+      },
+      {
+        "A": " UJT ",
+        "B": " TRIAC ",
+        "C": " SCR ",
+        "D": " Shockley diode ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which semiconductor device behaves structurally as consisting of a diode and two resistors :",
+        "sol": " A"
+      },
+      {
+        "A": " Two SCRs in parallel opposition ",
+        "B": " Two SCRs in series ",
+        "C": " Three SCRs in series ",
+        "D": " Four SCRs in series ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. AC power in a load can be controlled by using :",
+        "sol": " A"
+      },
+      {
+        "A": " 61% ",
+        "B": " 71% ",
+        "C": " 81% ",
+        "D": " 91% ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. In a full wave rectifier, the rectification ratio is approximately equal to :",
+        "sol": " C"
+      },
+      {
+        "A": " Lightly ",
+        "B": " Moderately ",
+        "C": " Heavily ",
+        "D": " Not ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The p-type emitter of a UJT is ______ dopped.",
+        "sol": " C"
+      },
+      {
+        "A": " R in series with SCR ",
+        "B": " RL in series with SCR ",
+        "C": " L in series with SCR ",
+        "D": " L across SCR ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. For an SCR, di/dt protection is achieved through the use of ",
+        "sol": " C"
+      },
+      {
+        "A": " T is kept constant & TON is changed ",
+        "B": " TON is kept constant and T is changed ",
+        "C": " Both T and TON are changed ",
+        "D": " Either T or TON is changed ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. In a pulse width modulation of chopper :",
+        "sol": " A"
+      },
+      {
+        "A": " Increase a DC voltage ",
+        "B": " Decrease a DC voltage ",
+        "C": " Increase or decrease a DC voltage ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Choppers can be used to ",
+        "sol": " C"
+      },
+      {
+        "A": " 0° ≤ α ≤ 90° ",
+        "B": " 90° ≤ α ≤ 180°",
+        "C": " It supplies to a back emf load ",
+        "D": " 90° ≤ α ≤ 180° and there is a suitable DC source in the load circuit ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. A single-phase full converter operates as an inverter, when ",
+        "sol": " D"
+      },
+      {
+        "A": " Vo = Vs ",
+        "B": " Vo = KVs ",
+        "C": " Vo = Vs/K ",
+        "D": " Vo = Vs/(1-K) ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. The average value of the output voltage in a step down DC chopper is given by :",
+        "sol": " B"
+      },
+      {
+        "A": " Voltage mode control ",
+        "B": " Current mode control ",
+        "C": " Hysteric control ",
+        "D": " All of these\t",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The control method used for PWM DC-DC converter is ",
+        "sol": " D"
+      },
+      {
+        "A": " Diodes only ",
+        "B": " Thyristors only ",
+        "C": " Both diodes and thyristor ",
+        "D": " Insufficient data ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. A fully controlled converter uses :",
+        "sol": " B"
+      },
+      {
+        "A": " BJT ",
+        "B": " MOSFET ",
+        "C": " GTO ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Which device can be used in chopper circuit :",
+        "sol": " D"
+      },
+      {
+        "A": " Duty cycle ",
+        "B": " Firing angle ",
+        "C": " Reactor position ",
+        "D": " Extinction angle ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. The load voltage of a chopper can be Controlled by varying the :",
+        "sol": " A"
+      },
+      {
+        "A": " The output voltage is modulated ",
+        "B": " The input voltage is modulated ",
+        "C": " The gating pulses are modulated ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. In pule width modulation :",
+        "sol": " C"
+      },
+      {
+        "A": " Current controlled unipolar device ",
+        "B": " Voltage controlled unipolar device ",
+        "C": " Current control bipolar device ",
+        "D": " Voltage controlled bipolar device ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. The power MOSFET is a :",
+        "sol": " B"
+      },
+      {
+        "A": " Electric traction ",
+        "B": " Electric vehicle ",
+        "C": " Machine tools ",
+        "D": " All of these ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. A step down choppers can be used in :",
+        "sol": " D"
+      }
+    ],
+    "set2": [
+      {
+        "A": " Electric motor ",
+        "B": " Control system ",
+        "C": " Electric motor and Control system ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The basic elements of a electric drive is(are)-",
+        "sol": " C"
+      },
+      {
+        "A": " Large KW motors ",
+        "B": " Small KW motors ",
+        "C": " In all motors ",
+        "D": " Never used ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Three phase converter are employed for :",
+        "sol": " A"
+      },
+      {
+        "A": " One stage power converter ",
+        "B": " One stage voltage converter ",
+        "C": " One stage frequency converter ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. A cycloconverter is :",
+        "sol": " C"
+      },
+      {
+        "A": " Resistance heating ",
+        "B": " Di-electric heating ",
+        "C": " Arc heating ",
+        "D": " Induction heating ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which method of heating control has leading power factor ?",
+        "sol": " B"
+      },
+      {
+        "A": " Voltage increases ",
+        "B": " Voltage decreases ",
+        "C": " Capacity increases ",
+        "D": " Capacity decreases ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. When cells of storage battery are connected in parallel, then",
+        "sol": " A"
+      },
+      {
+        "A": " Four layer, three junction device ",
+        "B": " Four layer, four junction device ",
+        "C": " Four layer, two junction device ",
+        "D": " Three layer, single junction device ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. A Thyristor is a :",
+        "sol": " A"
+      },
+      {
+        "A": " All junctions are reverse biased ",
+        "B": " All junctions are forward baised ",
+        "C": " Only the middle junction is forward baised\t",
+        "D": " Only the middle junction is reverse baised ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. If the cathode of an SCR is made positive with respect to anode and no gate current is applied, then :",
+        "sol": " C"
+      },
+      {
+        "A": " Gate triggering method ",
+        "B": " dv/dt triggering method ",
+        "C": " forward voltage triggering method ",
+        "D": " Temperature triggering method ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Which of the following is the most suitable method to “Turn ON” thyristor :",
+        "sol": " A"
+      },
+      {
+        "A": " Depends on the flatness of the device ",
+        "B": " Depends on the length of the device ",
+        "C": " Depends on the current carrying capabiliaties ",
+        "D": " Is independent of SCR configuration ",
+        "exp": "It does not depend on any of the device configurations.",
+        "id": 9,
+        "prob": "9. The sink to ambient thermal resistance of SCR",
+        "sol": " D "
+      },
+      {
+        "A": " 0 to π ",
+        "B": " α to π+α ",
+        "C": " π to 2π+α ",
+        "D": " π/2 to 2π-α ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. In a single-phase half-wave circuit with load RL and free-wheeling diode, the free-wheeling period is ",
+        "sol": " C"
+      },
+      {
+        "A": " Diodes only ",
+        "B": " Thyristor only ",
+        "C": " Both (a) and (b) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. A fully controlled converter uses :",
+        "sol": " B"
+      },
+      {
+        "A": " 3 ",
+        "B": " 6 ",
+        "C": " 9 ",
+        "D": " 2 ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. A three-phase full converter will require _______ number of SCRs",
+        "sol": " B"
+      },
+      {
+        "A": " Forced commutation in step-up cycloconverter ",
+        "B": " Forced commutation in step-down cycloconverter ",
+        "C": " Forced commutation in both step-up and step-down cycloconverter ",
+        "D": " Natural commutation in both step-up and step-down cycloconverter ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. The cycloconverter requires forced or natural commutation as under :",
+        "sol": " A"
+      },
+      {
+        "A": " Time ratio controller ",
+        "B": " AC to DC converter ",
+        "C": " AC transformer ",
+        "D": " High speed semiconductor switch ",
+        "exp": "It is a high speed on/off semiconductor switch. Note that it behaves like a DC transformer, does not mean it is a DC transformer. There is no DC transformer.",
+        "id": 14,
+        "prob": "14. A chopper is a :",
+        "sol": " D "
+      },
+      {
+        "A": " T ",
+        "B": " Ton ",
+        "C": " Toff ",
+        "D": " f ",
+        "exp": "In frequency modulation scheme, the frequency (f) hence T (1/f) is varied by either keeping Ton constant or keeping Toff constant.",
+        "id": 15,
+        "prob": "15. In case of variable frequency system of chopper which is varied ?",
+        "sol": " A"
+      },
+      {
+        "A": " Two diodes and two switches ",
+        "B": " One diode and one switch ",
+        "C": " One diode and three switches ",
+        "D": " Three diode and two switches ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Type-C chopper consists of :",
+        "sol": " A"
+      },
+      {
+        "A": " A pre-charged capacitor ",
+        "B": " A pre-charged inductor ",
+        "C": " An over damped RLC load ",
+        "D": " A very high frequency AC source ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Forced commutation requires :",
+        "sol": " A"
+      },
+      {
+        "A": " Square wave ",
+        "B": " Triangular wave ",
+        "C": " Quasi-square wave ",
+        "D": " Sine wave ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. The shape of the output voltage waveform in a single pulse width modulation is :",
+        "sol": " C"
+      },
+      {
+        "A": " Two wire AC supply ",
+        "B": " Two wire DC supply ",
+        "C": " Three wire AC supply ",
+        "D": " Three wire DC supply ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Single phase half bridge inverters requires-",
+        "sol": " D"
+      },
+      {
+        "A": " Two inverter connected back to back ",
+        "B": " The output from the inverter is taken serial ",
+        "C": " Output voltage of two inverters are summed up with the help of a transformer ",
+        "D": " Output voltage of two inverters are summed up the help of a third inverter. ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. In the series inverter control method :",
+        "sol": " C"
+      }
+    ],
+    "set3": [
+      {
+        "A": " It is simple and reliable ",
+        "B": " It is cheaper in cost ",
+        "C": " It provides smooth and easy control ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Electric Derive is becoming more and more popular because",
+        "sol": " D"
+      },
+      {
+        "A": " Semi-converters ",
+        "B": " Half-wave converters ",
+        "C": " Full-converters ",
+        "D": " Semi-converters and Full-converters ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which converter (s) can be used for D.C. series motor control-",
+        "sol": " D"
+      },
+      {
+        "A": " Speed control of A.C. Drives ",
+        "B": " Static VAR compensation ",
+        "C": " Induction heating ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Application of cyclo converters include ",
+        "sol": " D"
+      },
+      {
+        "A": " Phase Angle ",
+        "B": " Frequency ",
+        "C": " Current ",
+        "D": " Voltage ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. In Induction heating, which of the following is abnormally high?",
+        "sol": " B"
+      },
+      {
+        "A": " High temp, Corrosion of plates, Oxidation of scparators, loss of water ",
+        "B": " Irreversible sulphation, reversal of cells loss of capacity ",
+        "C": " Battery is in good condition ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Over Charging of the battery results in –",
+        "sol": " A"
+      },
+      {
+        "A": " P-N-P device ",
+        "B": " N-P-N device ",
+        "C": " P-N-P-N device ",
+        "D": " P-N device ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. A Thyristor is a ",
+        "sol": " C"
+      },
+      {
+        "A": " Anode current vs gate current for different values of Anode-cathode voltage ",
+        "B": " Anode current vs Anode-cathode voltage for different values of gate current ",
+        "C": " Anode cathode voltage vs gate current for different values of Anode current ",
+        "D": " Gate current vs Gate voltage for different values of Anode current ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The static V-I curve for the Thyristor is plotted for ",
+        "sol": " B"
+      },
+      {
+        "A": " Gate signal is continuously required ",
+        "B": " No continuous gate signal is required ",
+        "C": " No forward Anode-cathode voltage is required ",
+        "D": " Negative gate signal is continuously required ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. For the Thyristor to remain in the conducting(ON) state",
+        "sol": " B"
+      },
+      {
+        "A": " Increase with increase in Junction temp. ",
+        "B": " Decrease with increase in Junction temp. ",
+        "C": " Increase with decrease in RMS value of forward Anode-cathode voltage ",
+        "D": " Decrease with decrease in RMS value of forward Anode-cathode voltage ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The forward dv/dt rating of an SCR",
+        "sol": " A"
+      },
+      {
+        "A": " Zero ",
+        "B": " Positive ",
+        "C": " Negative ",
+        "D": " Positive then Negative ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. In a single phase Half-wave circuit with load RL and a free-wheeling Diode, the load voltage during free-wheeling period will be",
+        "sol": " A"
+      },
+      {
+        "A": " 4 SCRs and 2 Diodes ",
+        "B": " 4 SCRs ",
+        "C": " 6 SCRs ",
+        "D": " 2 SCRs and 4 Diodes ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. A single phase full controlled bridge converter uses",
+        "sol": " B"
+      },
+      {
+        "A": " One ",
+        "B": " Two ",
+        "C": " Three ",
+        "D": " Frour ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. A three-phase three-pulse, M-3 type controlled converter uses number of SCRs",
+        "sol": " C"
+      },
+      {
+        "A": " Frequency changer from higher to lower frequency with one-stage conversion ",
+        "B": " Frequency changer from lower to higher with one-stage converison ",
+        "C": " Both (a) and (b) ",
+        "D": " Neither (a) Nor (b) ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. A cycloconverter is a :",
+        "sol": " C"
+      },
+      {
+        "A": " inverter with DC input ",
+        "B": " DC equivalent of an AC Transformer ",
+        "C": " Diode Rectifier ",
+        "D": " DC equivalent of an Inducton Motor ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. A chopper may be thought as a :",
+        "sol": " B"
+      },
+      {
+        "A": " Only one quadrant operation will be obtained ",
+        "B": " Two quadrant operation will be obtained ",
+        "C": " The chopper will not work ",
+        "D": " None of the above ",
+        "exp": "Only one quadrant operation will be operated if only one switch is used. It can be eihter 1st and 2nd quadrant depending on switch is operated.",
+        "id": 15,
+        "prob": "15. In Type C chopper, if only one switch is operated – ",
+        "sol": " A "
+      },
+      {
+        "A": " Vs ",
+        "B": " Ton ",
+        "C": " T ",
+        "D": " f ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. In constant frequency system of chopper ________ is varied",
+        "sol": " B"
+      },
+      {
+        "A": " Load ",
+        "B": " Forced ",
+        "C": " Self ",
+        "D": " Any of the above ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. In voltage fed Thyristor inverters ________ commutation is required.",
+        "sol": " B"
+      },
+      {
+        "A": " π ",
+        "B": " 2π ",
+        "C": " π/2 ",
+        "D": " π/4 ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. In the single-pulse width modulation method the output voltage wave form is symmetrical about-",
+        "sol": " C"
+      },
+      {
+        "A": " A.C. on the supply side and DC on the load side ",
+        "B": " A.C. on both supply and load side ",
+        "C": " D.C. on both supply and load side ",
+        "D": " D.C. on the supply side and A.C. on the load side ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Line-commutated inverters have ",
+        "sol": " B"
+      },
+      {
+        "A": " Internal voltage control method ",
+        "B": " External voltage control method ",
+        "C": " External frequency control method ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. The series-inverter control method is an",
+        "sol": " B"
+      }
+    ]
+  }
+}

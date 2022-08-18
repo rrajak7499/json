@@ -1,0 +1,610 @@
+{
+  "operating-system-mcqs": {
+    "set1": [
+      {
+        "A": " Waiting time ",
+        "B": " Turn around time ",
+        "C": " Response time ",
+        "D": " Thoughout ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The interval form of time of submission of a process to the time of completion is termed as-",
+        "sol": " B"
+      },
+      {
+        "A": " SJF ",
+        "B": " FCFS ",
+        "C": " Round Robin ",
+        "D": " Priority ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Time quantum is defined in ______ scheduling algorithm.",
+        "sol": " C"
+      },
+      {
+        "A": " Throughput ",
+        "B": " Output ",
+        "C": " Litency ",
+        "D": " Efficiency ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. The number of process completed per unit time is known as –",
+        "sol": " A"
+      },
+      {
+        "A": " Process type variable ",
+        "B": " A secondary storage section ",
+        "C": " Data structure ",
+        "D": " A block in memory ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. The process control block is ______",
+        "sol": " C"
+      },
+      {
+        "A": " The number of process executed per unit time ",
+        "B": " The number of process in the ready queue ",
+        "C": " The number of process in the I/O queue ",
+        "D": " The number of process in memeory ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. The degree of multiprogramming is ______",
+        "sol": " B"
+      },
+      {
+        "A": " Paging ",
+        "B": " Demand paging ",
+        "C": " Segmentation ",
+        "D": " Swapping ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. ______ is the concept in which process is copied into main memeory from the secondary memeory according to the requirement.",
+        "sol": " B"
+      },
+      {
+        "A": " System libraries ",
+        "B": " Kernel code ",
+        "C": " Compilers ",
+        "D": " Utility program ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Standard set of functions through which interacts with kernel is defined by ",
+        "sol": " A"
+      },
+      {
+        "A": " Defining a linear ordering of resource types ",
+        "B": " Using thread ",
+        "C": " Using pipes ",
+        "D": " All of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The circular wait condition can be prevented by ",
+        "sol": " A"
+      },
+      {
+        "A": " Pages ",
+        "B": " Frames ",
+        "C": " Backing store ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Physical memory is broken into fixed sized blocks called ",
+        "sol": " B"
+      },
+      {
+        "A": " Process ",
+        "B": " Page ",
+        "C": " Memory ",
+        "D": " Frame ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. The ______ table contains the base address of each page in physical memory.",
+        "sol": " B"
+      },
+      {
+        "A": " Context switch ",
+        "B": " Waiting ",
+        "C": " Execution ",
+        "D": " All of these ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Paging increases the ______ time.",
+        "sol": " A"
+      },
+      {
+        "A": " API ",
+        "B": " Libray ",
+        "C": " System calls ",
+        "D": " Assembly instructions ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. To access the services of operating system the interface is provided by the – ",
+        "sol": " C"
+      },
+      {
+        "A": " System software ",
+        "B": " System operations ",
+        "C": " Operating system ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which is the first program run on a computer when the computer boots up ?",
+        "sol": " C"
+      },
+      {
+        "A": " Light weight process ",
+        "B": " Heavy weight process ",
+        "C": " Process ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. A thread is also called a ______",
+        "sol": " A"
+      },
+      {
+        "A": " Program counter ",
+        "B": " Status register ",
+        "C": " Instruction register ",
+        "D": " Program status word ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. CPU fetches the instruction from memory according to the value of –",
+        "sol": " A"
+      },
+      {
+        "A": " LRU ",
+        "B": " OPTIMAL ",
+        "C": " FIFO ",
+        "D": " Round Robin ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Which of the following is CPU schedulling algorithm.",
+        "sol": " D"
+      },
+      {
+        "A": " Linux 0.1 ",
+        "B": " Linux 1.0 ",
+        "C": " Linux 1.2 ",
+        "D": " Linux 2.0 ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. First to LINUX kernel which supports the SMP hardware was",
+        "sol": " D"
+      },
+      {
+        "A": " TLB miss ",
+        "B": " Buffer miss ",
+        "C": " TLB hit ",
+        "D": " None of above ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. If a page no is not found in the TLB then it is known as a ",
+        "sol": " A"
+      },
+      {
+        "A": " Time ",
+        "B": " Space ",
+        "C": " Money ",
+        "D": " All of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. With multiprogramming ______ is used productivity-",
+        "sol": " A"
+      },
+      {
+        "A": " Controller ",
+        "B": " Driver ",
+        "C": " Host ",
+        "D": " Bus ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. A ______ is a collection of electronics that can operate a part, a bus or a device.",
+        "sol": " A "
+      }
+    ],
+    "set2": [
+      {
+        "A": " Dispatcher ",
+        "B": " Interrupt ",
+        "C": " Schedular ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which Module gives control of the CPU to the process selected by the short-term scheduler ?",
+        "sol": " A"
+      },
+      {
+        "A": " First come first served ",
+        "B": " Shorted job ",
+        "C": " Priority ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which scheduling algorithm allocates the CPU first to the process that requests the CPU first ?",
+        "sol": " C"
+      },
+      {
+        "A": " Program counter ",
+        "B": " Stack ",
+        "C": " Heap ",
+        "D": " Boot strap program ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. A Process Control Block (PCB) does not contain which of the following :",
+        "sol": " D"
+      },
+      {
+        "A": " File extension ",
+        "B": " File name ",
+        "C": " File identifier ",
+        "D": " Both (A) and (B) ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. File type can be represented by :",
+        "sol": " A"
+      },
+      {
+        "A": " Processes ",
+        "B": " Threads ",
+        "C": " Instructions ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Because of virtual memory, the memory can be shared among ",
+        "sol": " A"
+      },
+      {
+        "A": " CPU ",
+        "B": " Primary memory ",
+        "C": " Secondary memory ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Swap space exists in",
+        "sol": " C"
+      },
+      {
+        "A": " Hit rate ",
+        "B": " Page-fault rate ",
+        "C": " Memory access time ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Effective access time is directly proportional to ",
+        "sol": " A"
+      },
+      {
+        "A": " Single user, single tasking ",
+        "B": " Single user, multitasking ",
+        "C": " Multi user, multitasking ",
+        "D": " Multi user, single tasking ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Linux is",
+        "sol": " C"
+      },
+      {
+        "A": " FCFS ",
+        "B": " Elevator algorithm ",
+        "C": " Banker’s algorithm ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which one of the following is deadlock avoidance algorithm",
+        "sol": " C"
+      },
+      {
+        "A": " Pages ",
+        "B": " Frames ",
+        "C": " Backing store ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Logical memory is broken into blocks of the same size called ______",
+        "sol": " A"
+      },
+      {
+        "A": " Page number ",
+        "B": " Frame bit ",
+        "C": " Page offset ",
+        "D": " Frame offset ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The ______ is used as index into the page table.",
+        "sol": " A"
+      },
+      {
+        "A": " Semaphore ",
+        "B": " Low level synchronization construct ",
+        "C": " High level synchronization construct ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. A monitor is a type of ______",
+        "sol": " C"
+      },
+      {
+        "A": " Operating system ",
+        "B": " System environment ",
+        "C": " Operating environment ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. ______ is the layer of a computer system between the hardware and the user program.",
+        "sol": " A"
+      },
+      {
+        "A": " System program ",
+        "B": " Windows ",
+        "C": " Application program ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Operating system is an example of ______ ",
+        "sol": " A"
+      },
+      {
+        "A": " Memory management unit ",
+        "B": " CPU ",
+        "C": " PCB ",
+        "D": " PCI ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Run time mapping from virtual to physical address is done by :",
+        "sol": " A"
+      },
+      {
+        "A": " Flow in ",
+        "B": " Flow out ",
+        "C": " Data in ",
+        "D": " Data out ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. The ______ register is read by the host to get input.",
+        "sol": " C"
+      },
+      {
+        "A": " Error ",
+        "B": " Protection ",
+        "C": " Valid-invalid ",
+        "D": " Access ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Illegal address are trapped using the ______ bit.",
+        "sol": " C"
+      },
+      {
+        "A": " Safe location ",
+        "B": " Safe resource ",
+        "C": " Safe sequence ",
+        "D": " All of these ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. A system is in a safe state, only if there exists a : ",
+        "sol": " C"
+      },
+      {
+        "A": " Deadlock ",
+        "B": " Inversion ",
+        "C": " Starvation ",
+        "D": " Aging ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. A problem encountered in multitasking when a process is perpetually denied necessary resources is called",
+        "sol": " C "
+      },
+      {
+        "A": " Log file ",
+        "B": " Another running process ",
+        "C": " New file ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. If a process fails, most operating system write the error information to a :",
+        "sol": " A"
+      }
+    ],
+    "set3": [
+      {
+        "A": " Hardware level ",
+        "B": " Software level ",
+        "C": " Both (a) and (b) ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Process synchronization can be done on- ",
+        "sol": " C"
+      },
+      {
+        "A": " Job Queue ",
+        "B": " PCB Queue ",
+        "C": " Device Queue ",
+        "D": " Ready Queue ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which of the following do not belong to queues for processes?",
+        "sol": " B"
+      },
+      {
+        "A": " Blocked State ",
+        "B": " Ready State ",
+        "C": " Suspended State ",
+        "D": " Terminated State ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. In a time-sharing operating system, when the time slot given to a process is completed, the process goes from the running state to the :",
+        "sol": " B"
+      },
+      {
+        "A": " Code ",
+        "B": " State\t",
+        "C": " Bootstrap Program ",
+        "D": " Data ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. A process control block (PCB) does not contain which of the following ",
+        "sol": " C"
+      },
+      {
+        "A": " Unix ",
+        "B": " MS-DOS ",
+        "C": " OS/2 ",
+        "D": " Windows 2000 ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. ______ is an example of an operating system that support single user process and single thread.",
+        "sol": " B"
+      },
+      {
+        "A": " New ",
+        "B": " Old ",
+        "C": " Waiting\t",
+        "D": " Running ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following is not the state of a process ?",
+        "sol": " B"
+      },
+      {
+        "A": " Program ",
+        "B": " Critical Section ",
+        "C": " Non-critical Section ",
+        "D": " Synchronizing ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The segment of code in which the process may charge common variable, update, tables write into file is known as –",
+        "sol": " B"
+      },
+      {
+        "A": " Mutual Exclusion ",
+        "B": " Prograss ",
+        "C": " Bounded wait ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Conditions must be satisfied to solve the critical section.",
+        "sol": " C"
+      },
+      {
+        "A": " Command line statements ",
+        "B": " Interrupts ",
+        "C": " System calls ",
+        "D": " Special Program ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The request and release of resources are-",
+        "sol": " C"
+      },
+      {
+        "A": " is required ",
+        "B": " is not required ",
+        "C": " May be or may not be required ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. For sharable resources, mutual exclusion-",
+        "sol": " B"
+      },
+      {
+        "A": " Demand paging ",
+        "B": " Buses ",
+        "C": " Virtualization ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Virtual memory is normally implemented by – ",
+        "sol": " A"
+      },
+      {
+        "A": " A page gives inconsistant data ",
+        "B": " A page cannot be accessed due to its absence from memory ",
+        "C": " A page is invisible ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. A page fault occurs when ",
+        "sol": " B"
+      },
+      {
+        "A": " Otimum Replacement ",
+        "B": " LRU ",
+        "C": " FIFO ",
+        "D": " Both (a) and (c) ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which of the following page replacement algorithms suffers from Belayd’s Anomaly?",
+        "sol": " C "
+      },
+      {
+        "A": " 8 ",
+        "B": " 10 ",
+        "C": " 9 ",
+        "D": " 7 ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. A process refers to 5 pages ABCDE in order ABCDABEABCDE. If the page replacement algorithm is FIFO, the number of page transfers with an empty internal store of 3 frames is :",
+        "sol": " C"
+      },
+      {
+        "A": " Multithreading ",
+        "B": " Multiprocessing ",
+        "C": " Multiexecuting ",
+        "D": " Bi-threading ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. ______ refers to the ability of an operating system to support multiple threads of execution with a single process. ",
+        "sol": " A"
+      },
+      {
+        "A": " Banker’s algorithm ",
+        "B": " Round-robin algorithm ",
+        "C": " Elevator algorithm ",
+        "D": " Karn’s algorithm\t",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Which are of the following is deadlock avoidance algorithm?",
+        "sol": " A"
+      },
+      {
+        "A": " Variables ",
+        "B": " Sockets ",
+        "C": " Ports ",
+        "D": " Services names ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. To differentiate the many network services a system supports ______ are used.",
+        "sol": " C"
+      },
+      {
+        "A": " Stub ",
+        "B": " Identifier ",
+        "C": " Name ",
+        "D": " Process identifier ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. RPC provides a(an) ______ on the client side, a separate one for each remote procedure.",
+        "sol": " A"
+      },
+      {
+        "A": " Remote Method Invocation ",
+        "B": " Remote Method Installation ",
+        "C": " Remote Memory Installation ",
+        "D": " Remote Memory Invocation ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. The full form of RMI :",
+        "sol": " A"
+      },
+      {
+        "A": " Large memory size ",
+        "B": " Compaction ",
+        "C": " Smaller memory size ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. A solution to the problem of external fragmentation is :",
+        "sol": " B"
+      }
+    ]
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "java-mcqs": {
+    "set1": [
+      {
+        "A": " Heap ",
+        "B": " Stack ",
+        "C": " JVM ",
+        "D": " Class ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which of the following has highest memory requirement?",
+        "sol": " C"
+      },
+      {
+        "A": " malloc ",
+        "B": " alloc ",
+        "C": " new ",
+        "D": " give ",
+        "exp": "New operator dynamically allocates memory for an object.",
+        "id": 2,
+        "prob": "2. Which of these operators is used to allocate memory for an object ?",
+        "sol": " C "
+      },
+      {
+        "A": " Copy of that object ",
+        "B": " Method ",
+        "C": " Default Constructor ",
+        "D": " Memory address ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. In Java objects are passed as :",
+        "sol": " D"
+      },
+      {
+        "A": " Method ",
+        "B": " Native ",
+        "C": " Subclass ",
+        "D": " Reference ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which is a reserved word in the Java Programming language ?",
+        "sol": " B"
+      },
+      {
+        "A": " Java C ",
+        "B": " Java ",
+        "C": " Run ",
+        "D": " Execute ",
+        "exp": "Command Java is used to execute compiled program and Java C is used to compile java program.",
+        "id": 5,
+        "prob": "5. Command to execute a compiled Java program is :",
+        "sol": " B "
+      },
+      {
+        "A": " 0 ",
+        "B": " 1 ",
+        "C": " Garbage value ",
+        "D": " -1 ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. The default value of a static integer variable of a class in Java :",
+        "sol": " A"
+      },
+      {
+        "A": " Object ",
+        "B": " New ",
+        "C": " Abstract ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. In Java objects are created by which keyword ?",
+        "sol": " B"
+      },
+      {
+        "A": " Encapsulation ",
+        "B": " Polymorphism ",
+        "C": " Overloading ",
+        "D": " Inheritance ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The process by which one object acquires the properties of another object is called :",
+        "sol": " D"
+      },
+      {
+        "A": " Assembly language ",
+        "B": " Byte code ",
+        "C": " Bit code ",
+        "D": " Machine code ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Java Compiler Java C translate Java source code into :",
+        "sol": " B"
+      },
+      {
+        "A": " – ",
+        "B": " Dot ",
+        "C": " * ",
+        "D": " + ",
+        "exp": "‘+’ operator in java can be used to add numbers and concatenate strings.",
+        "id": 10,
+        "prob": "10. Which operator is used for concatenation in Java ? ",
+        "sol": " D"
+      },
+      {
+        "A": " Try ",
+        "B": " Finally ",
+        "C": " Throw ",
+        "D": " Catch ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Which of these keywords must be used to monitor for exceptions ?",
+        "sol": " A"
+      },
+      {
+        "A": " Try ",
+        "B": " Follow ",
+        "C": " Throw ",
+        "D": " Catch ",
+        "exp": "'throw' keyword is used for throwing exception manually in java program.",
+        "id": 12,
+        "prob": "12. Which of these keywords is used to manually throw an exception ?",
+        "sol": " C "
+      },
+      {
+        "A": " & ",
+        "B": " &= ",
+        "C": " | ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which of these is not a bitwise operator ?",
+        "sol": " B  "
+      },
+      {
+        "A": " Integer ",
+        "B": " Boolean ",
+        "C": " Characters ",
+        "D": " Double ",
+        "exp": "The output of relational operator is boolean value which is true or false.",
+        "id": 14,
+        "prob": "14. What is the output of relational operators ? ",
+        "sol": " B"
+      },
+      {
+        "A": " () ",
+        "B": " ++ ",
+        "C": " * ",
+        "D": " >> ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Which of these have highest precedence ?",
+        "sol": " A "
+      }
+    ],
+    "set2": [
+      {
+        "A": " int var ",
+        "B": " float var ",
+        "C": " double var ",
+        "D": " int-I-var ",
+        "exp": "The syntax of variable in java is < datatype variablename; >",
+        "id": 1,
+        "prob": "1. Which of the following variable declaration would not compiled in a java program",
+        "sol": " D  "
+      },
+      {
+        "A": " Same name as the class it is declared within ",
+        "B": " Is used to create package ",
+        "C": " Is used to define Applet constructor ",
+        "D": " All of above ",
+        "exp": "Constructors are the member functions which are called automatically whenever an object is created. It is a mandatory functions to be called for an object to be created as this helps in initializing the object to a legal initial value for the class. ",
+        "id": 2,
+        "prob": "2. A constructor is related with",
+        "sol": " A "
+      },
+      {
+        "A": " Java virtual machine ",
+        "B": " Java variable modifier ",
+        "C": " Java vertical machine ",
+        "D": " Java vendor machine ",
+        "exp": "JVM (Java Virtual Machine) is an abstract machine. It is a specification that provides runtime environment in which java bytecode can be executed.",
+        "id": 3,
+        "prob": "3. JVM is a",
+        "sol": " A"
+      },
+      {
+        "A": " The type of code generated by Java compiler ",
+        "B": " Code generated by Java virtual machine ",
+        "C": " Another name of Java source file ",
+        "D": " Related with Java comments ",
+        "exp": "Java use compiler and interpreter both where compiler translate java code into byte code and interpreter translate byte code into binray code.",
+        "id": 4,
+        "prob": "4. What is byte code in context of Java",
+        "sol": " A "
+      },
+      {
+        "A": " finalizer () ",
+        "B": " finalize () ",
+        "C": " finally () ",
+        "D": " fanalised () ",
+        "exp": "‘finalize()’ method is automatically called by the java compiler before destroying the object to free any resources.",
+        "id": 5,
+        "prob": "5. The Java run time system automatically calls this method while garbage collection",
+        "sol": " B "
+      },
+      {
+        "A": " with same method but different types of parameters ",
+        "B": " with different method name only ",
+        "C": " method name may be same or different ",
+        "D": " all of above ",
+        "exp": "Overloading method to declear multiple function with same name but use different number of argument.",
+        "id": 6,
+        "prob": "6. An overloaded method consist of",
+        "sol": " A "
+      },
+      {
+        "A": " Subclass of same package ",
+        "B": " Non sub-class of same package ",
+        "C": " Non sub-class of different package ",
+        "D": " True for both (A) and (B) ",
+        "exp": "Protected data member and method are only accessible by the classes of the same package and the subclasses present in any package.",
+        "id": 7,
+        "prob": "7. A protected member can be accessed in",
+        "sol": " A  "
+      },
+      {
+        "A": " Exception ",
+        "B": " Run time exception ",
+        "C": " Error ",
+        "D": " Throwable ",
+        "exp": "All Exception types are subclasses of the built-in class Throwable. Exception is used for exceptional conditions that user program should catch.",
+        "id": 8,
+        "prob": "8. All exception types are sub classes of the built in class in",
+        "sol": " D"
+      },
+      {
+        "A": " Copy of that object ",
+        "B": " Method call by value ",
+        "C": " Memory address ",
+        "D": " Constructor ",
+        "exp": "Objects are passed by call by reference refers to passing the real reference of the variable in memory.",
+        "id": 9,
+        "prob": "9. In Java , objects are passed as",
+        "sol": " C "
+      },
+      {
+        "A": " Net Beans ",
+        "B": " Borland’s Jbuilder ",
+        "C": " Microsoft J++ ",
+        "D": " Symantec visual cafe ",
+        "exp": "An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development.",
+        "id": 10,
+        "prob": "10. Which of following not a component of Java IDE",
+        "sol": " D "
+      },
+      {
+        "A": " xyz ",
+        "B": " 2nd name ",
+        "C": " xy2z ",
+        "D": " xyz2 ",
+        "exp": "Variable name always starts with letters.",
+        "id": 11,
+        "prob": "11. Which of following is incorrect var-name",
+        "sol": " B  "
+      },
+      {
+        "A": " Netscape navigator ",
+        "B": " Internet Explorer ",
+        "C": " Sun Hot Java Browser ",
+        "D": " Applet viewer tool which comes with JDK ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Applet cann’t be viewed using",
+        "sol": " D"
+      },
+      {
+        "A": " Assembly language ",
+        "B": " Byte code ",
+        "C": " Bit code ",
+        "D": " Machine code ",
+        "exp": "The Java compiler (javac) converts the source code into bytecode.",
+        "id": 13,
+        "prob": "13. Java compiler Javac translate Java source code into",
+        "sol": " B"
+      },
+      {
+        "A": " EBCDIC char set ",
+        "B": " Unicode char code ",
+        "C": " ASCII char code ",
+        "D": " Binary code ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In Java character const value is its integer value in the",
+        "sol": " C"
+      },
+      {
+        "A": " System calls ",
+        "B": " Keyword ",
+        "C": " Comments ",
+        "D": " Blocks ",
+        "exp": "A comment is a programmer-readable explanation in a program’s code, script, or another file that is not meant to be seen by the user running the program.",
+        "id": 15,
+        "prob": "15. Which one of the used to document the program and improve its readability",
+        "sol": " C "
+      }
+    ],
+    "set3": [
+      {
+        "A": " Encapsulation ",
+        "B": " Polymorphism ",
+        "C": " Abstraction ",
+        "D": " Inheritance ",
+        "exp": "The insulation of data from direct access by the program is called as the data abstraction.Data abstraction also called as data hiding, is the mechanism where by the code and the data it manipulates are wrapped into a single unit.",
+        "id": 1,
+        "prob": "1. The process that focuses on only important characteristics is known as:",
+        "sol": " B   "
+      },
+      {
+        "A": " An object is of a class ",
+        "B": " An object is an instance of a class ",
+        "C": " An object is a variable ",
+        "D": " An object is not an instance of class ",
+        "exp": "An object is an instance of class.",
+        "id": 2,
+        "prob": "2. Which statement is true regarding an object: –",
+        "sol": " B"
+      },
+      {
+        "A": " The use of consistent coding convection ",
+        "B": " In refers to coherent, common, behavior ",
+        "C": " It refers to polymorphic behavior ",
+        "D": " None of these ",
+        "exp": "Composition is about an object that is made up of other objects, referred as “containment. Composition implies that the life cycles are more strongly linked, that means Whole is responsible for the life time of Part.",
+        "id": 3,
+        "prob": "3. An object-oriented programming composition relates to",
+        "sol": " B"
+      },
+      {
+        "A": " Encapsulation ",
+        "B": " Interface ",
+        "C": " Composition ",
+        "D": " Inheritance ",
+        "exp": "Inheritance is a mechanism that enables one class to inherit all of the behaviour (methods ) and attributes (instance variables) of another class.",
+        "id": 4,
+        "prob": "4. In object-oriented programming a new classes can be defined by extending existing classes",
+        "sol": " D  "
+      },
+      {
+        "A": " Book (Book b) {} ",
+        "B": " Book Book () ",
+        "C": " Final Book () ",
+        "D": " Abstract Book () ",
+        "exp": "A constructor cannot specify any return type, not even void. A constructor cannot be final, static or abstract.",
+        "id": 5,
+        "prob": "5. Give a class name Book, which one of these is a valid constructor declaration for the class:",
+        "sol": " D "
+      },
+      {
+        "A": " Encapsulation ",
+        "B": " Abstraction ",
+        "C": " Date hiding ",
+        "D": " Polymorphism ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. The wrapping of data and functions into a sigh unit is called",
+        "sol": " A"
+      },
+      {
+        "A": " JAVA language ",
+        "B": " C language ",
+        "C": " Cobol language ",
+        "D": " None of the above ",
+        "exp": "Java is object-oriented programming and Polymorphism is a features fo OOPs.",
+        "id": 7,
+        "prob": "7. Polymorphism is a characteristic of:",
+        "sol": " A "
+      },
+      {
+        "A": " -128 to 127 ",
+        "B": " 0 to 256 ",
+        "C": " 0 to 32767 ",
+        "D": " 0 to 65535 ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The numerical range of a char data type in Java:",
+        "sol": " A"
+      },
+      {
+        "A": " The method sleep () is called ",
+        "B": " The method wait () is called ",
+        "C": " The execution of the start () is called ",
+        "D": " Execution of run () method ends is called ",
+        "exp": "A thread dies when the execution of the run( ) method ends.",
+        "id": 9,
+        "prob": "9. Which of the following events will cause a thread to die? i.e. called",
+        "sol": " D "
+      },
+      {
+        "A": " It must be only declared with protected accessibility ",
+        "B": " Finalize () method can be overloaded ",
+        "C": " Finalize () method cannot be overloaded ",
+        "D": " All of the above are true ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following method is true regarding finalize ()",
+        "sol": " B"
+      },
+      {
+        "A": " void method2 ",
+        "B": " int 1 method1 ",
+        "C": " int method3 () void ",
+        "D": " void method () ",
+        "exp": "Methods must specify a return type or are declared void.",
+        "id": 11,
+        "prob": "11. Which of the following is valid method for declaration in Java:",
+        "sol": " D  "
+      },
+      {
+        "A": " Extending two or more classes ",
+        "B": " Extending one class and implementing one or more interface ",
+        "C": " Implementing inheritance ",
+        "D": " Implementing thread ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. The concept of multiple interface implementations in Java by:",
+        "sol": " B"
+      },
+      {
+        "A": " java.io.package ",
+        "B": " java.lng.package ",
+        "C": " java.awt.package ",
+        "D": " java.util.package ",
+        "exp": "Java File class is a part of java.io package.",
+        "id": 13,
+        "prob": "13. File class is included in which package.",
+        "sol": " B"
+      },
+      {
+        "A": " init, start, stop, destroy ",
+        "B": " start, init, stop, destroy ",
+        "C": " init, start, destroy ",
+        "D": " init, destroy, stop ",
+        "exp": "Applet life cycle has 5 methods init(), start(), stop(), aint() and destroy().",
+        "id": 14,
+        "prob": "14. What is the sequence of major events in the life cycle of an applet:",
+        "sol": " A "
+      },
+      {
+        "A": " Only one module of the program at a time ",
+        "B": " Only two modules of the program at a time ",
+        "C": " All related program sub blocks executes simultaneous ",
+        "D": " None of the above ",
+        "exp": "The process of executing multiple threads simultaneously is known as multithreading.",
+        "id": 15,
+        "prob": "15. Threading provides execution of:",
+        "sol": " C  "
+      }
+    ],
+    "set4": [
+      {
+        "A": " Inheritance ",
+        "B": " Encapsulation ",
+        "C": " Polymorphism ",
+        "D": " Compilation ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which of the following is not OOPS concept in java ",
+        "sol": " D"
+      },
+      {
+        "A": " Class ",
+        "B": " Struct ",
+        "C": " Int ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which of these keywords is used to make a class ",
+        "sol": " A "
+      },
+      {
+        "A": " Int ",
+        "B": " Float ",
+        "C": " Void ",
+        "D": " Double ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. What is the return type of a method that does not return any value ",
+        "sol": " C"
+      },
+      {
+        "A": " Struct ",
+        "B": " Enum ",
+        "C": " Constructor ",
+        "D": " Argument ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Method having same name as its class name is ",
+        "sol": " C"
+      },
+      {
+        "A": " Main method ",
+        "B": " Finalize method ",
+        "C": " Static method ",
+        "D": " Private method ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which method can be defined only once in a program ",
+        "sol": " A"
+      },
+      {
+        "A": " -2^31 to 2^31-1 ",
+        "B": " 0 to -2^16 ",
+        "C": " -2^8 to 2^8 -1 ",
+        "D": " -2^15 to 2^15 -1 ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Size of an integer can be ",
+        "sol": " D"
+      },
+      {
+        "A": " >> ",
+        "B": " %= ",
+        "C": " >>> ",
+        "D": " << ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the following assignment operator doesn’t exist in java ",
+        "sol": " C"
+      },
+      {
+        "A": " For ",
+        "B": " For each ",
+        "C": " Do..while ",
+        "D": " While ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Which loop is always executed once ",
+        "sol": " C"
+      },
+      {
+        "A": " Break; ",
+        "B": " Continue outer; ",
+        "C": " Return; ",
+        "D": " Exit(); ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which of the following is not valid flow control statement ",
+        "sol": " D"
+      },
+      {
+        "A": " Package ",
+        "B": " Private ",
+        "C": " protected ",
+        "D": " public ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. A top level class may have which one of the following access modifiers ",
+        "sol": " D"
+      },
+      {
+        "A": " Inner class ",
+        "B": " Nested class ",
+        "C": " Derived class ",
+        "D": " Hidden class ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. A subclass in also called as ",
+        "sol": " C"
+      },
+      {
+        "A": " Vector ",
+        "B": " Character ",
+        "C": " Boolean ",
+        "D": " Integer ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Which of the following is not a wrapper class ",
+        "sol": " A"
+      },
+      {
+        "A": " No arguments ",
+        "B": " Has no return type ",
+        "C": " Has one argument but no return type ",
+        "D": " Has two arguments ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. A default constructor has ",
+        "sol": " A"
+      },
+      {
+        "A": " Java.math ",
+        "B": " Java.lang ",
+        "C": " Java.util ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Math class belongs to the package ",
+        "sol": " B"
+      },
+      {
+        "A": " Classes ",
+        "B": " Interfaces ",
+        "C": " Editing tools ",
+        "D": " Class and interfaces ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. A package is a collection of ",
+        "sol": " D"
+      }
+    ]
+  }
+}

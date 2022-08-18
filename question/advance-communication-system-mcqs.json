@@ -1,0 +1,1014 @@
+{
+  "advance-communication-system-mcqs": {
+    "set1": [
+      {
+        "A": " 5 to 10 GHz ",
+        "B": " 15 to 20 GHz ",
+        "C": " 1 to 2 GHz ",
+        "D": " 10 to 15 GHz ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. For long distance communication via satellite the frequency ranges from",
+        "sol": " A"
+      },
+      {
+        "A": " Radar altimeter ",
+        "B": " Radar speedometer ",
+        "C": " Radar elevator ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. The instrument used for measurement of height for an aircraft is ",
+        "sol": " A"
+      },
+      {
+        "A": " 50 Km ",
+        "B": " 30 Km ",
+        "C": " 40 Km ",
+        "D": " 10 Km ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. The range of mobile telephone is about :",
+        "sol": " A"
+      },
+      {
+        "A": " Antenna\t",
+        "B": " Transmitter ",
+        "C": " Receiver ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. RADAR consist of :",
+        "sol": " D"
+      },
+      {
+        "A": " Smaller ",
+        "B": " Larger ",
+        "C": " Very large ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Radio waves have _____ frequency than microwave.",
+        "sol": " A"
+      },
+      {
+        "A": " Phase ",
+        "B": " Temperature ",
+        "C": " Phase/temperature ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Ducting is caused due to _____ in version.",
+        "sol": " C"
+      },
+      {
+        "A": " 1 ",
+        "B": " 2 ",
+        "C": " 3 ",
+        "D": " 4 ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. What is the number of satellite required for global communication ?",
+        "sol": " C"
+      },
+      {
+        "A": " Lower is the skip distance ",
+        "B": " Skip distance does not change ",
+        "C": " Higher is the skip distance ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Higher the frequency :",
+        "sol": " C"
+      },
+      {
+        "A": " 8 hr ",
+        "B": " 12 hr ",
+        "C": " 24 hr ",
+        "D": " 1 hr ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Synchronous satellite orbits the earth once in :",
+        "sol": " C"
+      },
+      {
+        "A": " Pencil cells ",
+        "B": " Solar cells ",
+        "C": " Both (a) and (b) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. An electronic calculator uses :",
+        "sol": " C"
+      },
+      {
+        "A": " Elliptical path ",
+        "B": " Circular path ",
+        "C": " Inclined elliptical path ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Geostationary satellites follow :",
+        "sol": " B"
+      },
+      {
+        "A": " Single side band filter ",
+        "B": " Transmitter-receiver ",
+        "C": " Balanced mixer ",
+        "D": " RF amplifier ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. A duplexer is a :",
+        "sol": " B"
+      },
+      {
+        "A": " 0.3 ",
+        "B": " 0.2 ",
+        "C": " 0.4 ",
+        "D": " 0.5 ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. In an AM wave, Amin=40V, Amax=60V, then modulation index is :",
+        "sol": " BExplaination : Modulation index = (Amax-Amin)/(Amax+Amin)"
+      },
+      {
+        "A": " Power return factor ",
+        "B": " Pulse return factor ",
+        "C": " Pulse repetation frequency ",
+        "D": " Pulse response frequency ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. PRF stands for :",
+        "sol": " C"
+      },
+      {
+        "A": " m = Ec/Em ",
+        "B": " m = Ec.Em ",
+        "C": " m = Ec+Em ",
+        "D": " m = Em/Ec ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. If Em=peak value of information signal, Ec=peak value of carrier signal, then modulation index(m) is given by :",
+        "sol": " D"
+      },
+      {
+        "A": " Horizontally polarized ",
+        "B": " Vertically polarized ",
+        "C": " Reflected from ionosphere ",
+        "D": " Both (b) and (c) ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Sky waves are _____",
+        "sol": " C"
+      },
+      {
+        "A": " Horizontally polarized ",
+        "B": " Vertically polarized ",
+        "C": " Reflected from ionosphere ",
+        "D": " Refracted from ionosphere ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Space waves are :",
+        "sol": " B"
+      },
+      {
+        "A": " VHF band ",
+        "B": " UHF band ",
+        "C": " SHF band ",
+        "D": " HF band ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. FM broadcast lies in _____",
+        "sol": " A"
+      },
+      {
+        "A": " muf = fc cos θ ",
+        "B": " muf = fc sec θ ",
+        "C": " muf = fc sin θ ",
+        "D": " muf = fc cosec θ ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. The maximum usable frequency and critical frequency are related as :",
+        "sol": " B"
+      },
+      {
+        "A": " 50 km ",
+        "B": " 30 km ",
+        "C": " 15 km ",
+        "D": " 100 km ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. The height of troposphere from the ground is nearly :",
+        "sol": " C"
+      }
+    ],
+    "set2": [
+      {
+        "A": " Troposphere ",
+        "B": " Ionosphere ",
+        "C": " Stratosphere ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. In Sky wave propagtion, propagated waves are refracted from ______",
+        "sol": " B"
+      },
+      {
+        "A": " 57 meter ",
+        "B": " 57 kilometer ",
+        "C": " 228 kilometer ",
+        "D": " 228 meter ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which of the following is line of sight distance, if height of transmitting and receiving antennas are 64 meter each. Consider earth is flat",
+        "sol": " B"
+      },
+      {
+        "A": " A.M ",
+        "B": " F.M ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Which of the following is non-linear modulation technique",
+        "sol": " B"
+      },
+      {
+        "A": " Atmospheric noise ",
+        "B": " Cosmic noise ",
+        "C": " Shot noise ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the following is example of external noise",
+        "sol": " D"
+      },
+      {
+        "A": " Semiconductor ",
+        "B": " Conductor ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Shot noise is produced in ______",
+        "sol": " A"
+      },
+      {
+        "A": " Greater than\t",
+        "B": " Less than ",
+        "C": " Equal to ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Noise figure is always ______ one ",
+        "sol": " A"
+      },
+      {
+        "A": " 300 MHz to 3GHz ",
+        "B": " 3 GHz to 30 GHz ",
+        "C": " 3 MHz to 30 MHz ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Satellites operate in the frequency range of ",
+        "sol": " B"
+      },
+      {
+        "A": " Receive Signal ",
+        "B": " Transmit Signal ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Transponder is used to ______",
+        "sol": " C"
+      },
+      {
+        "A": " Step index fiber ",
+        "B": " Graded index fiber ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which of the following fiber is more resistant to micro-bending loss",
+        "sol": " C"
+      },
+      {
+        "A": " Core ",
+        "B": " Cladding ",
+        "C": " Coating ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following is part of optical fiber",
+        "sol": " D"
+      },
+      {
+        "A": " Optical detector ",
+        "B": " Optical source ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. PIN diode can be used as ______",
+        "sol": " A"
+      },
+      {
+        "A": " 8 – 12 GHz ",
+        "B": " 12 – 18 Ghz ",
+        "C": " 8 – 12 MHz ",
+        "D": " 18 – 27 GHz ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Frequency range of X-band radar is ______",
+        "sol": " A"
+      },
+      {
+        "A": " PT/R2 Watt/m2 ",
+        "B": " PT/R Watt/m ",
+        "C": " PT/(2πR2)Watt/m2 ",
+        "D": " PT/(4πR2)Watt/m2 ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. If PT power is fed to an isotropic antenna, then power radiated ",
+        "sol": " D"
+      },
+      {
+        "A": " Phase detector ",
+        "B": " Delay line ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Which of the following is part of MTI radar",
+        "sol": " C"
+      },
+      {
+        "A": " I(x)>I(y) if P(x)>P(y) ",
+        "B": " I(x)< I(y) if P(x)< P(y) ",
+        "C": " I(x)>I(y) if P(x)< P(y) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Probabilities of symbols x and y are P(x) and P(y) respectively. Information contents of symbols x and y are I(x) and I(y). Which of the following inequality is correct –",
+        "sol": " C"
+      },
+      {
+        "A": " Entropy ",
+        "B": " Information rate ",
+        "C": " Information content ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Bit/symbol is unit of ______",
+        "sol": " A"
+      },
+      {
+        "A": " Lossless channel ",
+        "B": " Deterministic channel ",
+        "C": " Noiseless channel ",
+        "D": " Binary symmetric channel ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. [P(y/x)]=[[1-P P],[P, 1-P]] is the channel matrix of ______",
+        "sol": " D"
+      },
+      {
+        "A": " Cellphone ",
+        "B": " Pager ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Which of the following provides two-way communication ",
+        "sol": " A"
+      },
+      {
+        "A": " Recorder ",
+        "B": " Scanner ",
+        "C": " Modem ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which of the following is part of facsimile system",
+        "sol": " D"
+      },
+      {
+        "A": " Power supply ",
+        "B": " Data transfer ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Modems are used for ______",
+        "sol": " B"
+      }
+    ],
+    "set3": [
+      {
+        "A": " H 261 ",
+        "B": " H 262 ",
+        "C": " H 264 ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which of the following is most widely used streaming video file format ?",
+        "sol": " C"
+      },
+      {
+        "A": " A transmitter ",
+        "B": " A transceiver ",
+        "C": " Both (a) and (b) ",
+        "D": " A receiver ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. What is a pager in the paging system ?",
+        "sol": " A"
+      },
+      {
+        "A": " Pc ",
+        "B": " Mobile phone ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. A wifi enabled device can be ______",
+        "sol": " C"
+      },
+      {
+        "A": " F1 ",
+        "B": " F2 ",
+        "C": " D ",
+        "D": " E ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which is thickest layer of lonosphere ?",
+        "sol": " B"
+      },
+      {
+        "A": " 2fm ",
+        "B": " fc+fm-(fc-fm) ",
+        "C": " fm ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Bandwidth of Amplitude modulated signal is given by ______",
+        "sol": " D"
+      },
+      {
+        "A": " Direct F.M. ",
+        "B": " Indireet F.M. ",
+        "C": " SSB-SC ",
+        "D": " DSB-SC ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Armstrong method is used for generation of ",
+        "sol": " B"
+      },
+      {
+        "A": " Symmetric ",
+        "B": " Always non-negative ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The mutual information is ______",
+        "sol": " C"
+      },
+      {
+        "A": " H(X) ",
+        "B": " H(Y) ",
+        "C": " H(X/Y) ",
+        "D": " H(X,Y) ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. H(X,Y) = H(Y/X)+______",
+        "sol": " A"
+      },
+      {
+        "A": " Bandwidth ",
+        "B": " S/N ratio ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Channel capacity in communication system depends on ",
+        "sol": " C"
+      },
+      {
+        "A": " Sky-wave ",
+        "B": " Space-wave ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Man made noise is usually from ______",
+        "sol": " D"
+      },
+      {
+        "A": " Shot noise ",
+        "B": " Flicker noise ",
+        "C": " Partition noise ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Noise due to random behavior of charge carrier is ______",
+        "sol": " A"
+      },
+      {
+        "A": " Te1+Te1 ",
+        "B": " Te1/Te1 ",
+        "C": " Te1+Te2 ",
+        "D": " Te1+Te2/G1 ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Noise equivalent temperature of a two stage cascade network is given by :",
+        "sol": " D"
+      },
+      {
+        "A": " Reflected ",
+        "B": " Refracted ",
+        "C": " Radiated\t",
+        "D": " Diffracted ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Power density is defined as ______ power per unit area.",
+        "sol": " C"
+      },
+      {
+        "A": " Point angle ",
+        "B": " Linear angle ",
+        "C": " Plane angle ",
+        "D": " Solid angle ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Steradian is a measuring unit of ______",
+        "sol": " D"
+      },
+      {
+        "A": " Doppler shift ",
+        "B": " Delta effect ",
+        "C": " Delta shift ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. In Radar system the change in observed frequency is called ______",
+        "sol": " A"
+      },
+      {
+        "A": " 6/4 GHz ",
+        "B": " 14/11 GHz ",
+        "C": " 12/14 GHz ",
+        "D": " 4/8 GHz ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Frequency of Ku band for satellite communication is ______",
+        "sol": " C"
+      },
+      {
+        "A": " Intel satellite ",
+        "B": " Internal telephone satellite ",
+        "C": " Internal telecommunication satellite ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. INTELSAT stands for ",
+        "sol": " C"
+      },
+      {
+        "A": " 100 to 300 μm ",
+        "B": " 100 to 300 nm ",
+        "C": " 200 to 500 μm ",
+        "D": " 200 to 500 nm ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Multimode steps index fibre has a large core diameter of range ______",
+        "sol": " A"
+      },
+      {
+        "A": " Bytes ",
+        "B": " Bits ",
+        "C": " Nats ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. When the base of logarithm is ‘2’, the unit of information is ",
+        "sol": " B"
+      },
+      {
+        "A": " Location ",
+        "B": " Movement ",
+        "C": " Precipitation ",
+        "D": " All of the above\t",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Radar is used to find ______",
+        "sol": " D"
+      }
+    ],
+    "set4": [
+      {
+        "A": " Sky wava ",
+        "B": " Ground wave ",
+        "C": " Space wave ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which of the following radio wave is reflected back to Earth from the ionosphere ? ",
+        "sol": " A"
+      },
+      {
+        "A": " Sky wave ",
+        "B": " Space wave ",
+        "C": " Ground wave ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which of the following wave propagates in the frequency range of 30MHz to 300MHz?",
+        "sol": " B"
+      },
+      {
+        "A": " It is used for A.M transmission ",
+        "B": " It is used for F.M transmission ",
+        "C": " It is used for T.V transmission ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Which of the following statement is correct for ground wave propagation ?",
+        "sol": " A"
+      },
+      {
+        "A": " m/2 Vc Cos(Wc-Wm)t ",
+        "B": " m/2 Vc Cos(Wct) ",
+        "C": " m/2 Vc Cos(Wmt) ",
+        "D": " Vc Cos(Wct) ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the following is lower sideband signal in Amplitude modulation? ",
+        "sol": " A"
+      },
+      {
+        "A": " A.M ",
+        "B": " F.M ",
+        "C": " P.M ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which of the following broadcast is operated in frequency band of 88 MHz to 108 MHz ?",
+        "sol": " B"
+      },
+      {
+        "A": " P.M ",
+        "B": " F.M ",
+        "C": " A.M ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. In Which of the following modulation technique, modulation index depends on frequency of message signal ?",
+        "sol": " B"
+      },
+      {
+        "A": " Thermal noise ",
+        "B": " Shot noise ",
+        "C": " Industrial noise ",
+        "D": " Atmospheric noise ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the following noise is generated by automobile, electic motors and switching equipment ?",
+        "sol": " C"
+      },
+      {
+        "A": " Thermal noise is independent of frequency ",
+        "B": " Thermal noise is generated in resistance ",
+        "C": " Industrial noise is a type of internal noise ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Which of the following statements is correct ?",
+        "sol": " A"
+      },
+      {
+        "A": " Cell size is fixed ",
+        "B": " Cell size can be increased or decreased ",
+        "C": " Adjacent cells can not use the same frequency ",
+        "D": " Both (b) and (c) ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which of the following statement is correct for cellular mobile communication ?",
+        "sol": " D"
+      },
+      {
+        "A": " Only one base station ",
+        "B": " Two base stations ",
+        "C": " Three base stations ",
+        "D": " Four base stations ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. In hard hand off, a mobile station communicates with ",
+        "sol": " A"
+      },
+      {
+        "A": " ARYABHATTA ",
+        "B": " APPLE ",
+        "C": " INSAT-1A ",
+        "D": " None of thes ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Which of the following is the first satellite launched by INDIA ?",
+        "sol": " A"
+      },
+      {
+        "A": " It is located at altitudes between 500 and 2000 Km. ",
+        "B": " It revolves around the earth in 90 to 120 minutes ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Which of the following statement is correct for LEO satellite ?",
+        "sol": " C"
+      },
+      {
+        "A": " Core is surrounded by cladding ",
+        "B": " Cladding is more dense compared to core ",
+        "C": " Cladding is surrounded by core ",
+        "D": " Core and cladding have same density. ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which of the following statement is correct for optical fiber cable ?",
+        "sol": " A"
+      },
+      {
+        "A": " Coupling loss ",
+        "B": " Spline loss ",
+        "C": " Micro bending loss ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Which of the following loss occurs when two optical fibers are joined together to make a longer optical fiber ?",
+        "sol": " A"
+      },
+      {
+        "A": " Transponder ",
+        "B": " Synchronizer ",
+        "C": " Duplexer ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Which of the following device connects transmitter or receiver to the antenna alternately ?",
+        "sol": " C"
+      },
+      {
+        "A": " Air traffic control ",
+        "B": " Remote sensing ",
+        "C": " Military ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. In which of the following RADAR is use ?",
+        "sol": " D"
+      },
+      {
+        "A": " It uses dopper effect for its operation ",
+        "B": " It cannot measure range of a target ",
+        "C": " It can recognize colour of target ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Which of the following statement is correct for MTI RADAR ?",
+        "sol": " A "
+      },
+      {
+        "A": " 3 bits ",
+        "B": " 8 bits ",
+        "C": " 2 bits ",
+        "D": " 4 bits ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. If P(Xi)=1/8, then amount of information I(Xi)",
+        "sol": " A"
+      },
+      {
+        "A": " Pager ",
+        "B": " Cellular phone ",
+        "C": " Fax machine ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which of the following is one way communication system ?",
+        "sol": " C"
+      },
+      {
+        "A": " Bandwidth of channel ",
+        "B": " Noise signal ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which of the following factor limits the channel capacity C?",
+        "sol": " C"
+      }
+    ],
+    "set5": [
+      {
+        "A": " Amplifies the signal ",
+        "B": " Reflects the signal ",
+        "C": " Absorbs the signal ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. A passive Satellite :",
+        "sol": " B"
+      },
+      {
+        "A": " 15 MHz ",
+        "B": " 30 MHz ",
+        "C": " 60 MHz ",
+        "D": " 10 MHz ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. It the critical frequency of 30 MHz is departing at an angle of 60°, then MuF is :",
+        "sol": " B"
+      },
+      {
+        "A": " Magnetron ",
+        "B": " Klystron ",
+        "C": " TWT ",
+        "D": " Any of the above ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. In a RADAR system which of the following is used for transmitter output tubes?",
+        "sol": " B"
+      },
+      {
+        "A": " AMPS ",
+        "B": " MPS ",
+        "C": " UPS ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Cellular telephone services are also known as :",
+        "sol": " A"
+      },
+      {
+        "A": " 120πΩ ",
+        "B": " 377Ω ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Free space intrinsic impedance is :",
+        "sol": " C"
+      },
+      {
+        "A": " Vg.Vp=C2 ",
+        "B": " Vg.Vp=1 ",
+        "C": " Vg.Vp=C ",
+        "D": " Vg.Vp=√2C ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following expression is correct ?",
+        "sol": " A"
+      },
+      {
+        "A": " 5.3 V ",
+        "B": " 3.39 V ",
+        "C": " 6 V ",
+        "D": " 10 V ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The signal at the output of an AM modulator is given by eAM(t)=5.3[1+0.64Sin6280t] Sin106tV. The amplitude of carrier signal is :",
+        "sol": " A"
+      },
+      {
+        "A": " 0.1 ",
+        "B": " 0.5 ",
+        "C": " 0.3 ",
+        "D": " 0.4 ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. A carrier is simultaneously modulated by two Sine waves with modulation index 0.3 and 0.4 the total modulation index is :",
+        "sol": " B"
+      },
+      {
+        "A": " 3600 Km ",
+        "B": " 50,000 Km ",
+        "C": " 36,000 Km ",
+        "D": " 40,000 Km ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The distance of synchronous satellite from earth surface is :",
+        "sol": " C"
+      },
+      {
+        "A": " High power oscillator ",
+        "B": " Low power oscillator ",
+        "C": " Low power amplifier ",
+        "D": " High power amplifier",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. A magnetron is a :",
+        "sol": " A"
+      },
+      {
+        "A": " B.P.F ",
+        "B": " L.P.F ",
+        "C": " H.P.F ",
+        "D": " B.S.F ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. A cavity can be considered as :",
+        "sol": " A"
+      },
+      {
+        "A": " Power return factor ",
+        "B": " Pulse return factor ",
+        "C": " Pulse repetation frequency ",
+        "D": " Pulse response frequency ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. In a RADAR System PRF stands for :",
+        "sol": " C"
+      },
+      {
+        "A": " Varying voltage ",
+        "B": " Varying current ",
+        "C": " Varying electric and magnetic field ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Energy can be propagated in waveguide by :",
+        "sol": " C"
+      },
+      {
+        "A": " Tunnel diode ",
+        "B": " Gunn diode ",
+        "C": " Varactor diode ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Which of the following exibits negative resistance :",
+        "sol": " D"
+      },
+      {
+        "A": " ∇.D=ρ ",
+        "B": " ∇.B=O ",
+        "C": " ∇x B= …B/…t ",
+        "D": " ∇x H=Jε+(…D/…t) ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Gauss’s laws of eletro statics is represented by the following expression :",
+        "sol": " A"
+      },
+      {
+        "A": " 8.5 to 12.5 GHz ",
+        "B": " 3.4 to 6.425 GHz ",
+        "C": " 12.95 to 14.95 GHz ",
+        "D": " 27.5 to 31 GHz ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. What is the frequency range of C-band?",
+        "sol": " B"
+      },
+      {
+        "A": " More number of operating channel ",
+        "B": " Better reception ",
+        "C": " More gain ",
+        "D": " Redundancy ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. What is the reason for carrying multiple transponders in a satellite?",
+        "sol": " A"
+      },
+      {
+        "A": " Spatial isolation ",
+        "B": " Frequency reuse ",
+        "C": " Multiplexing ",
+        "D": " Modulation ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Which technique uses two different antennas to reduce traffic on the same frequency?",
+        "sol": " B"
+      },
+      {
+        "A": " Intermediate-power amplifier ",
+        "B": " Operational amplifier ",
+        "C": " Power driver circuit ",
+        "D": " Up converter ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. What provides the sufficient drive to the final power amplifier?",
+        "sol": " A"
+      },
+      {
+        "A": " 0.8 ",
+        "B": " 3 ",
+        "C": " 18 ",
+        "D": " 30 ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. The lowest frequency used in satellite communications is ______ GHz.",
+        "sol": " A"
+      }
+    ]
+  }
+}

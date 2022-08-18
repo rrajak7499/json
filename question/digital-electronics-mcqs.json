@@ -1,0 +1,1216 @@
+{
+  "digital-electronics-mcqs": {
+    "set1": [
+      {
+        "A": " 64 ",
+        "B": " 16 ",
+        "C": " 128 ",
+        "D": " 1024 ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Number of memory chips needed to design 16 Kilo byte memory if the memory if the memory chip size is 1024×1.",
+        "sol": " B"
+      },
+      {
+        "A": " 8 bits ",
+        "B": " 4 bits ",
+        "C": " 6 bits ",
+        "D": " 2 bits ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. One nibble is equal to ______",
+        "sol": " B"
+      },
+      {
+        "A": " A 2-to-4 line decoder ",
+        "B": " A 4-to-16 line decoder ",
+        "C": " A 16-to-1 line multiplexer ",
+        "D": " A 8-to-1 line multiplexer ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. IC 74139 is ______",
+        "sol": " A"
+      },
+      {
+        "A": " Ferric oxide ",
+        "B": " Ferrous oxide ",
+        "C": " Chromium dioxide ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Magnetic tape is coated with tiny particles of ______",
+        "sol": " D"
+      },
+      {
+        "A": " Sampling frequency ≥ signal frequency ",
+        "B": " Sampling frequency ≤ signal frequency ",
+        "C": " Sampling frequency ≥ 2 x signal frequency ",
+        "D": " Sampling frequency ≤ 2 x signal frequency ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which of the following is true for sampling theorem.",
+        "sol": " C "
+      },
+      {
+        "A": " Successive approximation type ",
+        "B": " Parallel compartor type ",
+        "C": " Dual slope type ",
+        "D": " Counting type ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following is the fastest A/D converter",
+        "sol": " B"
+      },
+      {
+        "A": " 2n-1.R ",
+        "B": " 2n.R ",
+        "C": " 2R ",
+        "D": " R ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. For weighted resistor n-bit D/A converter, the resistor value of LSB is ______",
+        "sol": " A"
+      },
+      {
+        "A": " Multivibrator ",
+        "B": " CD-ROM ",
+        "C": " Hard disk ",
+        "D": " Clamper ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Pits and lands are related to ______",
+        "sol": " B"
+      },
+      {
+        "A": " A Hard-disk ",
+        "B": " A CD-ROM ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The magnetic flux lines are used to write data to ______",
+        "sol": " A"
+      },
+      {
+        "A": " The data pattern is defined after fabrication ",
+        "B": " The data pattern is defined during fabrication ",
+        "C": " It is a sequential memory ",
+        "D": " It is reprogrammable ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following is true for PROM ",
+        "sol": " A"
+      },
+      {
+        "A": " Blue and red ",
+        "B": " Red and green ",
+        "C": " Blue, red and green ",
+        "D": " Blue and green ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The primary colours are ",
+        "sol": " C"
+      },
+      {
+        "A": " 255 ",
+        "B": " 240 ",
+        "C": " 300 ",
+        "D": " 250 ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. The number of comparators required for an 8 bit parallel comparator A/D converter is :",
+        "sol": " A"
+      },
+      {
+        "A": " 502400 bits ",
+        "B": " 8402 bits ",
+        "C": " 1004800 bits ",
+        "D": " 202900 bits ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. A magnetic drum of 8″ diameter has 100 tracks and storage of 200 bits/inch. It storage capacity is :",
+        "sol": " A"
+      },
+      {
+        "A": " Frequency ",
+        "B": " Time ",
+        "C": " Distance ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Counter can be used in the measurement of :",
+        "sol": " D"
+      },
+      {
+        "A": " 104 ",
+        "B": " 10 ",
+        "C": " 1000 ",
+        "D": " 109 ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The maximum speed of electronic switch can be ______ operations per second.",
+        "sol": " D"
+      },
+      {
+        "A": " 1/4095 ",
+        "B": " 1/4000 ",
+        "C": " 1/3000 ",
+        "D": " 1/2000 ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. The resolution of a 12 bit D/A converter is ______ of full scale output ",
+        "sol": " A"
+      },
+      {
+        "A": " 0.05 sec ",
+        "B": " 0.05 ms ",
+        "C": " 0.05 μs ",
+        "D": " 0.05 ns ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. The maximum sampling rate time Ts of a 10 KHz sinusoidal voltage for conversion to digital form is :",
+        "sol": " B"
+      },
+      {
+        "A": " 1 sec. ",
+        "B": " 1 m sec. ",
+        "C": " 1 μ sec. ",
+        "D": " 1 n sec. ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. The access time of ROM using bipolar transistor is about :",
+        "sol": " C"
+      },
+      {
+        "A": " Resolving interrupt priority ",
+        "B": " Parallel to serial conversion ",
+        "C": " D/A conversion ",
+        "D": " A/D conversion ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. R-2R ladder network is used for : ",
+        "sol": " C"
+      },
+      {
+        "A": " Astable ",
+        "B": " Monostable ",
+        "C": " Bistable ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which is known as one shot multivibrator :",
+        "sol": " B "
+      }
+    ],
+    "set2": [
+      {
+        "A": " 64 ",
+        "B": " 16 ",
+        "C": " 128 ",
+        "D": " 1024 ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Number of memory chips needed to design 16 Kilo byte memory if the memory if the memory chip size is 1024×1.",
+        "sol": " B"
+      },
+      {
+        "A": " 8 bits ",
+        "B": " 4 bits ",
+        "C": " 6 bits ",
+        "D": " 2 bits ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. One nibble is equal to ______",
+        "sol": " B"
+      },
+      {
+        "A": " A 2-to-4 line decoder ",
+        "B": " A 4-to-16 line decoder ",
+        "C": " A 16-to-1 line multiplexer ",
+        "D": " A 8-to-1 line multiplexer ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. IC 74139 is ______",
+        "sol": " A"
+      },
+      {
+        "A": " Ferric oxide ",
+        "B": " Ferrous oxide ",
+        "C": " Chromium dioxide ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Magnetic tape is coated with tiny particles of ______",
+        "sol": " D"
+      },
+      {
+        "A": " Sampling frequency ≥ signal frequency ",
+        "B": " Sampling frequency ≤ signal frequency ",
+        "C": " Sampling frequency ≥ 2 x signal frequency ",
+        "D": " Sampling frequency ≤ 2 x signal frequency ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which of the following is true for sampling theorem.",
+        "sol": " C "
+      },
+      {
+        "A": " Successive approximation type ",
+        "B": " Parallel compartor type ",
+        "C": " Dual slope type ",
+        "D": " Counting type ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following is the fastest A/D converter",
+        "sol": " B"
+      },
+      {
+        "A": " 2n-1.R ",
+        "B": " 2n.R ",
+        "C": " 2R ",
+        "D": " R ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. For weighted resistor n-bit D/A converter, the resistor value of LSB is ______",
+        "sol": " A"
+      },
+      {
+        "A": " Multivibrator ",
+        "B": " CD-ROM ",
+        "C": " Hard disk ",
+        "D": " Clamper ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Pits and lands are related to ______",
+        "sol": " B"
+      },
+      {
+        "A": " A Hard-disk ",
+        "B": " A CD-ROM ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The magnetic flux lines are used to write data to ______",
+        "sol": " A"
+      },
+      {
+        "A": " The data pattern is defined after fabrication ",
+        "B": " The data pattern is defined during fabrication ",
+        "C": " It is a sequential memory ",
+        "D": " It is reprogrammable ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following is true for PROM ",
+        "sol": " A"
+      },
+      {
+        "A": " Blue and red ",
+        "B": " Red and green ",
+        "C": " Blue, red and green ",
+        "D": " Blue and green ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The primary colours are ",
+        "sol": " C"
+      },
+      {
+        "A": " 255 ",
+        "B": " 240 ",
+        "C": " 300 ",
+        "D": " 250 ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. The number of comparators required for an 8 bit parallel comparator A/D converter is :",
+        "sol": " A"
+      },
+      {
+        "A": " 502400 bits ",
+        "B": " 8402 bits ",
+        "C": " 1004800 bits ",
+        "D": " 202900 bits ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. A magnetic drum of 8″ diameter has 100 tracks and storage of 200 bits/inch. It storage capacity is :",
+        "sol": " A"
+      },
+      {
+        "A": " Frequency ",
+        "B": " Time ",
+        "C": " Distance ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Counter can be used in the measurement of :",
+        "sol": " D"
+      },
+      {
+        "A": " 104 ",
+        "B": " 10 ",
+        "C": " 1000 ",
+        "D": " 109 ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The maximum speed of electronic switch can be ______ operations per second.",
+        "sol": " D"
+      },
+      {
+        "A": " 1/4095 ",
+        "B": " 1/4000 ",
+        "C": " 1/3000 ",
+        "D": " 1/2000 ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. The resolution of a 12 bit D/A converter is ______ of full scale output ",
+        "sol": " A"
+      },
+      {
+        "A": " 0.05 sec ",
+        "B": " 0.05 ms ",
+        "C": " 0.05 μs ",
+        "D": " 0.05 ns ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. The maximum sampling rate time Ts of a 10 KHz sinusoidal voltage for conversion to digital form is :",
+        "sol": " B"
+      },
+      {
+        "A": " 1 sec. ",
+        "B": " 1 m sec. ",
+        "C": " 1 μ sec. ",
+        "D": " 1 n sec. ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. The access time of ROM using bipolar transistor is about :",
+        "sol": " C"
+      },
+      {
+        "A": " Resolving interrupt priority ",
+        "B": " Parallel to serial conversion ",
+        "C": " D/A conversion ",
+        "D": " A/D conversion ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. R-2R ladder network is used for : ",
+        "sol": " C"
+      },
+      {
+        "A": " Astable ",
+        "B": " Monostable ",
+        "C": " Bistable ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which is known as one shot multivibrator :",
+        "sol": " B "
+      }
+    ],
+    "set3": [
+      {
+        "A": " One ",
+        "B": " Two ",
+        "C": " Zero ",
+        "D": " Three ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Astable multivibrator has _____ stable state/states.",
+        "sol": " C"
+      },
+      {
+        "A": " Monostable mode ",
+        "B": " Astable mode ",
+        "C": " Bistable mode ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. IC555 timer can be used in _____",
+        "sol": " D"
+      },
+      {
+        "A": " Only diode ",
+        "B": " Only capacitor ",
+        "C": " Both diode and capacitor ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Clipper circuit uses _____",
+        "sol": " A"
+      },
+      {
+        "A": " Only one input ",
+        "B": " Two inputs ",
+        "C": " Three inputs ",
+        "D": " Four inputs ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Bistable multivibrator uses _____",
+        "sol": " B"
+      },
+      {
+        "A": " 8 ",
+        "B": " 10 ",
+        "C": " 12 ",
+        "D": " 5 ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Number of address lines required to address memory chip of size 256 bit :",
+        "sol": " A"
+      },
+      {
+        "A": " Capacitors ",
+        "B": " Resistors ",
+        "C": " Inductors ",
+        "D": " Transformer ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Dynamic RAM uses _____ as storage elements.",
+        "sol": " A "
+      },
+      {
+        "A": " Static ",
+        "B": " Dynamic ",
+        "C": " Static or Dynamic ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. MOSRAM can be _____",
+        "sol": " A"
+      },
+      {
+        "A": " Negative feedback ",
+        "B": " Positive feedback ",
+        "C": " Zero feedback ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Operational amplifier used in Digital to Analog converter has _____",
+        "sol": " A"
+      },
+      {
+        "A": " Parallel comparator ",
+        "B": " Successive approximation ",
+        "C": " Counting type ",
+        "D": " Dual slope type ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which of the following DAC is slowest ?",
+        "sol": " D"
+      },
+      {
+        "A": " ±LSB ",
+        "B": " ±1/2LSB ",
+        "C": " ±1/4LSB ",
+        "D": " ±2LSB ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Maximum quantization error is :",
+        "sol": " B"
+      },
+      {
+        "A": " Constant rate data ",
+        "B": " Burst data ",
+        "C": " Higher rate data ",
+        "D": " Lower rate data ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Burst data→FIFO register→Y= ",
+        "sol": " B"
+      },
+      {
+        "A": " small, large ",
+        "B": " large, small ",
+        "C": " small, small ",
+        "D": " large, large ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. In CCD memory, data are entered into a channel serially by depositing a _____ charge for a ‘0’ and a _____ charge for a ‘1’ on the capacitor.",
+        "sol": " A"
+      },
+      {
+        "A": " Hard disk ",
+        "B": " RAM ",
+        "C": " ROM ",
+        "D": " Transistor ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Track and sector is related to :",
+        "sol": " A"
+      },
+      {
+        "A": " LCD stands for Liquid Crystal display ",
+        "B": " Its design is baised on thin film transistors ",
+        "C": " It consists of red, yellow and green filters ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Which of the following is true for LCD TV ?",
+        "sol": " D"
+      },
+      {
+        "A": " Two quasi-Stable states ",
+        "B": " One quasi-Stable state ",
+        "C": " One stable state ",
+        "D": " Two stable states ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. An astable multivibrator has _____",
+        "sol": " A"
+      },
+      {
+        "A": " Cut-off region ",
+        "B": " Active region ",
+        "C": " Saturation region ",
+        "D": " Between saturation region and cut-off region ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. In a multivibrator circuit, transistor should be used in _____",
+        "sol": " D"
+      },
+      {
+        "A": " TON/TON+TOFF ",
+        "B": " TON/TOFF ",
+        "C": " TOFF/TON ",
+        "D": " TON+TOFF ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Duty cycle = _____",
+        "sol": " A"
+      },
+      {
+        "A": " A rectangular wave ",
+        "B": " A triangular wave ",
+        "C": " A sharp narrow pulse ",
+        "D": " A sinusoidal wave ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. When a rectangular wave is applied to an integrating circuit, the output will be _____",
+        "sol": " B"
+      },
+      {
+        "A": " A clipper used to add a d.c. component to the signal ",
+        "B": " A clipper is used to remove a portion of an a.c. signal ",
+        "C": " A clamper is used to remove a portion of an a.c. signal ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which of the following statement is true :",
+        "sol": " B"
+      },
+      {
+        "A": " Shift register ",
+        "B": " CCD ",
+        "C": " RAM ",
+        "D": " Magnetic tape ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Whcih of the following is not a sequential memory :",
+        "sol": " C"
+      }
+    ],
+    "set4": [
+      {
+        "A": " Clamper ",
+        "B": " Clipper ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which of the following is waveshaping circuit.",
+        "sol": " C"
+      },
+      {
+        "A": " Cosine wave i/p ",
+        "B": " Sine wave i/p ",
+        "C": " Triangular wave ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Schemitt trigger generates square wave from :",
+        "sol": " B"
+      },
+      {
+        "A": " Resistor ",
+        "B": " OP-AMP ",
+        "C": " Capacitor ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. A differentiator consists of ______",
+        "sol": " D"
+      },
+      {
+        "A": " Maximum 2n ",
+        "B": " Minimum 2n ",
+        "C": " Maximum n ",
+        "D": " Maximum n2 ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. A decoder has n-input lines and ______ output lines.",
+        "sol": " A"
+      },
+      {
+        "A": " Sound ",
+        "B": " Video ",
+        "C": " Computer Data ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Magnetic tapes wave used to record.",
+        "sol": " D"
+      },
+      {
+        "A": " It requires one input pulse ",
+        "B": " It requires two input pulse ",
+        "C": " It does not requires any input pulse ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following statement is correct for monostable multivibrator .",
+        "sol": " A"
+      },
+      {
+        "A": " Cut-off ",
+        "B": " Active ",
+        "C": " Saturation ",
+        "D": " Both (a) and (c) ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. In multivibrator, transistor works in ______ region.",
+        "sol": " D"
+      },
+      {
+        "A": " Two ",
+        "B": " Three ",
+        "C": " Four ",
+        "D": " Five ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. 555 timer consist of ______ comparators.",
+        "sol": " A"
+      },
+      {
+        "A": " Static memory ",
+        "B": " Dynamic memory ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. In which of the following memory, the contents of memory location do not change with time ",
+        "sol": " C"
+      },
+      {
+        "A": " ROM ",
+        "B": " PROM ",
+        "C": " EPROM ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following memory is programmed.",
+        "sol": " A"
+      },
+      {
+        "A": " CCD ",
+        "B": " RAM ",
+        "C": " Shift register ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Which of the following is not a sequential memory",
+        "sol": " D"
+      },
+      {
+        "A": " It is non-volatile memory ",
+        "B": " This memory can be read only ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Which of the following is correct statement for magnetic core memory",
+        "sol": " C"
+      },
+      {
+        "A": " CD-ROM ",
+        "B": " RAM ",
+        "C": " Shift register ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which of the following is optical storage ",
+        "sol": " D"
+      },
+      {
+        "A": " n ",
+        "B": " 2n ",
+        "C": " n+1 ",
+        "D": " n-1 ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In n-bit weighted resistor D/A converter, number of resistors required is ______",
+        "sol": " C"
+      },
+      {
+        "A": " Parallel comparator ",
+        "B": " Counting type ",
+        "C": " Dual slope type ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Which of the following is faster A/D converter ",
+        "sol": " A"
+      },
+      {
+        "A": " Enconding ",
+        "B": " Sampling ",
+        "C": " Quantization ",
+        "D": " Holding ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. For an n-bit A/D converter, the range of analog voltage is represented in 2n intervals. This process is called ______",
+        "sol": " A"
+      },
+      {
+        "A": " Silver ",
+        "B": " Phosphor ",
+        "C": " Silicon ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. The screen of CRT is coated with ______",
+        "sol": " B"
+      },
+      {
+        "A": " 120 mm ",
+        "B": " 120 cm ",
+        "C": " 12 mm ",
+        "D": " 18 mm ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Diameter of basic CD-ROM is ______",
+        "sol": " A"
+      },
+      {
+        "A": " Information is stored on upper side of disc ",
+        "B": " Information is stored on lower side of disc ",
+        "C": " Information is stored on both side of disc ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which of the following statement is correct for Hard disc.",
+        "sol": " C"
+      },
+      {
+        "A": " SRAM ",
+        "B": " DRAM ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which of the following requires a capacitor to store binary data.",
+        "sol": " B"
+      }
+    ],
+    "set5": [
+      {
+        "A": " Clamper ",
+        "B": " Clipper ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which of the following is waveshaping circuit.",
+        "sol": " C"
+      },
+      {
+        "A": " Cosine wave i/p ",
+        "B": " Sine wave i/p ",
+        "C": " Triangular wave ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Schemitt trigger generates square wave from :",
+        "sol": " B"
+      },
+      {
+        "A": " Resistor ",
+        "B": " OP-AMP ",
+        "C": " Capacitor ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. A differentiator consists of ______",
+        "sol": " D"
+      },
+      {
+        "A": " Maximum 2n ",
+        "B": " Minimum 2n ",
+        "C": " Maximum n ",
+        "D": " Maximum n2 ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. A decoder has n-input lines and ______ output lines.",
+        "sol": " A"
+      },
+      {
+        "A": " Sound ",
+        "B": " Video ",
+        "C": " Computer Data ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Magnetic tapes wave used to record.",
+        "sol": " D"
+      },
+      {
+        "A": " It requires one input pulse ",
+        "B": " It requires two input pulse ",
+        "C": " It does not requires any input pulse ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following statement is correct for monostable multivibrator .",
+        "sol": " A"
+      },
+      {
+        "A": " Cut-off ",
+        "B": " Active ",
+        "C": " Saturation ",
+        "D": " Both (a) and (c) ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. In multivibrator, transistor works in ______ region.",
+        "sol": " D"
+      },
+      {
+        "A": " Two ",
+        "B": " Three ",
+        "C": " Four ",
+        "D": " Five ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. 555 timer consist of ______ comparators.",
+        "sol": " A"
+      },
+      {
+        "A": " Static memory ",
+        "B": " Dynamic memory ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. In which of the following memory, the contents of memory location do not change with time ",
+        "sol": " C"
+      },
+      {
+        "A": " ROM ",
+        "B": " PROM ",
+        "C": " EPROM ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following memory is programmed.",
+        "sol": " A"
+      },
+      {
+        "A": " CCD ",
+        "B": " RAM ",
+        "C": " Shift register ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Which of the following is not a sequential memory",
+        "sol": " D"
+      },
+      {
+        "A": " It is non-volatile memory ",
+        "B": " This memory can be read only ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Which of the following is correct statement for magnetic core memory",
+        "sol": " C"
+      },
+      {
+        "A": " CD-ROM ",
+        "B": " RAM ",
+        "C": " Shift register ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which of the following is optical storage ",
+        "sol": " D"
+      },
+      {
+        "A": " n ",
+        "B": " 2n ",
+        "C": " n+1 ",
+        "D": " n-1 ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In n-bit weighted resistor D/A converter, number of resistors required is ______",
+        "sol": " C"
+      },
+      {
+        "A": " Parallel comparator ",
+        "B": " Counting type ",
+        "C": " Dual slope type ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Which of the following is faster A/D converter ",
+        "sol": " A"
+      },
+      {
+        "A": " Enconding ",
+        "B": " Sampling ",
+        "C": " Quantization ",
+        "D": " Holding ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. For an n-bit A/D converter, the range of analog voltage is represented in 2n intervals. This process is called ______",
+        "sol": " A"
+      },
+      {
+        "A": " Silver ",
+        "B": " Phosphor ",
+        "C": " Silicon ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. The screen of CRT is coated with ______",
+        "sol": " B"
+      },
+      {
+        "A": " 120 mm ",
+        "B": " 120 cm ",
+        "C": " 12 mm ",
+        "D": " 18 mm ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Diameter of basic CD-ROM is ______",
+        "sol": " A"
+      },
+      {
+        "A": " Information is stored on upper side of disc ",
+        "B": " Information is stored on lower side of disc ",
+        "C": " Information is stored on both side of disc ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which of the following statement is correct for Hard disc.",
+        "sol": " C"
+      },
+      {
+        "A": " SRAM ",
+        "B": " DRAM ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which of the following requires a capacitor to store binary data.",
+        "sol": " B"
+      }
+    ],
+    "set6": [
+      {
+        "A": " 1 ",
+        "B": " 2 ",
+        "C": " 4 ",
+        "D": " 8 ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The 555 Timer IC is an _____ pin mini dual inline package.",
+        "sol": " D"
+      },
+      {
+        "A": " Astable ",
+        "B": " Bistable ",
+        "C": " Monostable ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. The multivibrator circuit which processes one stable state and one quasi-stable is :",
+        "sol": " C"
+      },
+      {
+        "A": " Schmitt trigger ",
+        "B": " Monostable multivibrator ",
+        "C": " Both (a) and (b) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Which of the following circuits is used for converting a sine wave into a square wave ?",
+        "sol": " A"
+      },
+      {
+        "A": " Resistor ",
+        "B": " OP-AMP ",
+        "C": " Capacitor ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. An intergator consist of _____",
+        "sol": " D"
+      },
+      {
+        "A": " D/A converter ",
+        "B": " A/D converter ",
+        "C": " Both (a) and (b) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Quantization error occurs in :",
+        "sol": " B"
+      },
+      {
+        "A": " Magnetic Disk ",
+        "B": " Semiconductor memory ",
+        "C": " Ferrite core ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following memories has the highest storage capacity ?",
+        "sol": " B"
+      },
+      {
+        "A": " RAM ",
+        "B": " ROM ",
+        "C": " EEPROM ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the following is used for erasing purpose only ?",
+        "sol": " C"
+      },
+      {
+        "A": " Series in parallel out ",
+        "B": " Serial in parallel out ",
+        "C": " Serial in plane out ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. SIPO stands for ",
+        "sol": " B"
+      },
+      {
+        "A": " CCD ",
+        "B": " Magnetic tape ",
+        "C": " RAM ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which of the following is not a sequential memory ?",
+        "sol": " C"
+      },
+      {
+        "A": " 2 ",
+        "B": " 4 ",
+        "C": " 8 ",
+        "D": " 3 ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. How many select lines would be required for an 8:1 multiplexer ?",
+        "sol": " D"
+      },
+      {
+        "A": " A 16 to 1 line multiplexer ",
+        "B": " A 8 to 1 line multiplexer ",
+        "C": " A 2 to 4 line decoder ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. IC 74150 is :",
+        "sol": " A"
+      },
+      {
+        "A": " Decoders ",
+        "B": " De-multiplexer ",
+        "C": " Multiplexer ",
+        "D": " Encoders ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Data distributors are same as :",
+        "sol": " B"
+      },
+      {
+        "A": " Cathode Random Tube ",
+        "B": " Cathode Ray Tube ",
+        "C": " Cathode Ray Tunnel ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. CRT stands for ",
+        "sol": " B"
+      },
+      {
+        "A": " D/A converter ",
+        "B": " A/D converter ",
+        "C": " Both (a) and (b) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Parallel type is an example of _____",
+        "sol": " B"
+      },
+      {
+        "A": " 32 ",
+        "B": " 64 ",
+        "C": " 14 ",
+        "D": " 22 ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Binary number (10110)2 equals to (?)10",
+        "sol": " D"
+      },
+      {
+        "A": " Analog signal into a digital signal ",
+        "B": " Digital signal into an analog signal ",
+        "C": " Both (a) and (b) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Function of weighted Register is to convert",
+        "sol": " B"
+      },
+      {
+        "A": " Laser ",
+        "B": " Electrical ",
+        "C": " Mechanical ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Which technology is used in compact disks?",
+        "sol": " A"
+      },
+      {
+        "A": " 1250 MB ",
+        "B": " 1296 MB ",
+        "C": " 1024 MB ",
+        "D": " 1600 MB ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. 1 GB is equal to :",
+        "sol": " C"
+      },
+      {
+        "A": " Fluorescent lamp ",
+        "B": " LCD ",
+        "C": " LED ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which of the following Consumes less power ?",
+        "sol": " C"
+      },
+      {
+        "A": " Light emitting diode ",
+        "B": " Liquid emitting diode ",
+        "C": " Light emitting device ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. LED stands for :",
+        "sol": " A"
+      }
+    ]
+  }
+}

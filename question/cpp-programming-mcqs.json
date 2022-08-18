@@ -1,0 +1,308 @@
+{
+  "cpp-programming-mcqs": {
+    "set1": [
+      {
+        "A": " int ",
+        "B": " short ",
+        "C": " void ",
+        "D": " float ",
+        "exp": "Because void specifies an empty set of values/parameters.",
+        "id": 1,
+        "prob": "1. Which datatype is used to represent the absence of parameter ? ",
+        "sol": " C "
+      },
+      {
+        "A": " Signed ",
+        "B": " Unsigned ",
+        "C": " Implementation dependent ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. In C++ what is the sign of character type by default ? ",
+        "sol": " C "
+      },
+      {
+        "A": " malloc ",
+        "B": " sizeof ",
+        "C": " alloc ",
+        "D": " calloc ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. The size of an object or a type can be determined using which operator ? ",
+        "sol": " B "
+      },
+      {
+        "A": " null ",
+        "B": " void ",
+        "C": " empty ",
+        "D": " free ",
+        "exp": "void represents an empty set of values.",
+        "id": 4,
+        "prob": "4. Which of the following will not return a value ? ",
+        "sol": " B "
+      },
+      {
+        "A": " string ",
+        "B": " integer ",
+        "C": " float ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. In which type does enumerators are stored by the compiler ? ",
+        "sol": " B "
+      },
+      {
+        "A": " Const. ",
+        "B": " Preprocessor ",
+        "C": " Literals ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. The constants are also called as : ",
+        "sol": " C "
+      },
+      {
+        "A": " Objects ",
+        "B": " Members ",
+        "C": " Data ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The data elements in structure are also known as what ? ",
+        "sol": " B "
+      },
+      {
+        "A": " Conditional ",
+        "B": " Relational ",
+        "C": " Casting Operator ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. What is this operator called ? ",
+        "sol": " A "
+      },
+      {
+        "A": " 1 ",
+        "B": " 2 ",
+        "C": " 3 ",
+        "D": " 4 ",
+        "exp": "There are two types of comments in C++. Single line comments uses double slash //. Multiple line comments uses /* comment inside */.",
+        "id": 9,
+        "prob": "9. How many type of comments are there in C++ ? ",
+        "sol": " B  "
+      },
+      {
+        "A": " User-defined function ",
+        "B": " Main function ",
+        "C": " Void function ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Where does the execution of the program starts ?",
+        "sol": " B "
+      },
+      {
+        "A": " 0 ",
+        "B": " 1 ",
+        "C": " 2 ",
+        "D": " 3 ",
+        "exp": "In C++ we require atleast 1 function to execute C++ program taht is main function.",
+        "id": 11,
+        "prob": "11. How many minimum number of functions are need to be presented in C++ ? ",
+        "sol": " B"
+      },
+      {
+        "A": " Return function ",
+        "B": " Caller ",
+        "C": " Called function ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. In which of the follwing we cannot overload the function ? ",
+        "sol": " A "
+      },
+      {
+        "A": " Void ",
+        "B": " Blank space ",
+        "C": " Both Void and Blank space ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. When out function need to return anything means what will we use/send as paramenter in function ? ",
+        "sol": " A "
+      },
+      {
+        "A": " Data ",
+        "B": " Functions ",
+        "C": " Both data and functions ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. What does your class can hold ? ",
+        "sol": " C "
+      },
+      {
+        "A": " Class ",
+        "B": " Constructor ",
+        "C": " Destructor ",
+        "D": " Attributes ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Where does the object is created ? ",
+        "sol": " A "
+      }
+    ],
+    "set2": [
+      {
+        "A": " Semantic analysis ",
+        "B": " Syntax analysis ",
+        "C": " Regular analysis ",
+        "D": " General analysis\t",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Analysis which determines the meaning of a statement once its grammatical structure becomes known is termed as",
+        "sol": " A"
+      },
+      {
+        "A": " Linker address origin ",
+        "B": " Load address origin ",
+        "C": " Phase library ",
+        "D": " Absolute library ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Load address for the first word of the program is called",
+        "sol": " B"
+      },
+      {
+        "A": " Automatic generation of program ",
+        "B": " Organize execution of a program written in PL. ",
+        "C": " Skips generation of program ",
+        "D": " Speedens generation of program ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Program generation activity aims at",
+        "sol": " A"
+      },
+      {
+        "A": " A macro prototype statement ",
+        "B": " One or more model statements ",
+        "C": " Macro pre-processor statements ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. A macro definition consists of ",
+        "sol": " D"
+      },
+      {
+        "A": " Instruction fetch ",
+        "B": " Instruction decode ",
+        "C": " Instruction execution ",
+        "D": " Instruction program ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Action implementing instruction’s meaning are a actually carried out by ",
+        "sol": " C "
+      },
+      {
+        "A": " Relocating loader itself ",
+        "B": " Assembler or Translator ",
+        "C": " Macro processor ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Relocation bits used by relocating loader are specified by",
+        "sol": " B"
+      },
+      {
+        "A": " cannot be used with fixed partitions ",
+        "B": " can be loaded almost anywhere in memory ",
+        "C": " do not need a linker ",
+        "D": " can be loaded only at one specific location ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Relocatable programs",
+        "sol": " B"
+      },
+      {
+        "A": " Lexical analysis ",
+        "B": " Syntax analysis ",
+        "C": " Semantic analysis ",
+        "D": " Structure analysis ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Recognition of basic syntactic constructs through reductions, this task is performed by ",
+        "sol": " B"
+      },
+      {
+        "A": " Syntax ",
+        "B": " Semantics ",
+        "C": " Structure ",
+        "D": " Code ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. A grammar for a programming lanaguage is a formal description of ",
+        "sol": " C"
+      },
+      {
+        "A": " System design phase ",
+        "B": " System analysis phase ",
+        "C": " Before system test ",
+        "D": " all of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Problem analysis is done during",
+        "sol": " A"
+      },
+      {
+        "A": " Reenterable ",
+        "B": " Non reusable ",
+        "C": " Serially usable ",
+        "D": " Recursive ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. System programs such as Compilers are designed so that they are ",
+        "sol": " B"
+      },
+      {
+        "A": " It is mnemonic and easy to read ",
+        "B": " Address any symbolic, not absolute ",
+        "C": " Introduction of data to program is easier ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Advantage of using assembly language rather than machine language is :",
+        "sol": " A "
+      },
+      {
+        "A": " Spreadsheet ",
+        "B": " Operating environment ",
+        "C": " Timesharing ",
+        "D": " Multitasking ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which of the following software types is used to simply using systems software ?",
+        "sol": " C"
+      },
+      {
+        "A": " Reallocation ",
+        "B": " Allocation ",
+        "C": " Linking ",
+        "D": " Loading ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In absolute loading scheme, which loader function is accomplished by assembler",
+        "sol": " A"
+      },
+      {
+        "A": " Reallocation ",
+        "B": " Allocation ",
+        "C": " Linking ",
+        "D": " Loading ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. In absolute loading scheme, which loader function is accomplished by loader",
+        "sol": " A"
+      }
+    ]
+  }
+}

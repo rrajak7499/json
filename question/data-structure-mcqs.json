@@ -1,0 +1,836 @@
+{
+  "data-structure-mcqs": {
+    "set1": [
+      {
+        "A": " O(n) ",
+        "B": " O(log n) ",
+        "C": " O(n2) ",
+        "D": " O(n log n) ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The complexity of Bubble sort algorithm in average case is ",
+        "sol": " C"
+      },
+      {
+        "A": " Sorting ",
+        "B": " Merging ",
+        "C": " Inserting ",
+        "D": " Traversal ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. The process of processing each element in the list is known as-",
+        "sol": " D"
+      },
+      {
+        "A": " Floor address ",
+        "B": " Foundation address ",
+        "C": " First address ",
+        "D": " Base address ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. The memory address of the first element of an array is called ",
+        "sol": " B"
+      },
+      {
+        "A": " FIFO list ",
+        "B": " LIFO list ",
+        "C": " Piles ",
+        "D": " Push-down lists ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the following name does not relate to stacks ?",
+        "sol": " A"
+      },
+      {
+        "A": " Underflow ",
+        "B": " Overflow ",
+        "C": " Housefull ",
+        "D": " Saturated ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. The situation when in a linked list START=NULL is –",
+        "sol": " A"
+      },
+      {
+        "A": " Grounded header list ",
+        "B": " Circular header list ",
+        "C": " Linked list with header and trailer nodes ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following is a two-way list?",
+        "sol": " D"
+      },
+      {
+        "A": " Table arrays ",
+        "B": " Matrix arrays ",
+        "C": " Both of the above ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Two dimentional array is also called –",
+        "sol": " C"
+      },
+      {
+        "A": " P contains the address of an element in DATA ",
+        "B": " P points to the address of first element in DATA ",
+        "C": " P can store only memory address ",
+        "D": " P contains the DATA and the address of DATA ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. A variable P is called pointer if –",
+        "sol": " A"
+      },
+      {
+        "A": " Record ",
+        "B": " Pointers ",
+        "C": " Arrays ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which of the data structure store the homogeneous data elements",
+        "sol": " C"
+      },
+      {
+        "A": " Operations ",
+        "B": " Storage structures ",
+        "C": " Algorithms ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. _____ is not the component of data structure –",
+        "sol": " D "
+      },
+      {
+        "A": " Stack ",
+        "B": " Queue ",
+        "C": " Tree ",
+        "D": " Array ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Which data structure is used in breadth first search ?",
+        "sol": " B"
+      },
+      {
+        "A": " Dequeue ",
+        "B": " Priority queue ",
+        "C": " Tree ",
+        "D": " Graph ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. To represent hierarchical relationship between elements which data structure is suitable ?",
+        "sol": " C"
+      },
+      {
+        "A": " Array ",
+        "B": " Linked list ",
+        "C": " Both the above ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which of the following data structure is not linear data sturcture ?",
+        "sol": " D"
+      },
+      {
+        "A": " Sorted linked list ",
+        "B": " Sorted binary trees ",
+        "C": " Sorted linear array ",
+        "D": " Pointer array ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Binay search tree cannot be applied to –",
+        "sol": " A"
+      },
+      {
+        "A": " Nodes ",
+        "B": " Data ",
+        "C": " Both (a) and (b) ",
+        "D": " Address ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The empty list is the one which has no ",
+        "sol": " C"
+      },
+      {
+        "A": " Circular doubly linked list ",
+        "B": " Circular linked list ",
+        "C": " Circular singly linked list ",
+        "D": " ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Which of the following linked list have last node of the list pointing to the first node ?",
+        "sol": " B"
+      },
+      {
+        "A": " Hash tables ",
+        "B": " Heaps ",
+        "C": " Both (a) and (b) ",
+        "D": " Skip list ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Key value pair is usually seen in –",
+        "sol": " A"
+      },
+      {
+        "A": " Root → left sub tree → right sub tree ",
+        "B": " Root → right sub tree → left sub tree ",
+        "C": " Right sub tree → left sub tree → root ",
+        "D": " Left sub tree → root → right sub tree ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Which of the following ways is in a in-order traversal?",
+        "sol": " D"
+      },
+      {
+        "A": " Random ",
+        "B": " Order of priority ",
+        "C": " As and when they come ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Items in a priority queue are entered in a _____ order.",
+        "sol": " B"
+      },
+      {
+        "A": " FILO ",
+        "B": " FIFO ",
+        "C": " LILO ",
+        "D": " LIFO or FILO ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. On what principle does stack works ?",
+        "sol": " D"
+      }
+    ],
+    "set2": [
+      {
+        "A": " 15 ",
+        "B": " 19 ",
+        "C": " 11 ",
+        "D": " 60 ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Assuming int is of 4 bytes, what is the size of int arr[15]; ?",
+        "sol": " D"
+      },
+      {
+        "A": " Easier to store elements of some datatype ",
+        "B": " Used to implement other data structures like stack and queue ",
+        "C": " Convenient way to represent matrices as a 2D array ",
+        "D": " All of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. What are the advantages of Arrays ?",
+        "sol": " D"
+      },
+      {
+        "A": " In solving linear equations ",
+        "B": " Image Processing ",
+        "C": " Graph Theory ",
+        "D": " All of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Which of the following are the uses of matrices ?",
+        "sol": " D"
+      },
+      {
+        "A": " Create ",
+        "B": " Push ",
+        "C": " Evaluation ",
+        "D": " Pop ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Process of removing an element from Stack is called _____",
+        "sol": " D"
+      },
+      {
+        "A": " Queue ",
+        "B": " Stack ",
+        "C": " Array ",
+        "D": " List ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which data structure is used for implementing recursion ?",
+        "sol": " B"
+      },
+      {
+        "A": " Reversing a string ",
+        "B": " Evaluation of postfix expression ",
+        "C": " Implementation of recursion ",
+        "D": " Job scheduling ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following is not an inherent application of stack ?",
+        "sol": " D"
+      },
+      {
+        "A": " Stack ",
+        "B": " Array ",
+        "C": " Queue ",
+        "D": " Tree ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The data structure required for Breadth First Traversal on a graph is ?",
+        "sol": " C"
+      },
+      {
+        "A": " Pointer to character ",
+        "B": " Pointer to Integer ",
+        "C": " Point to node ",
+        "D": " Node ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8.In linked list each node contain minimum of two fields. One field is data field to store the data second field is ?",
+        "sol": " C"
+      },
+      {
+        "A": " Each node has only one pointer to traverse the list back and forth ",
+        "B": " The list has break points for fast traversal ",
+        "C": " An auxiliary singly linked list acts as a helper list to traverse through the doubly linked list ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which is memory efficient double linked list ?",
+        "sol": " A"
+      },
+      {
+        "A": " Every node has successor ",
+        "B": " Time complexity of inserting a new node of the head of the list is 0(1) ",
+        "C": " Time complexity for deleting the last node is 0(n) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following is false about a circular linked list ?",
+        "sol": " B"
+      },
+      {
+        "A": " 0(n) ",
+        "B": " 0(1) ",
+        "C": " log(n) ",
+        "D": " n Log n ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. What is the coplexity of searching for a particular element in a singly linked list ?",
+        "sol": " B "
+      },
+      {
+        "A": " Yes just traverse through the array and form the tree ",
+        "B": " No we need one more traversal to form a tree ",
+        "C": " No in case of sparse trees ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Can a tree stored in an array using either one of inorder or postorder or preorder traversal be again reformed ?",
+        "sol": " B"
+      },
+      {
+        "A": " 0(1) ",
+        "B": " 0(n log d) ",
+        "C": " 0(log d) ",
+        "D": " 0(d) ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. What is the space complexity of the postorder traversal in the recursive fashion? (d is the tree depth and n is the number of nodes)",
+        "sol": " D"
+      },
+      {
+        "A": " It traverses in a non-increasing order ",
+        "B": " It traverses in an increasing order ",
+        "C": " It traverses in a random fashion ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. What is the spaciality about the inorder traversal of a binary search tree ?",
+        "sol": " B"
+      },
+      {
+        "A": " Algorithm that uses tape or disk during the sort ",
+        "B": " Algorithm that uses main memory during the sort ",
+        "C": " Algorithm that involves swapping ",
+        "D": " Algorithm that are considered in place ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. What is an internal sorting algorithm ?",
+        "sol": " A"
+      },
+      {
+        "A": " 0(n log n) ",
+        "B": " 0(log n) ",
+        "C": " 0(n) ",
+        "D": " 0(n2) ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. What is the worst case complexity of Quick Sort ?",
+        "sol": " D"
+      },
+      {
+        "A": " Every path is a trail ",
+        "B": " Every trail is a path ",
+        "C": " Every trail is a path as well as a every path is a trail ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Which of the following statements for a simple graph is correct ?",
+        "sol": " A"
+      },
+      {
+        "A": " 15 ",
+        "B": " 3 ",
+        "C": " 1 ",
+        "D": " 11 ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. A connected planner graph having 6 vertices, 7 edges contains _____ regions.",
+        "sol": " B"
+      },
+      {
+        "A": " Linked List ",
+        "B": " Tree ",
+        "C": " Graph with back edges ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. The depth first search traversal of a graph will result into ?",
+        "sol": " B"
+      },
+      {
+        "A": " 7 ",
+        "B": " 14 ",
+        "C": " 36 ",
+        "D": " 49 ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. The number of elements in the adjaccncy natrix of a graph having 7 vertices ?",
+        "sol": " D"
+      }
+    ],
+    "set3": [
+      {
+        "A": " int arr[3]=(1,2,3); ",
+        "B": " int arr(3)={1,2,3}; ",
+        "C": " int arr[3]={1,2,3}; ",
+        "D": " int arr(3)=(1,2,3); ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Now do you initialize an array in C ?",
+        "sol": " C"
+      },
+      {
+        "A": " Binary tree ",
+        "B": " Scheduling of processes ",
+        "C": " Catching ",
+        "D": " Spatial locality ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. which of the following concepts make extensive use of arrays ?",
+        "sol": " D"
+      },
+      {
+        "A": " Number of rows X number of columns ",
+        "B": " Number of columns X number of rows ",
+        "C": " Number or rows X number of rows ",
+        "D": " Number of columns X number of columns ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. What is the order of a matrix ?",
+        "sol": " A"
+      },
+      {
+        "A": " Create ",
+        "B": " Puch ",
+        "C": " Evaluation ",
+        "D": " Pop ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Process of inserting an element in stack is called ______",
+        "sol": " B"
+      },
+      {
+        "A": " Stack ",
+        "B": " Queue ",
+        "C": " Array ",
+        "D": " Tree ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. The data structure required to check whether an expression contains balanced parenthesis is ?",
+        "sol": " A"
+      },
+      {
+        "A": " Branch ",
+        "B": " Tree ",
+        "C": " Queue ",
+        "D": " Stack ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which data structure is needed to convert infix notation to postfix notation ?",
+        "sol": " D"
+      },
+      {
+        "A": " Linked list ",
+        "B": " Node list ",
+        "C": " Primitive list ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. A linear collection of data elements where the linear node is given by means of pointer is called ?",
+        "sol": " A"
+      },
+      {
+        "A": " Queue ",
+        "B": " Stack ",
+        "C": " Tree ",
+        "D": " Link list ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. A linear list of elements in which deletion can be done from one end(front) and insertion can take place only at the other end(rear) is known as a",
+        "sol": " A"
+      },
+      {
+        "A": " We can nevigate in both the directions ",
+        "B": " It require more space than a singly linked list ",
+        "C": " The insertion and deletion of a node take a bit longer ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which of the following is false about a doubly linked list ?",
+        "sol": "Answer 😀 "
+      },
+      {
+        "A": " You cannot have the ‘next’ pointer point to null in a circular linked list ",
+        "B": " It is faster to traverse the circular linked list ",
+        "C": " You may or may not have the ‘next’ pointer point to null in a circular linked list ",
+        "D": " All of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. What differentiates a circular linked list from normal liked list ?",
+        "sol": " C"
+      },
+      {
+        "A": " O(n) ",
+        "B": " O(1) ",
+        "C": " log n ",
+        "D": " n log n ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. What is the complexity of searching for a particular element in a singly linked list ?",
+        "sol": " A"
+      },
+      {
+        "A": " 2 ",
+        "B": " Any number of children ",
+        "C": " 0 or 1 or 2 ",
+        "D": " 0 or 1 ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Binary trees can have how many children ?",
+        "sol": " A"
+      },
+      {
+        "A": " O(1) ",
+        "B": " O(n) ",
+        "C": " O(log n) ",
+        "D": " O(n log n) ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. What is the time complexity of pre-order traversal in the iterative fashion ?",
+        "sol": " B"
+      },
+      {
+        "A": " The left child is always lesser than its parent ",
+        "B": " The right child is always greather than its parent ",
+        "C": " The left and right subtree should also be binary search tree ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Which of the following is false about a binary search tree ?",
+        "sol": " D"
+      },
+      {
+        "A": " Algorithm that uses tape or disk during the sort ",
+        "B": " Algorithm that uses main memory during the sort ",
+        "C": " Algorithm that involves swapping ",
+        "D": " Algorithm that are considered in place ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. What is an external sorting algorithm ?",
+        "sol": " A"
+      },
+      {
+        "A": " Brute force technique ",
+        "B": " Divide and conquer ",
+        "C": " Greedy algorithm ",
+        "D": " Dynamics programming ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Quick sort can be categorized into which of the following ?",
+        "sol": " B "
+      },
+      {
+        "A": " (n*(n+1))/2 ",
+        "B": " (n*(n-1))/2 ",
+        "C": " n ",
+        "D": " Information gives in insufficient ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. What is the number of edges present in a complete graph having n vertices ?",
+        "sol": " B"
+      },
+      {
+        "A": " 15 ",
+        "B": " 3 ",
+        "C": " 1 ",
+        "D": " 11 ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. A connected planer graph having 6 vertices 7 edge contains ______ regions.",
+        "sol": " B"
+      },
+      {
+        "A": " Pre-order traversal ",
+        "B": " Post-order traversal ",
+        "C": " Level-order traversal ",
+        "D": " In-order traversal ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Depth first search is equivalent to which of the traversal in the Binary Tree ?",
+        "sol": " C"
+      },
+      {
+        "A": " 10 ",
+        "B": " 6 ",
+        "C": " 16 ",
+        "D": " 0 ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. What would be the number of zero’s in the adjacency matrix of the given graph ?",
+        "sol": " B"
+      }
+    ],
+    "set4": [
+      {
+        "A": " Arrays have better cache locality that can make them better in terms of performance. ",
+        "B": " It is easy to insert and delete elements in linked list. ",
+        "C": " The size of array has to be pre-decided, linked lists can change their size any time. ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which of the following points is/are true about linked list data structure when it is compared with array ? ",
+        "sol": " D"
+      },
+      {
+        "A": " O(n) ",
+        "B": " O(log n) ",
+        "C": " O(n2 )",
+        "D": " O(n log n) ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. In the worst case, a binary search tree will take how much time to search an element ?",
+        "sol": " A"
+      },
+      {
+        "A": " O(1) ",
+        "B": " O(n) ",
+        "C": " Either O(1) or O(n) ",
+        "D": " O(log n) ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. What is the space complexity for deleting a linked list?",
+        "sol": " A "
+      },
+      {
+        "A": " Underflow ",
+        "B": " Overflow ",
+        "C": " Housefull ",
+        "D": " Saturated ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. The situation when in a linked list START-NULL is ",
+        "sol": " A"
+      },
+      {
+        "A": " O(1) ",
+        "B": " O(n) ",
+        "C": " O(n) ",
+        "D": " O(1) ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. What would be the asymoptotic time complexity to add a node at the end of singly linked list, if the pointer is initially pointing to the head of the list ?",
+        "sol": " C"
+      },
+      {
+        "A": " Singly linked list ",
+        "B": " Doubly linked list ",
+        "C": " Circular linked list ",
+        "D": " Array implementation of linked list ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. What kind of linked list is best to answer question like  *What is the item at position n*?",
+        "sol": " D"
+      },
+      {
+        "A": " It waste memory space since the pointer head already points to the first node and thus the list node does not need to point to the first node ",
+        "B": " It is not possible to add a node at the end of the list ",
+        "C": " It is difficult to traverse the list as pointer of the last node is now not NULL ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. A variation of linked list is cirular linked list, in which the last node in the list points to first node of the list. One problem with this type of list is",
+        "sol": " C"
+      },
+      {
+        "A": " Three fields ",
+        "B": " Two fields ",
+        "C": " Four fields ",
+        "D": " Five fields ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Each node in a linked list must contain at least",
+        "sol": " B"
+      },
+      {
+        "A": " Singly linked list ",
+        "B": " Circular linked list ",
+        "C": " Doubly linked list ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. A linear list in which the last node points to the first node is ",
+        "sol": " B"
+      },
+      {
+        "A": " beginning ",
+        "B": " end ",
+        "C": " middle ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. In a linked list, insertion can be done as ",
+        "sol": " D"
+      },
+      {
+        "A": " O(n2 ) ",
+        "B": " O(nlog n ) ",
+        "C": " O(n3 ) ",
+        "D": " O(n) ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. What is the worst case run-time complexity of binary search algorithm?",
+        "sol": " D"
+      },
+      {
+        "A": " queues ",
+        "B": " list ",
+        "C": " stacks ",
+        "D": " trees ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. push() and pop() functions are found in ",
+        "sol": " C"
+      },
+      {
+        "A": " O(n) ",
+        "B": " O(n2 ) ",
+        "C": " O(n3) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Binary search tree has average case run-time complexity of O(log n). What could be the worst case ?",
+        "sol": " A"
+      },
+      {
+        "A": " O(|V|2) ",
+        "B": " O(|V|log|V|) ",
+        "C": " O(|E|+|V|log|V|) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. What will be the running-time of Dijkstra’s single-source shortest path algorithm, if the graph G(V,E) is stored in the form of adjacency list and binary heap is used?",
+        "sol": " C"
+      },
+      {
+        "A": " Divide and conquer ",
+        "B": " Recursive approach ",
+        "C": "(B) but not (A) ",
+        "D": " Both (A) and (B) ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Tower of Hanoi is a classic example of ",
+        "sol": " D"
+      },
+      {
+        "A": " Breadth-first search ",
+        "B": " Depth-first search ",
+        "C": " Either BFS or DFS ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. If locality is a concern, you can use ______ to traverse the graph.",
+        "sol": " B"
+      },
+      {
+        "A": " Queue ",
+        "B": " Stack ",
+        "C": " Tree ",
+        "D": " Graph ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Which data structure is used for balancing of symbols?",
+        "sol": " B"
+      },
+      {
+        "A": " Min heap ",
+        "B": " Max heap ",
+        "C": " Binary search tree ",
+        "D": " AVL tree ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Which data structure is most efficient to find the top 10 largest items out of 1 million items stored in file?",
+        "sol": " A"
+      },
+      {
+        "A": " A heap can be used but not a balanced binary search tree",
+        "B": " A balanced binary search tree can be used but not a heap ",
+        "C": " Both balanced binary search tree and heap can be used ",
+        "D": " Neither balanced binary search tree nor heap can be used ",
+        "id": 19,
+        "prob": "19. A data structure is required for storing a set of integers such that each of the following operations can be done in (log n) time, where n is the number of elements in the set :  "
+      },
+      {
+        "A": " A heap can be used but not a balanced binary search tree",
+        "B": " A balanced binary search tree can be used but not a heap ",
+        "C": " Both balanced binary search tree and heap can be used ",
+        "D": " Neither balanced binary search tree nor heap can be used ",
+        "id": 19,
+        "prob": "Deletion of the smallest element "
+      },
+      {
+        "A": " A heap can be used but not a balanced binary search tree",
+        "B": " A balanced binary search tree can be used but not a heap ",
+        "C": " Both balanced binary search tree and heap can be used ",
+        "D": " Neither balanced binary search tree nor heap can be used ",
+        "id": 19,
+        "prob": "Insertion of an element if it is not already present in the set "
+      },
+      {
+        "A": " A heap can be used but not a balanced binary search tree",
+        "B": " A balanced binary search tree can be used but not a heap ",
+        "C": " Both balanced binary search tree and heap can be used ",
+        "D": " Neither balanced binary search tree nor heap can be used ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": " Which of the following can be used?",
+        "sol": " B"
+      },
+      {
+        "A": " X-1, Y-2, Z-3 ",
+        "B": " X-3, Y-1, Z-2 ",
+        "C": " X-3, Y-2, Z-1 ",
+        "D": " X-2, Y-3, Z-1 ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. The most appropriate matching for the following pairs is X. Depth-first search  1. Heap Y. Breadth-first 2.Queue   Z. Sorting 3.Stack ",
+        "sol": " C"
+      }
+    ]
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "networking-mcqs": {
+    "set1": [
+      {
+        "A": " Added ",
+        "B": " Removed ",
+        "C": " Rearranged ",
+        "D": " Modified ",
+        "exp": "Each layer adds its own header to the packet from the previous layer. For example, in the Internet layer, the IP header is added over the TCP header on the data packet that came from the transport layer.",
+        "id": 1,
+        "prob": "1. In the layer hierarchy as the data packet moves from the upper to the lower layers headers are. ",
+        "sol": " A  "
+      },
+      {
+        "A": " CNNET ",
+        "B": " NSFNET ",
+        "C": " ASAPNET ",
+        "D": " ARPANET ",
+        "exp": "ARPANET stands for Advanced Research Projects Agency Networks. It was the first network to be implemented which used the TCP/IP protocol in the year 1969.",
+        "id": 2,
+        "prob": "2. The first Network ",
+        "sol": " D  "
+      },
+      {
+        "A": " The gauge of the twisted-pair line ",
+        "B": " Degree of electrical interface ",
+        "C": " Shadow fading ",
+        "D": " Both (A) and (B) ",
+        "exp": "Because DSL is made of twisted wire copper pair, the gauge of twisted pair line i.e. the protection and electrical interference would affect the transmission rate in DSL.",
+        "id": 3,
+        "prob": "3. These factors affect transmission rate in DSL ",
+        "sol": " D "
+      },
+      {
+        "A": " Fiber cable ",
+        "B": " Coaxial cable ",
+        "C": " Both (A) and (B) ",
+        "D": " None ",
+        "exp": "Hybrid fiber-coaxial (HFC) is a telecommunications industry term for a broadband network that combines optical fiber and coaxial cable. It has been popularly used since the early 1990s.",
+        "id": 4,
+        "prob": "4. HFC contains ",
+        "sol": " C  "
+      },
+      {
+        "A": " Semantics ",
+        "B": " Syntax ",
+        "C": " Timing ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which they are presented ",
+        "sol": " D "
+      },
+      {
+        "A": " Network layer ",
+        "B": " Physical layer",
+        "C": " Data link layer ",
+        "D": " Transport layer ",
+        "exp": "Basically the transmission speed is determined by the cables and connectors used. Hence it is physical layer that determines the transmission speed in network.",
+        "id": 6,
+        "prob": "6. Transmission data rate is decided by ",
+        "sol": " B "
+      },
+      {
+        "A": " Wired phone access ",
+        "B": " ISP ",
+        "C": " All of the mentioned ",
+        "D": " None of the mentioned ",
+        "exp": "DSL stands for Digital Subscriber Line and ISP stands for Internet Service Provider. In a Digital Subscriber Line system, the same company which provides phone connection is also an ISP.",
+        "id": 7,
+        "prob": "7. In DSL telco provides these service- ",
+        "sol": " C "
+      },
+      {
+        "A": " Coaxial cable ",
+        "B": " Twisted pair cable ",
+        "C": " Optical fiber ",
+        "D": " Electrical cable ",
+        "exp": "Fiber optics is considered to have the highest transmission speed among the all mentioned above. The fiber optics transmission runs at 1000Mb/s.",
+        "id": 8,
+        "prob": "8. Which transmission media has the highest transmission speed in a network? ",
+        "sol": " C "
+      },
+      {
+        "A": " Routing ",
+        "B": " Inter-networking ",
+        "C": " Congestion control ",
+        "D": " None of the mentioned ",
+        "exp": "In the OSI model, network layer is the third layer and it provides data routing paths for network communications.",
+        "id": 9,
+        "prob": "9. Which one of the following is not a function of the network layer? ",
+        "sol": " A "
+      },
+      {
+        "A": " Synchronization bytes ",
+        "B": " Address ",
+        "C": " Frame identifier ",
+        "D": " All of the mentioned ",
+        "exp": "In a frame, the header is a part of the data that contains all the required information about the transmission of the file.",
+        "id": 10,
+        "prob": "10. Header of a frame generally contains ",
+        "sol": " D "
+      },
+      {
+        "A": " All UDP packets are treated independently by transport layer ",
+        "B": " It sends data as a stream of related packets ",
+        "C": " It is received in the same order as set order ",
+        "D": " None of the mentioned ",
+        "exp": "UDP is an alternative for TCP and it is used for those purposes where speed matters most whereas loss of data is not a problem.",
+        "id": 11,
+        "prob": "11. User data-gram protocol is called connection-less because ",
+        "sol": " A "
+      },
+      {
+        "A": " Generate executable files from web content by web server ",
+        "B": " Generate web server ",
+        "C": " Stream videos ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Common gateway interface is used to ",
+        "sol": " A "
+      },
+      {
+        "A": " Topology ",
+        "B": " Routing ",
+        "C": " Networking ",
+        "D": " None ",
+        "exp": "Topology defines the structure of the network of how all the components are interconnected to each other.",
+        "id": 13,
+        "prob": "13. Physical or logical arrangement of network is ",
+        "sol": " A "
+      },
+      {
+        "A": " LAN ",
+        "B": " WAN ",
+        "C": " MAN ",
+        "D": " None ",
+        "exp": "WAN is the abbreviation for Wide Area Network. This network extends over a large geographical area. WANs are used to connect cities, states or even countries.",
+        "id": 14,
+        "prob": "14. Data communication system spanning states of countries or the whole world is ",
+        "sol": "B  "
+      },
+      {
+        "A": " Packet ",
+        "B": " Buffer ",
+        "C": " Segment ",
+        "D": " Stack ",
+        "exp": "Segment is a grouping of number of bytes together into a packet.",
+        "id": 15,
+        "prob": "15. TCP groups a number of bytes together into a packet called ",
+        "sol": " C "
+      },
+      {
+        "A": " CDMA ",
+        "B": " CSMA/CA ",
+        "C": " ALOHA ",
+        "D": " None ",
+        "exp": "CSMA/CA stands for Carrier-sense multiple access/collision avoidance. It is a multiple access protocol used by IEEE 802.11 standard for wireless LAN.",
+        "id": 16,
+        "prob": "16. Which multiple access techniques is used by IEEE802.11 standard for wireless LAN ? ",
+        "sol": " B "
+      },
+      {
+        "A": " Wi-fi protected access ",
+        "B": " Wired protected access ",
+        "C": " Wired process access ",
+        "D": " Wi-fi process access ",
+        "exp": "WPS stands for Wi-Fi Protected Setup. It is a wireless network security standard that tries to make connections between a router and wireless devices faster and easier.",
+        "id": 17,
+        "prob": "17. What is WPS ? ",
+        "sol": " A "
+      },
+      {
+        "A": " Vulnerability attack ",
+        "B": " Bandwidth flooding ",
+        "C": " Connecting flooding ",
+        "D": " All of the mentioned ",
+        "exp": "In Bandwidth flooding, the attacker floods the victim machine with a deluge of packets to make sure that no bandwidth is available. The victim then cannot utilize the complete bandwidth to perform its operation.",
+        "id": 18,
+        "prob": "18. The DOS attack is which the attacker sends deluge of packets to the targeted host. ",
+        "sol": " B "
+      },
+      {
+        "A": " Packet switching ",
+        "B": " Circuit switching ",
+        "C": " Line switching ",
+        "D": " Both (A) and (B) ",
+        "exp": "Packet switching and Circuit switching are two different types of switching methods used to connect the multiple communicating devices with one another.",
+        "id": 19,
+        "prob": "19. Method(s) to move data through a network of links and switches ",
+        "sol": " D  "
+      },
+      {
+        "A": " 5 ",
+        "B": " 7 ",
+        "C": " 6 ",
+        "D": "  None ",
+        "exp": "There are five layers in the Internet Protocol stack. he internet protocol stack model is also called the TCP/IP model.",
+        "id": 20,
+        "prob": "20. The number of layers in internet protocol stack ",
+        "sol": " A "
+      }
+    ],
+    "set2": [
+      {
+        "A": " Integer ",
+        "B": " Boolean ",
+        "C": " Character ",
+        "D": " All of the above ",
+        "exp": "The data type best suited to represent logical values in C++ is the Boolean type.",
+        "id": 1,
+        "prob": "1. Which type is best suited to represent the logical values ? ",
+        "sol": " B  "
+      },
+      {
+        "A": " Implementation defined ",
+        "B": " Can’t say ",
+        "C": " Yes they are different ",
+        "D": " No they are not different ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Is the size of character literal different in C and C++ ? ",
+        "sol": " C "
+      },
+      {
+        "A": " char, 1 ",
+        "B": " int, 1 ",
+        "C": " float, 8 ",
+        "D": " char, 4 ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Size of C++ objects are expressed in terms of multiples of the size of a _____ and the size of char is _____ ",
+        "sol": " A "
+      },
+      {
+        "A": " All function ",
+        "B": " Constructors ",
+        "C": " Destructors ",
+        "D": " None ",
+        "exp": "Constructor creates an Object and Destructor destroys the object. They are not supposed to return anything, not even void.",
+        "id": 4,
+        "prob": "4. _____ have the return type void ? ",
+        "sol": " D "
+      },
+      {
+        "A": " Int ",
+        "B": " Float ",
+        "C": " String ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which variable does equals in size with enum variable ? ",
+        "sol": " A "
+      },
+      {
+        "A": " Const ",
+        "B": " Preprocessor ",
+        "C": " Literals ",
+        "D": " None of above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. The constants are also called as : ",
+        "sol": " C "
+      },
+      {
+        "A": " Structure creator ",
+        "B": " Structure signifier ",
+        "C": " Structure specifier ",
+        "D": " None of above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The decleration of structure is also called as ? ",
+        "sol": " C "
+      },
+      {
+        "A": " Postfix ",
+        "B": " Unary ",
+        "C": " Shift ",
+        "D": " Equality ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Which operator is having the higest precedence ? ",
+        "sol": " A "
+      },
+      {
+        "A": " Single line ",
+        "B": " Multi line ",
+        "C": " Single and multiline ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. What type of comments does C++ support ? ",
+        "sol": " C "
+      },
+      {
+        "A": " Call by value ",
+        "B": " Call by reference ",
+        "C": " Call by pointer ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which is more effective while calling the functions? ",
+        "sol": " B "
+      },
+      {
+        "A": " 0 ",
+        "B": " 1 ",
+        "C": " 2 ",
+        "D": " 3 ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. How many minimum number of functions are needed to be presented in C++ ? ",
+        "sol": " B "
+      },
+      {
+        "A": " Operator overloading ",
+        "B": " Constructor overloading ",
+        "C": " Destructor overloading ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Function overloading is also similar to which of the following ? ",
+        "sol": " B "
+      },
+      {
+        "A": " Very long function that can hardly run ",
+        "B": " One function containing another one or more functions inside it. ",
+        "C": " Two or more functions within the same class with different features. ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Overloaded function are ",
+        "sol": " C "
+      },
+      {
+        "A": " Public ",
+        "B": " Private ",
+        "C": " Protected ",
+        "D": " Both private and protected ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Which of these following members are not accessed by using direct member access operator ? ",
+        "sol": " D "
+      },
+      {
+        "A": " Function overloading ",
+        "B": " Operator overloading ",
+        "C": " Member overloading ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Pick the other name of operator function ",
+        "sol": " B "
+      },
+      {
+        "A": " Use constructor and destructor ",
+        "B": " Set a global error indicator ",
+        "C": " Use break keyword ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. What is most suitable for returning the logical errors in the program ? ",
+        "sol": " B "
+      },
+      {
+        "A": " Members ",
+        "B": " Functions ",
+        "C": " Both member and functions ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Which of the following can derived class inherit ? ",
+        "sol": " C "
+      },
+      {
+        "A": " Dynamic binding ",
+        "B": " Polymorphism ",
+        "C": " Both (A) and (B) ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which of the following advantages we lose by using multiple inheritance ? ",
+        "sol": " C "
+      },
+      {
+        "A": " va_list ",
+        "B": " va_start ",
+        "C": " va_arg ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. What will initialize the list of arguments in stdarg.h header file ? ",
+        "sol": " B "
+      }
+    ],
+    "set3": [
+      {
+        "A": " Protocols ",
+        "B": " Standards ",
+        "C": " RFCs ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Set of rules that governs data communication ",
+        "sol": " A"
+      },
+      {
+        "A": " Half duplex ",
+        "B": " Full duplex ",
+        "C": " Simplex ",
+        "D": " Automatic ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. A television broadcast is an example of ",
+        "sol": " C"
+      },
+      {
+        "A": " Simplex way ",
+        "B": " Half duplex ",
+        "C": " Full duplex ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Data flow between two devices can occur in ",
+        "sol": " D"
+      },
+      {
+        "A": " DHCP ",
+        "B": " IP ",
+        "C": " RPC ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which protocol assigns IP address to the client connected in the internet? ",
+        "sol": " A"
+      },
+      {
+        "A": " Leased line ",
+        "B": " Digital subscriber line ",
+        "C": " Digital signal line ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Internet access by transmitting digital data over the wires of a local telephone network is provided by ",
+        "sol": " B"
+      },
+      {
+        "A": " Mesh ",
+        "B": " Ring ",
+        "C": " Bus ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Device may be arranged in given topology ",
+        "sol": " D"
+      },
+      {
+        "A": " RCF ",
+        "B": " ID ",
+        "C": " RFC ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. It is an Idea or concept that is pre cursor to an internet standered ",
+        "sol": " C"
+      },
+      {
+        "A": " Five part ",
+        "B": " Two part ",
+        "C": " Three part ",
+        "D": " Four part ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Packet switching network can be divided into ",
+        "sol": " B"
+      },
+      {
+        "A": " Circuit switching ",
+        "B": " Datagram switching ",
+        "C": " Frame switching ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Each packet is treated independently ",
+        "sol": " B"
+      },
+      {
+        "A": " Time division ",
+        "B": " Two dimensional ",
+        "C": " Space division ",
+        "D": " Three dimensional ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. The path in the circuit are separated from on another spatially ",
+        "sol": " C"
+      },
+      {
+        "A": " Datagram ",
+        "B": " Virtual circuit ",
+        "C": " Circuit switching ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Which are defines two types of addressing Global & Local ",
+        "sol": " B"
+      },
+      {
+        "A": " 4 ",
+        "B": " 3 ",
+        "C": " 2 ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Packet switch has how many types of components ",
+        "sol": " C"
+      },
+      {
+        "A": " 2 ",
+        "B": " 4 ",
+        "C": " 8 ",
+        "D": " 3 ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. In a banyan switch , four inputs & four output have , how many stages ",
+        "sol": " D"
+      },
+      {
+        "A": " Destination ",
+        "B": " Source ",
+        "C": " Local ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. A switch in a datagram network uses routing tables that is based on ",
+        "sol": " A"
+      },
+      {
+        "A": " Circuit switching ",
+        "B": "  Datagram ",
+        "C": " Virtual circuit ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The network layer is the Internet which is design as ",
+        "sol": " B"
+      },
+      {
+        "A": " Packet switching ",
+        "B": " Circuit switching ",
+        "C": " Both (a) and (b) ",
+        "D": " Line switched ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. The local telephone network is an example of ",
+        "sol": " B"
+      },
+      {
+        "A": " HTTP ",
+        "B": " SMTP ",
+        "C": " FTP ",
+        "D": " TCP ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Which is not application layer protocol ",
+        "sol": " D"
+      },
+      {
+        "A": " Loss lolernt application ",
+        "B": " Bandwidth sensitive application ",
+        "C": " Electronic application ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. E-mail is ",
+        "sol": " C"
+      },
+      {
+        "A": " IP ",
+        "B": " MAC ",
+        "C": " Port ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. To deliver a message to correct application program on the host consult address of ",
+        "sol": " C"
+      },
+      {
+        "A": " TDM ",
+        "B": " FDM ",
+        "C": " WDM ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which multiplexing techniques sends digital signal ",
+        "sol": " A"
+      }
+    ]
+  }
+}

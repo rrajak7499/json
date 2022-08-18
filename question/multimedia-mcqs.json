@@ -1,0 +1,1068 @@
+{
+  "multimedia-mcqs": {
+    "set1": [
+      {
+        "A": " Multimedia ",
+        "B": " Hyper media ",
+        "C": " Visual media ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The combination of text, graphics art, sound, animation and video delivered by computer or other electronic devices is called :",
+        "sol": " A"
+      },
+      {
+        "A": " Programmers ",
+        "B": " Multimedia developers ",
+        "C": " Software engineers ",
+        "D": " Hardware engineers ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. The people when weave multimedia into meaningful tapestries are called :",
+        "sol": " B"
+      },
+      {
+        "A": " Cost ",
+        "B": " Adaptability ",
+        "C": " Usability ",
+        "D": " Relativity ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. One of the disadvantages of multimedia is ",
+        "sol": " A"
+      },
+      {
+        "A": " Slides ",
+        "B": " Tutorial ",
+        "C": " Multimedia ",
+        "D": " Data Processing ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the following is a computer based presentation techniques ? ",
+        "sol": " C"
+      },
+      {
+        "A": " Independent ",
+        "B": " Flexible ",
+        "C": " Dependant ",
+        "D": " Complex ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Session initiation protocol (SIP) is very",
+        "sol": " B"
+      },
+      {
+        "A": " High quality ",
+        "B": " Lower quality ",
+        "C": " Same quality ",
+        "D": " Bad quality ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. To receive signal, a translator is needed to decode signal and encode it again at a ",
+        "sol": " B"
+      },
+      {
+        "A": " 2 ",
+        "B": " 3 ",
+        "C": " 4 ",
+        "D": " 6 ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. How many types of video compressions exist?",
+        "sol": " A"
+      },
+      {
+        "A": " GIF ",
+        "B": " MPEG ",
+        "C": " JPEG ",
+        "D": " PNG ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Which image files are lossy format ?",
+        "sol": " C"
+      },
+      {
+        "A": " 2 ",
+        "B": " 3 ",
+        "C": " 4 ",
+        "D": " 5 ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. How many step process for creating a 3D animation are required ?",
+        "sol": " B"
+      },
+      {
+        "A": " Shockwave ",
+        "B": " Nx View ",
+        "C": " GIF ",
+        "D": " JPG ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which files creates a perfect reproduction of the original images ?",
+        "sol": " C"
+      },
+      {
+        "A": " Data transfer device ",
+        "B": " Basic storage device ",
+        "C": " Networking devices ",
+        "D": " Data presentation device ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Devives that are used primarily to transport data between the processor and the user are known as",
+        "sol": " D"
+      },
+      {
+        "A": " View ",
+        "B": " Kit ",
+        "C": " Drawing ",
+        "D": " Menu ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Quick access to frequently used commands can be found in the toolbar. ",
+        "sol": " D"
+      },
+      {
+        "A": " Placeholder ",
+        "B": " Template ",
+        "C": " Layout ",
+        "D": " Slide show ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. A series of slides displayed in a particular sequence is called.",
+        "sol": " D"
+      },
+      {
+        "A": " CPU ",
+        "B": " Frame ",
+        "C": " Stack ",
+        "D": " Background ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The text colour in presentation should contrast with the colour of",
+        "sol": " D"
+      },
+      {
+        "A": " Clipart ",
+        "B": " Popups ",
+        "C": " .jpg files ",
+        "D": " .tiff files ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Images included in many software titles are called",
+        "sol": " A"
+      }
+    ],
+    "set2": [
+      {
+        "A": " Clipart ",
+        "B": " Bitmap ",
+        "C": " Portable network graphic ",
+        "D": " Thumbnail ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. A smaller version of an image is called a ",
+        "sol": " D"
+      },
+      {
+        "A": " Modeling ",
+        "B": " Morphing ",
+        "C": " Animating ",
+        "D": " Warping ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which of the following is a technique to blend two or more images to form a new image ?",
+        "sol": " B"
+      },
+      {
+        "A": " Frames ",
+        "B": " Signals ",
+        "C": " Packets ",
+        "D": " Slots ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. A video consists of a sequence of ",
+        "sol": " A"
+      },
+      {
+        "A": " 5 ",
+        "B": " 4 ",
+        "C": " 3 ",
+        "D": " 2 ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. How many attributes control the characteristics of sound ?",
+        "sol": " D"
+      },
+      {
+        "A": " <255 ",
+        "B": " <8 ",
+        "C": " <16 ",
+        "D": " <256 ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. How many color depth results in the images looks murky ?",
+        "sol": " D"
+      },
+      {
+        "A": " 200 MB ",
+        "B": " 700 MB ",
+        "C": " 500 MB ",
+        "D": " 100 MB ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. A typical CD-R disc can hold approximately :",
+        "sol": " B"
+      },
+      {
+        "A": " FTP ",
+        "B": " RAM ",
+        "C": " Networking ",
+        "D": " IEEE 1394 fire wire ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the following is the fastest method to transfer large files such as video and audio from a peripheral to the computer ? ",
+        "sol": " D"
+      },
+      {
+        "A": " ABT ",
+        "B": " BCT ",
+        "C": " CBT ",
+        "D": " DBT ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Interactive training that is delivered via CD ROM is known as :",
+        "sol": " C"
+      },
+      {
+        "A": " Immersive ",
+        "B": " Semi immersive ",
+        "C": " Non immersive ",
+        "D": " Augmented ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. A type of virtual reality environment in which subjects are visually isolated from the red environment is called :",
+        "sol": " A"
+      },
+      {
+        "A": " Signals ",
+        "B": " Motions ",
+        "C": " Packets ",
+        "D": " Bits ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. If frames are displayed on screen fast enough we get an impression of :",
+        "sol": " B"
+      },
+      {
+        "A": " Frames ",
+        "B": " Images ",
+        "C": " Audio ",
+        "D": " Video ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Moving picture experts group(MPEG) is used to compress :",
+        "sol": " D"
+      },
+      {
+        "A": " Music ",
+        "B": " Pictures ",
+        "C": " Images ",
+        "D": " Frames ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Joint photograhic experts group (JPEG) is used to compress.",
+        "sol": " C"
+      },
+      {
+        "A": " Frames ",
+        "B": " Packets ",
+        "C": " Pixels ",
+        "D": " Mega pixels ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. In audio and video compression, each frames is divided into small grids called picture elements or :",
+        "sol": " C"
+      },
+      {
+        "A": " B-frame ",
+        "B": " C-frame ",
+        "C": " I-frame  ",
+        "D": " P-frame ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In video compression an independent frame that is not related to any other frame is called :",
+        "sol": " C"
+      },
+      {
+        "A": " 128 Kbps ",
+        "B": " 164 Kbps ",
+        "C": " 256 Kbps ",
+        "D": " 320 Kbps ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. MP3 productions three data rates from 96 Kbps to : ",
+        "sol": " B"
+      }
+    ],
+    "set3": [
+      {
+        "A": " Multimedia System ",
+        "B": " Multimedia Messaging Services ",
+        "C": " Multimedia Messaging System ",
+        "D": " Multimedia Services ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. MMS stands for _______",
+        "sol": " B"
+      },
+      {
+        "A": " Graphic Information File ",
+        "B": " Graphic Interchange Format ",
+        "C": " Graphic Information Format ",
+        "D": " Graphic Interchange File ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. GIF stands for _______ ",
+        "sol": " B"
+      },
+      {
+        "A": " Extra Multi Language ",
+        "B": " Exprimental Markup Language ",
+        "C": " Extensible Making Language ",
+        "D": " Extensible Markup Language ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. XML stands for _______",
+        "sol": " D"
+      },
+      {
+        "A": " Help text markup language ",
+        "B": " Hyper text making language ",
+        "C": " Hyper torrent marker language ",
+        "D": " Hyper text markup language ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. HTML stands for _______",
+        "sol": " D"
+      },
+      {
+        "A": " General user interface ",
+        "B": " Graphic user interchange ",
+        "C": " Graphical user interface ",
+        "D": " Graphical user information ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. GUI stands for _______",
+        "sol": " C"
+      },
+      {
+        "A": " Head mounted display ",
+        "B": " Head masked display ",
+        "C": " Head made display ",
+        "D": " Head mounted detection ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. HMD stands for :",
+        "sol": " A"
+      },
+      {
+        "A": " Binocular omni-orientation manager ",
+        "B": " Binary omni-orientation manager ",
+        "C": " Binocular omni-orientation monitor ",
+        "D": " Binary omni-orientation monitor\t",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. BOOM stands for _______",
+        "sol": " C"
+      },
+      {
+        "A": " Session Initiation Protocol ",
+        "B": " Session Initiation Port ",
+        "C": " Session Initiation Path ",
+        "D": " Session Initiation Packet ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. In Voice Over IP, Term SIP stands for _______",
+        "sol": " A"
+      },
+      {
+        "A": " Motion Picture Express Group ",
+        "B": " Motion Picture Expert Group ",
+        "C": " Motion Picture Export Group ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. MPEG stands for _______",
+        "sol": " B"
+      },
+      {
+        "A": " Audio Interchange File format ",
+        "B": " Audio Interchange file Folder ",
+        "C": " ASCII interchange file format ",
+        "D": " Audio interchange file format ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. AIFF stands for _______",
+        "sol": " A"
+      },
+      {
+        "A": " Joint Photo Experts Gross ",
+        "B": " Joint Photographic Experts Group ",
+        "C": " Joint Processor Experts Group ",
+        "D": " Joint Photographic Expression Group ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. JPEG stands for _______ ",
+        "sol": " B"
+      },
+      {
+        "A": " Musical instrument digital interface ",
+        "B": " Musical instrument digital instruction ",
+        "C": " Musical instrument design interface ",
+        "D": " Multimedia instrument digital interface ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. MIDI stand for _______",
+        "sol": " A"
+      },
+      {
+        "A": " Audio for voice on internet ",
+        "B": " Audio voice interleaved ",
+        "C": " Audio video interleaved ",
+        "D": " Adapted video for internet ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Avi stand for _______",
+        "sol": " C"
+      },
+      {
+        "A": " Very Real Marking Language ",
+        "B": " Virtual Reality Marking Language ",
+        "C": " Virtual Reality Markup Language ",
+        "D": " Virtual Reality Modeling Language ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. VRML stand for _______",
+        "sol": " D"
+      },
+      {
+        "A": " Display per inch ",
+        "B": " Display point intersection ",
+        "C": " Dots per inch ",
+        "D": " Dots per intersection ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. DPI stands for",
+        "sol": " C"
+      }
+    ],
+    "set4": [
+      {
+        "A": " MPEG1 ",
+        "B": " MPEG2 ",
+        "C": " MPEG3 ",
+        "D": " MPEG21 ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. MP3 is in which of the following MPEG standards?",
+        "sol": " B"
+      },
+      {
+        "A": " Motion analyzers ",
+        "B": " Motion Trackers ",
+        "C": " HMD ",
+        "D": " SMD ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. When keeps the track of position ?",
+        "sol": " B"
+      },
+      {
+        "A": " Un-formatted text ",
+        "B": " Formatted text ",
+        "C": " Hypertext ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Rich text is known as ",
+        "sol": " B"
+      },
+      {
+        "A": " Warp & Tweening ",
+        "B": " Tweening & Wrap ",
+        "C": " Wrap & Dissolve ",
+        "D": " Tweening & Dissolve ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Two parts of Morphing algorithms are",
+        "sol": " C"
+      },
+      {
+        "A": " GIFB ",
+        "B": " MPEGC ",
+        "C": " JPEG ",
+        "D": " PNG ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which image files are a lossy format?",
+        "sol": " C"
+      },
+      {
+        "A": " The internet ",
+        "B": " Level1 video disc ",
+        "C": " Audiotape ",
+        "D": " Videotape ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. A good example of hypermedia is",
+        "sol": " A"
+      },
+      {
+        "A": " Lossy ",
+        "B": " Loss less ",
+        "C": " Cel based ",
+        "D": " Object based ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which compressions provide some loss of quality?",
+        "sol": " A"
+      },
+      {
+        "A": " Is same as any other regular file ",
+        "B": " Must be accessed at specific rate ",
+        "C": " Stored on remote server cannot be delivered to its client ",
+        "D": " None of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. A multimedia file",
+        "sol": " B"
+      },
+      {
+        "A": " High storage ",
+        "B": " High data rates ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which one of the following is the characteristic of a multimedia system?",
+        "sol": " C"
+      },
+      {
+        "A": " Video file ",
+        "B": " Graphics image ",
+        "C": " Audio File ",
+        "D": " Text File ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. JPEG is a file format for _______",
+        "sol": " B"
+      },
+      {
+        "A": " Video file ",
+        "B": " Graphics image ",
+        "C": " Audio File ",
+        "D": " Text File ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. MP3 is an extension of a_________ file.",
+        "sol": " C"
+      },
+      {
+        "A": " Tiff ",
+        "B": " AVI ",
+        "C": " WAV ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Video file format is",
+        "sol": " B"
+      },
+      {
+        "A": " Design ",
+        "B": " Development ",
+        "C": " Layout ",
+        "D": " Storyboard ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. The process of planning your multimedia presentation is",
+        "sol": " B"
+      },
+      {
+        "A": " 16 ",
+        "B": " 24 ",
+        "C": " 32 ",
+        "D": " 40 ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The MIDI standard specifies how many channels?",
+        "sol": " A"
+      },
+      {
+        "A": " Clipart ",
+        "B": " Bitmap ",
+        "C": " Portable network graphic ",
+        "D": " Thumbnail ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. A smaller version of an image is called a:",
+        "sol": " D"
+      }
+    ],
+    "set5": [
+      {
+        "A": " RDBMS ",
+        "B": " DBMS ",
+        "C": " Data dictionary ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which database system is used in multimedia ",
+        "sol": " B"
+      },
+      {
+        "A": " Video file ",
+        "B": " Graphics image ",
+        "C": " Audio file ",
+        "D": " Text file ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. MP3 is an extension of a _______ file.",
+        "sol": " C"
+      },
+      {
+        "A": " Protocols ",
+        "B": " System ",
+        "C": " Ports ",
+        "D": " Handshake ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Establishing a session in Session Initiation Protocol (SIP), requires a three-way",
+        "sol": " D"
+      },
+      {
+        "A": " Plain text ",
+        "B": " Cipher ",
+        "C": " Original text ",
+        "D": " Shift chiper ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. A combination of an encryption algorithm and a decryption algorithm is called a",
+        "sol": " B"
+      },
+      {
+        "A": " Hypermedia ",
+        "B": " Hypertext ",
+        "C": " Inter media ",
+        "D": " Digital media ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. A structure of linked elements through which the user can navigate, interactive multimedia becomes ______.",
+        "sol": " B"
+      },
+      {
+        "A": " Predictive Encoding ",
+        "B": " Perceptual Encoding ",
+        "C": " MPEG ",
+        "D": " JPEG ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Most common compression technique that is used to create CD-quality audio is based on perceptual encoding technique is called",
+        "sol": " B"
+      },
+      {
+        "A": " IP ",
+        "B": " Server ",
+        "C": " Domain ",
+        "D": " Internet ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Streaming stored audio/video, files are compressed and stored on ",
+        "sol": " B"
+      },
+      {
+        "A": " Unicasting ",
+        "B": " Multicasting ",
+        "C": " Layered Control ",
+        "D": " Protocol Control ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Live streaming is still using Transmission Control Protocol (TCP) and multiple unicasting instead of",
+        "sol": " B"
+      },
+      {
+        "A": " Stream delay ",
+        "B": " Playback delay ",
+        "C": " Jitter ",
+        "D": " Event delay ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The delay that occur during the playback of a stream is called ________",
+        "sol": " C"
+      },
+      {
+        "A": " To ensure critical tasks will be serviced within timing deadlines ",
+        "B": " To deliver the media file to the client ",
+        "C": " To minimize the delay ",
+        "D": " For security ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Multimedia system require hard real time scheduling ________",
+        "sol": " A"
+      },
+      {
+        "A": " 3 to 6 Mbps ",
+        "B": " 4 to 6 Mbps ",
+        "C": " 5 to 6 Mbps ",
+        "D": " 6 to 6 Mbps ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Moving Picture Experts Group (MPEG-2), was designed for high-quality DVD with a data rate of",
+        "sol": " A"
+      },
+      {
+        "A": " 1.41 I-MHz ",
+        "B": " 1.42 I-MHz ",
+        "C": " 1.45 I-MHz ",
+        "D": " 1.48 I-MHz ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. For music, we need to compress digitize signals at",
+        "sol": " A"
+      },
+      {
+        "A": " Message ",
+        "B": " Itself ",
+        "C": " Protocols ",
+        "D": " Packets ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. In Real-Time Transport Protocol (RTP), source periodically sends a source description message to give additional infonnation about",
+        "sol": " B"
+      },
+      {
+        "A": " Receivers and Senders ",
+        "B": " Packets to Frames ",
+        "C": " Pixels to Packets ",
+        "D": " Frames to Pixels ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In Real Time Interactive Audio Video, conferencing requires two way communication between",
+        "sol": " A"
+      },
+      {
+        "A": " Frames ",
+        "B": " Layers ",
+        "C": " Pixels ",
+        "D": " Packets ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. In Real Time Interactive Audio Video, Jitter is introduced in real-time data by delay between",
+        "sol": " D"
+      }
+    ],
+    "set6": [
+      {
+        "A": " 5 bits per sample ",
+        "B": " 6 bits per sample ",
+        "C": " 7 bits per sample ",
+        "D": " 8 bits per sample ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. In Audio and Video Compression, voice is sampled at 8000 samples per second with",
+        "sol": " D"
+      },
+      {
+        "A": " Pixels ",
+        "B": " Packets ",
+        "C": " Rates ",
+        "D": " Bytes ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. In Real Time Interactive Audio Video, data are stored in buffer at a possibly variable",
+        "sol": " C"
+      },
+      {
+        "A": " Image ",
+        "B": " Video ",
+        "C": " Frame ",
+        "D": " Text file ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. A compressed audio/video file can be downloaded as a",
+        "sol": " D "
+      },
+      {
+        "A": " Channels ",
+        "B": " Pixels ",
+        "C": " Calculations ",
+        "D": " Frames ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Purpose of dividing picture into blocks is to decrease number of",
+        "sol": " C"
+      },
+      {
+        "A": " Real-time traffic ",
+        "B": " Real-time playback ",
+        "C": " Real-time pixels ",
+        "D": " Real-time frames ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. In Real Time Interactive Audio Video, a sequence number on each packet is required for",
+        "sol": " A"
+      },
+      {
+        "A": " Channelized ",
+        "B": " Managed ",
+        "C": " Digitized ",
+        "D": " Organized ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Before audio or video signals can be sent on Internet, they need to be",
+        "sol": " C"
+      },
+      {
+        "A": " 128 Khz ",
+        "B": " 256 Khz ",
+        "C": " 64 Khz ",
+        "D": " 1152 Khz ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. For speech, we need to compress digitize signals at",
+        "sol": " C"
+      },
+      {
+        "A": " PC ",
+        "B": " CD ",
+        "C": " DVD ",
+        "D": " Floppy ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Moving Picture Experts Group (MPEG-1), was designed for a",
+        "sol": " B"
+      },
+      {
+        "A": " 4 x 4 ",
+        "B": " 8 x 8 ",
+        "C": " 16 x 16 ",
+        "D": " 64 x 64 ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Block size in block preparation step of JPEG compression is ",
+        "sol": " B"
+      },
+      {
+        "A": " Changing position ",
+        "B": " Changing color ",
+        "C": " Changing shape ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Morphing means",
+        "sol": " C "
+      },
+      {
+        "A": " 1 broad categories ",
+        "B": " 2 broad categories ",
+        "C": " 3 broad categories ",
+        "D": " 4 broad categories ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. We can divide audio and video services into",
+        "sol": " C"
+      },
+      {
+        "A": " SEND message ",
+        "B": " GET message ",
+        "C": " AUTO receive message ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. HTTP client accesses Web server by using the",
+        "sol": " B"
+      },
+      {
+        "A": " Transmission ",
+        "B": " System ",
+        "C": " Streaming ",
+        "D": " Terminating ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. A simple session using Session Initiation Protocol (SIP), consists of three modules: establishing, communicating, and",
+        "sol": " D"
+      },
+      {
+        "A": " Frame Time ",
+        "B": " Playback Time ",
+        "C": " Pixels Time ",
+        "D": " Packet Time ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In Real Time Interactive Audio Video, to prevent jitter, we can time-stamp packets and separate arrival time from the",
+        "sol": " B"
+      },
+      {
+        "A": " Code blocks ",
+        "B": " Packet blocks ",
+        "C": " Code words ",
+        "D": " Datawords ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. In block coding, we divide our message into blocks, is called",
+        "sol": " D"
+      }
+    ],
+    "set7": [
+      {
+        "A": " CAVE ",
+        "B": " BOOM ",
+        "C": " GUI ",
+        "D": " HMD ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. A term for Illusion of immersion by projecting stereo images on the walls and floor of a room.",
+        "sol": " A"
+      },
+      {
+        "A": " WWW ",
+        "B": " VR ",
+        "C": " HMD ",
+        "D": " GUI ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. It is a mediated environment which creates the sensation in a user of being present in a (physical) surrounding.",
+        "sol": " B"
+      },
+      {
+        "A": " Immersive ",
+        "B": " Semi immersive ",
+        "C": " Non immersive ",
+        "D": " Augmented ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. In this type of VR environment, the three-dimensional scene is considered as a part of the physical environment.",
+        "sol": " C"
+      },
+      {
+        "A": " Pics ",
+        "B": " Shots ",
+        "C": " Frames ",
+        "D": " Snaps ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Video is represented as a series of images formally known as _______",
+        "sol": " C"
+      },
+      {
+        "A": " DCT transformation ",
+        "B": " Quantization ",
+        "C": " Data compression ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. The first phase of JPEG is _______",
+        "sol": " A"
+      },
+      {
+        "A": " DCT transformation ",
+        "B": " Quantization ",
+        "C": " Data compression ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. The second phase of JPEG is _______",
+        "sol": " B"
+      },
+      {
+        "A": " DCT transformation ",
+        "B": " Quantization ",
+        "C": " Data compression ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The third phase of JPEG is _______",
+        "sol": " C"
+      },
+      {
+        "A": " Voice Script ",
+        "B": " Animation ",
+        "C": " Audio ",
+        "D": " Video ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. With reference to multimedia elements, pick the odd-one out of the following:",
+        "sol": " A"
+      },
+      {
+        "A": " Live streaming ",
+        "B": " Dead streaming ",
+        "C": " Static streaming ",
+        "D": " On demand streaming ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Random access is not allowed in ________",
+        "sol": " A"
+      },
+      {
+        "A": " Multimedia storage systems ",
+        "B": " Files ",
+        "C": " Compression algorithms ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Lossy and lossless are classifications of ________",
+        "sol": " C"
+      },
+      {
+        "A": " The time from when a request is first submitted to when the desired result is produced ",
+        "B": " The delay that occurs during playback of the stream ",
+        "C": " How the errors are handled during the transmission and processing of continuous media ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. What is the Delay? ",
+        "sol": " A"
+      },
+      {
+        "A": " Run Length Encoding ",
+        "B": " Run Line Encoding ",
+        "C": " Reverse Length Encoding ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. RLE stand for",
+        "sol": " A"
+      },
+      {
+        "A": " Lossless compression ",
+        "B": " Lossy compression ",
+        "C": " LZY coding ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Arithmetic Encoding is",
+        "sol": " A"
+      },
+      {
+        "A": " Protocol ",
+        "B": " Device ",
+        "C": " Lan ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. MIDI is",
+        "sol": " A"
+      },
+      {
+        "A": " Clipart ",
+        "B": " Popups ",
+        "C": " .jpg files ",
+        "D": " .tiff files ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Images included in many software titles are called _______",
+        "sol": " A"
+      }
+    ]
+  }
+}

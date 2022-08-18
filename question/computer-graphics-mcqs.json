@@ -1,0 +1,1524 @@
+{
+  "computer-graphics-mcqs": {
+    "set1": [
+      {
+        "A": " Dots ",
+        "B": " Pixels ",
+        "C": " Coordinates ",
+        "D": " Points ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. In computer graphics, pictures or graphics objects are presented as a collection of discrete picture elements called__________ ",
+        "sol": " B"
+      },
+      {
+        "A": " Memory ",
+        "B": " Frame buffer ",
+        "C": " Processor ",
+        "D": " All of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. In graphical system, the array of pixels in the picture are stored in :",
+        "sol": " B"
+      },
+      {
+        "A": " Picture ",
+        "B": " Resolution ",
+        "C": " Persistence ",
+        "D": " Neither (b) and (c) ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. The maximum number of points that can be displayed without overlap on a CRT is reffered as :",
+        "sol": " B"
+      },
+      {
+        "A": " 60 frames/sec. ",
+        "B": " 80 frames/sec. ",
+        "C": " 30 frames/sec. ",
+        "D": " 100 frames/sec. ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. In LCD, the refresh rate of the screen is :",
+        "sol": " A"
+      },
+      {
+        "A": " Scanner ",
+        "B": " Video monitor ",
+        "C": " Neither (a) nor (b) ",
+        "D": " Printer ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5.The primary output device in a graphic system is : ",
+        "sol": " B"
+      },
+      {
+        "A": " Number of pixels ",
+        "B": " Ratio of vertical points to horizontal points ",
+        "C": " Ratio of horizontal points to vertical points ",
+        "D": " Both (b) and (c) ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Aspect ratio means: ",
+        "sol": " B"
+      },
+      {
+        "A": " World co-ordinate system ",
+        "B": " Screen co-ordinate system ",
+        "C": " World window ",
+        "D": " Interface window ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. What is the name of the space in which the image is displayed ? ",
+        "sol": " B"
+      },
+      {
+        "A": " Transaltion distance ",
+        "B": " Translation difference ",
+        "C": " X and Y ",
+        "D": " Only (a) ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. We translate a two-dimensional point by adding :",
+        "sol": " A "
+      },
+      {
+        "A": " We can plot horizontal spans ",
+        "B": " We can plot vertical spans ",
+        "C": " Only (b) ",
+        "D": " All of the mentioned ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. If the magnitude of the curve slope is lesser than 1, then :",
+        "sol": " B"
+      },
+      {
+        "A": " Curve slope ",
+        "B": " Curve width ",
+        "C": " Curve cap ",
+        "D": " Only (C) ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10.One of the method for displaying thick curve",
+        "sol": " A"
+      },
+      {
+        "A": " Transaltion ",
+        "B": " Sclaing ",
+        "C": " Rotation ",
+        "D": " Shearing ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Which one is the rigid body transformation that moves object without deformation.",
+        "sol": " D"
+      },
+      {
+        "A": " End points ",
+        "B": " Major and minor axis ",
+        "C": " Only (a) ",
+        "D": " None ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. An ellipse can also be rotated about its center coordinates by rotating ",
+        "sol": " B"
+      },
+      {
+        "A": " Dashed line ",
+        "B": " Dark line ",
+        "C": " Dotted line ",
+        "D": " Only (b) ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which of the following is not a line-type ? ",
+        "sol": " B"
+      },
+      {
+        "A": " A string containing only 1’s ",
+        "B": " A string containing only 0’s ",
+        "C": " A string containing 1 and 0 ",
+        "D": " A string containing only 0 and 0 ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Pixel mask means :",
+        "sol": " C"
+      },
+      {
+        "A": " Input device ",
+        "B": " Output device ",
+        "C": " Pointing device ",
+        "D": " Both (a) and (c) ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Which devices provide positional information to the graphics system?",
+        "sol": " A"
+      }
+    ],
+    "set10": [
+      {
+        "A": " Rendering effect ",
+        "B": " Shading effect ",
+        "C": " Staircase effect ",
+        "D": " Cueing effect ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Aliasing means ",
+        "sol": " A"
+      },
+      {
+        "A": " Dithering ",
+        "B": " Half toning ",
+        "C": " Depth-Cueing ",
+        "D": " Rendering ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. The technique of using a minimum number of intensity levels to obtain increased visual resolution is ",
+        "sol": " B"
+      },
+      {
+        "A": " 001 ",
+        "B": " 010 ",
+        "C": " 101 ",
+        "D": " 110 ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. If blue is represented as 001 the yellow is represented as",
+        "sol": " D"
+      },
+      {
+        "A": " Display processor ",
+        "B": " LUT ",
+        "C": " Frame buffer ",
+        "D": " Display file ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. The video memory that is used to hold the image displayed on screen is known as",
+        "sol": " C"
+      },
+      {
+        "A": " Splines ",
+        "B": " Bernstein polynomials ",
+        "C": " Lagrangian polynomials ",
+        "D": " Newton polynomials ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. The blinding functions of Bezier curves are",
+        "sol": " B"
+      },
+      {
+        "A": " Bit plane ",
+        "B": " Plane ",
+        "C": " Bit ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. The amount of memory in frame buffer is called",
+        "sol": " A"
+      },
+      {
+        "A": " 0 ",
+        "B": " 1 ",
+        "C": " -1/2 ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. In the Bresenham’s algorithm, error term initialised to",
+        "sol": " C"
+      },
+      {
+        "A": " Distance parameter ",
+        "B": " Decision parameter ",
+        "C": " Describe point ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Mid -point line and circle drawing algorithm use the sign of ",
+        "sol": " D"
+      },
+      {
+        "A": " 6 ",
+        "B": " 5 ",
+        "C": " 3 ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. What will be the value of initial decision parameter if we intend to draw a line between A(3, 6) and B(4, 9) using Bresenham’s algorithm?",
+        "sol": " B"
+      },
+      {
+        "A": " 2 ",
+        "B": " 3 ",
+        "C": " 4 ",
+        "D": " 5 ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. How many matrices are required to rotate an object about a point (x, y)?",
+        "sol": " B"
+      },
+      {
+        "A": " Oblique ",
+        "B": " Vanishing point ",
+        "C": " Cavalier ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. What is perspective anomaly?",
+        "sol": " B"
+      },
+      {
+        "A": " 45 degree ",
+        "B": " 90 degree ",
+        "C": " 180 degree ",
+        "D": " 360 degree ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Reflection of an object is same as rotation with angle ",
+        "sol": " C"
+      },
+      {
+        "A": " Good ",
+        "B": " Better ",
+        "C": " Best ",
+        "D": " Poor ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. The end point accuracy of DDA line drawing algorithm is ________",
+        "sol": " D"
+      },
+      {
+        "A": " DDA ",
+        "B": " Algorithm which uses direct equation of line ",
+        "C": " Bresenham’s algorithm ",
+        "D": " None of them ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The best line drawing algorithm among all possible line drawing algorithm is ________",
+        "sol": " C"
+      },
+      {
+        "A": " Time efficient ",
+        "B": " Time consuming ",
+        "C": " Fast ",
+        "D": " Slow ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Floating point arithmetic in DDA algoritlrm is",
+        "sol": " B "
+      }
+    ],
+    "set2": [
+      {
+        "A": " Walt Disney ",
+        "B": " J. Stuart Blackton ",
+        "C": " William Horner ",
+        "D": " J.A. Ferinard plateau ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The father of animation ",
+        "sol": " B"
+      },
+      {
+        "A": " Immersive ",
+        "B": " Clay motion ",
+        "C": " Stop motion ",
+        "D": " Augmented ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which animation is used to animate things that are smaller than life size. ",
+        "sol": " C"
+      },
+      {
+        "A": " Data polygon ",
+        "B": " Surface polygon ",
+        "C": " System polygon ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. The most commonly used boundary presentation for a 3D graphics object is :",
+        "sol": " B"
+      },
+      {
+        "A": " Penetrating point ",
+        "B": " Piercing point ",
+        "C": " Exit point ",
+        "D": " Vanishing point ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. The intersection point of visual rays with PPP is :",
+        "sol": " B"
+      },
+      {
+        "A": " Orthographic plane ",
+        "B": " Vertical plane ",
+        "C": " Perpective picture plane ",
+        "D": " Horizontal plane ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which one is vertical projection plane used to obtain the objects perspective : ",
+        "sol": " C"
+      },
+      {
+        "A": " Global Image Format ",
+        "B": " Graphics Interchange Format ",
+        "C": " Graphics Image Format ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. GIF stands for _______",
+        "sol": " B"
+      },
+      {
+        "A": " Transformation viewing ",
+        "B": " Viewport ",
+        "C": " Clipping window ",
+        "D": " Screen coordinate system ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The process of mapping a world window in world coordinate system to viewport are called",
+        "sol": " A "
+      },
+      {
+        "A": " Transformation ",
+        "B": " Projection ",
+        "C": " Clipping ",
+        "D": " Mapping ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The process of extracting a portion of a database or a picture inside or outside a specified region are called",
+        "sol": " C"
+      },
+      {
+        "A": " Transformation viewing ",
+        "B": " View port ",
+        "C": " Clipping window ",
+        "D": " Screen coordinate system ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The rectangle portion of the interface window that defines where the image will actually appear are called",
+        "sol": " B"
+      },
+      {
+        "A": " Screen coordinates ",
+        "B": " World coordinates ",
+        "C": " Device coordinates ",
+        "D": " Cartesian coordinates ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Coordinates of window are knows as _______",
+        "sol": " B "
+      },
+      {
+        "A": " World coordinates ",
+        "B": " Polar coordinates ",
+        "C": " Screen coordinates ",
+        "D": " Cartesian coordinates ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Coordinates of viewport are known as _______",
+        "sol": " C"
+      },
+      {
+        "A": " Clip square ",
+        "B": " Enclosing rectangle ",
+        "C": " Boundary ",
+        "D": " Clip window ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. The region against which an object is clipped is called a _______",
+        "sol": " D"
+      },
+      {
+        "A": " Interior clipping ",
+        "B": " Exterior clipping ",
+        "C": " Extraction ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. _______ identifies the picture portions that are exterior to the clip window",
+        "sol": " B"
+      },
+      {
+        "A": " Cohen-Sutherland ",
+        "B": " Liang Barsky ",
+        "C": " Sutherland Hodegeman ",
+        "D": " N-L-N ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The _______ algorithm divides a 2D space into 9 regions, of which only the middle part (viewport) is visible. ",
+        "sol": " A"
+      },
+      {
+        "A": " Concave polygon  ",
+        "B": " Convex polygon ",
+        "C": " Smooth curves ",
+        "D": " Line segment ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Sutherland Hodgeman algorithm works well for _______",
+        "sol": " B"
+      }
+    ],
+    "set3": [
+      {
+        "A": " 2 ",
+        "B": " 3 ",
+        "C": " 4 ",
+        "D": " 5 ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. How many types of video compression ?",
+        "sol": " A"
+      },
+      {
+        "A": " GIF ",
+        "B": " MPEG ",
+        "C": " JPEG ",
+        "D": " PNG ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which image files are a lossy format ?",
+        "sol": " C"
+      },
+      {
+        "A": " 1 ",
+        "B": " 2 ",
+        "C": " 3 ",
+        "D": " 4 ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. How many step process for creating a 3D animation ?",
+        "sol": " C "
+      },
+      {
+        "A": " Joint Photo Experts Gross ",
+        "B": " Joint Photographic Experts Gross ",
+        "C": " Joint Photographic Experts Group ",
+        "D": " Joint Photographic Expression Group ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. JPEG stands for :",
+        "sol": " C"
+      },
+      {
+        "A": " Loss less ",
+        "B": " Lossy ",
+        "C": " Cel based ",
+        "D": " Object based ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which compression provide some loss of quality?",
+        "sol": " B"
+      },
+      {
+        "A": " The phosphorous coating ",
+        "B": " The glass panel ",
+        "C": " The deflectors ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. ______ acts as anode in CRT",
+        "sol": " A"
+      },
+      {
+        "A": " 1 ",
+        "B": " 2 ",
+        "C": " 3 ",
+        "D": " 4 ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Slope of the line Joining the points (1,2) and (3,4) is :",
+        "sol": " A"
+      },
+      {
+        "A": " Space ball ",
+        "B": " Data glove ",
+        "C": " Digitizer ",
+        "D": " Touch panels ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Which device is used to grasp a virtual object?",
+        "sol": " B"
+      },
+      {
+        "A": " Refresh rate ",
+        "B": " Interlacing ",
+        "C": " Screen resolution ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The maximum number of dots that can be displayed without overlap on CRT is referred to as :",
+        "sol": " C"
+      },
+      {
+        "A": " Parallel ",
+        "B": " Perspective ",
+        "C": " Orthographic ",
+        "D": " Oblique ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. When projection lines are perpendicular to the view plane then such type of projection is called :",
+        "sol": " C"
+      },
+      {
+        "A": " Translations ",
+        "B": " Translations and scaling ",
+        "C": " Translations, scaling and reflection ",
+        "D": " Transslation, scaling and rotation ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The viewing transformation is formed by- ",
+        "sol": " D "
+      },
+      {
+        "A": " 512 KB ",
+        "B": " 1 MB ",
+        "C": " 2 MB ",
+        "D": " 256 KB ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Minimum memory required for frame buffer when resolution is 800X600 and bit/pixel is 8 ?",
+        "sol": " A"
+      },
+      {
+        "A": " bmp ",
+        "B": " jpg ",
+        "C": " tiff ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which is not image file format ? ",
+        "sol": " C"
+      },
+      {
+        "A": " 2 ",
+        "B": " 3 ",
+        "C": " 4 ",
+        "D": " 5 ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. How many matrices are required to rotate an object about points (x,y) ?",
+        "sol": " B"
+      },
+      {
+        "A": " y to x ",
+        "B": " z to x ",
+        "C": " x to y ",
+        "D": " y to z ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. If direction of rotation is Z-axis, then direction of position of positive rotation is :",
+        "sol": " B"
+      }
+    ],
+    "set4": [
+      {
+        "A": " Digital differential analyzer ",
+        "B": " Digital data analyzer ",
+        "C": " Discrete data analyzer ",
+        "D": " Discrete differential analyzer ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. DDA stands for :",
+        "sol": " A"
+      },
+      {
+        "A": " Round of error ",
+        "B": " Subtraction error ",
+        "C": " Addition error ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Disadvantage of DDA is :",
+        "sol": " A"
+      },
+      {
+        "A": " Y or Y+1 ",
+        "B": " Y alone ",
+        "C": " Y+1 or Y-1 ",
+        "D": " Y or Y-1 ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. In Brasenham’s circle generation algorithm if(x,y) is the current pixel position then y-value of the next pixel position is :",
+        "sol": " C"
+      },
+      {
+        "A": " Straight line ",
+        "B": " Curve line ",
+        "C": " Polygon ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Brasenham’s algorithm seeks to select the optimum raster locations that represent a :",
+        "sol": " A"
+      },
+      {
+        "A": " It eliminates floating point addition ",
+        "B": " It eliminates floating point multiplication ",
+        "C": " It eliminates rounding operation ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. The DDA algorithm is a faster method for calculating pixel positions than direct use of line equation using y=mx+c because ",
+        "sol": " B"
+      },
+      {
+        "A": " 4 Symmetry ",
+        "B": " 2 Symmetry ",
+        "C": " 8 Symmetry",
+        "D": " No Symmetry",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. In circle drawing algorithm we use – ",
+        "sol": " C"
+      },
+      {
+        "A": " Two or three dimensional ",
+        "B": " Two dimensional ",
+        "C": " Three dimensional ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Clipping algorithm are",
+        "sol": " A"
+      },
+      {
+        "A": " It does not require floating point arithmentic ",
+        "B": " No round-up is required ",
+        "C": " Both (a) and (b)\t",
+        "D": " It is eassily computable ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Bresenham’s line drawing is superior then DDA because",
+        "sol": " C "
+      },
+      {
+        "A": " S1S2=S2S1 ",
+        "B": " S1T1=S2T2 ",
+        "C": " T2S2=T1S1 ",
+        "D": " S1T1=T2S1 ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. In 2D graphics, if S1 & S2 are two scaling matrix and T1 and T2 are two transition matrices then",
+        "sol": " A"
+      },
+      {
+        "A": " P(t) = P0+(P1+P0)t ",
+        "B": " P(t) = P0+(P1-P0)t ",
+        "C": " P(t) = P0-(P1-P0)t ",
+        "D": " P(t) = P0-(P1+P0)t ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Parametric equation of straight line (where 0≤ t ≤1)is :",
+        "sol": " A"
+      },
+      {
+        "A": " First control point ",
+        "B": " First two control points ",
+        "C": " First three control points ",
+        "D": " All four control points ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The slope of the Bezier curve at the starting of the curve is controlled by :",
+        "sol": " C"
+      },
+      {
+        "A": " Frame buffer removal ",
+        "B": " Hidden line removal ",
+        "C": " Rendering ",
+        "D": " Animation ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Z-buffer algorithm is used for :",
+        "sol": " B"
+      },
+      {
+        "A": " Line clipping ",
+        "B": " Point clipping ",
+        "C": " Polygon clipping ",
+        "D": " Hybrid clipping ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Sutherland Hodgemon algorithm is used for :",
+        "sol": " C"
+      },
+      {
+        "A": " X ",
+        "B": " X-1 ",
+        "C": " X+1 ",
+        "D": " X+2 ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In Bresenham’s circle generation algorithms if (x,y) is the current pixel position then the x-value of the next pixel position is :",
+        "sol": " C"
+      },
+      {
+        "A": " To select optimum raster location ",
+        "B": " To select either ^x or ^y whichever is larger ",
+        "C": " We find on which sides of the line the midpoint lies ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The basic principle of Bresenham’s line algorithm is _____ ",
+        "sol": " A "
+      }
+    ],
+    "set5": [
+      {
+        "A": " Digital differential analyzer ",
+        "B": " Digital data analyzer ",
+        "C": " Discrete data analyzer ",
+        "D": " Discrete differential analyzer ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. DDA stands for :",
+        "sol": " A"
+      },
+      {
+        "A": " Round of error ",
+        "B": " Subtraction error ",
+        "C": " Addition error ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Disadvantage of DDA is :",
+        "sol": " A"
+      },
+      {
+        "A": " Y or Y+1 ",
+        "B": " Y alone ",
+        "C": " Y+1 or Y-1 ",
+        "D": " Y or Y-1 ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. In Brasenham’s circle generation algorithm if(x,y) is the current pixel position then y-value of the next pixel position is :",
+        "sol": " C"
+      },
+      {
+        "A": " Straight line ",
+        "B": " Curve line ",
+        "C": " Polygon ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Brasenham’s algorithm seeks to select the optimum raster locations that represent a :",
+        "sol": " A"
+      },
+      {
+        "A": " It eliminates floating point addition ",
+        "B": " It eliminates floating point multiplication ",
+        "C": " It eliminates rounding operation ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. The DDA algorithm is a faster method for calculating pixel positions than direct use of line equation using y=mx+c because ",
+        "sol": " B"
+      },
+      {
+        "A": " 4 Symmetry ",
+        "B": " 2 Symmetry ",
+        "C": " 8 Symmetry",
+        "D": " No Symmetry",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. In circle drawing algorithm we use – ",
+        "sol": " C"
+      },
+      {
+        "A": " Two or three dimensional ",
+        "B": " Two dimensional ",
+        "C": " Three dimensional ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Clipping algorithm are",
+        "sol": " A"
+      },
+      {
+        "A": " It does not require floating point arithmentic ",
+        "B": " No round-up is required ",
+        "C": " Both (a) and (b)\t",
+        "D": " It is eassily computable ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Bresenham’s line drawing is superior then DDA because",
+        "sol": " C "
+      },
+      {
+        "A": " S1S2=S2S1 ",
+        "B": " S1T1=S2T2 ",
+        "C": " T2S2=T1S1 ",
+        "D": " S1T1=T2S1 ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. In 2D graphics, if S1 & S2 are two scaling matrix and T1 and T2 are two transition matrices then",
+        "sol": " A"
+      },
+      {
+        "A": " P(t) = P0+(P1+P0)t ",
+        "B": " P(t) = P0+(P1-P0)t ",
+        "C": " P(t) = P0-(P1-P0)t ",
+        "D": " P(t) = P0-(P1+P0)t ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Parametric equation of straight line (where 0≤ t ≤1)is :",
+        "sol": " A"
+      },
+      {
+        "A": " First control point ",
+        "B": " First two control points ",
+        "C": " First three control points ",
+        "D": " All four control points ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The slope of the Bezier curve at the starting of the curve is controlled by :",
+        "sol": " C"
+      },
+      {
+        "A": " Frame buffer removal ",
+        "B": " Hidden line removal ",
+        "C": " Rendering ",
+        "D": " Animation ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Z-buffer algorithm is used for :",
+        "sol": " B"
+      },
+      {
+        "A": " Line clipping ",
+        "B": " Point clipping ",
+        "C": " Polygon clipping ",
+        "D": " Hybrid clipping ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Sutherland Hodgemon algorithm is used for :",
+        "sol": " C"
+      },
+      {
+        "A": " X ",
+        "B": " X-1 ",
+        "C": " X+1 ",
+        "D": " X+2 ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In Bresenham’s circle generation algorithms if (x,y) is the current pixel position then the x-value of the next pixel position is :",
+        "sol": " C"
+      },
+      {
+        "A": " To select optimum raster location ",
+        "B": " To select either ^x or ^y whichever is larger ",
+        "C": " We find on which sides of the line the midpoint lies ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The basic principle of Bresenham’s line algorithm is _____ ",
+        "sol": " A "
+      }
+    ],
+    "set6": [
+      {
+        "A": " Liquid cathode display ",
+        "B": " Liquid crystal display ",
+        "C": " Light cathode display ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. LCD stands for :",
+        "sol": " B"
+      },
+      {
+        "A": " Monitor ",
+        "B": " Memory buffer ",
+        "C": " Display controller ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which of the following is component of graphics?",
+        "sol": " D"
+      },
+      {
+        "A": " LCD ",
+        "B": " LED ",
+        "C": " GPT ",
+        "D": " DVST ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Which of the following is emmisive display ?",
+        "sol": " B"
+      },
+      {
+        "A": " Concave ",
+        "B": " Raster scan ",
+        "C": " Window ",
+        "D": " Clipping ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the following is a polygon class ? ",
+        "sol": " A"
+      },
+      {
+        "A": " Light emitting diode ",
+        "B": " Liquid emitting diode ",
+        "C": " Light energy diode ",
+        "D": " None of above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. LED stands for :",
+        "sol": " A"
+      },
+      {
+        "A": " Power element ",
+        "B": " Rasterization ",
+        "C": " Simulation ",
+        "D": " None of above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. The process of determining the appropriate pixels for and object is :",
+        "sol": " B"
+      },
+      {
+        "A": " Dot matrix printer ",
+        "B": " Laser printer ",
+        "C": " Inkjet printer ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the following is impact printer ?",
+        "sol": " A"
+      },
+      {
+        "A": " 1024*768 Pixels ",
+        "B": " 720*348 Pixels ",
+        "C": " 1280*1024 Pixels ",
+        "D": " 640*350 Pixels ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The resolution by SVGA is ?",
+        "sol": " C"
+      },
+      {
+        "A": " Image ",
+        "B": " Picture ",
+        "C": " Designs ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Graphics programs are those which create :",
+        "sol": " D"
+      },
+      {
+        "A": " Picture element ",
+        "B": " File format ",
+        "C": " Sound ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Pixel stands for :",
+        "sol": " A"
+      },
+      {
+        "A": " Convex and concave ",
+        "B": " Square and rectangle ",
+        "C": " Hexagon and square ",
+        "D": " Octagon and convex ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. There are two types of polygons. They are _____",
+        "sol": " A"
+      },
+      {
+        "A": " Flood fill ",
+        "B": " Boundary fill ",
+        "C": " Both (a) and (b) ",
+        "D": " Raster fill ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Which of the following is color filling algorithm ? ",
+        "sol": " C "
+      },
+      {
+        "A": " Two way symmetry ",
+        "B": " Four way symmetry ",
+        "C": " Eight way symmetry ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. The midpoint circle drawing algorithm also uses the _____ of the circle to generate ?",
+        "sol": "C "
+      },
+      {
+        "A": " Windowing ",
+        "B": " Clipping ",
+        "C": " Projecting ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The proces of selecting and viewing the picture with differnt views is called :",
+        "sol": " A"
+      },
+      {
+        "A": " Clip window or clipping window ",
+        "B": " Drawing window\t",
+        "C": " Image window ",
+        "D": " Both (b) and (c) ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The region against which an object is to be clipped is called _____",
+        "sol": " A"
+      }
+    ],
+    "set7": [
+      {
+        "A": " Monitor that have color ",
+        "B": " Monitor that have color not available ",
+        "C": " Random scan display ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Gray scale is used in :",
+        "sol": " B"
+      },
+      {
+        "A": " Resolution ",
+        "B": " Persistence ",
+        "C": " Attenuation ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. The maximum number of points that can be displayed without overlap on a CRT is referred to as :",
+        "sol": " A"
+      },
+      {
+        "A": " Animation ",
+        "B": " Morphing ",
+        "C": " Half tuning ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Graphics and image processing technique used to produce a transformation of one object into another is called :",
+        "sol": " B"
+      },
+      {
+        "A": " Motion Pictures ",
+        "B": " Music video ",
+        "C": " Television shows ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Computer graphics models are now commonly used for making :",
+        "sol": " D "
+      },
+      {
+        "A": " Cabinet projection ",
+        "B": " Isometric projection ",
+        "C": " Cavalier projection ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Oblique projection with an angle of 45 degreeto the horizontal plane is called as :",
+        "sol": " C"
+      },
+      {
+        "A": " x = -y ",
+        "B": " y = -x ",
+        "C": " x = y ",
+        "D": " x+y = 1 ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Reflection of a point about X-axis followed by a counter clockwise rotation of 90 degree is equivalent to reflection about the line ?",
+        "sol": " C"
+      },
+      {
+        "A": " Array ",
+        "B": " Matrix ",
+        "C": " Model ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Raster is a synonym for the term ?",
+        "sol": " B "
+      },
+      {
+        "A": " Boundary fills algorithm ",
+        "B": " Ground shading ",
+        "C": " Antialiasing ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The method super sampling is associated with ",
+        "sol": " C"
+      },
+      {
+        "A": " Parabola ",
+        "B": " Hyperbola ",
+        "C": " Ellipse ",
+        "D": " Circle ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. A circle, if scaled only in one direction becomes a :",
+        "sol": " C"
+      },
+      {
+        "A": " Partially invisible ",
+        "B": " Completly visible ",
+        "C": " Completly invisible ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. A line with endpoints codes as 0000 and 0100 is :",
+        "sol": " A"
+      },
+      {
+        "A": " Linear search ",
+        "B": " Binary search ",
+        "C": " Heap sort ",
+        "D": " Bubble sort ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Which of the following technique is used in Midpoint subdivision ?",
+        "sol": " B"
+      },
+      {
+        "A": " Decision variable ",
+        "B": " Error ",
+        "C": " Both (a) and (b) ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. In Bresenham’s line algorithm, the distance between actual line location and nearest pixel is _______",
+        "sol": " C"
+      },
+      {
+        "A": " LCD ",
+        "B": " GPD ",
+        "C": " LED ",
+        "D": " All of the above\t",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. _______ is/are non emissive display. ",
+        "sol": " A"
+      },
+      {
+        "A": " B-spline ",
+        "B": " Bezier spline ",
+        "C": " Beta spline ",
+        "D": " Hermite spline ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Which is an example of approximated spline ?",
+        "sol": " B"
+      },
+      {
+        "A": " Viewing window ",
+        "B": " Left clipping window ",
+        "C": " Right clipping window ",
+        "D": " Bottom clipping window\t",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The region code 0000 represents the _____",
+        "sol": " A"
+      }
+    ],
+    "set8": [
+      {
+        "A": " Control ray tube ",
+        "B": " Computer ray tube ",
+        "C": " Cathode ray tube ",
+        "D": " Camera ray tube ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. CRT stands for :",
+        "sol": " C"
+      },
+      {
+        "A": " Multimedia system ",
+        "B": " Software system ",
+        "C": " Automated system ",
+        "D": " Computer Graphics ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. In ______ picture or graphics objects are presented as a collection of discrete picture element.",
+        "sol": " D"
+      },
+      {
+        "A": " Projection ",
+        "B": " Shadow mask ",
+        "C": " Interactive ",
+        "D": " Pixel ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Which of the following is/are category of computer graphics ?",
+        "sol": " C"
+      },
+      {
+        "A": " Memory buffer ",
+        "B": " Display controller ",
+        "C": " Monitor ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which component of computer graphics is to pass the contents of frame buffer to monitor ?",
+        "sol": " B"
+      },
+      {
+        "A": " Raster scan ",
+        "B": " Random scan ",
+        "C": " Clipping ",
+        "D": " Windowing ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Shadow mask method is used in ______ system.",
+        "sol": " A"
+      },
+      {
+        "A": " Raster scan ",
+        "B": " Random scan ",
+        "C": " Transformation ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. ______ system is designed for line drawing applications and cannot display realistic shaded screen : ",
+        "sol": " B"
+      },
+      {
+        "A": " Digital view storage tube ",
+        "B": " Differential view storage tube ",
+        "C": " Direct view storage tube ",
+        "D": " Data virtual storage tube ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. DVST stands for ",
+        "sol": " C"
+      },
+      {
+        "A": " LED ",
+        "B": " Printer ",
+        "C": " LCD ",
+        "D": " DVST ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Which of the following is/are example of emissive display ? ",
+        "sol": " A"
+      },
+      {
+        "A": " Monitor ",
+        "B": " Scanner ",
+        "C": " Printer ",
+        "D": " Light pen ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. A device that optically scans images, printed text, hand writing or an object and convert it to a digital image is called ______",
+        "sol": " B"
+      },
+      {
+        "A": " Dot matrix printer ",
+        "B": " Laser printer ",
+        "C": " Ink jet printer ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following is impact printer ?",
+        "sol": " A"
+      },
+      {
+        "A": " Interlacing ",
+        "B": " Beam penetration ",
+        "C": " Clipping ",
+        "D": " Projection ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Raster scan display uses ______",
+        "sol": " A"
+      },
+      {
+        "A": " Image depth ",
+        "B": " Aspect ratio ",
+        "C": " Hit ratio ",
+        "D": " Resolution ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. ______ is the number of pixels in a linear inch.",
+        "sol": " D"
+      },
+      {
+        "A": " Digital differential analyzer ",
+        "B": " Digital data analyzer ",
+        "C": " Discrete data analyzer ",
+        "D": " Discrete differential analyzer ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. DDA stands for :",
+        "sol": " A"
+      },
+      {
+        "A": " Vector drawn ",
+        "B": " Bitmap ",
+        "C": " Resolution ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Dot matrix method of character generation is also called ______ method.",
+        "sol": " B"
+      },
+      {
+        "A": " Analyzer ",
+        "B": " Negative orientation ",
+        "C": " Positive orientation ",
+        "D": " All the above ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. A polygon said to be ______ if visiting of all the vertices in the given order produces a counter clockwise circuit.",
+        "sol": " C"
+      }
+    ],
+    "set9": [
+      {
+        "A": " Control ray tube ",
+        "B": " Computer ray tube ",
+        "C": " Cathode ray tube ",
+        "D": " Camera ray tube ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. CRT stands for :",
+        "sol": " C"
+      },
+      {
+        "A": " Multimedia system ",
+        "B": " Software system ",
+        "C": " Automated system ",
+        "D": " Computer Graphics ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. In ______ picture or graphics objects are presented as a collection of discrete picture element.",
+        "sol": " D"
+      },
+      {
+        "A": " Projection ",
+        "B": " Shadow mask ",
+        "C": " Interactive ",
+        "D": " Pixel ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Which of the following is/are category of computer graphics ?",
+        "sol": " C"
+      },
+      {
+        "A": " Memory buffer ",
+        "B": " Display controller ",
+        "C": " Monitor ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which component of computer graphics is to pass the contents of frame buffer to monitor ?",
+        "sol": " B"
+      },
+      {
+        "A": " Raster scan ",
+        "B": " Random scan ",
+        "C": " Clipping ",
+        "D": " Windowing ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Shadow mask method is used in ______ system.",
+        "sol": " A"
+      },
+      {
+        "A": " Raster scan ",
+        "B": " Random scan ",
+        "C": " Transformation ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. ______ system is designed for line drawing applications and cannot display realistic shaded screen : ",
+        "sol": " B"
+      },
+      {
+        "A": " Digital view storage tube ",
+        "B": " Differential view storage tube ",
+        "C": " Direct view storage tube ",
+        "D": " Data virtual storage tube ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. DVST stands for ",
+        "sol": " C"
+      },
+      {
+        "A": " LED ",
+        "B": " Printer ",
+        "C": " LCD ",
+        "D": " DVST ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Which of the following is/are example of emissive display ? ",
+        "sol": " A"
+      },
+      {
+        "A": " Monitor ",
+        "B": " Scanner ",
+        "C": " Printer ",
+        "D": " Light pen ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. A device that optically scans images, printed text, hand writing or an object and convert it to a digital image is called ______",
+        "sol": " B"
+      },
+      {
+        "A": " Dot matrix printer ",
+        "B": " Laser printer ",
+        "C": " Ink jet printer ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following is impact printer ?",
+        "sol": " A"
+      },
+      {
+        "A": " Interlacing ",
+        "B": " Beam penetration ",
+        "C": " Clipping ",
+        "D": " Projection ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Raster scan display uses ______",
+        "sol": " A"
+      },
+      {
+        "A": " Image depth ",
+        "B": " Aspect ratio ",
+        "C": " Hit ratio ",
+        "D": " Resolution ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. ______ is the number of pixels in a linear inch.",
+        "sol": " D"
+      },
+      {
+        "A": " Digital differential analyzer ",
+        "B": " Digital data analyzer ",
+        "C": " Discrete data analyzer ",
+        "D": " Discrete differential analyzer ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. DDA stands for :",
+        "sol": " A"
+      },
+      {
+        "A": " Vector drawn ",
+        "B": " Bitmap ",
+        "C": " Resolution ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Dot matrix method of character generation is also called ______ method.",
+        "sol": " B"
+      },
+      {
+        "A": " Analyzer ",
+        "B": " Negative orientation ",
+        "C": " Positive orientation ",
+        "D": " All the above ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. A polygon said to be ______ if visiting of all the vertices in the given order produces a counter clockwise circuit.",
+        "sol": " C"
+      }
+    ]
+  }
+}

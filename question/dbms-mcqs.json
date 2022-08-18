@@ -1,0 +1,1216 @@
+{
+  "dbms-mcqs": {
+    "set1": [
+      {
+        "A": " Data Bank Access ",
+        "B": " Database Access ",
+        "C": " Database Administrator ",
+        "D": " Database Assistant ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. DBA stands for ",
+        "sol": " C"
+      },
+      {
+        "A": " Dashed line ",
+        "B": " Rectangle ",
+        "C": " Double rectangle ",
+        "D": " Double line ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. In ER diagram, the total participation by entities is represented as ______",
+        "sol": " D"
+      },
+      {
+        "A": " Queries ",
+        "B": " Reports ",
+        "C": " Forms ",
+        "D": " Tables ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. The feature that database allows to access only certain records in database is ______",
+        "sol": " A"
+      },
+      {
+        "A": " Atomicity ",
+        "B": " Concurrency ",
+        "C": " Isolation ",
+        "D": " Durability ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the following is not a property of transactions?",
+        "sol": " B"
+      },
+      {
+        "A": " Selection operator ",
+        "B": " Projection operator ",
+        "C": " Aggregation operator ",
+        "D": " Division operator ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Relational Algebra does not have ",
+        "sol": " C"
+      },
+      {
+        "A": " Network model ",
+        "B": " Relation model ",
+        "C": " Hierarchical model ",
+        "D": " File based system ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Tree structure are used to store data in ",
+        "sol": " C"
+      },
+      {
+        "A": " Procedural DML ",
+        "B": " Non-procedural DML ",
+        "C": " Procedural DDL ",
+        "D": " Non-procedural DDL ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The language that requires a user to specify the data to be retrieved without specifying exactly how to get it is ",
+        "sol": " B"
+      },
+      {
+        "A": " Referential constraint ",
+        "B": " Index ",
+        "C": " Integrity constraint ",
+        "D": " Functional dependency ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The rule that a value of a foreign key must appear as a value of some specific table is called a ",
+        "sol": " A"
+      },
+      {
+        "A": " Total participation ",
+        "B": " Multiple participation ",
+        "C": " Cardinality N ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. In an ER diagram double lines indicate ",
+        "sol": " A"
+      },
+      {
+        "A": " Functional dependency ",
+        "B": " Multivalued dependency ",
+        "C": " Join dependency ",
+        "D": " Domain key ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Fifth Normal form is concerned with ",
+        "sol": " C"
+      },
+      {
+        "A": " DML compiler ",
+        "B": " DML pre-processor ",
+        "C": " DDL interpreter ",
+        "D": " Query interpreter ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The metadata is created by the ",
+        "sol": " C"
+      },
+      {
+        "A": " Weak entity sets ",
+        "B": " Weak relationship sets ",
+        "C": " Strong entity sets ",
+        "D": " Strong relationship sets ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. When an ER diagram is mapped to tables, the representation is redundant for ",
+        "sol": " B"
+      },
+      {
+        "A": " Superkey ",
+        "B": " Candidate key ",
+        "C": " Primary key ",
+        "D": " Not a key ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. If the closure of an attribute set is the entire relation then the attribute set is a ",
+        "sol": " A"
+      },
+      {
+        "A": " DISTINCT ",
+        "B": " NO DUPLICATE ",
+        "C": " UNIQUE ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The keyword to eliminate duplicate rows from the query result in SQL is ",
+        "sol": " C"
+      },
+      {
+        "A": " Distributed data ",
+        "B": " Raw data ",
+        "C": " Encapsulated data ",
+        "D": " Meta ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The information stored in the catalog of a database is called",
+        "sol": " D"
+      },
+      {
+        "A": " Direct ",
+        "B": " Hash ",
+        "C": " Random ",
+        "D": " Sequential ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. The method of access which uses key transformation is known as ",
+        "sol": " B"
+      },
+      {
+        "A": " Data is defined separately and not included in programs ",
+        "B": " Programs are not dependent on the physical attributes of data ",
+        "C": " Programs are not dependent on the logical attributes of data ",
+        "D": " Both (b) and (c) ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Data independence means ",
+        "sol": " D"
+      },
+      {
+        "A": " Alter ",
+        "B": " Update ",
+        "C": " Create ",
+        "D": " Select ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. The statement in SQL which allows to change the definition of a table is ",
+        "sol": " A"
+      },
+      {
+        "A": " Network model ",
+        "B": " Hierarchical model ",
+        "C": " Relational model ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. SET concept is used in ",
+        "sol": " A"
+      },
+      {
+        "A": " Cartesian product ",
+        "B": " Difference ",
+        "C": " Intersection ",
+        "D": " Product ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. ______ produces the relation that has attributes of R1 and R2",
+        "sol": " A"
+      }
+    ],
+    "set2": [
+      {
+        "A": " HLL ",
+        "B": " DML ",
+        "C": " DDL ",
+        "D": " DCL ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The database schema is written in",
+        "sol": " C"
+      },
+      {
+        "A": " Physical level ",
+        "B": " Logical level ",
+        "C": " Conceptual level ",
+        "D": " View level ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. In the architecture of a database system external level is the ",
+        "sol": " D"
+      },
+      {
+        "A": " Graph ",
+        "B": " List ",
+        "C": " Links ",
+        "D": " Tree ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. In a Hierarchical level model records are organized as",
+        "sol": " D"
+      },
+      {
+        "A": " DML ",
+        "B": " DDL ",
+        "C": " VDL ",
+        "D": " SDL ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. The language used in application programs to request data from the DBMS is refered to as the ",
+        "sol": " A"
+      },
+      {
+        "A": " Primary key ",
+        "B": " Secondary key ",
+        "C": " Foreign key ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Key to represent relationship between tables is called",
+        "sol": " C"
+      },
+      {
+        "A": " Tree structure ",
+        "B": " Plex structure ",
+        "C": " Normalize structure ",
+        "D": " Table structure ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Hierarchical model is also called",
+        "sol": " A"
+      },
+      {
+        "A": " DSS ",
+        "B": " MIS ",
+        "C": " ESS ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the system uses Multidimensional data analysis?",
+        "sol": " A"
+      },
+      {
+        "A": " Schema ",
+        "B": " Subschema ",
+        "C": " Virtual table ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. A view of database that appears to an application program is known as :",
+        "sol": " B"
+      },
+      {
+        "A": " Specialization ",
+        "B": " Normalization ",
+        "C": " Generalization ",
+        "D": " Aggregation ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. An abstraction concept for building composite object from their component object is called :",
+        "sol": " D"
+      },
+      {
+        "A": " Object ",
+        "B": " Class ",
+        "C": " Entity ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. A set of objects that share a common structure and a common behavior is called",
+        "sol": " B"
+      },
+      {
+        "A": " Using generalization ",
+        "B": " Adding appropriate attributes ",
+        "C": " Using aggregation ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Every weak entity set can be converted into a strong entity set by :",
+        "sol": " B"
+      },
+      {
+        "A": " Entity ",
+        "B": " Cardinality ",
+        "C": " Schema ",
+        "D": " Attributes ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. The number of entities to which another entity can be associated via a relationship set is expressed as :",
+        "sol": " B"
+      },
+      {
+        "A": " First normal form ",
+        "B": " Second normal form ",
+        "C": " Third normal form ",
+        "D": " Fourth normal form ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Relations produced from an ER model will always be in :",
+        "sol": " C"
+      },
+      {
+        "A": " Generalization ",
+        "B": " Specialization ",
+        "C": " Abstraction ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. In ER model the details of the entities are hidden from the user. This process is called",
+        "sol": " C"
+      },
+      {
+        "A": " Primary key ",
+        "B": " Foreign key ",
+        "C": " Secondary key ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. In a relational database a referential integrity constraint can be specified with the help of ",
+        "sol": " B"
+      },
+      {
+        "A": " Transitive dependency ",
+        "B": " Join dependency ",
+        "C": " Multi valued dependency ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. 4NF is designed to cope with ",
+        "sol": " C"
+      },
+      {
+        "A": " Delete ",
+        "B": " Remove ",
+        "C": " Turncate ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Which command is used to remove all rows from a table ?",
+        "sol": " C "
+      },
+      {
+        "A": " Union ",
+        "B": " Like ",
+        "C": " Group By ",
+        "D": " Max ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Which of the following is an aggregate function in SQL ?",
+        "sol": " D"
+      },
+      {
+        "A": " Create ",
+        "B": " Update ",
+        "C": " Alter ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which command is used to add a column to an existing table ?",
+        "sol": " C "
+      },
+      {
+        "A": " Has a cycle in it ",
+        "B": " Has a path from first node to last node ",
+        "C": " is a tree ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. A deadlock exists in the system if and only if the wait for graph :",
+        "sol": " A"
+      }
+    ],
+    "set3": [
+      {
+        "A": " How and where ",
+        "B": " View ",
+        "C": " Domain ",
+        "D": " Important ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The internal schema defines _____ data are organized in physical data storage.",
+        "sol": " A"
+      },
+      {
+        "A": " Attribute ",
+        "B": " Tuple ",
+        "C": " Field ",
+        "D": " Instance ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. The term _____ is used to refer a row.",
+        "sol": " B"
+      },
+      {
+        "A": " 10 ",
+        "B": " 100 ",
+        "C": " 1000 ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. What is the cardinality of a table with 100 rows and 10 columns?",
+        "sol": " C"
+      },
+      {
+        "A": " Domain Constraint ",
+        "B": " Entity Integrity\t",
+        "C": " Referential Integrity ",
+        "D": " All of above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the following is an integrity constraint?",
+        "sol": " C"
+      },
+      {
+        "A": " Multi-valued dependency ",
+        "B": " Functional dependency ",
+        "C": " Temporal dependency ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. _____ is a many-to-one relationship between two sets of attributes of a given relation.",
+        "sol": " D"
+      },
+      {
+        "A": " Simple ",
+        "B": " Composite ",
+        "C": " Derived ",
+        "D": " Multi-valued ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following is an attribute that holds multiple values for a single entity?",
+        "sol": " D"
+      },
+      {
+        "A": " Specialization ",
+        "B": " Generalization\t",
+        "C": " Categorization ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the following is a top-down process?",
+        "sol": " A"
+      },
+      {
+        "A": " Primary key ",
+        "B": " Super key ",
+        "C": " Candidate key ",
+        "D": " All of above ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. A relation is in BCNF if and only if every determinant is :",
+        "sol": " D"
+      },
+      {
+        "A": " Description of logical structure of database ",
+        "B": " Addition of new structure in the database system ",
+        "C": " Manipulation & processing of database ",
+        "D": " Definition of physical structure of database system ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. DML is provided for ",
+        "sol": " C"
+      },
+      {
+        "A": " INSERT ",
+        "B": " UPDATE ",
+        "C": " DELETE ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following is DML command?",
+        "sol": " D"
+      },
+      {
+        "A": " COUNT() ",
+        "B": " COUNT(*) ",
+        "C": " SUM() ",
+        "D": " AVG() ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The key word DISTINCT is not allowed for _____ function.",
+        "sol": " D"
+      },
+      {
+        "A": " Defered Update ",
+        "B": " Immediate Update ",
+        "C": " Shadow paging ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. _____ is a technique where transction logs are not required.",
+        "sol": " B "
+      },
+      {
+        "A": " Object Database Connectivity ",
+        "B": " Oral Database Connectivity ",
+        "C": " Oracle Database Connectivity ",
+        "D": " Open Database Connectivity ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. ODBC stands for ",
+        "sol": " D"
+      },
+      {
+        "A": " One-to-One ",
+        "B": " One-to-Many ",
+        "C": " Many-to-Many ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The Association between Department and Employee is :",
+        "sol": " B"
+      },
+      {
+        "A": " Inconsistency ",
+        "B": " Redundency ",
+        "C": " Atomicity ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Repeatation of data is called :",
+        "sol": " B"
+      },
+      {
+        "A": " Repeating groups ",
+        "B": " Transitive dependency ",
+        "C": " Partial functional dependency ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. In 2NF we remove :",
+        "sol": " C"
+      },
+      {
+        "A": " CHARACTER ",
+        "B": " NUMERIC ",
+        "C": " FLOAT ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Which of the following is a valid SQL data type ?",
+        "sol": " D "
+      },
+      {
+        "A": " ALL ",
+        "B": " FULL ",
+        "C": " PUBLIC ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Which keyword in the GRANT command gives priviledges to all valid users of the DBMS?",
+        "sol": " C"
+      },
+      {
+        "A": " Authentication ",
+        "B": " Authorization ",
+        "C": " Access control ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which of the following is the process by which a user’s identity is checked?",
+        "sol": " B "
+      },
+      {
+        "A": " COUNT() ",
+        "B": " AVG() ",
+        "C": " SUM() ",
+        "D": " SELECT() ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which is not Aggregate function?",
+        "sol": " D"
+      }
+    ],
+    "set4": [
+      {
+        "A": " Simple attribute ",
+        "B": " Base attribute ",
+        "C": " Derived attribute ",
+        "D": " Descriptive attribute ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Dashed ellipse are used to represent which attribute ?",
+        "sol": " C"
+      },
+      {
+        "A": " Raw ",
+        "B": " Polished ",
+        "C": " Computer output ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Data is ______ information?",
+        "sol": " A"
+      },
+      {
+        "A": " DDL ",
+        "B": " DML ",
+        "C": " DQL ",
+        "D": " DCL ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Create table is the ______ command.",
+        "sol": " A"
+      },
+      {
+        "A": " Database design ",
+        "B": " Performing monitoring ",
+        "C": " User coordination ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which of the following is a database administrator’s function ?",
+        "sol": " D"
+      },
+      {
+        "A": " Attributes ",
+        "B": " DATA ",
+        "C": " Entities ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. ER represents the relationship between ",
+        "sol": " A"
+      },
+      {
+        "A": " Primary key ",
+        "B": " Foreign key ",
+        "C": " Super key ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. A candidate key is a subset of ",
+        "sol": " C "
+      },
+      {
+        "A": " Entities ",
+        "B": " Relations ",
+        "C": " Database ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The relational model represents the database as a collection of",
+        "sol": " B"
+      },
+      {
+        "A": " Specialization ",
+        "B": " Generalization ",
+        "C": " Aggregation ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. The process of designating subgrouping within an entity set is called –",
+        "sol": " A "
+      },
+      {
+        "A": " Zero ",
+        "B": " One ",
+        "C": " Null ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. The entity integrity constraint states that no primary key value can be ",
+        "sol": " C"
+      },
+      {
+        "A": " Tuple ",
+        "B": " Row ",
+        "C": " Domain ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. For each attribute there is set of permitted valued called ",
+        "sol": " C"
+      },
+      {
+        "A": " Transitive ",
+        "B": " Full functional dependency ",
+        "C": " Both ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. Second normal form(2NF) is based on the concept of –",
+        "sol": " B"
+      },
+      {
+        "A": " Eliminating redundant data ",
+        "B": " Providing security ",
+        "C": " Maintenance of database ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Normalization is used for –",
+        "sol": " A"
+      },
+      {
+        "A": " Lossy ",
+        "B": " Lossless ",
+        "C": " Both ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Decomposition should always be",
+        "sol": " B "
+      },
+      {
+        "A": " Two ",
+        "B": " Three ",
+        "C": " Four\t",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. A functional dependency is basically a constraint between sets of attributes from the database.",
+        "sol": " A"
+      },
+      {
+        "A": " Logical ",
+        "B": " Physical ",
+        "C": " View ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The lowest level of data abstraction is ",
+        "sol": " B "
+      },
+      {
+        "A": " Strong ",
+        "B": " Weak ",
+        "C": " Double ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Double rectangles are used to represent ______ entity set.",
+        "sol": " B"
+      },
+      {
+        "A": " Data security ",
+        "B": " Deadlock ",
+        "C": " Data loss ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Two phase lacking does not ensure freedom from ______",
+        "sol": " B"
+      },
+      {
+        "A": " RENAME ",
+        "B": " GRANT ",
+        "C": " UPDATE ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Which of the following is DCL command ?",
+        "sol": " C "
+      },
+      {
+        "A": " Projection ",
+        "B": " Selection ",
+        "C": " Union ",
+        "D": " Join ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which of the following operation is used if we are instrested in only certain columns of a table?",
+        "sol": " A"
+      },
+      {
+        "A": " Data independence ",
+        "B": " Centralized control of data ",
+        "C": " Neither (a) nor (b) ",
+        "D": " Both (a) and (b) ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. DBMS helps achieve :",
+        "sol": " D"
+      }
+    ],
+    "set5": [
+      {
+        "A": " Unique Index ",
+        "B": " Sequence ",
+        "C": " Trigger ",
+        "D": " Synonym ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. When a primary key is define in the table, DBMS automatically creates a _______ on a primary key column.",
+        "sol": " A"
+      },
+      {
+        "A": " First ",
+        "B": " Second ",
+        "C": " Third ",
+        "D": " BCNF ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Which normal form is the partial dependency removed ?",
+        "sol": " B"
+      },
+      {
+        "A": " Trees ",
+        "B": " Stacks ",
+        "C": " Graph ",
+        "D": " Array ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Which is major data structure used in RDBMS ?",
+        "sol": " D"
+      },
+      {
+        "A": " Conceptual view ",
+        "B": " Internal view ",
+        "C": " External view ",
+        "D": " Physical view ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. The view of Total Database content is :",
+        "sol": " A"
+      },
+      {
+        "A": " Count ",
+        "B": " Avg ",
+        "C": " Create ",
+        "D": " Max ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which is not Aggregate function ?",
+        "sol": " C"
+      },
+      {
+        "A": " DML ",
+        "B": " DDL ",
+        "C": " UML ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Under which category do the commands CREATE and ALTER belong to :",
+        "sol": " B"
+      },
+      {
+        "A": " Atomicity, Consistency, Isolation, Durability ",
+        "B": " Atomicity, Concurrency, Isolation, Duplicity ",
+        "C": " Aggregation, Consistency, Isolation, Durability ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. ACID stands for :",
+        "sol": " A"
+      },
+      {
+        "A": " Only one ",
+        "B": " At least one ",
+        "C": " More than one ",
+        "D": " Any number of ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. How many primary key can a table in database ?",
+        "sol": " A"
+      },
+      {
+        "A": " Groups ",
+        "B": " Table ",
+        "C": " Attributes ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Which of the following are properties of entities ?",
+        "sol": " C"
+      },
+      {
+        "A": " DDL ",
+        "B": " Meta Language ",
+        "C": " Procedural Query Language ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Relational Algebra is :",
+        "sol": " C "
+      },
+      {
+        "A": " Alter ",
+        "B": " Update ",
+        "C": " Create ",
+        "D": " Select ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The statement in SQL which allows to change the definition of table is :",
+        "sol": " A "
+      },
+      {
+        "A": " Values ",
+        "B": " District Values ",
+        "C": " Groups ",
+        "D": " Columns ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Count function in SQL returns the number of :",
+        "sol": " A"
+      },
+      {
+        "A": " Ellipse ",
+        "B": " Square ",
+        "C": " Rectangle ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. In an ER diagram Entity set is represented by",
+        "sol": " C"
+      },
+      {
+        "A": " DML ",
+        "B": " DDL ",
+        "C": " VOL ",
+        "D": " SOL ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The language used in application program to request data from DBMS is referred as :",
+        "sol": " A"
+      },
+      {
+        "A": " Rows ",
+        "B": " Columns ",
+        "C": " Degree ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The number of attributes in a relation is called its _______",
+        "sol": " C"
+      },
+      {
+        "A": " Hierarchical ",
+        "B": " Relational ",
+        "C": " Network ",
+        "D": " Transition ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Which of the following is not a type of Database ?",
+        "sol": " D"
+      },
+      {
+        "A": " DML ",
+        "B": " DDL ",
+        "C": " View ",
+        "D": " Integrity Constraint ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. SELECT* from employee is what type of statement:",
+        "sol": " A"
+      },
+      {
+        "A": " Dynamic Data Language ",
+        "B": " Detailed Data Language ",
+        "C": " Data Definition Language ",
+        "D": " Data Definition Language ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. The full form of DDL is :",
+        "sol": " C"
+      },
+      {
+        "A": " External ",
+        "B": " Internal ",
+        "C": " Physical ",
+        "D": " Conceptual ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. Which database is closest to the users:",
+        "sol": " A"
+      },
+      {
+        "A": " = ",
+        "B": " LIKE ",
+        "C": " BETWEEN ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which of the following is comparison operator in SQL ?",
+        "sol": " A"
+      }
+    ],
+    "set6": [
+      {
+        "A": " Set Difference ",
+        "B": " Cartesian Product ",
+        "C": " Rename ",
+        "D": " Join ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Which is not the relational Algebra operators",
+        "sol": " A"
+      },
+      {
+        "A": " Triangle labeled IS A ",
+        "B": " Rectangle labeled IS A ",
+        "C": " Rectangle labeled HAS A ",
+        "D": " Triangle labeled HAS A ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. How is specialization denoted in ER diagram ?",
+        "sol": " A"
+      },
+      {
+        "A": " MySQL ",
+        "B": " SQL Server ",
+        "C": " Microsoft Access ",
+        "D": " Oracle ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. Which of the following is open source DBMS ?",
+        "sol": " A"
+      },
+      {
+        "A": " DELETE ",
+        "B": " SELECT ",
+        "C": " DISTINCT ",
+        "D": " UNIQUE ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which SQL keyword is used to remove the duplication of rows from the result set?",
+        "sol": " C"
+      },
+      {
+        "A": " Data Record ",
+        "B": " Data File ",
+        "C": " Data Base ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. What is the highest level in a hierarchy of data organisation",
+        "sol": " C"
+      },
+      {
+        "A": " Primary Key ",
+        "B": " Foreign Key ",
+        "C": " Unique Key ",
+        "D": " Candidate Key ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following is known as minimal super key ",
+        "sol": " D"
+      },
+      {
+        "A": " Modify ",
+        "B": " Look Up ",
+        "C": " Update ",
+        "D": " Change ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which command allow the users to change multiple data fields ?",
+        "sol": " A"
+      },
+      {
+        "A": " DCL ",
+        "B": " DML ",
+        "C": " DDL ",
+        "D": " All of these ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Which of the following language is used to define the integrity constraint",
+        "sol": " C"
+      },
+      {
+        "A": " Rectangle ",
+        "B": " Square ",
+        "C": " Ellipse ",
+        "D": " Triangle ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. In an ER diagram Attributes are represented as :",
+        "sol": " C"
+      },
+      {
+        "A": " Two levels ",
+        "B": " Four levels ",
+        "C": " Three levels ",
+        "D": " One level ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Architecture of database can be Viewed as ",
+        "sol": " C "
+      },
+      {
+        "A": " Tuples ",
+        "B": " Attributes\t",
+        "C": " Table ",
+        "D": " Rows ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. In relational model, relations are termed as ",
+        "sol": " C"
+      },
+      {
+        "A": " Unary Operator ",
+        "B": " Binary Operator ",
+        "C": " Ternary Operator ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. A cartesian product in relational algebra is ",
+        "sol": " B"
+      },
+      {
+        "A": " Structured Query language ",
+        "B": " Sequential Query language ",
+        "C": " Structured Question language ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. SQL stands for –",
+        "sol": " A"
+      },
+      {
+        "A": " User Data ",
+        "B": " Meta Data ",
+        "C": " Reports ",
+        "D": " Indexes ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. The following are component of a database except",
+        "sol": " C"
+      },
+      {
+        "A": " Attributes ",
+        "B": " Degree ",
+        "C": " Tuple ",
+        "D": " Domain ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. A set of possible data values is ?",
+        "sol": " D"
+      },
+      {
+        "A": " Base table ",
+        "B": " Index ",
+        "C": " View ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. Which of the following data base object does not physically exist?",
+        "sol": " C"
+      },
+      {
+        "A": " Unary operator ",
+        "B": " Ternary operator ",
+        "C": " Binary operator ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Cross product is a ",
+        "sol": " C"
+      },
+      {
+        "A": " Ellipse ",
+        "B": " Dashed line ",
+        "C": " Rectangle ",
+        "D": " Diamond ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. In ER diagram relationship is represented by ",
+        "sol": " D"
+      },
+      {
+        "A": " UPDATE ",
+        "B": " DROP ",
+        "C": " ALTER ",
+        "D": " DELETE ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. To delete a particular column in a relation the command used is ?",
+        "sol": " C"
+      },
+      {
+        "A": " Join ",
+        "B": " Self join ",
+        "C": " Quter join ",
+        "D": " Equi join ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. A table joined with itself is called ",
+        "sol": " B"
+      }
+    ]
+  }
+}

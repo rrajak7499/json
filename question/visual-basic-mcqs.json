@@ -1,0 +1,460 @@
+{
+  "visual-basic-mcqs": {
+    "set1": [
+      {
+        "A": " IBM ",
+        "B": " Microsoft ",
+        "C": " Microsystem ",
+        "D": " Oracle ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. Visual Basic is developed by:",
+        "sol": " B"
+      },
+      {
+        "A": " Real Time ",
+        "B": " Graphical User Interface ",
+        "C": " Character User Interface ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. Visual Basic is a tool that allows you to develop application in ______.",
+        "sol": " B"
+      },
+      {
+        "A": " Form Layout Window ",
+        "B": " Code Editor Window ",
+        "C": " Object Browser ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. ______ is used for finding out about objects, properties and methods. ",
+        "sol": " C "
+      },
+      {
+        "A": " Internet Development Environment ",
+        "B": " Integrated Dual Environment ",
+        "C": " Integrated Development Environment ",
+        "D": " Integrated Desktop Environment ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. IDE stands for ______",
+        "sol": " C"
+      },
+      {
+        "A": " Project window ",
+        "B": " Properties window ",
+        "C": " Form layout window ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Which window displays a list of all forms and modules making up your application.",
+        "sol": " A"
+      },
+      {
+        "A": " Project window ",
+        "B": " Form window ",
+        "C": " Properties window ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which of the following window is the central to the development of Visual Basic applications.",
+        "sol": " B"
+      },
+      {
+        "A": " Immediate window ",
+        "B": " Local window ",
+        "C": " Code editor window ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. In ______ window we can write code.",
+        "sol": " C "
+      },
+      {
+        "A": " Immediate window ",
+        "B": " Locals window ",
+        "C": " watches window ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. ______ shows the value of any variables within the scope of the current procedure.",
+        "sol": " B"
+      },
+      {
+        "A": " Object box ",
+        "B": " Decription pane ",
+        "C": " Form layout window ",
+        "D": " Code editor ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. ______ shows the property type as well as a short description of the property.",
+        "sol": " B"
+      },
+      {
+        "A": " Watch window ",
+        "B": " Variables window ",
+        "C": " Locals window\t",
+        "D": " Immediate window ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which window shows information that results from debugging statements in our code.",
+        "sol": " D"
+      },
+      {
+        "A": " 255 ",
+        "B": " 300 ",
+        "C": " 355 ",
+        "D": " 400 ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. In visual basic a variable name cannot be more than ______ characters.",
+        "sol": " A"
+      },
+      {
+        "A": " .frm ",
+        "B": " .vbp ",
+        "C": " .cls ",
+        "D": " .vb ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. In visual basic ______ is the extension to represent project file.",
+        "sol": " B "
+      },
+      {
+        "A": " Text ",
+        "B": " Enable ",
+        "C": " Multiline ",
+        "D": " Password char ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. The default property of a text for control is ______",
+        "sol": " A"
+      },
+      {
+        "A": " Class ",
+        "B": " Group ",
+        "C": " Project ",
+        "D": " All of the above ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. ______ is a collection of files.",
+        "sol": " C"
+      },
+      {
+        "A": " Load ",
+        "B": " Show ",
+        "C": " Display ",
+        "D": " All of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. The method, which loads the form into memory and displays it on screen is.",
+        "sol": " B"
+      }
+    ],
+    "set2": [
+      {
+        "A": " Checking ",
+        "B": " Compiling ",
+        "C": " Debugging ",
+        "D": " Quick Watch ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. ______ is the process of finding and removing errorss.",
+        "sol": " C"
+      },
+      {
+        "A": " Global ",
+        "B": " Local ",
+        "C": " External ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. A ______ variable is one that is declared inside a procedure.",
+        "sol": " B"
+      },
+      {
+        "A": " Multiple Document Interface ",
+        "B": " Multiple Design Interface ",
+        "C": " Manipulated Document Interface ",
+        "D": " Menu Design Interface ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. MDI stands for ______",
+        "sol": " A"
+      },
+      {
+        "A": " Frame ",
+        "B": " Label ",
+        "C": " List Box ",
+        "D": " Command Button ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. ______ Control is used to provide an identifiable grouping of other controls.",
+        "sol": " A"
+      },
+      {
+        "A": " Text Box ",
+        "B": " Label Box ",
+        "C": " List Box ",
+        "D": " Command Button ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. ______ control is used to display text but user cannot change it directly.",
+        "sol": " B "
+      },
+      {
+        "A": " Hide ",
+        "B": " Show ",
+        "C": " visible ",
+        "D": " Enabled ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. Which property determines whether a control is displayed to the user?",
+        "sol": " C"
+      },
+      {
+        "A": " Integer ",
+        "B": " Decimal ",
+        "C": " variant ",
+        "D": " String ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. The default datatype for VB is ______",
+        "sol": " C"
+      },
+      {
+        "A": " Event ",
+        "B": " Method ",
+        "C": " Class ",
+        "D": " container ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Frame control acts as a ______",
+        "sol": " D"
+      },
+      {
+        "A": " 1 byte ",
+        "B": " 2 byte ",
+        "C": " 4 byte ",
+        "D": " 8 byte ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. An object data type can store _____",
+        "sol": " C"
+      },
+      {
+        "A": " Numeric ",
+        "B": " String ",
+        "C": " Constant ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. The variables that Does not change the value during execution of program is _____",
+        "sol": " C"
+      },
+      {
+        "A": " Public ",
+        "B": " Private ",
+        "C": " Protected ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. The function procedure are _____ by default,",
+        "sol": " A "
+      },
+      {
+        "A": " Sub procedure ",
+        "B": " Function procedure ",
+        "C": " Property procedure ",
+        "D": " All of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. _____ do not return a value.",
+        "sol": " A"
+      },
+      {
+        "A": " Private ",
+        "B": " Public ",
+        "C": " Static ",
+        "D": " Implicit ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. We can preserve the value of a local variable by making the variable _____",
+        "sol": " C"
+      },
+      {
+        "A": " Markup Language ",
+        "B": " Web server ",
+        "C": " Scripting Language ",
+        "D": " Operating system ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. IIS is a _____",
+        "sol": " B"
+      },
+      {
+        "A": " Multiple Lines ",
+        "B": " Single Lines ",
+        "C": " Password Character ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. By default the textbox control can hold text as _____",
+        "sol": " B"
+      }
+    ],
+    "set3": [
+      {
+        "A": " Label ",
+        "B": " Text Box ",
+        "C": " Combo Box ",
+        "D": " Command Button ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. The _____ is used for both the input and output.",
+        "sol": " B "
+      },
+      {
+        "A": " Int ",
+        "B": " Dim ",
+        "C": " Static ",
+        "D": " Declare ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. In visual basic the declaration of variables is done by _____ keyword.",
+        "sol": " B"
+      },
+      {
+        "A": " Foreign ",
+        "B": " Primary ",
+        "C": " Both (a) and (b) ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. _____ is a field in a table which contains unique data.",
+        "sol": " B"
+      },
+      {
+        "A": " Solution Explorer ",
+        "B": " Tool Box ",
+        "C": " Start Menu ",
+        "D": " Designer Window ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. Which is not a main component of the visual studio IDE?",
+        "sol": " C"
+      },
+      {
+        "A": " Static constants ",
+        "B": " Private constants ",
+        "C": " Public constants ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. _____ cannot be declared in a form or class module.",
+        "sol": " C"
+      },
+      {
+        "A": " Break ",
+        "B": " Exit ",
+        "C": " Exit for ",
+        "D": " Exit do ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. The _____ allows direct exit from a For loop, Do loop, sub procedure, or function procedure.",
+        "sol": " B"
+      },
+      {
+        "A": " + – ",
+        "B": " * / ",
+        "C": " ^ exponentiation ",
+        "D": " () ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. Which of the following arithmetic operations has the higest level of precedence?",
+        "sol": " C"
+      },
+      {
+        "A": " Name ",
+        "B": " Caption ",
+        "C": " Hidden ",
+        "D": " Password char ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. _____ is property which is used to hide the content in text box with some symbols.",
+        "sol": " D"
+      },
+      {
+        "A": " Input ",
+        "B": " Gettext ",
+        "C": " Addtext ",
+        "D": " Settext ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. _____ method is used to retrieve the stored text from the clipboard.",
+        "sol": " B"
+      },
+      {
+        "A": " Code Editor Window ",
+        "B": " Properties Window\t",
+        "C": " Intermediate Window ",
+        "D": " Form Layout Window ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. Which of the following is not part of VB IDE?",
+        "sol": " C"
+      },
+      {
+        "A": " Autosize ",
+        "B": " Value ",
+        "C": " Appearance ",
+        "D": " Max length ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. ______ is one of the common properties of control.",
+        "sol": " C"
+      },
+      {
+        "A": " Declaration ",
+        "B": " Size ",
+        "C": " Storage location ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. The reserved Visual Basic word Dim is short for Dimension, which mean?",
+        "sol": " A"
+      },
+      {
+        "A": " Fixed ",
+        "B": " Preserve ",
+        "C": " Dynamic array ",
+        "D": " Multidimensional ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. _____ array size can be changed at run-time.",
+        "sol": " C"
+      },
+      {
+        "A": " Text box ",
+        "B": " Check box ",
+        "C": " List box ",
+        "D": " Combo box ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. _____ indicates whether a particular condition is on or off.",
+        "sol": " B"
+      },
+      {
+        "A": " From ",
+        "B": " Window ",
+        "C": " Screen ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. From moused-down() procedure is executed when any mouse button is clicked in a free area of _____",
+        "sol": " A"
+      }
+    ]
+  }
+}

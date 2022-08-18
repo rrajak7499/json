@@ -1,0 +1,408 @@
+{
+  "internet-and-web-technology-mcqs": {
+    "set1": [
+      {
+        "A": " Modem ",
+        "B": " Router ",
+        "C": " Bridge ",
+        "D": " None of these ",
+        "exp": "Access point in a wireless network is any device that will allow the wireless devices to a wired network. A router is the best example of an Access Point.",
+        "id": 1,
+        "prob": "1. What is the access point (AP) in the wireless LAN",
+        "sol": " B   "
+      },
+      {
+        "A": " SMTP ",
+        "B": " TFTP ",
+        "C": " DHCP ",
+        "D": " All of above ",
+        "exp": "SMTP, HTTP and FTP these are the protocol used by TCP.",
+        "id": 2,
+        "prob": "2. Which of the following server is used by TCP",
+        "sol": " A "
+      },
+      {
+        "A": " Transmission control protocol ",
+        "B": " Transmission conjunction protocol ",
+        "C": " Transmission control pheripheral ",
+        "D": " Transmission correction protocol ",
+        "exp": "The Transmission Control Protocol (TCP) is one of the core protocols of the Internet Protocol Suite.",
+        "id": 3,
+        "prob": "3. What is the full form of TCP",
+        "sol": " A "
+      },
+      {
+        "A": " Unique data protocol ",
+        "B": " User datagram protocol ",
+        "C": " Unified data protocol ",
+        "D": " User data pocket ",
+        "exp": "The UDP is simplest Transport Layer communication protocol available of the TCP/IP protocol suite.",
+        "id": 4,
+        "prob": "4. What is the full form of UDP",
+        "sol": " B "
+      },
+      {
+        "A": " Uploading file ",
+        "B": " Downloading file ",
+        "C": " Error detection ",
+        "D": " None of above ",
+        "exp": "File Transfer Protocol (FTP) is a standard Internet protocol for transmitting files between computers on the Internet over TCP/IP connections.",
+        "id": 5,
+        "prob": "5. FTP used for",
+        "sol": " A "
+      },
+      {
+        "A": " 12.0.0.1 ",
+        "B": " 168.172.19.39 ",
+        "C": " 172.15.14.36 ",
+        "D": " 192.168.24.43 ",
+        "exp": "Class A private address range is 10.0.0.0 through 10.255.255.255. Class B private address range is 172.16.0.0 through 172.31.255.255, and Class C private address range is 192.168.0.0 through 192.168.255.255.",
+        "id": 6,
+        "prob": "6. Which of the following private IP address",
+        "sol": " D  "
+      },
+      {
+        "A": " RARP ",
+        "B": " ARP (Address Resolution Protocol) ",
+        "C": " IP ",
+        "D": " ICMP ",
+        "exp": "ARP stands for Address Resolution Protocol which is one of the most important protocols of the Network layer in the OSI model.",
+        "id": 7,
+        "prob": "7. Which protocol is used to find hardware address of local device",
+        "sol": " B "
+      },
+      {
+        "A": " Metropoliton area network ",
+        "B": " Middle area network ",
+        "C": " Machine area network ",
+        "D": " All of above ",
+        "exp": "A metropolitan area network (MAN) is a network with a size greater than LAN but smaller than a WAN.",
+        "id": 8,
+        "prob": "8. What is full form of MAN",
+        "sol": " A "
+      },
+      {
+        "A": " FTP ",
+        "B": " SMTP ",
+        "C": " Telnet ",
+        "D": " DNS ",
+        "exp": "DNS uses TCP for zone exchanges between servers and UDP when a client is trying to resolve a hostname to an IP address.",
+        "id": 9,
+        "prob": "9. Which of the following protocols uses both TCP and UDP",
+        "sol": " D  "
+      },
+      {
+        "A": " SMTP ",
+        "B": " FTP ",
+        "C": " TFTP ",
+        "D": " All of above ",
+        "exp": "DHCP, SNMP, and TETP serviecs are used by UDP.",
+        "id": 10,
+        "prob": "10. Which of the following services is used by UDP",
+        "sol": " C "
+      },
+      {
+        "A": " Application ",
+        "B": " Presentation ",
+        "C": " Session ",
+        "D": " Transpot ",
+        "exp": "Both FTP and Telnet use TCP at the Transport layer; however, they both are Application layer protocols, so the Application layer is the best answer.",
+        "id": 11,
+        "prob": "11. If you use eihter Telnet or FTP , which is the highest layer you are using to transmit data",
+        "sol": " A  "
+      },
+      {
+        "A": " They acknowledge receipt of a TCP segment ",
+        "B": " They guarantee datagram delivery ",
+        "C": " They are encapsulate within IP datagram ",
+        "D": " None of above ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Which segment are true regarding ICMP packets",
+        "sol": " C"
+      },
+      {
+        "A": " Session layer ",
+        "B": " Application layer ",
+        "C": " Physical layer ",
+        "D": " None of above ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. Which of the following are not a layer of TCP/IP protocol",
+        "sol": " A"
+      },
+      {
+        "A": " Class A ",
+        "B": " Class B ",
+        "C": " Class C ",
+        "D": " Class D ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. Which class of IP address provides maximum of only 254 host address per network ID ",
+        "sol": " "
+      },
+      {
+        "A": " Is same every time whenever it display ",
+        "B": " Generated as per demand/request ",
+        "C": " Both (a) and (b) ",
+        "D": " None of above ",
+        "exp": "Dynamic web pages are used where the information is changed frequently, or generated as per demand/request.",
+        "id": 15,
+        "prob": "15. What is dynamic web page",
+        "sol": " B   "
+      },
+      {
+        "A": " < TD > ",
+        "B": " < BR > ",
+        "C": " < P > ",
+        "D": " < TR > ",
+        "exp": "< P > tag is used to mark a begining of paragraph.",
+        "id": 16,
+        "prob": "16. Which of the following tags is used to mark a begining of paragraph",
+        "sol": " C  "
+      },
+      {
+        "A": " < LL > ",
+        "B": " < DD > ",
+        "C": " < DL > ",
+        "D": " < DS > ",
+        "exp": "< DL > tag is used to start descriptive list.",
+        "id": 17,
+        "prob": "17. From which tags descriptive list starts",
+        "sol": " C  "
+      },
+      {
+        "A": " < Head > ",
+        "B": " < H6 > ",
+        "C": " < H1 > ",
+        "D": " < Heading > ",
+        "exp": " < H1 > is the largest heading and < H6 > is the smallest Heading.",
+        "id": 18,
+        "prob": "18. HTML tag used for largest heading",
+        "sol": " C  "
+      },
+      {
+        "A": " Hub ",
+        "B": " Host ",
+        "C": " Gateway ",
+        "D": " Repeater ",
+        "exp": "Host is also known as server and Hub, Gateway, Repeater are networking devices.",
+        "id": 19,
+        "prob": "19. The server on the internet is also known as",
+        "sol": " B  "
+      },
+      {
+        "A": " FTP ",
+        "B": " HTTP ",
+        "C": " W3 ",
+        "D": " None of above ",
+        "exp": "HTTP is the underlying protocol used by the world wide web.",
+        "id": 20,
+        "prob": "20. Which of the following protocol is used for WWW",
+        "sol": " B  "
+      }
+    ],
+    "set2": [
+      {
+        "A": " Modem ",
+        "B": " Gateway ",
+        "C": " Monitor ",
+        "D": " Bridge ",
+        "exp": "Not Avilable",
+        "id": 1,
+        "prob": "1. A equipment needed to allow home computer to connect to the internet is called a ",
+        "sol": " A"
+      },
+      {
+        "A": " Routing ",
+        "B": " Resolving ",
+        "C": " Caching ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 2,
+        "prob": "2. The process of keeping addresses in memory for future use called :",
+        "sol": " C"
+      },
+      {
+        "A": " HTTP ",
+        "B": " WWW ",
+        "C": " TCP/IP ",
+        "D": " FTP ",
+        "exp": "Not Avilable",
+        "id": 3,
+        "prob": "3. The communication protocol used by internet is ",
+        "sol": " C"
+      },
+      {
+        "A": " Application layer ",
+        "B": " Transport layer ",
+        "C": " Network layer ",
+        "D": " Data link layer ",
+        "exp": "Not Avilable",
+        "id": 4,
+        "prob": "4. TCP is a commonly used protocol at :",
+        "sol": " B "
+      },
+      {
+        "A": " Computer categories ",
+        "B": " Connectively ",
+        "C": " Telecommunication ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 5,
+        "prob": "5. Voice mail & E-mail are example :",
+        "sol": " C"
+      },
+      {
+        "A": " Scripting language ",
+        "B": " Markup language ",
+        "C": " Programming language ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 6,
+        "prob": "6. HTML is what type of language.",
+        "sol": " B"
+      },
+      {
+        "A": " User defined tags ",
+        "B": " Pre specified tags ",
+        "C": " Fixed tag defined by the language ",
+        "D": " Tags only for linking ",
+        "exp": "Not Avilable",
+        "id": 7,
+        "prob": "7. HTML uses",
+        "sol": " C"
+      },
+      {
+        "A": " HTML body ",
+        "B": " HTML tag ",
+        "C": " HTML attribute ",
+        "D": " HTML element ",
+        "exp": "Not Avilable",
+        "id": 8,
+        "prob": "8. Fundamental HTML block is known as",
+        "sol": " B"
+      },
+      {
+        "A": " Robert Cailliou ",
+        "B": " Tim Thompson ",
+        "C": " Charles Darwin ",
+        "D": " Tim Barners-Lee ",
+        "exp": "Not Avilable",
+        "id": 9,
+        "prob": "9. Who is known as the father of world wide web :",
+        "sol": " D"
+      },
+      {
+        "A": " & ",
+        "B": " @ ",
+        "C": " % ",
+        "D": " X ",
+        "exp": "Not Avilable",
+        "id": 10,
+        "prob": "10. E-mail address separate the user name from the ISP using, which of the symbol.",
+        "sol": " B"
+      },
+      {
+        "A": " Gopher ",
+        "B": " Jughead ",
+        "C": " Archie ",
+        "D": " None of above ",
+        "exp": "Not Avilable",
+        "id": 11,
+        "prob": "11. To search FTP archives for a file you should use which tool.",
+        "sol": " C"
+      },
+      {
+        "A": " IRC ",
+        "B": " FTP ",
+        "C": " E-mail ",
+        "D": " HTTP ",
+        "exp": "Not Avilable",
+        "id": 12,
+        "prob": "12. Which of the following is often referred it as “the CB of the internet”.",
+        "sol": " A"
+      },
+      {
+        "A": " Post ",
+        "B": " List ",
+        "C": " Thread ",
+        "D": " Comment ",
+        "exp": "Not Avilable",
+        "id": 13,
+        "prob": "13. A message with replies on a newsgroup is option called a :",
+        "sol": " C"
+      },
+      {
+        "A": " 0 ",
+        "B": " 1 ",
+        "C": " TT1 Value ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 14,
+        "prob": "14. What should be the flag value to indicate the last fragment.",
+        "sol": " A"
+      },
+      {
+        "A": " Connection less ",
+        "B": " Offen reliable service ",
+        "C": " Offen unreliable service ",
+        "D": " None of these ",
+        "exp": "Not Avilable",
+        "id": 15,
+        "prob": "15. Which of these is not applicable for IP protocol :",
+        "sol": " B"
+      },
+      {
+        "A": " HTTP ",
+        "B": " FTP ",
+        "C": " POP ",
+        "D": " SMTP ",
+        "exp": "Not Avilable",
+        "id": 16,
+        "prob": "16. The mail server as defined in the text uses which protocol.",
+        "sol": " C"
+      },
+      {
+        "A": " Listserv ",
+        "B": " Group ",
+        "C": " Alias ",
+        "D": " Mail server ",
+        "exp": "Not Avilable",
+        "id": 17,
+        "prob": "17. Which of the following is used to send e-mail to a large group at one time :",
+        "sol": " A"
+      },
+      {
+        "A": " Picture ",
+        "B": " Image ",
+        "C": " SRC ",
+        "D": " None of the above ",
+        "exp": "Not Avilable",
+        "id": 18,
+        "prob": "18. Which tag is used to display a picture in HTML page ",
+        "sol": " B"
+      },
+      {
+        "A": " Compiler ",
+        "B": " Server ",
+        "C": " Web Browser ",
+        "D": " Interpreter ",
+        "exp": "Not Avilable",
+        "id": 19,
+        "prob": "19. HTML web page can be read and rendered by ",
+        "sol": " C"
+      },
+      {
+        "A": " Microsoft bing ",
+        "B": " Netscape Navigator ",
+        "C": " Mozilla firefox ",
+        "D": " Opera ",
+        "exp": "Not Avilable",
+        "id": 20,
+        "prob": "20. Which of the following is not a browser.",
+        "sol": " A"
+      }
+    ]
+  }
+}
