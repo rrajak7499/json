@@ -1,6 +1,6 @@
 {
   "c-programming-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Compiler ",
         "B": "  Interpreters ",
@@ -98,7 +98,7 @@
         "D": "  None of the above ",
         "exp": "Not Avilable",
         "id": 10,
-        "prob": "10. A program that converts a high level language program to a set of instructions that can run on a computer is called a :",
+        "prob": "10. A program that converts a high level language program to a  of instructions that can run on a computer is called a :",
         "sol": " A"
       },
       {
@@ -152,7 +152,7 @@
         "sol": " C"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Bjarne Stroustrup ",
         "B": "  Dennis Ritchie ",
@@ -304,7 +304,7 @@
         "sol": " B"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " && ",
         "B": "  != ",
@@ -456,7 +456,7 @@
         "sol": " C"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " An alphabet ",
         "B": "  A number ",
@@ -608,7 +608,7 @@
         "sol": " A"
       }
     ],
-    "set5": [
+    "5": [
       {
         "A": " Int ",
         "B": "  Char ",
@@ -730,7 +730,7 @@
         "sol": " B"
       },
       {
-        "A": " The element will be set to 0 ",
+        "A": " The element will be  to 0 ",
         "B": "  Nothing its done all the time ",
         "C": "  Other data may be overwritten ",
         "D": "  Error message from the compiler ",
@@ -760,7 +760,7 @@
         "sol": " A"
       }
     ],
-    "set6": [
+    "6": [
       {
         "A": " For ",
         "B": "  Do-while ",
