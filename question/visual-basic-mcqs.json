@@ -1,6 +1,6 @@
 {
   "visual-basic-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " IBM ",
         "B": " Microsoft ",
@@ -152,7 +152,7 @@
         "sol": " B"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Checking ",
         "B": " Compiling ",
@@ -304,7 +304,7 @@
         "sol": " B"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " Label ",
         "B": " Text Box ",
