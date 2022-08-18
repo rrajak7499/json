@@ -1,6 +1,6 @@
 {
   "automatic-control-system-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Fast ",
         "B": " Sluggish ",
@@ -202,8 +202,8 @@
         "sol": " C"
       }
     ],
-    "set2": [],
-    "set3": [
+    "2": [],
+    "3": [
       {
         "A": " Open loop control system ",
         "B": " Closed loop control system ",
@@ -405,7 +405,7 @@
         "sol": " B"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " Open loop system ",
         "B": " Closed loop system ",
