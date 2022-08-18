@@ -1,6 +1,6 @@
 {
   "system-software-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Software ",
         "B": " Chip ",
@@ -152,7 +152,7 @@
         "prob": "15. The internal storage of CPU is provided by :"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Software ",
         "B": " Chip ",
@@ -304,7 +304,7 @@
         "prob": "15. The internal storage of CPU is provided by :"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " Register limit ",
         "B": " Word limit ",
@@ -456,7 +456,7 @@
         "prob": "15. An interpreter is a program that :"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " Machine language ",
         "B": " Assembly language ",
@@ -608,7 +608,7 @@
         "prob": "15. Assembly language program is called _____? "
       }
     ],
-    "set5": [
+    "5": [
       {
         "A": " Assembler ",
         "B": " Compiler ",
@@ -760,7 +760,7 @@
         "prob": "15. Shell is the exclusive feature of : "
       }
     ],
-    "set6": [
+    "6": [
       {
         "A": " Editor ",
         "B": " Loader ",
@@ -912,7 +912,7 @@
         "prob": "15. The translator which perform macro expansion is called a"
       }
     ],
-    "set7": [
+    "7": [
       {
         "A": " Digital Operating System ",
         "B": " Disk Operating System ",
@@ -1064,7 +1064,7 @@
         "prob": "15. Which type of operating system is important for self-relocation ? "
       }
     ],
-    "set8": [
+    "8": [
       {
         "A": " Data ",
         "B": " Command ",
@@ -1216,7 +1216,7 @@
         "prob": "15. _______ are used to reduce the main memory requirements of a program. "
       }
     ],
-    "set9": [
+    "9": [
       {
         "A": " Tab ",
         "B": " Delete ",
@@ -1368,7 +1368,7 @@
         "prob": "15. A heap is a ________ data structure. "
       }
     ],
-    "set10": [
+    "10": [
       {
         "A": " Addition ",
         "B": " Subtraction ",
