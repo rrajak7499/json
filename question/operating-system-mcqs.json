@@ -1,6 +1,6 @@
 {
   "operating-system-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Waiting time ",
         "B": " Turn around time ",
@@ -202,7 +202,7 @@
         "sol": " A "
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Dispatcher ",
         "B": " Interrupt ",
@@ -404,7 +404,7 @@
         "sol": " A"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " Hardware level ",
         "B": " Software level ",
