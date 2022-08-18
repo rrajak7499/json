@@ -1,7 +1,7 @@
 {
   "system-maintenance-mcqs": {
-    "set1": [],
-    "set2": [
+    "1": [],
+    "2": [
       {
         "A": " Environment ",
         "B": " System ",
@@ -203,7 +203,7 @@
         "sol": " B"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " 1000 Mbps ",
         "B": " 3.1 GHz ",
@@ -405,7 +405,7 @@
         "sol": " A  "
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " ROM BIOS ",
         "B": " CPU ",
