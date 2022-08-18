@@ -19,7 +19,7 @@
         "exp": "Not Avilable",
         "id": 2,
         "prob": "2. A sequence of instructions in a computer language to get the desired result is known as :",
-        "sol": " C"
+        "sol": "C"
       },
       {
         "A": " Logical errors ",
@@ -29,7 +29,7 @@
         "exp": "Compiler detect only syntax errors which involves incorrect punctuation, incorrect word sequence, undefined terms, or misuse of terms.",
         "id": 3,
         "prob": "3. Which type of errors are flagged by Compilers ?",
-        "sol": " B"
+        "sol": "B"
       },
       {
         "A": " A computer language ",
@@ -39,7 +39,7 @@
         "exp": "Not Avilable",
         "id": 4,
         "prob": "4. An algorithm is best described as :",
-        "sol": " B"
+        "sol": "B"
       },
       {
         "A": " A logical error in a program ",
