@@ -1,6 +1,6 @@
 {
   "management-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Companies Act ",
         "B": " Factory Act ",
@@ -202,7 +202,7 @@
         "sol": " B"
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Coordinating ",
         "B": " Controlling ",
@@ -404,7 +404,7 @@
         "sol": " B"
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " Taylor ",
         "B": " Fayol ",
@@ -606,7 +606,7 @@
         "sol": " D"
       }
     ],
-    "set4": [
+    "4": [
       {
         "A": " Textile Business ",
         "B": " Counselling Business ",
@@ -808,7 +808,7 @@
         "sol": " C  "
       }
     ],
-    "set5": [
+    "5": [
       {
         "A": " Banking ",
         "B": " Petroleum ",
@@ -1010,7 +1010,7 @@
         "sol": "C "
       }
     ],
-    "set6": [
+    "6": [
       {
         "A": " Religion ",
         "B": " Rule ",
@@ -1212,7 +1212,7 @@
         "sol": " B"
       }
     ],
-    "set7": [
+    "7": [
       {
         "A": " FW Taylor ",
         "B": " Henry Fayol ",
