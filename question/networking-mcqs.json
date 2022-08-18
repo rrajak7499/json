@@ -1,6 +1,6 @@
 {
   "networking-mcqs": {
-    "set1": [
+    "1": [
       {
         "A": " Added ",
         "B": " Removed ",
@@ -202,7 +202,7 @@
         "sol": " A "
       }
     ],
-    "set2": [
+    "2": [
       {
         "A": " Integer ",
         "B": " Boolean ",
@@ -394,7 +394,7 @@
         "sol": " B "
       }
     ],
-    "set3": [
+    "3": [
       {
         "A": " Protocols ",
         "B": " Standards ",
