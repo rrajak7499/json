@@ -1,903 +1,891 @@
 {
   "first-year": {
     "all": [
-      [
-        {
-          "id": 1,
-          "title": "btech-common-2-sem-thermodynamics-1-102214-2012",
-          "urld": "1BWFnXb8chtOEl1DYjaItiQLrAvYaMoJK"
-        },
-        {
-          "id": 2,
-          "title": "btech-common-2-sem-physics-221202-2015",
-          "urld": "1Xm4qZoMILNH9_xOGuyOGazEExkxo5_Ti"
-        },
-        {
-          "id": 3,
-          "title": "btech-common-2-sem-physics-221201-2016",
-          "urld": "1iDGMnHODmyaSVPV5b3z2alSjPUyFg3k_"
-        },
-        {
-          "id": 4,
-          "title": "btech-common-2-sem-physics-221201-2015",
-          "urld": "1A8J-YBF5HB9iBYGKWLpqsk66o9VdNCQm"
-        },
-        {
-          "id": 5,
-          "title": "btech-common-2-sem-physics-221201-2014",
-          "urld": "1IvdVDHZ4MOPw3J6gFlfwSfdNFPucaMVW"
-        },
-        {
-          "id": 6,
-          "title": "btech-common-2-sem-physics-221201-2013",
-          "urld": "1LYWpP8adplVbcFfWE0wS7jLUM08Ma5XB"
-        },
-        {
-          "id": 7,
-          "title": "btech-common-2-sem-physics-221201-2012",
-          "urld": "1P25mf9_zFWUj2mzi6uXKFnTc27UWc3ko"
-        },
-        {
-          "id": 8,
-          "title": "btech-common-2-sem-mechanics-of-solid-1-101206-2012",
-          "urld": "1FnJtJpZYkDJ5mCz4t9Tw6lHAGjV2Ptjc"
-        },
-        {
-          "id": 9,
-          "title": "btech-common-2-sem-mathematics-3-121201-2012",
-          "urld": "12sHg74_62txOe6NxphkZjD4FYDWTn2zu"
-        },
-        {
-          "id": 10,
-          "title": "btech-common-2-sem-mathematics-2-211202-2016",
-          "urld": "1zKFMTCQYwpo736S9X8p0m6ApjCpMZ5mI"
-        },
-        {
-          "id": 11,
-          "title": "btech-common-2-sem-mathematics-2-211202-2015",
-          "urld": "1XWJIX75oyNUpxkjg3vEzWfNnZFyoINnm"
-        },
-        {
-          "id": 12,
-          "title": "btech-common-2-sem-mathematics-2-211202-2014",
-          "urld": "18PskNtCAfhZ-kQsfbJEn9Kwy3xus5lHr"
-        },
-        {
-          "id": 13,
-          "title": "btech-common-2-sem-mathematics-2-211202-2013",
-          "urld": "1LxC31OiTXFO5tT2uVHzb-Kel9f5frR0V"
-        },
-        {
-          "id": 14,
-          "title": "btech-common-2-sem-materials-science-and-engineering-materials-102208-2012",
-          "urld": "1aVldkNYF11t8ciRm2iCek69ZpBAp79Qi"
-        },
-        {
-          "id": 15,
-          "title": "btech-common-2-sem-fundamentals-of-information-technology-061201-2016",
-          "urld": "1_DnuNBqqA4P1i0AeObTEOcZaPVAua1N4"
-        },
-        {
-          "id": 16,
-          "title": "btech-common-2-sem-fundamentals-of-information-technology-061201-2015",
-          "urld": "1BhH3--KAX-o-epCqm-PMOb7I6hWRyowI"
-        },
-        {
-          "id": 17,
-          "title": "btech-common-2-sem-fundamentals-of-information-technology-061201-2014",
-          "urld": "1XGlJrW6jdUdHeaLJJNtBdywjn5BoXosq"
-        },
-        {
-          "id": 18,
-          "title": "btech-common-2-sem-environmental-science-011202-2016",
-          "urld": "1nvBzToFFUA1rMwXfKmYEgbVQQHKeH0K3"
-        },
-        {
-          "id": 19,
-          "title": "btech-common-2-sem-environmental-science-011202-2015",
-          "urld": "1RKtaPA9BAQcyho7SMCgoOocoNqZ9_fnA"
-        },
-        {
-          "id": 20,
-          "title": "btech-common-2-sem-environmental-science-011202-2014",
-          "urld": "1ireBWTjiDymm_xfJcmL_IAxckW4bBnk7"
-        },
-        {
-          "id": 21,
-          "title": "btech-common-2-sem-environmental-science-011202-2013",
-          "urld": "10ykbxyUazjLMpL2yn1K3DmbkJxV4ceq8"
-        },
-        {
-          "id": 22,
-          "title": "btech-common-2-sem-environmental-science-011202-2012",
-          "urld": "1XfHOghNsa6GMBiw1nIghTX7eyQLW7Jsc"
-        },
-        {
-          "id": 23,
-          "title": "btech-common-2-sem-engineering-mechanics-011201-2016",
-          "urld": "1QlgtjIxd9Cmy4fgxhKomeSnrKn-o0Vfn"
-        },
-        {
-          "id": 24,
-          "title": "btech-common-2-sem-engineering-mechanics-011201-2015",
-          "urld": "1UCd44h8jnBhGVHPLM8CFhD3JMWRYRVYT"
-        },
-        {
-          "id": 25,
-          "title": "btech-common-2-sem-engineering-mechanics-011201-2014",
-          "urld": "1DQReDG8fShFkW6ps7cR-jDEVGtidXZPJ"
-        },
-        {
-          "id": 26,
-          "title": "btech-common-2-sem-engineering-mechanics-011201-2013",
-          "urld": "1OUr9zKYnloVf22HGiy-4eBA7gge64-W4"
-        },
-        {
-          "id": 27,
-          "title": "btech-common-2-sem-engineering-mechanics-011201-2012",
-          "urld": "1X1_glNXN8RkHTp-4LaBDefQtFoz59M71"
-        },
-        {
-          "id": 28,
-          "title": "btech-common-2-sem-engineering-graphics-021202-2014",
-          "urld": "1q-fuN1fn-9hRvR1ig5dLKed-e_Z8u-MN"
-        },
-        {
-          "id": 29,
-          "title": "btech-common-2-sem-engineering-graphics-021202-2013",
-          "urld": "1XhIJiLbfdRA-NtQbh_yyUGlu8J1G3hWC"
-        },
-        {
-          "id": 30,
-          "title": "btech-common-2-sem-engineering-graphics-021202-2012",
-          "urld": "1-2KO2KaOhQfTjT1WJmGv2-I2ZeIW3rJ8"
-        },
-        {
-          "id": 31,
-          "title": "btech-common-2-sem-engineering-chemistry-231201-2016",
-          "urld": "1KFwOAtZwZADjyT00RTHocb1BbfSFjrIp"
-        },
-        {
-          "id": 32,
-          "title": "btech-common-2-sem-engineering-chemistry-231201-2015",
-          "urld": "1TzEg9NE0ocPIrFjtPdrkiEx_kg4uz0oz"
-        },
-        {
-          "id": 33,
-          "title": "btech-common-2-sem-engineering-chemistry-231201-2014",
-          "urld": "1fXr_f7uyRhm9-i7Sj8laDThyfpsG8CbB"
-        },
-        {
-          "id": 34,
-          "title": "btech-common-2-sem-engineering-chemistry-231201-2013",
-          "urld": "11AhwdP33J27AvfFWk8td9OTzR81Nxsfz"
-        },
-        {
-          "id": 35,
-          "title": "btech-common-2-sem-engineering-chemistry-231201-2012",
-          "urld": "1dpByUSsfCHcSgQ1P-EUiPg9i_4GAEKjr"
-        },
-        {
-          "id": 36,
-          "title": "btech-common-2-sem-elements-of-mechanical-engineering-021201-2016",
-          "urld": "1dfUobGuMuUQmZlsXlOZB8_L79Km4l1Xy"
-        },
-        {
-          "id": 37,
-          "title": "btech-common-2-sem-elements-of-mechanical-engineering-021201-2015",
-          "urld": "190HhPsOGPh86IY2WThDOWuzrkapD-E9P"
-        },
-        {
-          "id": 38,
-          "title": "btech-common-2-sem-elements-of-mechanical-engineering-021201-2014",
-          "urld": "1ooVtDK8rb2w9-oW7yci1toobb0Sj8ZuM"
-        },
-        {
-          "id": 39,
-          "title": "btech-common-2-sem-elements-of-mechanical-engineering-021201-2013",
-          "urld": "1Do7Conz7WZeAt74oMLb73Cf5FNClRmU6"
-        },
-        {
-          "id": 40,
-          "title": "btech-common-2-sem-discrete-mathematics-and-graph-theory-105217-2012",
-          "urld": "1sHE8wcycS2op_jVy_NqVk-F2EH1cz8ho"
-        },
-        {
-          "id": 41,
-          "title": "btech-common-2-sem-computer-architecture-105205-2012",
-          "urld": "1-2OMBVR0nU3N8DzHE80RLCD5YzDYUasi"
-        },
-        {
-          "id": 42,
-          "title": "btech-common-2-sem-computational-techniques-121202-2012",
-          "urld": "1qrvVhG4I7PcJ6mlHOwa9QJw8n_uD_bQZ"
-        },
-        {
-          "id": 43,
-          "title": "btech-common-2-sem-communicative-english-241205-2015",
-          "urld": "1TeUBbOMugMFPNxPkGk5d5G96aiByU-iM"
-        },
-        {
-          "id": 44,
-          "title": "btech-common-2-sem-communicative-english-241205-2014",
-          "urld": "1S3hKaKw-LseYcDPPl7e1fMFgqH-GHEUK"
-        },
-        {
-          "id": 45,
-          "title": "btech-common-2-sem-communicative-english-241205-2013",
-          "urld": "1GbtvLqbL0uIug9kJy27IH0AJ3BIccrpY"
-        },
-        {
-          "id": 46,
-          "title": "btech-common-2-sem-communicative-english-241205-2012",
-          "urld": "1xyqwYi3dK3MH6BAwI3GypLYbPSXZy6HP"
-        },
-        {
-          "id": 47,
-          "title": "btech-common-2-sem-building-science-101211-2012",
-          "urld": "10v_u31AcrOc_hZ3xAwyEMf6q0SR9f8Qy"
-        },
-        {
-          "id": 48,
-          "title": "btech-common-2-sem-basic-electrical-engineering-031201-2016",
-          "urld": "1GiKHMFeLyfnLq47xNiPbOXKtm3IrblBR"
-        },
-        {
-          "id": 49,
-          "title": "btech-common-2-sem-basic-electrical-engineering-031201-2015",
-          "urld": "1yDDZLCWZMk-z9TWTLZmKNh0IooQDbz4v"
-        },
-        {
-          "id": 50,
-          "title": "btech-common-2-sem-basic-electrical-engineering-031201-2014",
-          "urld": "1r5NNh8uL1amYRCXHvkyFM6YKqbfNfMzh"
-        },
-        {
-          "id": 51,
-          "title": "btech-common-2-sem-basic-electrical-engineering-031201-2013",
-          "urld": "1ye46NXVsu_gmC2K5B50NjygafMwPVlEF"
-        },
-        {
-          "id": 52,
-          "title": "btech-common-2-sem-basic-electrical-engineering-031201-2012",
-          "urld": "1L-tzBsaIM7D2fPFSJ7ap9jukk2IlVNcu"
-        },
-        {
-          "id": 53,
-          "title": "btech-common-1-sem-physics-221101-2016",
-          "urld": "15jxsaSesS4OxsQ2E4Zl3nXRWKHwTS3z7"
-        },
-        {
-          "id": 54,
-          "title": "btech-common-1-sem-physics-221101-2015",
-          "urld": "16XT-wbIEuakoa_jgDVD9N3brVS48E5TQ"
-        },
-        {
-          "id": 55,
-          "title": "btech-common-1-sem-physics-221101-2014",
-          "urld": "1xjn-S8Q3IJKyVLy_3LNvZBLnf6ZLb8Ax"
-        },
-        {
-          "id": 56,
-          "title": "btech-common-1-sem-physics-221101-2011",
-          "urld": "1ggqhUf29T5wuE3bnmCgjMUjtmJpgPP8-"
-        },
-        {
-          "id": 57,
-          "title": "btech-common-1-sem-mathematics-1-211101-2016",
-          "urld": "1IiQlmtkEOh6u24mTRxZcOMYdTVJB44dT"
-        },
-        {
-          "id": 58,
-          "title": "btech-common-1-sem-mathematics-1-211101-2015",
-          "urld": "1W21t16ac5GvuCywj6b4x9t2Hg-Z93d6q"
-        },
-        {
-          "id": 59,
-          "title": "btech-common-1-sem-mathematics-1-211101-2014",
-          "urld": "1xtXyKA4WVzer4iS_yANI5vM1VHrKBLH9"
-        },
-        {
-          "id": 60,
-          "title": "btech-common-1-sem-mathematics-1-211101-2013",
-          "urld": "1GZLz0Dgxg2OO0SIfcIkV_ZOvZWAgfjPs"
-        },
-        {
-          "id": 61,
-          "title": "btech-common-1-sem-mathematics-1-211101-2011",
-          "urld": "1K0zP30V4hTg-cwQIDXJrDpKcfEuV3m5H"
-        },
-        {
-          "id": 62,
-          "title": "btech-common-1-sem-fundamental-of-information-technology-061101-2016",
-          "urld": "1BVtLNSYC1HVGcz_eR8tmStbO4mweYb7t"
-        },
-        {
-          "id": 63,
-          "title": "btech-common-1-sem-fundamental-of-information-technology-061101-2015",
-          "urld": "14JT1VLodsQJFiJKZfA23tes3h4hZ89Si"
-        },
-        {
-          "id": 64,
-          "title": "btech-common-1-sem-fundamental-of-information-technology-061101-2014",
-          "urld": "1_4SpOHdVUGKQaDedlDB2tqLEhlLAX2LY"
-        },
-        {
-          "id": 65,
-          "title": "btech-common-1-sem-environmental-science-011102-2016",
-          "urld": "1ka-novJxtnTtw38m71YHluSG4RMWzQfb"
-        },
-        {
-          "id": 66,
-          "title": "btech-common-1-sem-environmental-science-011102-2015",
-          "urld": "1eEEbAGCdUbL0K1x7S8NyWXbjRXQ95lkB"
-        },
-        {
-          "id": 67,
-          "title": "btech-common-1-sem-environmental-science-011102-2014",
-          "urld": "16q9PtnjiR9_n3Hiqd-Qhxa3ijDoRrguc"
-        },
-        {
-          "id": 68,
-          "title": "btech-common-1-sem-environmental-science-011102-2013",
-          "urld": "1S3c42tUFsGyEehYPn0Of5sk-7naGinJK"
-        },
-        {
-          "id": 69,
-          "title": "btech-common-1-sem-engineering-mechanics-011101-2016",
-          "urld": "1DwojvtZ0Vv9BcrkhLCKMVb_RdfAwNTsU"
-        },
-        {
-          "id": 70,
-          "title": "btech-common-1-sem-engineering-mechanics-011101-2015",
-          "urld": "1qrxHnSziWZ-CVEdEGVOvsovTLHayXH61"
-        },
-        {
-          "id": 71,
-          "title": "btech-common-1-sem-engineering-mechanics-011101-2014",
-          "urld": "1ROIeiruxEwe6oysXxHcVm86kz1-9Mju-"
-        },
-        {
-          "id": 72,
-          "title": "btech-common-1-sem-engineering-graphics-021102-2016",
-          "urld": "1a6R--tEcZEG1YtEJMXzdKvnYu05GK_di"
-        },
-        {
-          "id": 73,
-          "title": "btech-common-1-sem-engineering-graphics-021102-2015",
-          "urld": "1clm1kqnYYJZ4KZ-Qz2TgjwzJA9VSnKWC"
-        },
-        {
-          "id": 74,
-          "title": "btech-common-1-sem-engineering-graphics-021102-2014",
-          "urld": "1OrdFvDsLyREoqGwesPle5cobgO-BGEZj"
-        },
-        {
-          "id": 75,
-          "title": "btech-common-1-sem-engineering-graphics-021102-2013",
-          "urld": "16HyrBc0XqhF266FMI1pkK1NOW6Wyd31R"
-        },
-        {
-          "id": 76,
-          "title": "btech-common-1-sem-engineering-graphics-021102-2012",
-          "urld": "1E-0ZCxulKvldNXtQKlnSAPIItL0I9XJ2"
-        },
-        {
-          "id": 77,
-          "title": "btech-common-1-sem-engineering-graphics-021102-2011",
-          "urld": "1ZRWpQ2PIVINyYBakJVk3RFzVTZzzJirO"
-        },
-        {
-          "id": 78,
-          "title": "btech-common-1-sem-engineering-chemistry-231101-2016",
-          "urld": "13MGL47EMtsT-WUFeo8wBTk58SSpWb3V1"
-        },
-        {
-          "id": 79,
-          "title": "btech-common-1-sem-engineering-chemistry-231101-2015",
-          "urld": "1BjA5MMY-e0OHSMQShbbosSFK4-K6aQsd"
-        },
-        {
-          "id": 80,
-          "title": "btech-common-1-sem-engineering-chemistry-231101-2014",
-          "urld": "1_c9m_nNYCCo3a9sI_TAExQ2At-Rvrvzw"
-        },
-        {
-          "id": 81,
-          "title": "btech-common-1-sem-engineering-chemistry-231101-2013",
-          "urld": "1-M-5bLKp4qeLprNmspd2KYG_L_8HbUv5"
-        },
-        {
-          "id": 82,
-          "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2016",
-          "urld": "1yM4ynI4fE0QBqAtysnxzwLpIxKCkXgaH"
-        },
-        {
-          "id": 83,
-          "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2015",
-          "urld": "13sCNgB00WDUE_QgYB6FJ8I8fTsR039oE"
-        },
-        {
-          "id": 84,
-          "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2014",
-          "urld": "1ILYeQ3V5HEQDbPpaduxLp3RIXijUYhr4"
-        },
-        {
-          "id": 85,
-          "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2013",
-          "urld": "1s8HSX0mUWprlCnj6jxS7yYgqMBKpq7A2"
-        },
-        {
-          "id": 86,
-          "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2012",
-          "urld": "1NSkhtLHFwg2mbK-bD5mJYcPl0dD1Ikox"
-        },
-        {
-          "id": 87,
-          "title": "btech-common-1-sem-communicative-english-241105-2016",
-          "urld": "1LrvQaEAIhS2hGWCMml88qfInzBXRfdQ8"
-        },
-        {
-          "id": 88,
-          "title": "btech-common-1-sem-communicative-english-241105-2015",
-          "urld": "1HFCLnnspY6tsLIPpzeMLYs34K5ObFGmD"
-        },
-        {
-          "id": 89,
-          "title": "btech-common-1-sem-communicative-english-241105-2014",
-          "urld": "1TM1QyuisNMnxukBExWVkdvOmz1eEHcDp"
-        },
-        {
-          "id": 90,
-          "title": "btech-common-1-sem-communicative-english-241105-2013",
-          "urld": "11zKwBvHhKO0C_JkKCrjBA0Rmh84mxQgs"
-        },
-        {
-          "id": 91,
-          "title": "btech-common-1-sem-communicative-english-241105-2012",
-          "urld": "1xPuFDtYEKbjdCb-ffWcQwrQMvq595x4K"
-        },
-        {
-          "id": 92,
-          "title": "btech-common-1-sem-communicative-english-241105-2011",
-          "urld": "1bFj4hKFjRCL3ZoppP4acP8LboB4Z3xiY"
-        },
-        {
-          "id": 93,
-          "title": "btech-common-1-sem-basic-electrical-engineering-031101-2016",
-          "urld": "1rqVZceZ2JFaXke32FFOffLhaxYOwRGRz"
-        },
-        {
-          "id": 94,
-          "title": "btech-common-1-sem-basic-electrical-engineering-031101-2015",
-          "urld": "1zvojKsUETelMFWV7tBFF3zSB4Dc-S_g-"
-        },
-        {
-          "id": 95,
-          "title": "btech-common-1-sem-basic-electrical-engineering-031101-2014",
-          "urld": "17oJplviYzog6p0QXw9znx9aLZ9_SdVOl"
-        },
-        {
-          "id": 96,
-          "title": "btech-common-1-sem-basic-electrical-engineering-031101-2013",
-          "urld": "1QxnAbSzMIZsSZ6kFaUHsgJo2WYEf0bt4"
-        },
-        {
-          "id": 97,
-          "title": "btech-common-1-sem-basic-electrical-engineering-031101-2012",
-          "urld": "1bXaAZ3htGHyZXc0frBAYv3qAPR_ithvF"
-        },
-        {
-          "id": 98,
-          "title": "btech-common-1-sem-basic-electrical-engineering-031101-2011",
-          "urld": "1iFek16LP9HlRuDmNDfmXS93xAxzUQQCL"
-        },
-        {
-          "id": 99,
-          "title": "btech-common-1-sem-mathematics-1-211101-2012",
-          "urld": "1LSg-yfJKUZiby6FvnxKb8YUv6Up3kjYs"
-        }
-      ]
+      {
+        "id": 1,
+        "title": "btech-common-2-sem-thermodynamics-1-102214-2012",
+        "urld": "1BWFnXb8chtOEl1DYjaItiQLrAvYaMoJK"
+      },
+      {
+        "id": 2,
+        "title": "btech-common-2-sem-physics-221202-2015",
+        "urld": "1Xm4qZoMILNH9_xOGuyOGazEExkxo5_Ti"
+      },
+      {
+        "id": 3,
+        "title": "btech-common-2-sem-physics-221201-2016",
+        "urld": "1iDGMnHODmyaSVPV5b3z2alSjPUyFg3k_"
+      },
+      {
+        "id": 4,
+        "title": "btech-common-2-sem-physics-221201-2015",
+        "urld": "1A8J-YBF5HB9iBYGKWLpqsk66o9VdNCQm"
+      },
+      {
+        "id": 5,
+        "title": "btech-common-2-sem-physics-221201-2014",
+        "urld": "1IvdVDHZ4MOPw3J6gFlfwSfdNFPucaMVW"
+      },
+      {
+        "id": 6,
+        "title": "btech-common-2-sem-physics-221201-2013",
+        "urld": "1LYWpP8adplVbcFfWE0wS7jLUM08Ma5XB"
+      },
+      {
+        "id": 7,
+        "title": "btech-common-2-sem-physics-221201-2012",
+        "urld": "1P25mf9_zFWUj2mzi6uXKFnTc27UWc3ko"
+      },
+      {
+        "id": 8,
+        "title": "btech-common-2-sem-mechanics-of-solid-1-101206-2012",
+        "urld": "1FnJtJpZYkDJ5mCz4t9Tw6lHAGjV2Ptjc"
+      },
+      {
+        "id": 9,
+        "title": "btech-common-2-sem-mathematics-3-121201-2012",
+        "urld": "12sHg74_62txOe6NxphkZjD4FYDWTn2zu"
+      },
+      {
+        "id": 10,
+        "title": "btech-common-2-sem-mathematics-2-211202-2016",
+        "urld": "1zKFMTCQYwpo736S9X8p0m6ApjCpMZ5mI"
+      },
+      {
+        "id": 11,
+        "title": "btech-common-2-sem-mathematics-2-211202-2015",
+        "urld": "1XWJIX75oyNUpxkjg3vEzWfNnZFyoINnm"
+      },
+      {
+        "id": 12,
+        "title": "btech-common-2-sem-mathematics-2-211202-2014",
+        "urld": "18PskNtCAfhZ-kQsfbJEn9Kwy3xus5lHr"
+      },
+      {
+        "id": 13,
+        "title": "btech-common-2-sem-mathematics-2-211202-2013",
+        "urld": "1LxC31OiTXFO5tT2uVHzb-Kel9f5frR0V"
+      },
+      {
+        "id": 14,
+        "title": "btech-common-2-sem-materials-science-and-engineering-materials-102208-2012",
+        "urld": "1aVldkNYF11t8ciRm2iCek69ZpBAp79Qi"
+      },
+      {
+        "id": 15,
+        "title": "btech-common-2-sem-fundamentals-of-information-technology-061201-2016",
+        "urld": "1_DnuNBqqA4P1i0AeObTEOcZaPVAua1N4"
+      },
+      {
+        "id": 16,
+        "title": "btech-common-2-sem-fundamentals-of-information-technology-061201-2015",
+        "urld": "1BhH3--KAX-o-epCqm-PMOb7I6hWRyowI"
+      },
+      {
+        "id": 17,
+        "title": "btech-common-2-sem-fundamentals-of-information-technology-061201-2014",
+        "urld": "1XGlJrW6jdUdHeaLJJNtBdywjn5BoXosq"
+      },
+      {
+        "id": 18,
+        "title": "btech-common-2-sem-environmental-science-011202-2016",
+        "urld": "1nvBzToFFUA1rMwXfKmYEgbVQQHKeH0K3"
+      },
+      {
+        "id": 19,
+        "title": "btech-common-2-sem-environmental-science-011202-2015",
+        "urld": "1RKtaPA9BAQcyho7SMCgoOocoNqZ9_fnA"
+      },
+      {
+        "id": 20,
+        "title": "btech-common-2-sem-environmental-science-011202-2014",
+        "urld": "1ireBWTjiDymm_xfJcmL_IAxckW4bBnk7"
+      },
+      {
+        "id": 21,
+        "title": "btech-common-2-sem-environmental-science-011202-2013",
+        "urld": "10ykbxyUazjLMpL2yn1K3DmbkJxV4ceq8"
+      },
+      {
+        "id": 22,
+        "title": "btech-common-2-sem-environmental-science-011202-2012",
+        "urld": "1XfHOghNsa6GMBiw1nIghTX7eyQLW7Jsc"
+      },
+      {
+        "id": 23,
+        "title": "btech-common-2-sem-engineering-mechanics-011201-2016",
+        "urld": "1QlgtjIxd9Cmy4fgxhKomeSnrKn-o0Vfn"
+      },
+      {
+        "id": 24,
+        "title": "btech-common-2-sem-engineering-mechanics-011201-2015",
+        "urld": "1UCd44h8jnBhGVHPLM8CFhD3JMWRYRVYT"
+      },
+      {
+        "id": 25,
+        "title": "btech-common-2-sem-engineering-mechanics-011201-2014",
+        "urld": "1DQReDG8fShFkW6ps7cR-jDEVGtidXZPJ"
+      },
+      {
+        "id": 26,
+        "title": "btech-common-2-sem-engineering-mechanics-011201-2013",
+        "urld": "1OUr9zKYnloVf22HGiy-4eBA7gge64-W4"
+      },
+      {
+        "id": 27,
+        "title": "btech-common-2-sem-engineering-mechanics-011201-2012",
+        "urld": "1X1_glNXN8RkHTp-4LaBDefQtFoz59M71"
+      },
+      {
+        "id": 28,
+        "title": "btech-common-2-sem-engineering-graphics-021202-2014",
+        "urld": "1q-fuN1fn-9hRvR1ig5dLKed-e_Z8u-MN"
+      },
+      {
+        "id": 29,
+        "title": "btech-common-2-sem-engineering-graphics-021202-2013",
+        "urld": "1XhIJiLbfdRA-NtQbh_yyUGlu8J1G3hWC"
+      },
+      {
+        "id": 30,
+        "title": "btech-common-2-sem-engineering-graphics-021202-2012",
+        "urld": "1-2KO2KaOhQfTjT1WJmGv2-I2ZeIW3rJ8"
+      },
+      {
+        "id": 31,
+        "title": "btech-common-2-sem-engineering-chemistry-231201-2016",
+        "urld": "1KFwOAtZwZADjyT00RTHocb1BbfSFjrIp"
+      },
+      {
+        "id": 32,
+        "title": "btech-common-2-sem-engineering-chemistry-231201-2015",
+        "urld": "1TzEg9NE0ocPIrFjtPdrkiEx_kg4uz0oz"
+      },
+      {
+        "id": 33,
+        "title": "btech-common-2-sem-engineering-chemistry-231201-2014",
+        "urld": "1fXr_f7uyRhm9-i7Sj8laDThyfpsG8CbB"
+      },
+      {
+        "id": 34,
+        "title": "btech-common-2-sem-engineering-chemistry-231201-2013",
+        "urld": "11AhwdP33J27AvfFWk8td9OTzR81Nxsfz"
+      },
+      {
+        "id": 35,
+        "title": "btech-common-2-sem-engineering-chemistry-231201-2012",
+        "urld": "1dpByUSsfCHcSgQ1P-EUiPg9i_4GAEKjr"
+      },
+      {
+        "id": 36,
+        "title": "btech-common-2-sem-elements-of-mechanical-engineering-021201-2016",
+        "urld": "1dfUobGuMuUQmZlsXlOZB8_L79Km4l1Xy"
+      },
+      {
+        "id": 37,
+        "title": "btech-common-2-sem-elements-of-mechanical-engineering-021201-2015",
+        "urld": "190HhPsOGPh86IY2WThDOWuzrkapD-E9P"
+      },
+      {
+        "id": 38,
+        "title": "btech-common-2-sem-elements-of-mechanical-engineering-021201-2014",
+        "urld": "1ooVtDK8rb2w9-oW7yci1toobb0Sj8ZuM"
+      },
+      {
+        "id": 39,
+        "title": "btech-common-2-sem-elements-of-mechanical-engineering-021201-2013",
+        "urld": "1Do7Conz7WZeAt74oMLb73Cf5FNClRmU6"
+      },
+      {
+        "id": 40,
+        "title": "btech-common-2-sem-discrete-mathematics-and-graph-theory-105217-2012",
+        "urld": "1sHE8wcycS2op_jVy_NqVk-F2EH1cz8ho"
+      },
+      {
+        "id": 41,
+        "title": "btech-common-2-sem-computer-architecture-105205-2012",
+        "urld": "1-2OMBVR0nU3N8DzHE80RLCD5YzDYUasi"
+      },
+      {
+        "id": 42,
+        "title": "btech-common-2-sem-computational-techniques-121202-2012",
+        "urld": "1qrvVhG4I7PcJ6mlHOwa9QJw8n_uD_bQZ"
+      },
+      {
+        "id": 43,
+        "title": "btech-common-2-sem-communicative-english-241205-2015",
+        "urld": "1TeUBbOMugMFPNxPkGk5d5G96aiByU-iM"
+      },
+      {
+        "id": 44,
+        "title": "btech-common-2-sem-communicative-english-241205-2014",
+        "urld": "1S3hKaKw-LseYcDPPl7e1fMFgqH-GHEUK"
+      },
+      {
+        "id": 45,
+        "title": "btech-common-2-sem-communicative-english-241205-2013",
+        "urld": "1GbtvLqbL0uIug9kJy27IH0AJ3BIccrpY"
+      },
+      {
+        "id": 46,
+        "title": "btech-common-2-sem-communicative-english-241205-2012",
+        "urld": "1xyqwYi3dK3MH6BAwI3GypLYbPSXZy6HP"
+      },
+      {
+        "id": 47,
+        "title": "btech-common-2-sem-building-science-101211-2012",
+        "urld": "10v_u31AcrOc_hZ3xAwyEMf6q0SR9f8Qy"
+      },
+      {
+        "id": 48,
+        "title": "btech-common-2-sem-basic-electrical-engineering-031201-2016",
+        "urld": "1GiKHMFeLyfnLq47xNiPbOXKtm3IrblBR"
+      },
+      {
+        "id": 49,
+        "title": "btech-common-2-sem-basic-electrical-engineering-031201-2015",
+        "urld": "1yDDZLCWZMk-z9TWTLZmKNh0IooQDbz4v"
+      },
+      {
+        "id": 50,
+        "title": "btech-common-2-sem-basic-electrical-engineering-031201-2014",
+        "urld": "1r5NNh8uL1amYRCXHvkyFM6YKqbfNfMzh"
+      },
+      {
+        "id": 51,
+        "title": "btech-common-2-sem-basic-electrical-engineering-031201-2013",
+        "urld": "1ye46NXVsu_gmC2K5B50NjygafMwPVlEF"
+      },
+      {
+        "id": 52,
+        "title": "btech-common-2-sem-basic-electrical-engineering-031201-2012",
+        "urld": "1L-tzBsaIM7D2fPFSJ7ap9jukk2IlVNcu"
+      },
+      {
+        "id": 53,
+        "title": "btech-common-1-sem-physics-221101-2016",
+        "urld": "15jxsaSesS4OxsQ2E4Zl3nXRWKHwTS3z7"
+      },
+      {
+        "id": 54,
+        "title": "btech-common-1-sem-physics-221101-2015",
+        "urld": "16XT-wbIEuakoa_jgDVD9N3brVS48E5TQ"
+      },
+      {
+        "id": 55,
+        "title": "btech-common-1-sem-physics-221101-2014",
+        "urld": "1xjn-S8Q3IJKyVLy_3LNvZBLnf6ZLb8Ax"
+      },
+      {
+        "id": 56,
+        "title": "btech-common-1-sem-physics-221101-2011",
+        "urld": "1ggqhUf29T5wuE3bnmCgjMUjtmJpgPP8-"
+      },
+      {
+        "id": 57,
+        "title": "btech-common-1-sem-mathematics-1-211101-2016",
+        "urld": "1IiQlmtkEOh6u24mTRxZcOMYdTVJB44dT"
+      },
+      {
+        "id": 58,
+        "title": "btech-common-1-sem-mathematics-1-211101-2015",
+        "urld": "1W21t16ac5GvuCywj6b4x9t2Hg-Z93d6q"
+      },
+      {
+        "id": 59,
+        "title": "btech-common-1-sem-mathematics-1-211101-2014",
+        "urld": "1xtXyKA4WVzer4iS_yANI5vM1VHrKBLH9"
+      },
+      {
+        "id": 60,
+        "title": "btech-common-1-sem-mathematics-1-211101-2013",
+        "urld": "1GZLz0Dgxg2OO0SIfcIkV_ZOvZWAgfjPs"
+      },
+      {
+        "id": 61,
+        "title": "btech-common-1-sem-mathematics-1-211101-2011",
+        "urld": "1K0zP30V4hTg-cwQIDXJrDpKcfEuV3m5H"
+      },
+      {
+        "id": 62,
+        "title": "btech-common-1-sem-fundamental-of-information-technology-061101-2016",
+        "urld": "1BVtLNSYC1HVGcz_eR8tmStbO4mweYb7t"
+      },
+      {
+        "id": 63,
+        "title": "btech-common-1-sem-fundamental-of-information-technology-061101-2015",
+        "urld": "14JT1VLodsQJFiJKZfA23tes3h4hZ89Si"
+      },
+      {
+        "id": 64,
+        "title": "btech-common-1-sem-fundamental-of-information-technology-061101-2014",
+        "urld": "1_4SpOHdVUGKQaDedlDB2tqLEhlLAX2LY"
+      },
+      {
+        "id": 65,
+        "title": "btech-common-1-sem-environmental-science-011102-2016",
+        "urld": "1ka-novJxtnTtw38m71YHluSG4RMWzQfb"
+      },
+      {
+        "id": 66,
+        "title": "btech-common-1-sem-environmental-science-011102-2015",
+        "urld": "1eEEbAGCdUbL0K1x7S8NyWXbjRXQ95lkB"
+      },
+      {
+        "id": 67,
+        "title": "btech-common-1-sem-environmental-science-011102-2014",
+        "urld": "16q9PtnjiR9_n3Hiqd-Qhxa3ijDoRrguc"
+      },
+      {
+        "id": 68,
+        "title": "btech-common-1-sem-environmental-science-011102-2013",
+        "urld": "1S3c42tUFsGyEehYPn0Of5sk-7naGinJK"
+      },
+      {
+        "id": 69,
+        "title": "btech-common-1-sem-engineering-mechanics-011101-2016",
+        "urld": "1DwojvtZ0Vv9BcrkhLCKMVb_RdfAwNTsU"
+      },
+      {
+        "id": 70,
+        "title": "btech-common-1-sem-engineering-mechanics-011101-2015",
+        "urld": "1qrxHnSziWZ-CVEdEGVOvsovTLHayXH61"
+      },
+      {
+        "id": 71,
+        "title": "btech-common-1-sem-engineering-mechanics-011101-2014",
+        "urld": "1ROIeiruxEwe6oysXxHcVm86kz1-9Mju-"
+      },
+      {
+        "id": 72,
+        "title": "btech-common-1-sem-engineering-graphics-021102-2016",
+        "urld": "1a6R--tEcZEG1YtEJMXzdKvnYu05GK_di"
+      },
+      {
+        "id": 73,
+        "title": "btech-common-1-sem-engineering-graphics-021102-2015",
+        "urld": "1clm1kqnYYJZ4KZ-Qz2TgjwzJA9VSnKWC"
+      },
+      {
+        "id": 74,
+        "title": "btech-common-1-sem-engineering-graphics-021102-2014",
+        "urld": "1OrdFvDsLyREoqGwesPle5cobgO-BGEZj"
+      },
+      {
+        "id": 75,
+        "title": "btech-common-1-sem-engineering-graphics-021102-2013",
+        "urld": "16HyrBc0XqhF266FMI1pkK1NOW6Wyd31R"
+      },
+      {
+        "id": 76,
+        "title": "btech-common-1-sem-engineering-graphics-021102-2012",
+        "urld": "1E-0ZCxulKvldNXtQKlnSAPIItL0I9XJ2"
+      },
+      {
+        "id": 77,
+        "title": "btech-common-1-sem-engineering-graphics-021102-2011",
+        "urld": "1ZRWpQ2PIVINyYBakJVk3RFzVTZzzJirO"
+      },
+      {
+        "id": 78,
+        "title": "btech-common-1-sem-engineering-chemistry-231101-2016",
+        "urld": "13MGL47EMtsT-WUFeo8wBTk58SSpWb3V1"
+      },
+      {
+        "id": 79,
+        "title": "btech-common-1-sem-engineering-chemistry-231101-2015",
+        "urld": "1BjA5MMY-e0OHSMQShbbosSFK4-K6aQsd"
+      },
+      {
+        "id": 80,
+        "title": "btech-common-1-sem-engineering-chemistry-231101-2014",
+        "urld": "1_c9m_nNYCCo3a9sI_TAExQ2At-Rvrvzw"
+      },
+      {
+        "id": 81,
+        "title": "btech-common-1-sem-engineering-chemistry-231101-2013",
+        "urld": "1-M-5bLKp4qeLprNmspd2KYG_L_8HbUv5"
+      },
+      {
+        "id": 82,
+        "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2016",
+        "urld": "1yM4ynI4fE0QBqAtysnxzwLpIxKCkXgaH"
+      },
+      {
+        "id": 83,
+        "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2015",
+        "urld": "13sCNgB00WDUE_QgYB6FJ8I8fTsR039oE"
+      },
+      {
+        "id": 84,
+        "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2014",
+        "urld": "1ILYeQ3V5HEQDbPpaduxLp3RIXijUYhr4"
+      },
+      {
+        "id": 85,
+        "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2013",
+        "urld": "1s8HSX0mUWprlCnj6jxS7yYgqMBKpq7A2"
+      },
+      {
+        "id": 86,
+        "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2012",
+        "urld": "1NSkhtLHFwg2mbK-bD5mJYcPl0dD1Ikox"
+      },
+      {
+        "id": 87,
+        "title": "btech-common-1-sem-communicative-english-241105-2016",
+        "urld": "1LrvQaEAIhS2hGWCMml88qfInzBXRfdQ8"
+      },
+      {
+        "id": 88,
+        "title": "btech-common-1-sem-communicative-english-241105-2015",
+        "urld": "1HFCLnnspY6tsLIPpzeMLYs34K5ObFGmD"
+      },
+      {
+        "id": 89,
+        "title": "btech-common-1-sem-communicative-english-241105-2014",
+        "urld": "1TM1QyuisNMnxukBExWVkdvOmz1eEHcDp"
+      },
+      {
+        "id": 90,
+        "title": "btech-common-1-sem-communicative-english-241105-2013",
+        "urld": "11zKwBvHhKO0C_JkKCrjBA0Rmh84mxQgs"
+      },
+      {
+        "id": 91,
+        "title": "btech-common-1-sem-communicative-english-241105-2012",
+        "urld": "1xPuFDtYEKbjdCb-ffWcQwrQMvq595x4K"
+      },
+      {
+        "id": 92,
+        "title": "btech-common-1-sem-communicative-english-241105-2011",
+        "urld": "1bFj4hKFjRCL3ZoppP4acP8LboB4Z3xiY"
+      },
+      {
+        "id": 93,
+        "title": "btech-common-1-sem-basic-electrical-engineering-031101-2016",
+        "urld": "1rqVZceZ2JFaXke32FFOffLhaxYOwRGRz"
+      },
+      {
+        "id": 94,
+        "title": "btech-common-1-sem-basic-electrical-engineering-031101-2015",
+        "urld": "1zvojKsUETelMFWV7tBFF3zSB4Dc-S_g-"
+      },
+      {
+        "id": 95,
+        "title": "btech-common-1-sem-basic-electrical-engineering-031101-2014",
+        "urld": "17oJplviYzog6p0QXw9znx9aLZ9_SdVOl"
+      },
+      {
+        "id": 96,
+        "title": "btech-common-1-sem-basic-electrical-engineering-031101-2013",
+        "urld": "1QxnAbSzMIZsSZ6kFaUHsgJo2WYEf0bt4"
+      },
+      {
+        "id": 97,
+        "title": "btech-common-1-sem-basic-electrical-engineering-031101-2012",
+        "urld": "1bXaAZ3htGHyZXc0frBAYv3qAPR_ithvF"
+      },
+      {
+        "id": 98,
+        "title": "btech-common-1-sem-basic-electrical-engineering-031101-2011",
+        "urld": "1iFek16LP9HlRuDmNDfmXS93xAxzUQQCL"
+      },
+      {
+        "id": 99,
+        "title": "btech-common-1-sem-mathematics-1-211101-2012",
+        "urld": "1LSg-yfJKUZiby6FvnxKb8YUv6Up3kjYs"
+      }
     ],
     "2017": [
-      [
-        {
-          "id": 1,
-          "title": "btech-common-1-sem-basic-electrical-engineering-031101-2017",
-          "urld": "1ul3h0LTq-6g-Np_FEC-aTU1D-dsDINl-"
-        },
-        {
-          "id": 2,
-          "title": "btech-common-2-sem-physics-221201-2017",
-          "urld": "1qtjCJognbSfvgK1WK4iY5W9vNC881v4-"
-        },
-        {
-          "id": 3,
-          "title": "btech-common-2-sem-mathematics-2-211202-2017",
-          "urld": "1MPqt_eh9jTGtmC9uzXEjqHJ5eg-OVq0T"
-        },
-        {
-          "id": 4,
-          "title": "btech-common-2-sem-environmental-science-011202-2017",
-          "urld": "1OsRQyo2QXJV-UOpPu3SyKVNFBj9A0a-N"
-        },
-        {
-          "id": 5,
-          "title": "btech-common-2-sem-engineering-mechanics-011201-2017",
-          "urld": "1SuPsUePbxczdmR7g-q_a3G7_WQ8qftxX"
-        },
-        {
-          "id": 6,
-          "title": "btech-common-2-sem-engineering-chemistry-231201-2017",
-          "urld": "1sC0NcOMtDmsGfhJsZWYEuNRB47nOOiSw"
-        },
-        {
-          "id": 7,
-          "title": "btech-common-2-sem-communicative-english-241205-2017",
-          "urld": "1o9kZomAdTRD-xnc8u6N9IK2B1kE-750B"
-        },
-        {
-          "id": 8,
-          "title": "btech-common-2-sem-basic-electrical-engineering-031201-2017",
-          "urld": "1iTLENS40tXSm-qENOlBWFc79MkPERRhx"
-        },
-        {
-          "id": 9,
-          "title": "btech-common-1-sem-physics-221101-2017",
-          "urld": "1jtTr6G4BnQ-_YLtMc1ram4qBR7-n1DUP"
-        },
-        {
-          "id": 10,
-          "title": "btech-common-1-sem-mathematics-1-211101-2017",
-          "urld": "16_DXW-6DEOplvjDN-JrLRjJcIjzgoyuf"
-        },
-        {
-          "id": 11,
-          "title": "btech-common-1-sem-fundamental-of-information-technology-061101-2017",
-          "urld": "113mHz9hRkZeMkbR3UCUmtn5EFhPosCnV"
-        },
-        {
-          "id": 12,
-          "title": "btech-common-1-sem-environmental-science-011102-2017",
-          "urld": "12TiDvpgI_CRMgHXN39kq0my1rYGbh7VJ"
-        },
-        {
-          "id": 13,
-          "title": "btech-common-1-sem-engineering-mechanics-011101-2017",
-          "urld": "16Wwj2DagoJS3BH5KxlaHAgXknCMbRQKU"
-        },
-        {
-          "id": 14,
-          "title": "btech-common-1-sem-engineering-graphics-021102-2017",
-          "urld": "10S_9YpRcvrmxwz0w8S7Sv8tdfUlYF6HX"
-        },
-        {
-          "id": 15,
-          "title": "btech-common-1-sem-engineering-chemistry-231101-2017",
-          "urld": "16LT198QiwY8jJXN4y_hHze9K63n1pfeQ"
-        },
-        {
-          "id": 16,
-          "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2017",
-          "urld": "1n_RrZHKaYqz5S-OIsUHl1NxLKl4Pqzi7"
-        },
-        {
-          "id": 17,
-          "title": "btech-common-1-sem-communicative-english-241105-2017",
-          "urld": "1zW-rNaYjXu8hW8NBp8UiEJq9mfSHd3n1"
-        }
-      ]
+      {
+        "id": 1,
+        "title": "btech-common-1-sem-basic-electrical-engineering-031101-2017",
+        "urld": "1ul3h0LTq-6g-Np_FEC-aTU1D-dsDINl-"
+      },
+      {
+        "id": 2,
+        "title": "btech-common-2-sem-physics-221201-2017",
+        "urld": "1qtjCJognbSfvgK1WK4iY5W9vNC881v4-"
+      },
+      {
+        "id": 3,
+        "title": "btech-common-2-sem-mathematics-2-211202-2017",
+        "urld": "1MPqt_eh9jTGtmC9uzXEjqHJ5eg-OVq0T"
+      },
+      {
+        "id": 4,
+        "title": "btech-common-2-sem-environmental-science-011202-2017",
+        "urld": "1OsRQyo2QXJV-UOpPu3SyKVNFBj9A0a-N"
+      },
+      {
+        "id": 5,
+        "title": "btech-common-2-sem-engineering-mechanics-011201-2017",
+        "urld": "1SuPsUePbxczdmR7g-q_a3G7_WQ8qftxX"
+      },
+      {
+        "id": 6,
+        "title": "btech-common-2-sem-engineering-chemistry-231201-2017",
+        "urld": "1sC0NcOMtDmsGfhJsZWYEuNRB47nOOiSw"
+      },
+      {
+        "id": 7,
+        "title": "btech-common-2-sem-communicative-english-241205-2017",
+        "urld": "1o9kZomAdTRD-xnc8u6N9IK2B1kE-750B"
+      },
+      {
+        "id": 8,
+        "title": "btech-common-2-sem-basic-electrical-engineering-031201-2017",
+        "urld": "1iTLENS40tXSm-qENOlBWFc79MkPERRhx"
+      },
+      {
+        "id": 9,
+        "title": "btech-common-1-sem-physics-221101-2017",
+        "urld": "1jtTr6G4BnQ-_YLtMc1ram4qBR7-n1DUP"
+      },
+      {
+        "id": 10,
+        "title": "btech-common-1-sem-mathematics-1-211101-2017",
+        "urld": "16_DXW-6DEOplvjDN-JrLRjJcIjzgoyuf"
+      },
+      {
+        "id": 11,
+        "title": "btech-common-1-sem-fundamental-of-information-technology-061101-2017",
+        "urld": "113mHz9hRkZeMkbR3UCUmtn5EFhPosCnV"
+      },
+      {
+        "id": 12,
+        "title": "btech-common-1-sem-environmental-science-011102-2017",
+        "urld": "12TiDvpgI_CRMgHXN39kq0my1rYGbh7VJ"
+      },
+      {
+        "id": 13,
+        "title": "btech-common-1-sem-engineering-mechanics-011101-2017",
+        "urld": "16Wwj2DagoJS3BH5KxlaHAgXknCMbRQKU"
+      },
+      {
+        "id": 14,
+        "title": "btech-common-1-sem-engineering-graphics-021102-2017",
+        "urld": "10S_9YpRcvrmxwz0w8S7Sv8tdfUlYF6HX"
+      },
+      {
+        "id": 15,
+        "title": "btech-common-1-sem-engineering-chemistry-231101-2017",
+        "urld": "16LT198QiwY8jJXN4y_hHze9K63n1pfeQ"
+      },
+      {
+        "id": 16,
+        "title": "btech-common-1-sem-elements-of-mechanical-engineering-021101-2017",
+        "urld": "1n_RrZHKaYqz5S-OIsUHl1NxLKl4Pqzi7"
+      },
+      {
+        "id": 17,
+        "title": "btech-common-1-sem-communicative-english-241105-2017",
+        "urld": "1zW-rNaYjXu8hW8NBp8UiEJq9mfSHd3n1"
+      }
     ],
     "2018": [
-      [
-        {
-          "id": 1,
-          "title": "btech-common-2-sem-physics-221201-2018",
-          "urld": "1TEMX_5AVEhTsGsAG7WolqNU7HScgXGKL"
-        },
-        {
-          "id": 2,
-          "title": "btech-common-2-sem-mathematics-2-211202-2018",
-          "urld": "1Fxihk-FOm5PJ1zAwOzbkddQDJbzPEkh1"
-        },
-        {
-          "id": 3,
-          "title": "btech-common-2-sem-communicative-english-241205-2018",
-          "urld": "1Lctk6z_v6VqXOQFS9whWrfrgbp4gWtLa"
-        },
-        {
-          "id": 4,
-          "title": "btech-common-2-sem-basic-electrical-engineering-031201-2018",
-          "urld": "1LvKKrNCfFsjkGL0vmq2MIpIclPwjju_Y"
-        },
-        {
-          "id": 5,
-          "title": "btech-common-1-sem-workshop-manufacturing-practices-100105-2018",
-          "urld": "1c7ySt9C8jwICfIOM3k4Dx24s7C7F_HJ-"
-        },
-        {
-          "id": 6,
-          "title": "btech-common-1-sem-programming-for-problem-solving-100104-2018",
-          "urld": "1v26ev_0GSfzYFnbugna_zZ5Jkvq-2nJv"
-        },
-        {
-          "id": 7,
-          "title": "btech-common-1-sem-physics-mechanics-101101-2018",
-          "urld": "1DbmHvoI7gbA8sKC6airfbqoTB_UN0xpW"
-        },
-        {
-          "id": 8,
-          "title": "btech-common-1-sem-physics-electromagnetism-102101-2018",
-          "urld": "18rnRqN-dSiAsq7gOXxTimH2_cn-QSfoV"
-        },
-        {
-          "id": 9,
-          "title": "btech-common-1-sem-mathematics-1-calculus-multivariable-calculus-and-linear-algebra-101102-2018",
-          "urld": "1B4tNlAtByqfu2lc0axaiHmhZ6X49LWv9"
-        },
-        {
-          "id": 10,
-          "title": "btech-common-1-sem-mathematics-1-calculus-and-linear-algebra-102102-2018",
-          "urld": "18QHvWcGzGjeRQqRyQECAGg1ST9g2Ha1E"
-        },
-        {
-          "id": 11,
-          "title": "btech-common-1-sem-mathematics-1-calculus-and-differential-equations-103102-2018",
-          "urld": "1UJ3cDbhhaSma1_lpX1XJXCs3Kar6B19d"
-        },
-        {
-          "id": 12,
-          "title": "btech-common-1-sem-english-100106-2018",
-          "urld": "1FBuMfWNpmbWXhSiBZU6dAnBZ2VEeOIdd"
-        },
-        {
-          "id": 13,
-          "title": "btech-common-1-sem-engineering-graphics-and-design-100102-2018",
-          "urld": "1ThnYp3fsz8J6BDrJVvZvfGZsfTpINaV1"
-        },
-        {
-          "id": 14,
-          "title": "btech-common-1-sem-engineering-graphics-021102-2018",
-          "urld": "1k1rh5YiL-_pl5u8OaeVEOufLS7E8Dbo1"
-        },
-        {
-          "id": 15,
-          "title": "btech-common-1-sem-chemistry-100103-2018",
-          "urld": "1Js02IiOH3B6w6xa8LkURr6suW9l8oXvN"
-        },
-        {
-          "id": 16,
-          "title": "btech-common-1-sem-basic-electrical-engineering-100101-2018",
-          "urld": "1TXVi8XAFoKhPFh8Iv3tP3Ov4Pejtfzfs"
-        },
-        {
-          "id": 17,
-          "title": "btech-common-1-sem-basic-electrical-engineering-031101-2018",
-          "urld": "1ZVZk8OhHTZ0ApaCIU81-r8K7s2bjfqwB"
-        },
-        {
-          "id": 18,
-          "title": "btech-1-sem-mathematics-calculus-and-linear-algebra-105102-2018",
-          "urld": "1n0dhfufYQZL0xSV7K_5cEMrr7fKBKlqt"
-        }
-      ]
+      {
+        "id": 1,
+        "title": "btech-common-2-sem-physics-221201-2018",
+        "urld": "1TEMX_5AVEhTsGsAG7WolqNU7HScgXGKL"
+      },
+      {
+        "id": 2,
+        "title": "btech-common-2-sem-mathematics-2-211202-2018",
+        "urld": "1Fxihk-FOm5PJ1zAwOzbkddQDJbzPEkh1"
+      },
+      {
+        "id": 3,
+        "title": "btech-common-2-sem-communicative-english-241205-2018",
+        "urld": "1Lctk6z_v6VqXOQFS9whWrfrgbp4gWtLa"
+      },
+      {
+        "id": 4,
+        "title": "btech-common-2-sem-basic-electrical-engineering-031201-2018",
+        "urld": "1LvKKrNCfFsjkGL0vmq2MIpIclPwjju_Y"
+      },
+      {
+        "id": 5,
+        "title": "btech-common-1-sem-workshop-manufacturing-practices-100105-2018",
+        "urld": "1c7ySt9C8jwICfIOM3k4Dx24s7C7F_HJ-"
+      },
+      {
+        "id": 6,
+        "title": "btech-common-1-sem-programming-for-problem-solving-100104-2018",
+        "urld": "1v26ev_0GSfzYFnbugna_zZ5Jkvq-2nJv"
+      },
+      {
+        "id": 7,
+        "title": "btech-common-1-sem-physics-mechanics-101101-2018",
+        "urld": "1DbmHvoI7gbA8sKC6airfbqoTB_UN0xpW"
+      },
+      {
+        "id": 8,
+        "title": "btech-common-1-sem-physics-electromagnetism-102101-2018",
+        "urld": "18rnRqN-dSiAsq7gOXxTimH2_cn-QSfoV"
+      },
+      {
+        "id": 9,
+        "title": "btech-common-1-sem-mathematics-1-calculus-multivariable-calculus-and-linear-algebra-101102-2018",
+        "urld": "1B4tNlAtByqfu2lc0axaiHmhZ6X49LWv9"
+      },
+      {
+        "id": 10,
+        "title": "btech-common-1-sem-mathematics-1-calculus-and-linear-algebra-102102-2018",
+        "urld": "18QHvWcGzGjeRQqRyQECAGg1ST9g2Ha1E"
+      },
+      {
+        "id": 11,
+        "title": "btech-common-1-sem-mathematics-1-calculus-and-differential-equations-103102-2018",
+        "urld": "1UJ3cDbhhaSma1_lpX1XJXCs3Kar6B19d"
+      },
+      {
+        "id": 12,
+        "title": "btech-common-1-sem-english-100106-2018",
+        "urld": "1FBuMfWNpmbWXhSiBZU6dAnBZ2VEeOIdd"
+      },
+      {
+        "id": 13,
+        "title": "btech-common-1-sem-engineering-graphics-and-design-100102-2018",
+        "urld": "1ThnYp3fsz8J6BDrJVvZvfGZsfTpINaV1"
+      },
+      {
+        "id": 14,
+        "title": "btech-common-1-sem-engineering-graphics-021102-2018",
+        "urld": "1k1rh5YiL-_pl5u8OaeVEOufLS7E8Dbo1"
+      },
+      {
+        "id": 15,
+        "title": "btech-common-1-sem-chemistry-100103-2018",
+        "urld": "1Js02IiOH3B6w6xa8LkURr6suW9l8oXvN"
+      },
+      {
+        "id": 16,
+        "title": "btech-common-1-sem-basic-electrical-engineering-100101-2018",
+        "urld": "1TXVi8XAFoKhPFh8Iv3tP3Ov4Pejtfzfs"
+      },
+      {
+        "id": 17,
+        "title": "btech-common-1-sem-basic-electrical-engineering-031101-2018",
+        "urld": "1ZVZk8OhHTZ0ApaCIU81-r8K7s2bjfqwB"
+      },
+      {
+        "id": 18,
+        "title": "btech-1-sem-mathematics-calculus-and-linear-algebra-105102-2018",
+        "urld": "1n0dhfufYQZL0xSV7K_5cEMrr7fKBKlqt"
+      }
     ],
     "2019": [
-      [
-        {
-          "id": 1,
-          "title": "btech-common-2-sem-workshop-manufacturing-practices-100205-2019",
-          "urld": "1K0RWFiGDj7vfVwQPMWnhhQsMxWJ-zBF8"
-        },
-        {
-          "id": 2,
-          "title": "btech-common-2-sem-programming-for-problem-solving-100204-2019",
-          "urld": "1kDkjlbB_89BlKOjllNJNLqW3s_vMn9Oc"
-        },
-        {
-          "id": 3,
-          "title": "btech-common-2-sem-physics-waves-and-optics-and-introduction-to-quantum-mechanics-103201-2019",
-          "urld": "1frO7bycnmrMswbhq478Cz_Z9BwfiQAVI"
-        },
-        {
-          "id": 4,
-          "title": "btech-common-2-sem-mathematics-2-ordinary-differential-equations-and-complex-variables-102202-2019",
-          "urld": "117qV8Q05D0-GTTYZ9P2wSSNinKDpbPbk"
-        },
-        {
-          "id": 5,
-          "title": "btech-common-2-sem-mathematics-2-linear-algebra-transform-calculus-and-numerical-method-103202-2019",
-          "urld": "1M-DJPb9yp9GYGFVHrKSy5CxdkFQz_m2r"
-        },
-        {
-          "id": 6,
-          "title": "btech-common-2-sem-english-100206-2019",
-          "urld": "1RquzLH_33wYSRS5v8kXYHUMeSzp9nfHp"
-        },
-        {
-          "id": 7,
-          "title": "btech-common-2-sem-chemistry-100203-2019",
-          "urld": "1eP_eH81s1JT2OqUZx2K3Cb3XKIxicslC"
-        },
-        {
-          "id": 8,
-          "title": "btech-2-sem-physics-semiconductor-physics-and-introduction-to-quantum-mechanics-105201-2019",
-          "urld": "1mY3ywv5vqPFsmJ2qjkndwX8s-Sa231JH"
-        },
-        {
-          "id": 9,
-          "title": "btech-2-sem-mathematics-2-differential-equations-101202-2019",
-          "urld": "1Pq02TpYSP6t0gNlaKL2EhrMILeiOK9iD"
-        },
-        {
-          "id": 10,
-          "title": "btech-2-sem-basic-electrical-engineering-100201-2019",
-          "urld": "1t16L6qHYtHvxhzlI7p45XDlBWjUS4diO"
-        },
-        {
-          "id": 11,
-          "title": "btech-1-sem-workshop-manufacturing-practices-100105-2019",
-          "urld": "1YS7jAFbP_94VPFzguL8b3XZmM645Euea"
-        },
-        {
-          "id": 12,
-          "title": "btech-1-sem-programming-for-problem-solving-100104-2019",
-          "urld": "18UoGxclx7voSbv6shklfaG72rQ3Vsizt"
-        },
-        {
-          "id": 13,
-          "title": "btech-1-sem-physics-semiconductor-physics-and-introduction-to-quantum-mechanics-105101-2019",
-          "urld": "1YER0dWT1JwaopLosdf8YngWlkdmivmuE"
-        },
-        {
-          "id": 14,
-          "title": "btech-1-sem-physics-mechanics-101101-2019",
-          "urld": "1F5-zJfl_zazZJqO9TmD3hkLJ_2O2NYPB"
-        },
-        {
-          "id": 15,
-          "title": "btech-1-sem-physics-electromagnetism-102101-2019",
-          "urld": "1jgZFyl6qsviZ0ZuINjDnw-TVzrrDNVxG"
-        },
-        {
-          "id": 16,
-          "title": "btech-1-sem-mathematics-calculus-multivariable-calculus-and-linear-algebra-101102-2019",
-          "urld": "1V2SKdZCg2jzqwRJ01SvwpjrQ4OqqxQSn"
-        },
-        {
-          "id": 17,
-          "title": "btech-1-sem-mathematics-1-calculus-and-linear-algebra-105102-2019",
-          "urld": "1pY7dwzL_qwIlcYYzhlIgvGlYeTCTQFag"
-        },
-        {
-          "id": 18,
-          "title": "btech-1-sem-mathematics-1-calculus-and-linear-algebra-102102-2019",
-          "urld": "1cjmL6LxpmL9TOVlSWyqr2xzEZdcdPQGL"
-        },
-        {
-          "id": 19,
-          "title": "btech-1-sem-mathematics-1-calculus-and-differential-equations-103102-2019",
-          "urld": "1anrsU5XoZZ4Os3NEQhZkX_O6ewS_wNRK"
-        },
-        {
-          "id": 20,
-          "title": "btech-1-sem-english-100106-2019",
-          "urld": "1bcpiZot_XAcYXjK32jZq6oQS9L2nos5Y"
-        },
-        {
-          "id": 21,
-          "title": "btech-1-sem-engineering-graphics-and-design-100102-2019",
-          "urld": "1TK_O8j7fGC2GaKF-wSRnl8wmdZuY4YiR"
-        },
-        {
-          "id": 22,
-          "title": "btech-1-sem-chemistry-100103-2019",
-          "urld": "1WqJJc2HSpBw8XEYAXcGV3vQz2VySgXh7"
-        },
-        {
-          "id": 23,
-          "title": "btech-1-sem-basic-electrical-engineering-100101-2019",
-          "urld": "1rqpNZTtvBz3eEhnrU4yDkmbTfMAs222X"
-        }
-      ]
+      {
+        "id": 1,
+        "title": "btech-common-2-sem-workshop-manufacturing-practices-100205-2019",
+        "urld": "1K0RWFiGDj7vfVwQPMWnhhQsMxWJ-zBF8"
+      },
+      {
+        "id": 2,
+        "title": "btech-common-2-sem-programming-for-problem-solving-100204-2019",
+        "urld": "1kDkjlbB_89BlKOjllNJNLqW3s_vMn9Oc"
+      },
+      {
+        "id": 3,
+        "title": "btech-common-2-sem-physics-waves-and-optics-and-introduction-to-quantum-mechanics-103201-2019",
+        "urld": "1frO7bycnmrMswbhq478Cz_Z9BwfiQAVI"
+      },
+      {
+        "id": 4,
+        "title": "btech-common-2-sem-mathematics-2-ordinary-differential-equations-and-complex-variables-102202-2019",
+        "urld": "117qV8Q05D0-GTTYZ9P2wSSNinKDpbPbk"
+      },
+      {
+        "id": 5,
+        "title": "btech-common-2-sem-mathematics-2-linear-algebra-transform-calculus-and-numerical-method-103202-2019",
+        "urld": "1M-DJPb9yp9GYGFVHrKSy5CxdkFQz_m2r"
+      },
+      {
+        "id": 6,
+        "title": "btech-common-2-sem-english-100206-2019",
+        "urld": "1RquzLH_33wYSRS5v8kXYHUMeSzp9nfHp"
+      },
+      {
+        "id": 7,
+        "title": "btech-common-2-sem-chemistry-100203-2019",
+        "urld": "1eP_eH81s1JT2OqUZx2K3Cb3XKIxicslC"
+      },
+      {
+        "id": 8,
+        "title": "btech-2-sem-physics-semiconductor-physics-and-introduction-to-quantum-mechanics-105201-2019",
+        "urld": "1mY3ywv5vqPFsmJ2qjkndwX8s-Sa231JH"
+      },
+      {
+        "id": 9,
+        "title": "btech-2-sem-mathematics-2-differential-equations-101202-2019",
+        "urld": "1Pq02TpYSP6t0gNlaKL2EhrMILeiOK9iD"
+      },
+      {
+        "id": 10,
+        "title": "btech-2-sem-basic-electrical-engineering-100201-2019",
+        "urld": "1t16L6qHYtHvxhzlI7p45XDlBWjUS4diO"
+      },
+      {
+        "id": 11,
+        "title": "btech-1-sem-workshop-manufacturing-practices-100105-2019",
+        "urld": "1YS7jAFbP_94VPFzguL8b3XZmM645Euea"
+      },
+      {
+        "id": 12,
+        "title": "btech-1-sem-programming-for-problem-solving-100104-2019",
+        "urld": "18UoGxclx7voSbv6shklfaG72rQ3Vsizt"
+      },
+      {
+        "id": 13,
+        "title": "btech-1-sem-physics-semiconductor-physics-and-introduction-to-quantum-mechanics-105101-2019",
+        "urld": "1YER0dWT1JwaopLosdf8YngWlkdmivmuE"
+      },
+      {
+        "id": 14,
+        "title": "btech-1-sem-physics-mechanics-101101-2019",
+        "urld": "1F5-zJfl_zazZJqO9TmD3hkLJ_2O2NYPB"
+      },
+      {
+        "id": 15,
+        "title": "btech-1-sem-physics-electromagnetism-102101-2019",
+        "urld": "1jgZFyl6qsviZ0ZuINjDnw-TVzrrDNVxG"
+      },
+      {
+        "id": 16,
+        "title": "btech-1-sem-mathematics-calculus-multivariable-calculus-and-linear-algebra-101102-2019",
+        "urld": "1V2SKdZCg2jzqwRJ01SvwpjrQ4OqqxQSn"
+      },
+      {
+        "id": 17,
+        "title": "btech-1-sem-mathematics-1-calculus-and-linear-algebra-105102-2019",
+        "urld": "1pY7dwzL_qwIlcYYzhlIgvGlYeTCTQFag"
+      },
+      {
+        "id": 18,
+        "title": "btech-1-sem-mathematics-1-calculus-and-linear-algebra-102102-2019",
+        "urld": "1cjmL6LxpmL9TOVlSWyqr2xzEZdcdPQGL"
+      },
+      {
+        "id": 19,
+        "title": "btech-1-sem-mathematics-1-calculus-and-differential-equations-103102-2019",
+        "urld": "1anrsU5XoZZ4Os3NEQhZkX_O6ewS_wNRK"
+      },
+      {
+        "id": 20,
+        "title": "btech-1-sem-english-100106-2019",
+        "urld": "1bcpiZot_XAcYXjK32jZq6oQS9L2nos5Y"
+      },
+      {
+        "id": 21,
+        "title": "btech-1-sem-engineering-graphics-and-design-100102-2019",
+        "urld": "1TK_O8j7fGC2GaKF-wSRnl8wmdZuY4YiR"
+      },
+      {
+        "id": 22,
+        "title": "btech-1-sem-chemistry-100103-2019",
+        "urld": "1WqJJc2HSpBw8XEYAXcGV3vQz2VySgXh7"
+      },
+      {
+        "id": 23,
+        "title": "btech-1-sem-basic-electrical-engineering-100101-2019",
+        "urld": "1rqpNZTtvBz3eEhnrU4yDkmbTfMAs222X"
+      }
     ],
     "2020": [
-      [
-        {
-          "id": 1,
-          "title": "btech-3-sem-network-theory-104304-2020",
-          "urld": "13X2Dh6xpr2rIaVPkI9NiwqQ4yLG7WphG"
-        },
-        {
-          "id": 2,
-          "title": "btech-2-sem-workshop-manufacturing-practices-100105-2020",
-          "urld": "1ReCrTVY950YhDuCs2ln07LAUGABW1NhU"
-        },
-        {
-          "id": 3,
-          "title": "btech-2-sem-programming-for-problem-solving-100104-2020",
-          "urld": "1_GzOWtUgELekBNYYXjkUlBV_liWhX95B"
-        },
-        {
-          "id": 4,
-          "title": "btech-2-sem-english-100106-2020",
-          "urld": "1lMgHweQb3LMijKKnyEJB3uBd3oMfyhYI"
-        },
-        {
-          "id": 5,
-          "title": "btech-2-sem-engineering-graphics-and-design-special-100102-2020",
-          "urld": "1sHDtn-71UVeY2N3E3pq6UxFwH58vQ67a"
-        },
-        {
-          "id": 6,
-          "title": "btech-2-sem-chemistry-100103-2020",
-          "urld": "1DR2RY3I6z5-JqY8kaiIOpZvag6cbMFCF"
-        },
-        {
-          "id": 7,
-          "title": "btech-2-sem-basic-electrical-engineering-100101-2020",
-          "urld": "1O5jCAdtPP2RrdpG2Zek9fN5u6G3Zsc9N"
-        },
-        {
-          "id": 8,
-          "title": "btech-1-sem-physics-mechanics-101101-2020",
-          "urld": "1eBrh6vk1-96ZL58TENAZTRtJXoh45jjz"
-        },
-        {
-          "id": 9,
-          "title": "btech-1-sem-physics-electromagnetism-102101-2020",
-          "urld": "1fUr3JxEb3rn1T070fdZdx89IZMIDAMOd"
-        },
-        {
-          "id": 10,
-          "title": "btech-1-sem-mathematics-calculus-and-linear-algebra-102102-2020",
-          "urld": "1pYCcKPj7Ns6hUwLB8jOTbMACml32wGhR"
-        },
-        {
-          "id": 11,
-          "title": "btech-1-sem-mathematics-1-103102-2020",
-          "urld": "1p3BQNxvRGiEMbWzyo9g74Ju_AvHRvyWj"
-        },
-        {
-          "id": 12,
-          "title": "btech-1-sem-mathematics-1-101102-2020",
-          "urld": "1UK58I-MRfmnmO4Ry9l51XEPRtTLv-MTC"
-        }
-      ]
+      {
+        "id": 1,
+        "title": "btech-3-sem-network-theory-104304-2020",
+        "urld": "13X2Dh6xpr2rIaVPkI9NiwqQ4yLG7WphG"
+      },
+      {
+        "id": 2,
+        "title": "btech-2-sem-workshop-manufacturing-practices-100105-2020",
+        "urld": "1ReCrTVY950YhDuCs2ln07LAUGABW1NhU"
+      },
+      {
+        "id": 3,
+        "title": "btech-2-sem-programming-for-problem-solving-100104-2020",
+        "urld": "1_GzOWtUgELekBNYYXjkUlBV_liWhX95B"
+      },
+      {
+        "id": 4,
+        "title": "btech-2-sem-english-100106-2020",
+        "urld": "1lMgHweQb3LMijKKnyEJB3uBd3oMfyhYI"
+      },
+      {
+        "id": 5,
+        "title": "btech-2-sem-engineering-graphics-and-design-special-100102-2020",
+        "urld": "1sHDtn-71UVeY2N3E3pq6UxFwH58vQ67a"
+      },
+      {
+        "id": 6,
+        "title": "btech-2-sem-chemistry-100103-2020",
+        "urld": "1DR2RY3I6z5-JqY8kaiIOpZvag6cbMFCF"
+      },
+      {
+        "id": 7,
+        "title": "btech-2-sem-basic-electrical-engineering-100101-2020",
+        "urld": "1O5jCAdtPP2RrdpG2Zek9fN5u6G3Zsc9N"
+      },
+      {
+        "id": 8,
+        "title": "btech-1-sem-physics-mechanics-101101-2020",
+        "urld": "1eBrh6vk1-96ZL58TENAZTRtJXoh45jjz"
+      },
+      {
+        "id": 9,
+        "title": "btech-1-sem-physics-electromagnetism-102101-2020",
+        "urld": "1fUr3JxEb3rn1T070fdZdx89IZMIDAMOd"
+      },
+      {
+        "id": 10,
+        "title": "btech-1-sem-mathematics-calculus-and-linear-algebra-102102-2020",
+        "urld": "1pYCcKPj7Ns6hUwLB8jOTbMACml32wGhR"
+      },
+      {
+        "id": 11,
+        "title": "btech-1-sem-mathematics-1-103102-2020",
+        "urld": "1p3BQNxvRGiEMbWzyo9g74Ju_AvHRvyWj"
+      },
+      {
+        "id": 12,
+        "title": "btech-1-sem-mathematics-1-101102-2020",
+        "urld": "1UK58I-MRfmnmO4Ry9l51XEPRtTLv-MTC"
+      }
     ],
     "2021": [
-      [
-        {
-          "id": 1,
-          "title": "btech-2-sem-workshop-manufacturing-practices-100205-2021",
-          "urld": "1N0VnJKia5zx6zP2zRSPt8e-fwnO3AKRd"
-        },
-        {
-          "id": 2,
-          "title": "btech-2-sem-progrmming-for-problem-solving-100204-2021",
-          "urld": "1h2uuoTFdSdy3FNAwceZJfEFmJWjJDzyu"
-        },
-        {
-          "id": 3,
-          "title": "btech-2-sem-mathematics-2-differential-equations-101202-2021",
-          "urld": "1_ZeNcOv-uGarDya7IFHlniGTdCm2eonp"
-        },
-        {
-          "id": 4,
-          "title": "btech-2-sem-english-100206-2021",
-          "urld": "1zNxi4ZzVqpEENkIQuNwOssSNl4m88j6g"
-        },
-        {
-          "id": 5,
-          "title": "btech-2-sem-engineering-graphics-design-100202-2021",
-          "urld": "1wWktJJKPV_kLAlG_OOVAnvwqC7qIWUBr"
-        },
-        {
-          "id": 6,
-          "title": "btech-2-sem-chemistry-100203-2021",
-          "urld": "1EJVM_pn3LE-etPQVo4KylagzZZPd308a"
-        }
-      ]
+      {
+        "id": 1,
+        "title": "btech-2-sem-workshop-manufacturing-practices-100205-2021",
+        "urld": "1N0VnJKia5zx6zP2zRSPt8e-fwnO3AKRd"
+      },
+      {
+        "id": 2,
+        "title": "btech-2-sem-progrmming-for-problem-solving-100204-2021",
+        "urld": "1h2uuoTFdSdy3FNAwceZJfEFmJWjJDzyu"
+      },
+      {
+        "id": 3,
+        "title": "btech-2-sem-mathematics-2-differential-equations-101202-2021",
+        "urld": "1_ZeNcOv-uGarDya7IFHlniGTdCm2eonp"
+      },
+      {
+        "id": 4,
+        "title": "btech-2-sem-english-100206-2021",
+        "urld": "1zNxi4ZzVqpEENkIQuNwOssSNl4m88j6g"
+      },
+      {
+        "id": 5,
+        "title": "btech-2-sem-engineering-graphics-design-100202-2021",
+        "urld": "1wWktJJKPV_kLAlG_OOVAnvwqC7qIWUBr"
+      },
+      {
+        "id": 6,
+        "title": "btech-2-sem-chemistry-100203-2021",
+        "urld": "1EJVM_pn3LE-etPQVo4KylagzZZPd308a"
+      }
     ]
   },
   "3rd-sem": [],
