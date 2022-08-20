@@ -2,7 +2,7 @@
   "first-year": {
     "id": 1,
     "title": "first-year",
-    "first-year": [
+    "data": [
       {
         "id": 1,
         "title": "2016-to-all",
@@ -918,8 +918,8 @@
   },
   "second-year": {
     "id": 2,
-    "title": "first-year",
-    "second-year": [
+    "title": "second-year",
+    "data": [
       {
         "id": 1,
         "title": "2016-to-all",
