@@ -916,7 +916,7 @@
       }
     ]
   },
-  "second-year": {
+  "sem3": {
     "id": 2,
     "title": "second-year",
     "data": [
@@ -1833,5 +1833,4 @@
       }
     ]
   }
-  
 }
