@@ -1,258 +1,46 @@
 {
-  "btech": {
-    "cse": [
-      {
-        "id": 1,
-        "title": "sem1",
-        "name": "1 SEMESTER"
-      },
-      {
-        "id": 2,
-        "title": "sem2",
-        "name": "2 SEMESTER"
-      },
-      {
-        "id": 3,
-        "title": "sem3",
-        "name": "3 SEMESTER"
-      },
-      {
-        "id": 4,
-        "title": "sem4",
-        "name": "4 SEMESTER"
-      },
-      {
-        "id": 5,
-        "title": "sem5",
-        "name": "5 SEMESTER"
-      },
-      {
-        "id": 6,
-        "title": "sem6",
-        "name": "6 SEMESTER"
-      },
-      {
-        "id": 7,
-        "title": "sem7",
-        "name": "7 SEMESTER"
-      },
-      {
-        "id": 8,
-        "title": "sem8",
-        "name": "8 SEMESTER"
-      }
-    ],
-    "it": [
-      {
-        "id": 1,
-        "title": "sem1",
-        "name": "1 SEMESTER"
-      },
-      {
-        "id": 2,
-        "title": "sem2",
-        "name": "2 SEMESTER"
-      },
-      {
-        "id": 3,
-        "title": "sem3",
-        "name": "3 SEMESTER"
-      },
-      {
-        "id": 4,
-        "title": "sem4",
-        "name": "4 SEMESTER"
-      },
-      {
-        "id": 5,
-        "title": "sem5",
-        "name": "5 SEMESTER"
-      },
-      {
-        "id": 6,
-        "title": "sem6",
-        "name": "6 SEMESTER"
-      },
-      {
-        "id": 7,
-        "title": "sem7",
-        "name": "7 SEMESTER"
-      },
-      {
-        "id": 8,
-        "title": "sem8",
-        "name": "8 SEMESTER"
-      }
-    ],
-    "me": [
-      {
-        "id": 1,
-        "title": "sem1",
-        "name": "1 SEMESTER"
-      },
-      {
-        "id": 2,
-        "title": "sem2",
-        "name": "2 SEMESTER"
-      },
-      {
-        "id": 3,
-        "title": "sem3",
-        "name": "3 SEMESTER"
-      },
-      {
-        "id": 4,
-        "title": "sem4",
-        "name": "4 SEMESTER"
-      },
-      {
-        "id": 5,
-        "title": "sem5",
-        "name": "5 SEMESTER"
-      },
-      {
-        "id": 6,
-        "title": "sem6",
-        "name": "6 SEMESTER"
-      },
-      {
-        "id": 7,
-        "title": "sem7",
-        "name": "7 SEMESTER"
-      },
-      {
-        "id": 8,
-        "title": "sem8",
-        "name": "8 SEMESTER"
-      }
-    ],
-    "ce": [
-      {
-        "id": 1,
-        "title": "sem1",
-        "name": "1 SEMESTER"
-      },
-      {
-        "id": 2,
-        "title": "sem2",
-        "name": "2 SEMESTER"
-      },
-      {
-        "id": 3,
-        "title": "sem3",
-        "name": "3 SEMESTER"
-      },
-      {
-        "id": 4,
-        "title": "sem4",
-        "name": "4 SEMESTER"
-      },
-      {
-        "id": 5,
-        "title": "sem5",
-        "name": "5 SEMESTER"
-      },
-      {
-        "id": 6,
-        "title": "sem6",
-        "name": "6 SEMESTER"
-      },
-      {
-        "id": 7,
-        "title": "sem7",
-        "name": "7 SEMESTER"
-      },
-      {
-        "id": 8,
-        "title": "sem8",
-        "name": "8 SEMESTER"
-      }
-    ],
-    "ec": [
-      {
-        "id": 1,
-        "title": "sem1",
-        "name": "1 SEMESTER"
-      },
-      {
-        "id": 2,
-        "title": "sem2",
-        "name": "2 SEMESTER"
-      },
-      {
-        "id": 3,
-        "title": "sem3",
-        "name": "3 SEMESTER"
-      },
-      {
-        "id": 4,
-        "title": "sem4",
-        "name": "4 SEMESTER"
-      },
-      {
-        "id": 5,
-        "title": "sem5",
-        "name": "5 SEMESTER"
-      },
-      {
-        "id": 6,
-        "title": "sem6",
-        "name": "6 SEMESTER"
-      },
-      {
-        "id": 7,
-        "title": "sem7",
-        "name": "7 SEMESTER"
-      },
-      {
-        "id": 8,
-        "title": "sem8",
-        "name": "8 SEMESTER"
-      }
-    ],
-    "ee": [
-      {
-        "id": 1,
-        "title": "sem1",
-        "name": "1 SEMESTER"
-      },
-      {
-        "id": 2,
-        "title": "sem2",
-        "name": "2 SEMESTER"
-      },
-      {
-        "id": 3,
-        "title": "sem3",
-        "name": "3 SEMESTER"
-      },
-      {
-        "id": 4,
-        "title": "sem4",
-        "name": "4 SEMESTER"
-      },
-      {
-        "id": 5,
-        "title": "sem5",
-        "name": "5 SEMESTER"
-      },
-      {
-        "id": 6,
-        "title": "sem6",
-        "name": "6 SEMESTER"
-      },
-      {
-        "id": 7,
-        "title": "sem7",
-        "name": "7 SEMESTER"
-      },
-      {
-        "id": 8,
-        "title": "sem8",
-        "name": "8 SEMESTER"
-      }
-    ]
-  },
+  "btech": [
+    {
+      "id": 0,
+      "name": "1 SEMESTER",
+      "slug": "first-year"
+    },
+    {
+      "id": 1,
+      "name": "2 SEMESTER",
+      "slug": "first-year"
+    },
+    {
+      "id": 2,
+      "name": "3 SEMESTER",
+      "slug": "3rd-sem"
+    },
+    {
+      "id": 3,
+      "name": "4 SEMESTER",
+      "slug": "4th-sem"
+    },
+    {
+      "id": 4,
+      "name": "5 SEMESTER",
+      "slug": "5th-sem"
+    },
+    {
+      "id": 5,
+      "name": "6 SEMESTER",
+      "slug": "6th-sem"
+    },
+    {
+      "id": 6,
+      "name": "7 SEMESTER",
+      "slug": "7th-sem"
+    },
+    {
+      "id": 7,
+      "name": "8 SEMESTER",
+      "slug": "8th-sem"
+    }
+  ],
   "bca": [
     {
       "id": 1,
