@@ -3,42 +3,42 @@
     {
       "id": 0,
       "name": "1 SEMESTER",
-      "slug": "first-year"
+      "title": "first-year"
     },
     {
       "id": 1,
       "name": "2 SEMESTER",
-      "slug": "first-year"
+      "title": "first-year"
     },
     {
       "id": 2,
       "name": "3 SEMESTER",
-      "slug": "3rd-sem"
+      "title": "3rd-sem"
     },
     {
       "id": 3,
       "name": "4 SEMESTER",
-      "slug": "4th-sem"
+      "title": "4th-sem"
     },
     {
       "id": 4,
       "name": "5 SEMESTER",
-      "slug": "5th-sem"
+      "title": "5th-sem"
     },
     {
       "id": 5,
       "name": "6 SEMESTER",
-      "slug": "6th-sem"
+      "title": "6th-sem"
     },
     {
       "id": 6,
       "name": "7 SEMESTER",
-      "slug": "7th-sem"
+      "title": "7th-sem"
     },
     {
       "id": 7,
       "name": "8 SEMESTER",
-      "slug": "8th-sem"
+      "title": "8th-sem"
     }
   ],
   "bca": [
