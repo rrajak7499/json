@@ -1,0 +1,585 @@
+// All company list in Json document
+
+[
+  {
+    "id": "1",
+    "name": "Service – Based Companies",
+    "slug": "service-based-companies",
+    "options": [
+      {
+        "id": "1",
+        "title": "Capgemini",
+        "slug": "capgemini",
+        "discription": "Capgemini SE is a multinational information technology services and consulting company, headquartered in Paris, France",
+        "url": "https://www.capgemini.com/"
+      },
+      {
+        "id": "2",
+        "title": "Cognizant Gen C",
+        "slug": "capgemini",
+        "discription": "Cognizant is an American multinational corporation that provides custom information technology, consulting, and business process outsourcing services.",
+        "url": "https://www.capgemini.com/"
+      },
+      {
+        "id": "3",
+        "title": "Cognizant Gen C Elevate",
+        "slug": "cognizant-gen-c-elevate",
+        "discription": "Cognizant is an American multinational corporation that provides custom information technology, consulting, and business process outsourcing services.",
+        "url": "https://www.cognizant.com/"
+      },
+      {
+        "id": "4",
+        "title": "Cognizant Gen C Next",
+        "slug": "cognizant-gen-c-next",
+        "discription": "Cognizant is an American multinational corporation that provides custom information technology, consulting, and business process outsourcing services.",
+        "url": "https://www.capgemini.com/"
+      },
+      {
+        "id": "5",
+        "title": "Accenture",
+        "slug": "accenture",
+        "discription": "Accenture plc is an Irish-domiciled multinational professional services company that provides services in strategy, consulting, digital, technology and operations.",
+        "url": "https://www.accenture.com/"
+      },
+      {
+        "id": "6",
+        "title": "Deloitte",
+        "slug": "deloitte",
+        "discription": "Deloitte Touche Tohmatsu Limited is a multinational professional services network. It is one of the 'Big Four' accounting organizations and the largest professional services network in the world by revenue and number of professionals.",
+        "url": "https://www2.deloitte.com/us/en.html"
+      },
+      {
+        "id": "7",
+        "title": "Infosys",
+        "slug": "infosys",
+        "discription": "Infosys Limited is an Indian multinational corporation that provides business consulting, information technology and outsourcing services.",
+        "url": "https://www.infosys.com/"
+      },
+      {
+        "id": "8",
+        "title": "InfyTQ",
+        "slug": "infytq",
+        "discription": "Infosys Limited is an Indian multinational corporation that provides business consulting, information technology and outsourcing services.",
+        "url": "https://www.infosys.com/"
+      },
+      {
+        "id": "9",
+        "title": "Mindtree",
+        "slug": "mindtree",
+        "discription": "Mindtree Limited is an Indian multinational information technology and outsourcing company headquartered in Bangalore, India.",
+        "url": "https://www.mindtree.com/"
+      },
+      {
+        "id": "10",
+        "title": "mPhasis",
+        "slug": "mphasis",
+        "discription": "Mphasis Limited is an Indian multinational information technology (IT) services company headquartered in Bangalore, India.",
+        "url": "https://www.mphasis.com/"
+      },
+      {
+        "id": "11",
+        "title": "NTT Data",
+        "slug": "ntt-data",
+        "discription": "NTT Data Corporation is a Japanese multinational information technology services and business process outsourcing company headquartered in Tokyo, Japan.",
+        "url": "https://www.nttdata.com/"
+      },
+      {
+        "id": "12",
+        "title": "TCS Digital",
+        "slug": "tcs-digital",
+        "discription": "Tata Consultancy Services Limited is an Indian multinational information technology (IT) service and consulting company headquartered in Mumbai, Maharashtra, India.",
+        "url": "https://www.tcs.com/"
+      },
+      {
+        "id": "13",
+        "title": "TCS NQT",
+        "slug": "tcs-nqt",
+        "discription": "Tata Consultancy Services Limited is an Indian multinational information technology (IT) service and consulting company headquartered in Mumbai, Maharashtra, India.",
+        "url": "https://www.tcs.com/"
+      },
+      {
+        "id": "14",
+        "title": "TCS",
+        "slug": "tcs",
+        "discription": "Tata Consultancy Services Limited is an Indian multinational information technology (IT) service and consulting company headquartered in Mumbai, Maharashtra, India.",
+        "url": "https://www.tcs.com/"
+      },
+      {
+        "id": "15",
+        "title": "Tcs Ninja",
+        "slug": "tcs-ninja",
+        "discription": "Tata Consultancy Services Limited is an Indian multinational information technology (IT) service and consulting company headquartered in Mumbai, Maharashtra, India.",
+        "url": "https://www.tcs.com/"
+      },
+      {
+        "id": "16",
+        "title": "TCS iON",
+        "slug": "tcs-ion",
+        "discription": "Tata Consultancy Services Limited is an Indian multinational information technology (IT) service and consulting company headquartered in Mumbai, Maharashtra, India.",
+        "url": "https://www.tcs.com/"
+      },
+      {
+        "id": "17",
+        "title": "Wipro",
+        "slug": "wipro",
+        "discription": "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services.",
+        "url": "https://www.wipro.com/"
+      },
+      {
+        "id": "18",
+        "title": "Wipro Next",
+        "slug": "wipro-next",
+        "discription": "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services.",
+        "url": "https://www.wipro.com/"
+      },
+      {
+        "id": "19",
+        "title": "Wipro NTH",
+        "slug": "wipro-nth",
+        "discription": "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services.",
+        "url": "https://www.wipro.com/"
+      },
+      {
+        "id": "20",
+        "title": "Wipro WILP",
+        "slug": "wipro-wilp",
+        "discription": "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services.",
+        "url": "https://www.wipro.com/"
+      },
+      {
+        "id": "21",
+        "title": "ZS Associates",
+        "slug": "zs-associates",
+        "discription": "ZS Associates is a global management consulting firm headquartered in Evanston, Illinois, United States.",
+        "url": "https://www.zs.com/"
+      },
+      {
+        "id": "22",
+        "title": "HCL",
+        "slug": "hcl",
+        "discription": "HCL Technologies Limited is an Indian multinational information technology services and consulting company headquartered in Noida, Uttar Pradesh, India.",
+        "url": "https://www.hcltech.com/"
+      },
+      {
+        "id": "23",
+        "title": "Tech Mahindra",
+        "slug": "tech-mahindra",
+        "discription": "Tech Mahindra Limited is an Indian multinational provider of information technology, networking technology solutions and Business Process Outsourcing to various industry verticals and horizontals.",
+        "url": "https://www.techmahindra.com/"
+      },
+      {
+        "id": "24",
+        "title": "Mu Sigma",
+        "slug": "mu-sigma",
+        "discription": "Mu Sigma is a global management consulting and technology services company headquartered in Chicago, Illinois, United States.",
+        "url": "https://www.musigma.com/"
+      },
+      {
+        "id": "25",
+        "title": "Reliance Jio",
+        "slug": "reliance-jio",
+        "discription": "Reliance Jio Infocomm Limited is an Indian telecommunications company and a subsidiary of Reliance Industries Limited, headquartered in Mumbai, Maharashtra, India.",
+        "url": "https://www.jio.com/"
+      },
+      {
+        "id": "26",
+        "title": "L  &  T Infotech",
+        "slug": "l-and-t-infotech",
+        "discription": "Larsen & Toubro Infotech Limited is an Indian multinational information technology services and consulting company headquartered in Mumbai, Maharashtra, India.",
+        "url": "https://www.lntinfotech.com/"
+      },
+      {
+        "id": "27",
+        "title": "Hexaware",
+        "slug": "hexaware",
+        "discription": "Hexaware Technologies Limited is an Indian multinational information technology services and consulting company headquartered in Mumbai, Maharashtra, India.",
+        "url": "https://www.hexaware.com/"
+      },
+      {
+        "id": "28",
+        "title": "IBM",
+        "slug": "ibm",
+        "discription": "International Business Machines Corporation is an American multinational technology company headquartered in Armonk, New York, United States.",
+        "url": "https://www.ibm.com/"
+      },
+      {
+        "id": "29",
+        "title": "HackwithInfy",
+        "slug": "hackwithinfy",
+        "discription": "HackwithInfy is a 24-hour hackathon organized by Infosys Limited, a multinational corporation that provides business consulting, information technology and outsourcing services.",
+        "url": "https://www.infosys.com/"
+      },
+      {
+        "id": "30",
+        "title": "DXC",
+        "slug": "dxc",
+        "discription": "DXC Technology is an American multinational information technology services company headquartered in Tysons Corner, Virginia, United States.",
+        "url": "https://www.dxc.technology/"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Product – Based Companie",
+    "slug": "product-based-companies",
+    "options": [
+      {
+        "id": "1",
+        "title": "Zoho",
+        "slug": "zoho",
+        "discription": "Zoho Corporation is an Indian software development company that provides a range of software for businesses, including customer relationship management, business intelligence, office productivity, and database management.",
+        "url": "https://www.zoho.com/"
+      },
+      {
+        "id": "2",
+        "title": "Goldman Sachs",
+        "slug": "goldman-sachs",
+        "discription": "Goldman Sachs Group, Inc. is an American multinational investment bank and financial services company headquartered in New York City.",
+        "url": "https://www.goldmansachs.com/"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Platforms",
+    "slug": "platforms",
+    "options": [
+      {
+        "id": "1",
+        "title": "MyAntomy",
+        "slug": "myantomay",
+        "discription": "MyAntomy is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.myantomy.com/"
+      },
+      {
+        "id": "2",
+        "title": "CoCubes",
+        "slug": "cocubes",
+        "discription": "CoCubes is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.cocubes.com/"
+      },
+      {
+        "id": "3",
+        "title": "Mettl",
+        "slug": "mettl",
+        "discription": "Mettl is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.mettl.com/"
+      },
+      {
+        "id": "4",
+        "title": "HackerEarth",
+        "slug": "hackerearth",
+        "discription": "HackerEarth is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.hackerearth.com/"
+      },
+      {
+        "id": "5",
+        "title": "HackerRank",
+        "slug": "hackerrank",
+        "discription": "HackerRank is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.hackerrank.com/"
+      },
+      {
+        "id": "6",
+        "title": "GeeksForGeeks",
+        "slug": "geeksforgeeks",
+        "discription": "GeeksForGeeks is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.geeksforgeeks.org/"
+      },
+      {
+        "id": "7",
+        "title": "InterviewBit",
+        "slug": "interviewbit",
+        "discription": "InterviewBit is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.interviewbit.com/"
+      },
+      {
+        "id": "8",
+        "title": "LeetCode",
+        "slug": "leetcode",
+        "discription": "LeetCode is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://leetcode.com/"
+      },
+      {
+        "id": "9",
+        "title": "CodeChef",
+        "slug": "codechef",
+        "discription": "CodeChef is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.codechef.com/"
+      },
+      {
+        "id": "10",
+        "title": "CodeForces",
+        "slug": "codeforces",
+        "discription": "CodeForces is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://codeforces.com/"
+      },
+      {
+        "id": "11",
+        "title": "TopCoder",
+        "slug": "topcoder",
+        "discription": "TopCoder is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.topcoder.com/"
+      },
+      {
+        "id": "12",
+        "title": "SPOJ",
+        "slug": "spoj",
+        "discription": "SPOJ is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.spoj.com/"
+      },
+      {
+        "id": "13",
+        "title": "HackerEarth",
+        "slug": "hackerearth",
+        "discription": "HackerEarth is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.hackerearth.com/"
+      },
+      {
+        "id": "14",
+        "title": "HackerRank",
+        "slug": "hackerrank",
+        "discription": "HackerRank is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.hackerrank.com/"
+      },
+      {
+        "id": "15",
+        "title": "GeeksForGeeks",
+        "slug": "geeksforgeeks",
+        "discription": "GeeksForGeeks is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.geeksforgeeks.org/"
+      },
+      {
+        "id": "16",
+        "title": "InterviewBit",
+        "slug": "interviewbit",
+        "discription": "InterviewBit is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.interviewbit.com/"
+      },
+      {
+        "id": "17",
+        "title": "eLitmus",
+        "slug": "elitmus",
+        "discription": "eLitmus is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.elitmus.com/"
+      },
+      {
+        "id": "18",
+        "title": "HirePro",
+        "slug": "hirepro",
+        "discription": "HirePro is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.hirepro.in/"
+      },
+      {
+        "id": "19",
+        "title": "First Naukri",
+        "slug": "first-naukri",
+        "discription": "First Naukri is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.firstnaukri.com/"
+      },
+      {
+        "id": "20",
+        "title": "WeCP",
+        "slug": "wecp",
+        "discription": "WeCP is a platform that provides a wide range of courses and certifications in the field of data science, machine learning, artificial intelligence, and cloud computing.",
+        "url": "https://www.wecp.in/"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Others",
+    "slug": "others",
+    "options": [
+      {
+        "id": "1",
+        "title": "Alcatel",
+        "slug": "alcatel",
+        "discription": "Alcatel-Lucent is a French multinational telecommunications equipment company, headquartered in Boulogne-Billancourt, France. It was formed in 2006 by the merger of Alcatel and Lucent Technologies.",
+        "url": "https://www.alcatel.com/"
+      },
+      {
+        "id": "2",
+        "title": "Amazon",
+        "slug": "amazon",
+        "discription": "Amazon.com, Inc. is an American multinational technology company based in Seattle, Washington, which focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence.",
+        "url": "https://www.amazon.com/"
+      },
+      {
+        "id": "3",
+        "title": "Apple",
+        "slug": "apple",
+        "discription": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.",
+        "url": "https://www.apple.com/"
+      },
+      {
+        "id": "4",
+        "title": "Cisco",
+        "slug": "cisco",
+        "discription": "Cisco Systems, Inc. is an American multinational technology conglomerate headquartered in San Jose, California, in the center of Silicon Valley, that develops, manufactures and sells networking hardware, telecommunications equipment and other high-technology services and products.",
+        "url": "https://www.cisco.com/"
+      },
+      {
+        "id": "5",
+        "title": "Dell",
+        "slug": "dell",
+        "discription": "Dell Technologies Inc. is an American multinational computer technology company based in Round Rock, Texas, United States, that develops, sells, repairs, and supports computers and related products and services.",
+        "url": "https://www.dell.com/"
+      },
+      {
+        "id": "6",
+        "title": "Facebook",
+        "slug": "facebook",
+        "discription": "Facebook, Inc. is an American online social media and social networking service company based in Menlo Park, California. Its website was launched on February 4, 2004, by Mark Zuckerberg, along with fellow Harvard College students and roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz and Chris Hughes.",
+        "url": "https://www.facebook.com/"
+      },
+      {
+        "id": "7",
+        "title": "Google",
+        "slug": "google",
+        "discription": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.",
+        "url": "https://www.google.com/"
+      },
+      {
+        "id": "8",
+        "title": "HP",
+        "slug": "hp",
+        "discription": "Hewlett-Packard Company or shortened to Hewlett-Packard was an American multinational information technology company headquartered in Palo Alto, California. It developed and provided a wide variety of hardware components as well as software and related services to consumers, small- and medium-sized businesses (SMBs) and large enterprises, including customers in the government, health and education sectors.",
+        "url": "https://www.hp.com/"
+      },
+      {
+        "id": "9",
+        "title": "IBM",
+        "slug": "ibm",
+        "discription": "International Business Machines Corporation is an American multinational technology company headquartered in Armonk, New York, United States, with operations in over 170 countries.",
+        "url": "https://www.ibm.com/"
+      },
+      {
+        "id": "10",
+        "title": "Intel",
+        "slug": "intel",
+        "discription": "Intel Corporation is an American multinational corporation and technology company headquartered in Santa Clara, California, in Silicon Valley. It is the world's largest and highest valued semiconductor chip manufacturer based on revenue, and is the inventor of the x86 series of microprocessors, the processors found in most personal computers.",
+        "url": "https://www.intel.com/"
+      },
+      {
+        "id": "11",
+        "title": "Microsoft",
+        "slug": "microsoft",
+        "discription": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",
+        "url": "https://www.microsoft.com/"
+      },
+      {
+        "id": "12",
+        "title": "Oracle",
+        "slug": "oracle",
+        "discription": "Oracle Corporation is an American multinational computer technology corporation headquartered in Redwood City, California. The company sells database software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems.",
+        "url": "https://www.oracle.com/"
+      },
+      {
+        "id": "13",
+        "title": "Samsung",
+        "slug": "samsung",
+        "discription": "Samsung Electronics Co., Ltd. is a South Korean multinational electronics company headquartered in Suwon, South Korea. It is the flagship subsidiary of the Samsung Group and has been the world's largest information technology company by revenue since 2009.",
+        "url": "https://www.samsung.com/"
+      },
+      {
+        "id": "14",
+        "title": "TCS",
+        "slug": "tcs",
+        "discription": "Tata Consultancy Services Limited is an Indian multinational information technology (IT) service and consulting company headquartered in Mumbai, Maharashtra. It is a subsidiary of the Tata Group and operates in 149 locations across 46 countries.",
+        "url": "https://www.tcs.com/"
+      },
+      {
+        "id": "15",
+        "title": "Wipro",
+        "slug": "wipro",
+        "discription": "Wipro Limited is an Indian multinational corporation that provides information technology, consulting and business process services. It is headquartered in Bangalore, Karnataka, India. In 2013, Wipro separated its non-IT businesses and formed the privately owned Wipro Enterprises.",
+        "url": "https://www.wipro.com/"
+      },
+      {
+        "id": "16",
+        "title": "Yahoo",
+        "slug": "yahoo",
+        "discription": "Yahoo! Inc. is an American multinational technology company headquartered in Sunnyvale, California. Yahoo was founded by Jerry Yang and David Filo in January 1994 and was incorporated on March 2, 1995.",
+        "url": "https://www.yahoo.com/"
+      },
+      {
+        "id": "17",
+        "title": "Zoho",
+        "slug": "zoho",
+        "discription": "Zoho Corporation is an Indian software development company based in Chennai, India. It was founded in 1996 by Sridhar Vembu and Sujai Srinivasan. Zoho offers a suite of web-based software applications for businesses, including office productivity, customer relationship management, database management, and other applications.",
+        "url": "https://www.zoho.com/"
+      },
+      {
+        "id": "18",
+        "title": "Zomato",
+        "slug": "zomato",
+        "discription": "Zomato is an Indian restaurant search and discovery service founded in 2008 by Deepinder Goyal and Pankaj Chaddah. The company currently has operations in 24 countries including India, United States, United Kingdom, Australia, Brazil, Canada, France, Germany, Indonesia, Italy, Japan, Malaysia, Mexico, New Zealand, Philippines, Poland, Russia, Saudi Arabia, Singapore, South Africa, South Korea, Spain, Turkey, and UAE.",
+        "url": "https://www.zomato.com/"
+      },
+      {
+        "id": "19",
+        "title": "Adobe",
+        "slug": "adobe",
+        "discription": "Adobe Inc. is an American multinational computer software company. Adobe has historically focused upon the creation of multimedia and creativity software products, with a more recent foray towards rich Internet application software development.",
+        "url": "https://www.adobe.com/"
+      },
+      {
+        "id": "20",
+        "title": "Qualcomm",
+        "slug": "qualcomm",
+        "discription": "Qualcomm Incorporated is an American multinational semiconductor and telecommunications equipment company that designs and markets wireless telecommunications products and services. It derives most of its revenue from chipmaking, which represents more than 60% of total revenue.",
+        "url": "https://www.qualcomm.com/"
+      },
+      {
+        "id": "21",
+        "title": "VMware",
+        "slug": "vmware",
+        "discription": "VMware, Inc. is an American publicly traded software company headquartered in Palo Alto, California. It provides cloud and virtualization software and services. The company was the first to successfully virtualize the x86 architecture.",
+        "url": "https://www.vmware.com/"
+      },
+      {
+        "id": "22",
+        "title": "CGI",
+        "slug": "cgi",
+        "discription": "CGI Group Inc. is a Canadian global information technology (IT) consulting, systems integration, outsourcing, and solutions company headquartered in Montreal, Quebec, Canada. It is the fifth largest independent information technology and business process services firm in the world.",
+        "url": "https://www.cgi.com/"
+      },
+      {
+        "id": "23",
+        "title": "Persistent",
+        "slug": "persistent",
+        "discription": "Persistent Systems Limited is an Indian multinational information technology company headquartered in Pune, Maharashtra, India. It was founded in 1990 by Nilesh Wagle and is a subsidiary of Persistent Systems, Inc., a publicly traded company on the NASDAQ stock exchange.",
+        "url": "https://www.persistent.com/"
+      },
+      {
+        "id": "24",
+        "title": "Infosys",
+        "slug": "infosys",
+        "discription": "Infosys Limited is an Indian multinational corporation that provides business consulting, information technology and outsourcing services. It has its headquarters in Bangalore, Karnataka, India. Infosys is the second-largest Indian IT company after Tata Consultancy Services by 2017 revenues.",
+        "url": "https://www.infosys.com/"
+      },
+      {
+        "id": "25",
+        "title": "Wells Fargo",
+        "slug": "wells-fargo",
+        "discription": "Wells Fargo & Company is an American multinational financial services company headquartered in San Francisco, California, with central offices throughout the country. It is the fourth-largest bank in the U.S. by assets and the largest bank by market capitalization.",
+        "url": "https://www.wellsfargo.com/"
+      },
+      {
+        "id": "26",
+        "title": "Aricent",
+        "slug": "aricent",
+        "discription": "Aricent Technologies is an American multinational company that provides software and services to the telecommunications industry. It is headquartered in Santa Clara, California, United States. Aricent was founded in 2000 as a spin-off from Lucent Technologies.",
+        "url": "https://www.aricent.com/"
+      },
+      {
+        "id": "27",
+        "title": "HSBC  ",
+        "slug": "hsbc",
+        "discription": "HSBC Holdings plc is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong. It is the world's seventh-largest bank by total assets and the largest in Europe, with total assets of US$2.374 trillion at 30 September 2017.",
+        "url": "https://www.hsbc.com/"
+      }
+    ]
+  }
+]
