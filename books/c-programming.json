@@ -4,6 +4,7 @@
     "title": "Computer Programming In C Language",
     "discription": "This note covers the following topics: Structures of C Programming, Built-in Operators and function, Loop Control structures, Simple Arithmetic Problems, Addition Multiplication of integers, Functions, Pointers.",
     "author": "Eiilm University",
+    "download": "download lik",
     "count": "136"
   },
   {
@@ -11,6 +12,7 @@
     "title": "C Programming by Goutam Biswa",
     "discription": "This note explains the following topics: digital computers, introduction to programming variables, assignments, expressions, input/output, conditionals and branching, iteration, functions, recursion, arrays, Pointers, character strings, time and space requirements, searching and sorting, structures, introduction to data-procedure encapsulation, dynamic allocation, linked structures, Data structures stacks and queues.",
     "author": "Goutam Biswa",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -18,6 +20,7 @@
     "title": "Computer Programming Fundamentals Using C Part1",
     "discription": "This note covers the following topics: C Language Constructs, Variables and Data Types, C Statements, Operators and Expressions, Control Flow � Decision Making, Looping and Nesting, Arrays, Structures and Unions, Pointers, Functions, Function Parameters, Pass by Value and Address, Recursion, Header Files, C Pre-Processor, Macros, File Processing in C.",
     "author": "University of Kashmir",
+    "download": "download lik",
     "count": "143"
   },
   {
@@ -25,6 +28,7 @@
     "title": "Computer Programming Fundamentals Using C Part2",
     "discription": "This note explains the following topics: Pointers, Functions, Function Parameters, Pass by Value/Address, Recursion.",
     "author": "University of Kashmir",
+    "download": "download lik",
     "count": "113"
   },
   {
@@ -32,6 +36,7 @@
     "title": "C programming in plain view",
     "discription": "This note covers the following topics: Handling Repetition, Handling a Big Work, Handling Series of Data, Handling Various Kinds of Data, Handling Low Level Operations, C Standard Libraries, Compiling and Linking, Workings of the GNU Compiler and Linker, Assembly Programming, Debugging and Profiling.",
     "author": "Wikiversity",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -39,6 +44,7 @@
     "title": "Lecture Note On Programming In Ce",
     "discription": "This note covers the following topics: C Language Fundamentals, Arrays, Functions and Strings, Pointers, Structures, Unions, File handling, handling functions, monolithic vs. Modular programs, user defined vs. standard functions, formal vs. actual arguments, function, union, dynamic memory allocation, file managements.",
     "author": "Asst. Professor Mrs Etuari Oram and Asst. Prof. Mr Bighnaraj Naik",
+    "download": "download lik",
     "count": "127"
   },
   {
@@ -46,6 +52,7 @@
     "title": "A to Z of C",
     "discription": "This is one of the cheapest and best C/DOS programming book to Indian intellectuals who cannot afford to buy costlier books. Topics covered includes: Birth of C, Coding Style, ANSI C - Prelude, main( ) and Mistakes, Undefined, The Magic XOR, DOS Programming, Advanced Graphics Programming, Advanced Programming, Game Programming, Mathematics and C, Algorithms and C, Illegal Codes, Smart Dictionary.",
     "author": "K. Joseph Wesley and R. Rajesh Jeba Anbiah",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -53,6 +60,7 @@
     "title": "Programming in C I",
     "discription": "This note is an introduction to the C programming language and programming in the Unix environment. Topics covered includes: The syntax of the C language, Use of common libraries for C programming, A general overview of Unix, Makefiles and the gcc compiler, Write programs in C,  Utilize the Unix environment and Use common C libraries.",
     "author": "Andrew Christlieb",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -60,6 +68,7 @@
     "title": "Programming in C by Bharat Kinariwala",
     "discription": "This book is intended to be a first text in programming in general with emphasis on the C language. It is meant for students with little or no previous programming experience. Topics covered includes: Computer System Organization, Organization of C Programs, Testing the Program, Input Reading Data, Designing Programs Top Down, Processing Character Data, Numeric Data Types and Expression Evaluation, Arrays, Functions and Files, Sorting and Searching, String Processing, Two Dimensional Arrays, Structures and Unions, File Input and Output, Storage Class and Scope, Engineering Programming Examples.",
     "author": "Bharat Kinariwala and Tep Dobry",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -67,6 +76,7 @@
     "title": "Programming in C Lectures",
     "discription": "This course note is an introduction to programming in C. Students with little or no programming background will learn the syntax and semantics of the C language and at the end they can design, implement and test C programs.",
     "author": "Michigan State University",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -74,6 +84,7 @@
     "title": "C/C++ programming language",
     "discription": "This module introduce the C family of programming language, including issues arising from the various extensions of C that have been developed.",
     "author": "Hayo Thielecke",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -81,6 +92,7 @@
     "title": "C Language Tutorial (PDF 124P)",
     "discription": "This note covers the following topics: getting started, getting started in c, program control, assignment logical compares, functions and variables, defines and macros, strings and arrays, pointers, standard inputoutput, file inputoutput, structures and unions, dynamic allocation, character and bit manipulation, example programs, the visual calculator version and error messages",
     "author": "Gordon Dodrill",
+    "download": "download lik",
     "count": "124"
   },
   {
@@ -88,6 +100,7 @@
     "title": "An Introduction to the C Programming Language and Software Design (PDF 158P)",
     "discription": "This note covers the following topics: types operators and expressions , branching and iteration , functions , scope and extent , software design , pointers , arrays and strings , dynamic memory , the c preprocessor , structures and unions , bitwise operations , input and output , generic programming , data structures , c in the real world , Collected Style Rules and Common Errors.",
     "author": "Tim Bailey",
+    "download": "download lik",
     "count": "158"
   },
   {
@@ -95,6 +108,7 @@
     "title": "C Programming Tutorial (KR version 4), M. Burgess",
     "discription": "This is a C Programming Tutorial for people who have a little experience with an interpreted programming language, such as Emacs Lisp or a GNU shell. Its aim is to teach C to a beginner, but with enough of the details so as not be outgrown as the years go by. It presumes that you have some previous aquaintance with programming you need to know what a variable is and what a function is, but you do not need much experience.",
     "author": "Mark Burgess",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -102,6 +116,7 @@
     "title": "The C Book (M. Banahan, et al)",
     "discription": "This is not a tutorial introduction to programming. The book is designed for programmers who already have some experience of using a modern high-level procedural programming language. Topics covered includes: Variables and Arithmetic, Control of Flow and Logical Expressions, Functions, Arrays and Pointers, Structured Data Types, The Preprocessor, Specialized Areas of C, Libraries and Complete Programs in C.",
     "author": "Mike Banahan, Declan Brady and Mark Doran",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -109,6 +124,7 @@
     "title": "Writing Bug Free C Code (J. Jongerius)",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -116,6 +132,7 @@
     "title": "Learn C A C Tutorial",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -123,6 +140,7 @@
     "title": "Rationale for American National Standard for Information Systems Programming Language C",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -130,6 +148,7 @@
     "title": "The C Library Reference Guide (Eric Huss) Mirror",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -137,6 +156,7 @@
     "title": "A Tutorial on Pointers and Arrays in C Mirror1",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -144,6 +164,7 @@
     "title": "A Tutorial on Pointers and Arrays in C Mirror2",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -151,6 +172,7 @@
     "title": "The New C Standard An Economic and Cultural Commentary (Derek M. Jones)",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -158,6 +180,7 @@
     "title": "C Language Reference Manual Mirror1",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -165,6 +188,7 @@
     "title": "Incompatibilities between ISO C and ISO C++",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   },
   {
@@ -172,6 +196,7 @@
     "title": "Programming in C A Tutorial (Brian W. Kernighan)",
     "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
     "author": "NA",
+    "download": "download lik",
     "count": "NA"
   }
 ]
