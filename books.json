@@ -1,0 +1,424 @@
+{
+  "c-programming": {
+    "id": 1,
+    "name": "C Programming",
+    "description": "C Programming",
+    "slug": "c-programming",
+    "book-list": [
+      {
+        "id": "1",
+        "title": "Computer Programming In C Language",
+        "discription": "This note covers the following topics: Structures of C Programming, Built-in Operators and function, Loop Control structures, Simple Arithmetic Problems, Addition Multiplication of integers, Functions, Pointers.",
+        "author": "Eiilm University",
+        "count": "136"
+      },
+      {
+        "id": "2",
+        "title": "C Programming by Goutam Biswa",
+        "discription": "This note explains the following topics: digital computers, introduction to programming variables, assignments, expressions, input/output, conditionals and branching, iteration, functions, recursion, arrays, Pointers, character strings, time and space requirements, searching and sorting, structures, introduction to data-procedure encapsulation, dynamic allocation, linked structures, Data structures stacks and queues.",
+        "author": "Goutam Biswa",
+        "count": "NA"
+      },
+      {
+        "id": "3",
+        "title": "Computer Programming Fundamentals Using C Part1",
+        "discription": "This note covers the following topics: C Language Constructs, Variables and Data Types, C Statements, Operators and Expressions, Control Flow � Decision Making, Looping and Nesting, Arrays, Structures and Unions, Pointers, Functions, Function Parameters, Pass by Value and Address, Recursion, Header Files, C Pre-Processor, Macros, File Processing in C.",
+        "author": "University of Kashmir",
+        "count": "143"
+      },
+      {
+        "id": "4",
+        "title": "Computer Programming Fundamentals Using C Part2",
+        "discription": "This note explains the following topics: Pointers, Functions, Function Parameters, Pass by Value/Address, Recursion.",
+        "author": "University of Kashmir",
+        "count": "113"
+      },
+      {
+        "id": "5",
+        "title": "C programming in plain view",
+        "discription": "This note covers the following topics: Handling Repetition, Handling a Big Work, Handling Series of Data, Handling Various Kinds of Data, Handling Low Level Operations, C Standard Libraries, Compiling and Linking, Workings of the GNU Compiler and Linker, Assembly Programming, Debugging and Profiling.",
+        "author": "Wikiversity",
+        "count": "NA"
+      },
+      {
+        "id": "6",
+        "title": "Lecture Note On Programming In Ce",
+        "discription": "This note covers the following topics: C Language Fundamentals, Arrays, Functions and Strings, Pointers, Structures, Unions, File handling, handling functions, monolithic vs. Modular programs, user defined vs. standard functions, formal vs. actual arguments, function, union, dynamic memory allocation, file managements.",
+        "author": "Asst. Professor Mrs Etuari Oram and Asst. Prof. Mr Bighnaraj Naik",
+        "count": "127"
+      },
+      {
+        "id": "7",
+        "title": "A to Z of C",
+        "discription": "This is one of the cheapest and best C/DOS programming book to Indian intellectuals who cannot afford to buy costlier books. Topics covered includes: Birth of C, Coding Style, ANSI C - Prelude, main( ) and Mistakes, Undefined, The Magic XOR, DOS Programming, Advanced Graphics Programming, Advanced Programming, Game Programming, Mathematics and C, Algorithms and C, Illegal Codes, Smart Dictionary.",
+        "author": "K. Joseph Wesley and R. Rajesh Jeba Anbiah",
+        "count": "NA"
+      },
+      {
+        "id": "8",
+        "title": "Programming in C I",
+        "discription": "This note is an introduction to the C programming language and programming in the Unix environment. Topics covered includes: The syntax of the C language, Use of common libraries for C programming, A general overview of Unix, Makefiles and the gcc compiler, Write programs in C,  Utilize the Unix environment and Use common C libraries.",
+        "author": "Andrew Christlieb",
+        "count": "NA"
+      },
+      {
+        "id": "9",
+        "title": "Programming in C by Bharat Kinariwala",
+        "discription": "This book is intended to be a first text in programming in general with emphasis on the C language. It is meant for students with little or no previous programming experience. Topics covered includes: Computer System Organization, Organization of C Programs, Testing the Program, Input Reading Data, Designing Programs Top Down, Processing Character Data, Numeric Data Types and Expression Evaluation, Arrays, Functions and Files, Sorting and Searching, String Processing, Two Dimensional Arrays, Structures and Unions, File Input and Output, Storage Class and Scope, Engineering Programming Examples.",
+        "author": "Bharat Kinariwala and Tep Dobry",
+        "count": "NA"
+      },
+      {
+        "id": "10",
+        "title": "Programming in C Lectures",
+        "discription": "This course note is an introduction to programming in C. Students with little or no programming background will learn the syntax and semantics of the C language and at the end they can design, implement and test C programs.",
+        "author": "Michigan State University",
+        "count": "NA"
+      },
+      {
+        "id": "11",
+        "title": "C/C++ programming language",
+        "discription": "This module introduce the C family of programming language, including issues arising from the various extensions of C that have been developed.",
+        "author": "Hayo Thielecke",
+        "count": "NA"
+      },
+      {
+        "id": "12",
+        "title": "C Language Tutorial (PDF 124P)",
+        "discription": "This note covers the following topics: getting started, getting started in c, program control, assignment logical compares, functions and variables, defines and macros, strings and arrays, pointers, standard inputoutput, file inputoutput, structures and unions, dynamic allocation, character and bit manipulation, example programs, the visual calculator version and error messages",
+        "author": "Gordon Dodrill",
+        "count": "124"
+      },
+      {
+        "id": "13",
+        "title": "An Introduction to the C Programming Language and Software Design (PDF 158P)",
+        "discription": "This note covers the following topics: types operators and expressions , branching and iteration , functions , scope and extent , software design , pointers , arrays and strings , dynamic memory , the c preprocessor , structures and unions , bitwise operations , input and output , generic programming , data structures , c in the real world , Collected Style Rules and Common Errors.",
+        "author": "Tim Bailey",
+        "count": "158"
+      },
+      {
+        "id": "14",
+        "title": "C Programming Tutorial (KR version 4), M. Burgess",
+        "discription": "This is a C Programming Tutorial for people who have a little experience with an interpreted programming language, such as Emacs Lisp or a GNU shell. Its aim is to teach C to a beginner, but with enough of the details so as not be outgrown as the years go by. It presumes that you have some previous aquaintance with programming you need to know what a variable is and what a function is, but you do not need much experience.",
+        "author": "Mark Burgess",
+        "count": "NA"
+      },
+      {
+        "id": "15",
+        "title": "The C Book (M. Banahan, et al)",
+        "discription": "This is not a tutorial introduction to programming. The book is designed for programmers who already have some experience of using a modern high-level procedural programming language. Topics covered includes: Variables and Arithmetic, Control of Flow and Logical Expressions, Functions, Arrays and Pointers, Structured Data Types, The Preprocessor, Specialized Areas of C, Libraries and Complete Programs in C.",
+        "author": "Mike Banahan, Declan Brady and Mark Doran",
+        "count": "NA"
+      },
+      {
+        "id": "16",
+        "title": "Writing Bug Free C Code (J. Jongerius)",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "17",
+        "title": "Learn C A C Tutorial",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "18",
+        "title": "Rationale for American National Standard for Information Systems Programming Language C",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "19",
+        "title": "The C Library Reference Guide (Eric Huss) Mirror",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "20",
+        "title": "A Tutorial on Pointers and Arrays in C Mirror1",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "21",
+        "title": "A Tutorial on Pointers and Arrays in C Mirror2",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "22",
+        "title": "The New C Standard An Economic and Cultural Commentary (Derek M. Jones)",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "23",
+        "title": "C Language Reference Manual Mirror1",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "24",
+        "title": "Incompatibilities between ISO C and ISO C++",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "25",
+        "title": "Programming in C A Tutorial (Brian W. Kernighan)",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      }
+    ]
+  },
+  "cpp-programming": {
+    "id": 2,
+    "name": "C++ Programming",
+    "discription": "c++ programming notes",
+    "slug": "cpp-programming",
+    "book-list": [
+      {
+        "id": "1",
+        "title": "C++ Summary notes and exercises",
+        "discription": "This note covers the following topics: Steps to create and compile a simple C++ program, Variables and basic data types, Library Types, Arrays and Pointers, Classes as data structures, Expressions and statements, Functions,Classes.",
+        "author": "Marco Sampaio",
+        "count": "74Pages"
+      },
+      {
+        "id": "2",
+        "title": "Computer Programming in C++ for Earth Scientists and Engineers",
+        "discription": "This note covers the following topics: Getting Started with C++, Types and Simple Variables, Arrays, Expressions, Looping and Making Decisions, C++ Standard Library, Functions, The IO Library, Pointers, Recursion, Debugging in MDS, Classes, Class Hierarchies, Exceptions, Software Design, Integrating C++ with FORTRAN.",
+        "author": "Stanford University",
+        "count": "NA"
+      },
+      {
+        "id": "3",
+        "title": "Lecture Slides for Programming in C++ by Michael D. Adams",
+        "discription": "This document constitutes a detailed set of lecture slides on the C++ programming language and is current with the C++14 standard. Many aspects of the C++ language are covered from introductory to more advanced.",
+        "author": "Michael D. Adams",
+        "count": "1157"
+      },
+      {
+        "id": "4",
+        "title": "OOP with C++",
+        "discription": "This note covers the following topics: Concept of OOP, C++ basics, C++ functions, Objects and classes, Inheritance, Polymorphism, IO and File Management, Templates, Exceptions and STL.",
+        "author": "Darshan Institute of Engineering and Technology",
+        "count": "66"
+      },
+      {
+        "id": "5",
+        "title": "C++ Programming by Wikibooks.org",
+        "discription": "This book covers the C++ programming language, its interactions with software design and real life use of the language. It is presented in a series of chapters as an introductory prior to advance courses but can also be used as a reference book.",
+        "author": "Wikibooks.org",
+        "count": "NA"
+      },
+      {
+        "id": "6",
+        "title": "C++ Programming Basics",
+        "discription": "This note covers the following topics: Writing a Basic C++ Program, Understanding Errors, Comments, Keywords, Identifiers, Variables, Control Structures, Functions in C++, Classes and Objects, Arrays, Inheritance, Pointers and Working with Files.",
+        "author": "Ritu Arora",
+        "count": "124"
+      },
+      {
+        "id": "7",
+        "title": "C++ Tutorial Part I",
+        "discription": "Objective of this note is to provide rapid training in elements of C++ syntax, C++ procedural programming, C++ object oriented programming, numerous and actual C++ code for those with some basic prior programming experience.",
+        "author": "C. David Sherrill",
+        "count": "185"
+      },
+      {
+        "id": "8",
+        "title": "C++ Programming by Katherine Gibson",
+        "discription": "This note wil teach you the basics of C++ . Also give you more programming experience and enable you to learn more independently.",
+        "author": "Katherine Gibson",
+        "count": "NA"
+      },
+      {
+        "id": "9",
+        "title": "Introduction to C Memory Management and C++ Object Oriented Programming",
+        "discription": "This note will take you through a tour that will start with writing simple C programs, go deep into the caves of C memory manipulation, resurface with an introduction to using C++ classes, dive deeper into advanced C++ class use and the C++ Standard Template Libraries.",
+        "author": "Eunsuk Kang and Jean Yang",
+        "count": "NA"
+      },
+      {
+        "id": "10",
+        "title": "Programming in C++",
+        "discription": "This note teach you object-oriented programming using C++. Topics covered includes: C++ relationships to C, classes, member functions, constructors/destructors, object instantiation, inheritance, polymorphism, templates and virtual functions.",
+        "author": "Arun Somasundaram",
+        "count": "NA"
+      },
+      {
+        "id": "11",
+        "title": "CPP Notes by Vijaya College",
+        "discription": "C++ is a newer language, based on C, that adds many more modern programming language features that make it easier to program than C. Topics covered includes: Basics of C++, Structure of a program, Variables. Data Types, Constants, Operators, Basic Input/Output, Control Structures: Functions, Compound Data Types, Arrays, Character Sequences, Pointers, Dynamic Memory, Data Structures, Object Oriented Programming, Classes, Friendship and inheritance, Polymorphism, Advanced Concepts: Templates, Namespaces, Exceptions, Type Casting, Preprocessor directives, C++ Standard Library and Input/Output with files.",
+        "author": "Vijaya College, Bangalore",
+        "count": "201"
+      },
+      {
+        "id": "12",
+        "title": "The GNU C++ Library",
+        "discription": "This book is a collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself. The C++ Standard Library provides several generic containers, functions to utilize and manipulate these containers, function objects, generic strings and streams, support for some language features, and everyday functions for tasks such as finding the square root of a number.",
+        "author": "GNU",
+        "count": "NA"
+      },
+      {
+        "id": "13",
+        "title": "C++ lecture notes I",
+        "discription": "This note covers the following topics: Memory, CPU, files, Shell and basic C++, Expressions, variable scopes, functions, Arrays and pointers, dynamic allocation, War with the bugs, Creating new types, Object-Oriented programming, Cost of algorithm, sorting, Detail of class definitions, Strings and more iterators, References, virtual classes and Tree structures.",
+        "author": "Francois Fleuret",
+        "count": "146"
+      },
+      {
+        "id": "14",
+        "title": "Lecture Notes C++",
+        "discription": "Michael Ogg, developed some beautiful lecture notes on C++. They are in the Kernighan and Ritchie style - comprehensive, concise, and a pleasure to read.",
+        "author": "Michael Ogg",
+        "count": "NA"
+      },
+      {
+        "id": "15",
+        "title": "C C++ Reference",
+        "discription": "This note covers the following topics related to C++: Keywords, Operator precedence, Escape sequences, Fundamental types, Headers, Concepts, Utilities library, Strings library, Containers library, Algorithms library, Iterators library, Numerics library, Input/output library, Localizations library, Regular expressions library, Atomic operations library and Thread support library.",
+        "author": "cppreference.com",
+        "count": "NA"
+      },
+      {
+        "id": "16",
+        "title": "C++ Annotations (Frank B. Brokken)",
+        "discription": "This document is intended for knowledgeable users of C who would like to know more about, or make the transition to, C++. This book covers the following topics related to C++: advantages and claims, Differences between C and C++, A First Impression Of C++, Namespaces, The `string' Data Type, The IO-stream Library, Classes, Static Data And Functions, Classes And Memory Allocation, Exceptions, Operator Overloading, Abstract Containers, Inheritance, Polymorphism, Friends, Classes Having Pointers To Members, Nested Classes, The Standard Template Library, The STL Generic Algorithms, Multi Threading and Class Templates.",
+        "author": "Frank B. Brokken",
+        "count": "NA"
+      },
+      {
+        "id": "17",
+        "title": "C C++ Reference Zone",
+        "discription": "This note covers the following topics: Introduction to Function Pointers, The Syntax of C and C++ Function Pointers, How to Implement Callbacks in C and C++, Functors to encapsulate C and C++ Function Pointers.",
+        "author": "Lars Engelfried",
+        "count": "NA"
+      },
+      {
+        "id": "18",
+        "title": "C C++ Reference Another",
+        "discription": "This note covers the following topics: Algorithms, Iterators, STL, String, C and C++.",
+        "author": "Herbert Schildt",
+        "count": "NA"
+      },
+      {
+        "id": "19",
+        "title": "C++ Essentials (S. Hekmat)",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "20",
+        "title": "C++ GUI Programming with Qt3 (Jasmin Blanchette/Mark Summerfield)",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "21",
+        "title": "Industrial Strength C++ (Henricson/Erik Nyquist/Ellemtel Utvecklings )",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "22",
+        "title": "Applied C++ Practical Techniques",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "23",
+        "title": "The Function Pointer Tutorials for C/C++",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "24",
+        "title": "C++ Reference Guide (Danny Kalev)",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "25",
+        "title": "C++ Wikipedia",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "26",
+        "title": "Using C and C++ with Fortran",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "27",
+        "title": "Wireless Game Development in C/C++",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "28",
+        "title": "OReilly C/C++ Books Chapters",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "29",
+        "title": "Incompatibilities between ISO C and ISO C++",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "30",
+        "title": "Complete C++ Language Tutorial",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "31",
+        "title": "Linkers and Loaders",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "32",
+        "title": "Software Design using C++ (Br. David Carlson)",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      },
+      {
+        "id": "33",
+        "title": "C/C++ Language Reference",
+        "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+        "author": "NA",
+        "count": "NA"
+      }
+    ]
+  }
+}
