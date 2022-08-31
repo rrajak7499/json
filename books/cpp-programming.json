@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1",
+    "title": "C++ Summary notes and exercises",
+    "discription": "This note covers the following topics: Steps to create and compile a simple C++ program, Variables and basic data types, Library Types, Arrays and Pointers, Classes as data structures, Expressions and statements, Functions,Classes.",
+    "author": "Marco Sampaio",
+    "count": "74Pages"
+  },
+  {
+    "id": "2",
+    "title": "Computer Programming in C++ for Earth Scientists and Engineers",
+    "discription": "This note covers the following topics: Getting Started with C++, Types and Simple Variables, Arrays, Expressions, Looping and Making Decisions, C++ Standard Library, Functions, The IO Library, Pointers, Recursion, Debugging in MDS, Classes, Class Hierarchies, Exceptions, Software Design, Integrating C++ with FORTRAN.",
+    "author": "Stanford University",
+    "count": "NA"
+  },
+  {
+    "id": "3",
+    "title": "Lecture Slides for Programming in C++ by Michael D. Adams",
+    "discription": "This document constitutes a detailed set of lecture slides on the C++ programming language and is current with the C++14 standard. Many aspects of the C++ language are covered from introductory to more advanced.",
+    "author": "Michael D. Adams",
+    "count": "1157"
+  },
+  {
+    "id": "4",
+    "title": "OOP with C++",
+    "discription": "This note covers the following topics: Concept of OOP, C++ basics, C++ functions, Objects and classes, Inheritance, Polymorphism, IO and File Management, Templates, Exceptions and STL.",
+    "author": "Darshan Institute of Engineering and Technology",
+    "count": "66"
+  },
+  {
+    "id": "5",
+    "title": "C++ Programming by Wikibooks.org",
+    "discription": "This book covers the C++ programming language, its interactions with software design and real life use of the language. It is presented in a series of chapters as an introductory prior to advance courses but can also be used as a reference book.",
+    "author": "Wikibooks.org",
+    "count": "NA"
+  },
+  {
+    "id": "6",
+    "title": "C++ Programming Basics",
+    "discription": "This note covers the following topics: Writing a Basic C++ Program, Understanding Errors, Comments, Keywords, Identifiers, Variables, Control Structures, Functions in C++, Classes and Objects, Arrays, Inheritance, Pointers and Working with Files.",
+    "author": "Ritu Arora",
+    "count": "124"
+  },
+  {
+    "id": "7",
+    "title": "C++ Tutorial Part I",
+    "discription": "Objective of this note is to provide rapid training in elements of C++ syntax, C++ procedural programming, C++ object oriented programming, numerous and actual C++ code for those with some basic prior programming experience.",
+    "author": "C. David Sherrill",
+    "count": "185"
+  },
+  {
+    "id": "8",
+    "title": "C++ Programming by Katherine Gibson",
+    "discription": "This note wil teach you the basics of C++ . Also give you more programming experience and enable you to learn more independently.",
+    "author": "Katherine Gibson",
+    "count": "NA"
+  },
+  {
+    "id": "9",
+    "title": "Introduction to C Memory Management and C++ Object Oriented Programming",
+    "discription": "This note will take you through a tour that will start with writing simple C programs, go deep into the caves of C memory manipulation, resurface with an introduction to using C++ classes, dive deeper into advanced C++ class use and the C++ Standard Template Libraries.",
+    "author": "Eunsuk Kang and Jean Yang",
+    "count": "NA"
+  },
+  {
+    "id": "10",
+    "title": "Programming in C++",
+    "discription": "This note teach you object-oriented programming using C++. Topics covered includes: C++ relationships to C, classes, member functions, constructors/destructors, object instantiation, inheritance, polymorphism, templates and virtual functions.",
+    "author": "Arun Somasundaram",
+    "count": "NA"
+  },
+  {
+    "id": "11",
+    "title": "CPP Notes by Vijaya College",
+    "discription": "C++ is a newer language, based on C, that adds many more modern programming language features that make it easier to program than C. Topics covered includes: Basics of C++, Structure of a program, Variables. Data Types, Constants, Operators, Basic Input/Output, Control Structures: Functions, Compound Data Types, Arrays, Character Sequences, Pointers, Dynamic Memory, Data Structures, Object Oriented Programming, Classes, Friendship and inheritance, Polymorphism, Advanced Concepts: Templates, Namespaces, Exceptions, Type Casting, Preprocessor directives, C++ Standard Library and Input/Output with files.",
+    "author": "Vijaya College, Bangalore",
+    "count": "201"
+  },
+  {
+    "id": "12",
+    "title": "The GNU C++ Library",
+    "discription": "This book is a collection of classes and functions, which are written in the core language and part of the C++ ISO Standard itself. The C++ Standard Library provides several generic containers, functions to utilize and manipulate these containers, function objects, generic strings and streams, support for some language features, and everyday functions for tasks such as finding the square root of a number.",
+    "author": "GNU",
+    "count": "NA"
+  },
+  {
+    "id": "13",
+    "title": "C++ lecture notes I",
+    "discription": "This note covers the following topics: Memory, CPU, files, Shell and basic C++, Expressions, variable scopes, functions, Arrays and pointers, dynamic allocation, War with the bugs, Creating new types, Object-Oriented programming, Cost of algorithm, sorting, Detail of class definitions, Strings and more iterators, References, virtual classes and Tree structures.",
+    "author": "Francois Fleuret",
+    "count": "146"
+  },
+  {
+    "id": "14",
+    "title": "Lecture Notes C++",
+    "discription": "Michael Ogg, developed some beautiful lecture notes on C++. They are in the Kernighan and Ritchie style - comprehensive, concise, and a pleasure to read.",
+    "author": "Michael Ogg",
+    "count": "NA"
+  },
+  {
+    "id": "15",
+    "title": "C C++ Reference",
+    "discription": "This note covers the following topics related to C++: Keywords, Operator precedence, Escape sequences, Fundamental types, Headers, Concepts, Utilities library, Strings library, Containers library, Algorithms library, Iterators library, Numerics library, Input/output library, Localizations library, Regular expressions library, Atomic operations library and Thread support library.",
+    "author": "cppreference.com",
+    "count": "NA"
+  },
+  {
+    "id": "16",
+    "title": "C++ Annotations (Frank B. Brokken)",
+    "discription": "This document is intended for knowledgeable users of C who would like to know more about, or make the transition to, C++. This book covers the following topics related to C++: advantages and claims, Differences between C and C++, A First Impression Of C++, Namespaces, The `string' Data Type, The IO-stream Library, Classes, Static Data And Functions, Classes And Memory Allocation, Exceptions, Operator Overloading, Abstract Containers, Inheritance, Polymorphism, Friends, Classes Having Pointers To Members, Nested Classes, The Standard Template Library, The STL Generic Algorithms, Multi Threading and Class Templates.",
+    "author": "Frank B. Brokken",
+    "count": "NA"
+  },
+  {
+    "id": "17",
+    "title": "C C++ Reference Zone",
+    "discription": "This note covers the following topics: Introduction to Function Pointers, The Syntax of C and C++ Function Pointers, How to Implement Callbacks in C and C++, Functors to encapsulate C and C++ Function Pointers.",
+    "author": "Lars Engelfried",
+    "count": "NA"
+  },
+  {
+    "id": "18",
+    "title": "C C++ Reference Another",
+    "discription": "This note covers the following topics: Algorithms, Iterators, STL, String, C and C++.",
+    "author": "Herbert Schildt",
+    "count": "NA"
+  },
+  {
+    "id": "19",
+    "title": "C++ Essentials (S. Hekmat)",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "20",
+    "title": "C++ GUI Programming with Qt3 (Jasmin Blanchette/Mark Summerfield)",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "21",
+    "title": "Industrial Strength C++ (Henricson/Erik Nyquist/Ellemtel Utvecklings )",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "22",
+    "title": "Applied C++ Practical Techniques",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "23",
+    "title": "The Function Pointer Tutorials for C/C++",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "24",
+    "title": "C++ Reference Guide (Danny Kalev)",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "25",
+    "title": "C++ Wikipedia",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "26",
+    "title": "Using C and C++ with Fortran",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "27",
+    "title": "Wireless Game Development in C/C++",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "28",
+    "title": "OReilly C/C++ Books Chapters",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "29",
+    "title": "Incompatibilities between ISO C and ISO C++",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "30",
+    "title": "Complete C++ Language Tutorial",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "31",
+    "title": "Linkers and Loaders",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "32",
+    "title": "Software Design using C++ (Br. David Carlson)",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  },
+  {
+    "id": "33",
+    "title": "C/C++ Language Reference",
+    "discription": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "NA",
+    "count": "NA"
+  }
+]
