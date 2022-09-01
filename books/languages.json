@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "tag": "Languages",
+    "title": "Theory Introduction to Programming Languages by Anthony A. Aaby",
+    "descriptoin": "This text is designed to formalize and consolidate the knowledge of programming languages and to provide a base for further studies in the semantics and translation of programming languages. Topics covered includes: Syntax, Semantics, Abstraction and Generalization, Domains and Types, Environment, Functional Programming, Logic Programming, Imperative Programming, Concurrent Programming, PCN, Pragmatics, 6 Evaluation of Programming Languages.",
+    "author": "Anthony A. Aaby",
+    "count": 233,
+    "downId": 8929
+  },
+  {
+    "id": 2,
+    "tag": "Languages",
+    "title": "Introduction to Programming through Python and C",
+    "descriptoin": "This note explains the following topics: Types of Digital Computers, Stored Program Computer, Computer Models, Machine Language Program, Program Execution, Central Processing Unit, Memory Write, Binary World, Assembly Language Program, High-Level Languages, Compiler, Operating System, Python Interpreter.",
+    "author": "Goutam Biswas",
+    "count": 121,
+    "downId": 8958
+  },
+  {
+    "id": 3,
+    "tag": "Languages",
+    "title": "Computer Programming in C++ for Earth Scientists and Engineers",
+    "descriptoin": "This note covers the following topics: Getting Started with C++, Types and Simple Variables, Arrays, Expressions, Looping and Making Decisions, C++ Standard Library, Functions, The IO Library, Pointers, Recursion, Debugging in MDS, Classes, Class Hierarchies, Exceptions, Software Design, Integrating C++ with FORTRAN.",
+    "author": "Stanford University",
+    "count": "NA",
+    "downId": 8844
+  },
+  {
+    "id": 4,
+    "tag": "Languages",
+    "title": "Computer Programming In C Language",
+    "descriptoin": "This note covers the \tfollowing topics: Structures of C Programming, Built-in Operators and \tfunction, Loop Control structures, Simple Arithmetic Problems, Addition \tMultiplication of integers, Functions, Pointers.",
+    "author": "Eiilm University",
+    "count": 136,
+    "downId": 8765
+  },
+  {
+    "id": 5,
+    "tag": "Languages",
+    "title": "Fortran Course Note",
+    "descriptoin": "This note covers the following topics: Computer Systems, Fortran Evolution, Language Obsolescence, Object oriented programming, Fortran 99 programming, ata Objects, Expressions and Assignment, Control Flow, Mixing Objects of Different Types, Mixing Objects of Different Types, Intrinsic Procedures, Simple Input Output, Arrays, Selected Intrinsic Functions.",
+    "author": "AC Marshall with help from JS Morgan and JL Schonfelde",
+    "count": 278,
+    "downId": 8898
+  },
+  {
+    "id": 6,
+    "tag": "Languages",
+    "title": "Machine Learning Practice Lectures",
+    "descriptoin": "This lecture note covers the following topics: Server Configuration, Python Overview, Pandas and Numpy, Classifiers, Regression, Cross-Validation, Logistic Regression, Support Vector Machines, Decision Trees, Ensemble Methods, Principal Component Analysis, Embedding Methods, Clustering, Semi-Supervised Learning.",
+    "author": "Andrew H. Fagg",
+    "count": "NA",
+    "downId": 8695
+  },
+  {
+    "id": 7,
+    "tag": "Languages",
+    "title": "C Programming by Goutam Biswa",
+    "descriptoin": "This note explains \tthe following topics: digital computers, introduction to programming \tvariables, assignments, expressions, input/output, conditionals and \tbranching, iteration, functions, recursion, arrays, Pointers, character \tstrings, time and space requirements, searching and sorting, structures, \tintroduction to data-procedure encapsulation, dynamic allocation, linked \tstructures, Data structures stacks and queues.",
+    "author": "Goutam Biswa",
+    "count": "NA",
+    "downId": 8766
+  },
+  {
+    "id": 8,
+    "tag": "Languages",
+    "title": "Fortran Course Notes",
+    "descriptoin": "This note covers the following topics: Introduction to Computer System, Computer Programms, Fortran Evolution,Fortran 90 Programming, Language elements, Data Objects, Expression and Assignment, Control Flow, Mixing Objects of different types, Intrinsic Procedures, Simple Input/Output, Arrays, selected Intrinsic Functions, Object Orientation, Modules, Pointers and Targets, Complex Data Types and Handling Exceptions.",
+    "author": "University of Liverpool",
+    "count": 278,
+    "downId": 8897
+  },
+  {
+    "id": 9,
+    "tag": "Languages",
+    "title": "Programming Languages Application and Interpretation",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8949
+  },
+  {
+    "id": 10,
+    "tag": "Languages",
+    "title": "Python track introduction",
+    "descriptoin": "This note covers the following topics: Python syntax, Control flow, Functions, Odds and ends,Object-oriented programming, Exception handling,Type checking, Exception handling, main differences between Python 2.x and Python 3.x, Recursion, Functional programming, Command-line arguments, Generator.",
+    "author": "Mike Vanier",
+    "count": "NA",
+    "downId": 8957
+  },
+  {
+    "id": 11,
+    "tag": "Languages",
+    "title": "C++ Summary notes and exercises",
+    "descriptoin": "This note covers \t\tthe following topics: Steps to create and compile a simple C++ program, \t\tVariables and basic data types, Library Types, Arrays and Pointers, \t\tClasses as data structures, Expressions and statements, \t\tFunctions,Classes.",
+    "author": "Marco Sampaio",
+    "count": 74,
+    "downId": 8843
+  },
+  {
+    "id": 12,
+    "tag": "Languages",
+    "title": "Linux Assembly Language Programming",
+    "descriptoin": "This note explains the following topics: Introduction to Linux Assembly Language, x86 architecture, 64-bit x86 Assembly, ARM Assembly language, ARM Thumb, 8-bit 6502 or 16-bit 65c816 Programming, Video Game Programming and Assembly Code Optimization.",
+    "author": "Vince Weaver",
+    "count": "NA",
+    "downId": 8696
+  }
+]

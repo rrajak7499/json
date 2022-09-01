@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "tag": "ML Programming",
+    "title": "Functional Programming with ML",
+    "descriptoin": "This note covers the following topics: Backus? FP Systems, Mathematical Functions and First Steps in ML, Basic Datatypes and Lists in ML, Evaluation of Expressions and Recursive Functions, Local Declarations and Modules, Polymorphic Type Checking, Datatype Exception and Recursive Datatypes, Reasoning about Functional Programs, Domain Theory and Fixpoint Semantics, Imperative Programming.",
+    "author": "NA",
+    "count": 208,
+    "downId": 7719
+  },
+  {
+    "id": 2,
+    "tag": "ML Programming",
+    "title": "Elements of ML Programming, 2nd Edition (ML97)",
+    "descriptoin": "This note covers the following topics: Defining Functions, Input and Output, ML Data Structures, Encapsulation and the ML Module System, ML Standard Basis.",
+    "author": "Jeffrey D. Ullman",
+    "count": "NA",
+    "downId": 7724
+  },
+  {
+    "id": 3,
+    "tag": "ML Programming",
+    "title": "A Gentle Introduction to ML",
+    "descriptoin": "This is aimed at students with some programming skills, but new to functional languages. It consists almost entirely of exercises and diversions, these are intended to be completed at a machine with at least some supervision.",
+    "author": "Andrew Cumming",
+    "count": "NA",
+    "downId": 7721
+  },
+  {
+    "id": 4,
+    "tag": "ML Programming",
+    "title": "Programming in Standard ML (PDF 297P)",
+    "descriptoin": "This book is an introduction to programming with the Standard ML programming language.",
+    "author": "Robert Harper",
+    "count": 297,
+    "downId": 7725
+  },
+  {
+    "id": 5,
+    "tag": "ML Programming",
+    "title": "Notes on Programming Standard ML of New Jersey",
+    "descriptoin": "The goal of this tutorial is to end up with a complete user guide to the system, inclduing the libraries, the tools and the extensions, as well as a tutorial on how to write ?real? applications, centered around the use of the module system and the compilation manager.",
+    "author": "Riccardo Pucella",
+    "count": 249,
+    "downId": 7723
+  },
+  {
+    "id": 6,
+    "tag": "ML Programming",
+    "title": "Programming in Standard ML '97 A Tutorial Introduction",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7722
+  },
+  {
+    "id": 7,
+    "tag": "ML Programming",
+    "title": "Introduction to Standard ML",
+    "descriptoin": "These notes are an introduction to the Standard ML programming language. Topics covered includes: Interacting with ML, Polymorphism and Overloading, Exceptions, Basic expressions, values, and types, Identfiers, bindings, and declarations, Modules System, Input and Output.",
+    "author": "Robert Harper",
+    "count": 106,
+    "downId": 7720
+  }
+]

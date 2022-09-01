@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "tag": "Basic",
+    "title": "Visual Basic 2005 A Developer's Notebook'",
+    "descriptoin": "To bring you up to speed with Visual Basic 2005, this practical book offers nearly 50 hands-on projects. Each one explores a new feature of the language, with emphasis on changes that can increase productivity, simplify programming tasks, and help you add new functionality to your applications. This book provides a series of hands-on labs that take you through the new features you'll find in Visual Basic 2005, the .NET Framework 2.0, and the Visual Studio 2005 development tool.",
+    "author": "Matthew MacDonald",
+    "count": "NA",
+    "downId": 7209
+  },
+  {
+    "id": 2,
+    "tag": "Basic",
+    "title": "Hardcore   Visual Basic",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7221
+  },
+  {
+    "id": 3,
+    "tag": "Basic",
+    "title": "Visual Basic 6 Programming",
+    "descriptoin": "Visual Basic is a third-generation event-driven programming language and integrated development environment (IDE) from Microsoft for its COM programming model first released in 1991 and declared legacy in 2008.  Topics covered includes: The Visual Basic 6 Integrated Development Environment, Working With Controls, Creating Advanced VB database application using ADO control, Animation.",
+    "author": "Vijay college, Bangalore",
+    "count": 115,
+    "downId": 7210
+  },
+  {
+    "id": 4,
+    "tag": "Basic",
+    "title": "Pick/BASIC   A Programmers Guide (Jonathan E. Sisk)",
+    "descriptoin": "The method by which this book attempts to explain PICK/BASIC is through step-by-step tutorials. In the first chapter, the basics of logging onto the system and creating your account are provided, along with a very cursory overview of the Pick Editor. From there, basic programming principles and terminology are discussed in Chapter 2. Chapter 3 takes the reader into the exciting world of programming in PICK/BASIC by providing a ready-made program which will be entered into the system, compiled, then run. A detailed explanation of each instruction and principle follows immediately after the source listing.",
+    "author": "Jonathan E. Sisk",
+    "count": "NA",
+    "downId": 7212
+  },
+  {
+    "id": 5,
+    "tag": "Basic",
+    "title": "Introduction to Programming using QBasic",
+    "descriptoin": "This is a gentle introduction to programming using the computer programming language QBasic. This introduction is used for a course in computer literacy for students of all majors. Its goal is to show what programming is about using the fundamental features of QBasic.",
+    "author": "NA",
+    "count": "NA",
+    "downId": 7203
+  },
+  {
+    "id": 6,
+    "tag": "Basic",
+    "title": "Programmed Lessons in QBasic",
+    "descriptoin": "This note is a gentle introduction to programming using the computer programming language QBasic. Its goal is to show what programming is about using the fundamental features of QBasic.",
+    "author": "Central Connecticut State University",
+    "count": "NA",
+    "downId": 7202
+  },
+  {
+    "id": 7,
+    "tag": "Basic",
+    "title": "ZX81   BASIC Programming (Steven Vickers)",
+    "descriptoin": "This book covers the following topics: Setting up the ZX81, The Sinclair ZX81 as a pocket calculator, Functions, Variables, Strings, Computer programming Statements: RUN, LIST, GOTO, CONT, INPUT, NEW, REM, PRINT, STOP in INPUT data BREAK, The character set, Looping, SLOW and FAST Statements, Subroutines, Tape storage, Graphics, The ZX81 Printer, Arrays and Organization of memory.",
+    "author": "Steven Vickers",
+    "count": "NA",
+    "downId": 7211
+  },
+  {
+    "id": 8,
+    "tag": "Basic",
+    "title": "Learn Visual Basic 6.0",
+    "descriptoin": "This note covers the following topics: Visual Basic Language,Exploring Visual Basic Toolbox, Creating a Stand-Alone Visual Basic Application, Error Handling, Debugging and File Input/Output, Graphics Techniques with Visual Basic, Database Access and Management, Dynamic Link Libraries and the Windows API",
+    "author": "Lou Tylee",
+    "count": 472,
+    "downId": 7207
+  },
+  {
+    "id": 9,
+    "tag": "Basic",
+    "title": "Programmed   Lessons in Quick Basic (QBasic)",
+    "descriptoin": "The goal of our study is to learn how to write computer programs in QBASIC Language. Topics covered includes: Constants In QBASIC, Variables In QBASIC, Library Functions, Flow Charts, The QBasic language statement, Input statement and Control statements.",
+    "author": "Lubna Zaghlul",
+    "count": 28,
+    "downId": 7213
+  },
+  {
+    "id": 10,
+    "tag": "Basic",
+    "title": "A Beginners Guide to FreeBasic",
+    "descriptoin": "FBeginner is a concise, hands-on beginner?s guide to FreeBasic and is aimed at the novice programmer. The book assumes no prior programming knowledge. The goal of the book is to create a solid foundation in the basics of programming in FreeBasic that the programmer can build and expand upon.",
+    "author": "Richard D. Clark, Ebben Feagan",
+    "count": 255,
+    "downId": 7205
+  },
+  {
+    "id": 11,
+    "tag": "Basic",
+    "title": "Upgrading   Visual Basic 6.0 to Visual Basic .NET",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7215
+  },
+  {
+    "id": 12,
+    "tag": "Basic",
+    "title": "Course Notes for Learn Visual Basic 6.0",
+    "descriptoin": "This note covers the following topics: Introduction to the Visual Basic Language and Environment, The Visual Basic Language, . Exploring the Visual Basic Toolbox, Creating a Stand-Alone Visual Basic Application, Error-Handling, Debugging and File Input/Output, Graphics Techniques with Visual Basic, Database Access and Management, Dynamic Link Libraries and the Windows API, Dynamic Link Libraries and the Windows API.",
+    "author": "Lou Tylee",
+    "count": 472,
+    "downId": 7204
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "tag": "Pointers in C",
+    "title": "Pointers Notes",
+    "descriptoin": "This note covers the following topics: Pointers, Sizes of basic data types, Address Operations, Pointer Arithmetic, Arrays and Pointers, Schematic Diagram of num elts, Passing Pointers to Functions",
+    "author": "Krithika Venkataraman",
+    "count": 67,
+    "downId": 7726
+  },
+  {
+    "id": 2,
+    "tag": "Pointers in C",
+    "title": "A Tutorial On Pointers And Arrays in C by Ted Jensen Version 1.2 (PDF Version)",
+    "descriptoin": "This document is intended to introduce pointers to beginning programmers in the C programming language. Topics covered includes: What is a pointer, Pointer types and Arrays, Pointers and Strings, Pointers and Structures, Arrays of Strings, Multi-Dimensional Arrays, Pointers to Arrays, Pointers and Dynamic Allocation of Memory and Pointers to Functions.",
+    "author": "Ted Jensen",
+    "count": 53,
+    "downId": 7733
+  },
+  {
+    "id": 3,
+    "tag": "Pointers in C",
+    "title": "Pointers in C Xiao Jia PDF 47P",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7734
+  },
+  {
+    "id": 4,
+    "tag": "Pointers in C",
+    "title": "Pointers and Memory PDF 31P",
+    "descriptoin": "This document explains how pointers and memory work and how to use them from the basic concepts through all the major programming techniques. For each topic there is a combination of discussion, sample C code, and drawings.",
+    "author": "Nick Parlante",
+    "count": 321,
+    "downId": 7732
+  },
+  {
+    "id": 5,
+    "tag": "Pointers in C",
+    "title": "Introduction to C Pointers and Arrays PDF 41P",
+    "descriptoin": "This note covers the following topics: Pointers, Memory, Two Operators , Declaration, Passing Pointers to Functions , Multiple Return Values, Arrays, Strings and Dynamically Allocating Arrays.",
+    "author": "Yin Lou",
+    "count": 41,
+    "downId": 7730
+  },
+  {
+    "id": 6,
+    "tag": "Pointers in C",
+    "title": "C Pointers and Arrays",
+    "descriptoin": "This note covers the following topics: Pointers in C, Pointers as Arguments, Passing Pointers to a Function, Code Using Pointers, Null Pointer, Syntax for Pointer Operators, C Code for IntDivide, Arrays , Array as a Local Variable, Passing Arrays as Arguments, I/O with Strings, Arrays, Pointers and Pointer Arithmetics.",
+    "author": "Don Fussell, University of Texas at Austin",
+    "count": 28,
+    "downId": 7731
+  },
+  {
+    "id": 7,
+    "tag": "Pointers in C",
+    "title": "Pointer by wikipedia",
+    "descriptoin": "In computer science, a pointer is a programming language object, whose value refers to another value stored elsewhere in the computer memory using its memory address. Topics covered includes: Memory-mapped hardware, Typed pointers and casting, Making pointers safer, Null pointer, Autorelative pointer, Based pointer, Multiple indirection, Function pointer, Dangling pointer, Back pointer, Pointer declaration syntax, Wild branch, Simulation using an array index.",
+    "author": "wikipedia.org",
+    "count": "NA",
+    "downId": 7727
+  }
+]

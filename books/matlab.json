@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "tag": "Matlab",
+    "title": "Introduction to MATLAB for Engineering Students",
+    "descriptoin": "Introduction to MATLAB for Engineering Students is a document for an introductory course note in MATLAB and technical computing. It focuses on the specific features of MATLAB that are useful for engineering classes. Topics covered includes: Mathematical functions, Matrix generation, Array operations and Linear equations, Introduction to programming in MATLAB, Debugging M-files, Main characteristics of MATLAB.",
+    "author": "David Houcque",
+    "count": 74,
+    "downId": 8154
+  },
+  {
+    "id": 2,
+    "tag": "Matlab",
+    "title": "MATLAB Primer",
+    "descriptoin": "This note explains the following topics: Accessing MATLAB, Entering matrices, Matrix operations, array operations, Statements, expressions, variables; saving a session, Matrix building functions, For, while, if and relations, Scalar functions, Vector functions, Matrix functions, Command line editing and recall, Submatrices and colon notation, M-files, script files, function files,  Text strings, error messages, input, Managing M-files, Hard copy and Graphics.",
+    "author": "Kermit Sigmon",
+    "count": 39,
+    "downId": 8153
+  },
+  {
+    "id": 3,
+    "tag": "Matlab",
+    "title": "MATLAB Programming for Numerical Computation",
+    "descriptoin": "This note introduces students to MATLAB programming, and demonstrate it?s use for scientific computations. The basis of computational techniques are expounded through various coding examples and problems, and practical ways to use MATLAB will be discussed. Topics covered includes: Introduction to MATLAB Programming, Approximations and Errors, Numerical Differentiation and Integration, Linear Equations, Nonlinear Equations, Regression and Interpolation, Ordinary Differential Equations.",
+    "author": "Dr. Niket S.Kaisare, IIT Madras",
+    "count": "NA",
+    "downId": 8150
+  },
+  {
+    "id": 4,
+    "tag": "Matlab",
+    "title": "Introduction to MATLAB",
+    "descriptoin": "This course note provides an aggressively gentle introduction to MATLAB. Topics covered are: Variables, scripts, and operations, Visualization and programming, solving equations and curve fitting, Symbolics,  file I/O, building GUIs.",
+    "author": "Danilo Scepanovic",
+    "count": "NA",
+    "downId": 8160
+  },
+  {
+    "id": 5,
+    "tag": "Matlab",
+    "title": "Introduction to Programming in MATLAB",
+    "descriptoin": "This note explains the following topics: Basic Procedures in Using MATLAB, Example Problems Solved with MATLAB, Arithmetic Operations on the Elements in Arrays, Logical Operators and Functions, Using MATLAB to Display Results, MATLAB Arithmetic Functions, Functions that Operate on Arrays, The Main Group of Matrix Operations, MATLAB m-Files, New Features of Matlab, Structures, Cells and Other Arays.",
+    "author": "Sam H. Davis",
+    "count": "NA",
+    "downId": 8149
+  },
+  {
+    "id": 6,
+    "tag": "Matlab",
+    "title": "Introduction To MATLAB Programming Lecture notes",
+    "descriptoin": "This note is intended to assist undergraduates with learning the basics of programming in general and programming MATLAB in particular.This will explain the  MATLAB command prompt for performing calculations and creating variables.",
+    "author": "Yossi Farjoun",
+    "count": "NA",
+    "downId": 8156
+  },
+  {
+    "id": 7,
+    "tag": "Matlab",
+    "title": "An Introduction to Matlab (PDF 47P)",
+    "descriptoin": "This note provides only a brief glimpse of the power and flexibility of the Matlab system.Topics covered are: Matlab as a Calculator, Numbers and Formats, Variables, Suppressing output, Vectors, Plotting Functions, Two?Dimensional Arrays, Systems of Linear Equations, Function m?files, Plotting Surfaces and Graphic User Interfaces.",
+    "author": "David F. Griffiths",
+    "count": 47,
+    "downId": 8161
+  },
+  {
+    "id": 8,
+    "tag": "Matlab",
+    "title": "MATLAB  Lecture Notes",
+    "descriptoin": "This note covers the following topics: Matlab Introduction, Arrays in Matlab, Matrix and vector algebra, Introduction to Excel, Linear Systems of Equations, Plotting in Matlab, Logic and Loops, Input and Output in Matlab and Functions in Matlab.",
+    "author": "Prof. Sutherland",
+    "count": "NA",
+    "downId": 8157
+  },
+  {
+    "id": 9,
+    "tag": "Matlab",
+    "title": "A Practical Introduction to Matlab",
+    "descriptoin": "This book provides an introduction to some of the most useful features of Matlab. Author includes plenty of examples, the best way to learn to use Matlab is to read this while running Matlab, trying the examples and experimenting. Topics covered includes: Simple calculations and graphs, Programming in Matlab, Advanced matrix computations, Advanced Graphics, Solving nonlinear problems in Matlab, Efficiency in Matlab and Advanced data types in Matlab.",
+    "author": "Mark S. Gockenbach",
+    "count": 33,
+    "downId": 8155
+  }
+]

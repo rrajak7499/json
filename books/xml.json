@@ -1,0 +1,344 @@
+[
+  {
+    "id": 1,
+    "tag": "XML/XSL",
+    "title": "XML and Web Services Reference Guide (N. Chase)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8659
+  },
+  {
+    "id": 2,
+    "tag": "XML/XSL",
+    "title": "XML Web Services and SOAP",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8666
+  },
+  {
+    "id": 3,
+    "tag": "XML/XSL",
+    "title": "XML Lectures",
+    "descriptoin": "This note covers the following topics: Structured Documents, Overview of XML, XML Paths and XSLT, XML Style Language, XML Schema, XML Pointer and XLink, XML API's and XML Document Design.",
+    "author": "Michael Spring",
+    "count": "NA",
+    "downId": 8638
+  },
+  {
+    "id": 4,
+    "tag": "XML/XSL",
+    "title": "XSLT TutorialAnother",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8679
+  },
+  {
+    "id": 5,
+    "tag": "XML/XSL",
+    "title": "XML Schema Definition (XSD)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8667
+  },
+  {
+    "id": 6,
+    "tag": "XML/XSL",
+    "title": "Using XML Technologies Lecture Notes",
+    "descriptoin": "This note covers the following topics: Introduction to XML, Document Type Definitions, Document Object Model, XML Schemas, Simple API for XML, XSL Transformations, Relax NG, XQuery, JDOM, XML-RPC.",
+    "author": "Ken Slonneger",
+    "count": "NA",
+    "downId": 8631
+  },
+  {
+    "id": 7,
+    "tag": "XML/XSL",
+    "title": "XSLT and XPath Tutorial",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8677
+  },
+  {
+    "id": 8,
+    "tag": "XML/XSL",
+    "title": "WML and WMLScript",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8671
+  },
+  {
+    "id": 9,
+    "tag": "XML/XSL",
+    "title": "The metalanguage XML Lecture notes",
+    "descriptoin": "Computers handle data in many ways and formats, e.g., text, images, audio, and video. When exchanging data, there is often a need for a standardised format that many applications can read and write. One such standard is the Extensible Markup Language (XML) developed by the World Wide Web Consortium. Topics covered includes: Document instances, DTD syntax, Document modelling , XML processing, SAX, DOM, Document formatting, Other related standards, Synthesis, Example of SAX Applications.",
+    "author": "Greger Linden",
+    "count": 115,
+    "downId": 8634
+  },
+  {
+    "id": 10,
+    "tag": "XML/XSL",
+    "title": "XML by Examples (B. Marchal), 528 pages",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8661
+  },
+  {
+    "id": 11,
+    "tag": "XML/XSL",
+    "title": "A Gentle Introduction to XML",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8660
+  },
+  {
+    "id": 12,
+    "tag": "XML/XSL",
+    "title": "Developers Guide to Building XML Based Web Services with J2EE",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8681
+  },
+  {
+    "id": 13,
+    "tag": "XML/XSL",
+    "title": "XML Chapters",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8670
+  },
+  {
+    "id": 14,
+    "tag": "XML/XSL",
+    "title": "Extensible Markup Language (XML)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8689
+  },
+  {
+    "id": 15,
+    "tag": "XML/XSL",
+    "title": "DocBook The Definitive Guide (N. Walsh, L. Muellner)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8682
+  },
+  {
+    "id": 16,
+    "tag": "XML/XSL",
+    "title": "XSLT Tutorial",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8678
+  },
+  {
+    "id": 17,
+    "tag": "XML/XSL",
+    "title": "The XML Revolution",
+    "descriptoin": "This note explains the following topics: HTML and XML, Namespaces, XInclude, and XML Base, DTD, XML Schema, and DSD , XLink, XPointer and XPath, XSL and XSLT, XQuery, DOM, SAX, and JDOM, World Wide Web Consortium.",
+    "author": "Anders Moller and Michael I. Schwartzbach",
+    "count": 189,
+    "downId": 8630
+  },
+  {
+    "id": 18,
+    "tag": "XML/XSL",
+    "title": "XML Technologies and Applications (PDF 24P)",
+    "descriptoin": "This note covers the following topics: introduction, xml basics, xml structural constraint specification, document type definitions (dtds), xml schema, xmldatabase mappings, xml parsing apis, simple api for xml (sax), document object model (dom), xml querying and transformation, xpath, xquery, xslt, xml applications.",
+    "author": "Rajshekhar Sunderraman",
+    "count": 24,
+    "downId": 8639
+  },
+  {
+    "id": 19,
+    "tag": "XML/XSL",
+    "title": "XML RPC HOWTO (E. Kidd) Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8664
+  },
+  {
+    "id": 20,
+    "tag": "XML/XSL",
+    "title": "Processing XML with Java (E. R. Harold) Mirror",
+    "descriptoin": "This book is written for experienced Java programmers who want to integrate XML into their systems. This book is going to show you how to handle XML in its full generality.",
+    "author": "Elliotte Rusty Harold",
+    "count": "NA",
+    "downId": 8648
+  },
+  {
+    "id": 21,
+    "tag": "XML/XSL",
+    "title": "DocBook XSL The Complete Guide, 3rd Ed (Bob Stayton)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8680
+  },
+  {
+    "id": 22,
+    "tag": "XML/XSL",
+    "title": "XML by Philip Wadler",
+    "descriptoin": "This note explains the following topics: XML by Essence of XML, XML Schema, XQuery and XPath, MSL: A model for W3C XML Schema, A semistructured monad for semistructured dat, An Algebra for XML Query, XML Query Languages, A formal semantics of patterns in XSLT.",
+    "author": "Philip Wadler",
+    "count": "NA",
+    "downId": 8633
+  },
+  {
+    "id": 23,
+    "tag": "XML/XSL",
+    "title": "OReilly XML Books Chapters",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8675
+  },
+  {
+    "id": 24,
+    "tag": "XML/XSL",
+    "title": "XML and Databases Lecture Notes",
+    "descriptoin": "This lecture note gives an overview of the most important XML technologies. It explains the basics to implement XML technology reliably and efficiently in various different application contexts.",
+    "author": "Prof. Dr. Peter Fischer",
+    "count": "NA",
+    "downId": 8636
+  },
+  {
+    "id": 25,
+    "tag": "XML/XSL",
+    "title": "A Technical Introduction to XML (N. Walsh)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8658
+  },
+  {
+    "id": 26,
+    "tag": "XML/XSL",
+    "title": "J2EE and XML Development (K. Gabrick, D. Weiss)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8649
+  },
+  {
+    "id": 27,
+    "tag": "XML/XSL",
+    "title": "Introduction to XML",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8688
+  },
+  {
+    "id": 28,
+    "tag": "XML/XSL",
+    "title": "XML Query Language (XQL)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8669
+  },
+  {
+    "id": 29,
+    "tag": "XML/XSL",
+    "title": "Introduction to XML for Web Developers",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8691
+  },
+  {
+    "id": 30,
+    "tag": "XML/XSL",
+    "title": "A Query Language for XML",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8668
+  },
+  {
+    "id": 31,
+    "tag": "XML/XSL",
+    "title": "XML and Databases",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8690
+  },
+  {
+    "id": 32,
+    "tag": "XML/XSL",
+    "title": "An introduction to XML",
+    "descriptoin": "This note covers the following topics: What is XML, Advantages of using XML, XML basics: declaration, comments, attributes, entities and tags, XML demo, XML concepts: schemas, parsers, editors and standards,XML and Web 2.0, AJAX, RSS, ATOM, XML and the Semantic Web - RDF, XML and Web Services, SOAP, WSDL,  Understanding XML data, Querying XML data, XSLT, XPath, XQuery, The XML data model, pureXML, Industry scenarios.",
+    "author": "IBM",
+    "count": "NA",
+    "downId": 8644
+  },
+  {
+    "id": 33,
+    "tag": "XML/XSL",
+    "title": "XML Basics (PDF 32P)",
+    "descriptoin": "This note covers the following topics: introduction, the anatomy of xml document, components of xml document, xml validation, rules for wellformed xml document, xml dtd, more xml components, references, reading list.",
+    "author": "NA",
+    "count": 32,
+    "downId": 8640
+  },
+  {
+    "id": 34,
+    "tag": "XML/XSL",
+    "title": "XML for Beginners",
+    "descriptoin": "This note describes the following topics: XML? the Snake Oil of the Internet age, Basic XML Concepts, Defining XML Data Formats, Querying XML Data.",
+    "author": "Ralf Schenkel",
+    "count": 55,
+    "downId": 8632
+  },
+  {
+    "id": 35,
+    "tag": "XML/XSL",
+    "title": "XSL Concepts and Practical Use",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8676
+  },
+  {
+    "id": 36,
+    "tag": "XML/XSL",
+    "title": "The XML Bible (E. R. Harold) Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8656
+  },
+  {
+    "id": 37,
+    "tag": "XML/XSL",
+    "title": "Processing XML with Java (E. R. Harold)",
+    "descriptoin": "This book is written for Java programmers who want to learn how to read and write XML documents from their code. Topics covered includes: XML for Data, XML Protocols, Writing XML with Java, Converting Flat Files to XML, Reading XML, SAX, The XMLReader Interface, SAX Filters, The Document Object Model, Creating New XML Documents with DOM, The Document Object Model Core, The DOM Traversal Module, Output from DOM, JDOM, The JDOM Model, XPath, XSLT, XML APIs Quick Reference and SOAP Schemas.",
+    "author": "E. R. Harold",
+    "count": "NA",
+    "downId": 8647
+  },
+  {
+    "id": 38,
+    "tag": "XML/XSL",
+    "title": "XUL Tutorial and Reference",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8673
+  }
+]

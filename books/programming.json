@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "tag": "Programming Languages",
+    "title": "Foundations of Programming for High Performance Computing",
+    "descriptoin": "This course note is an introduction to high performance computing (HPC) on modern desktop computer architectures. The targeted audience is undergraduate students who are not engaged in a computer science program but who want to be exposed to the principles HPC (relevant to desktop computers) and take advantage of them in their field of study.",
+    "author": "Marc MORENO MAZA",
+    "count": "NA",
+    "downId": 8937
+  },
+  {
+    "id": 2,
+    "tag": "Programming Languages",
+    "title": "Dictionary of Programming Languages",
+    "descriptoin": "The Dictionary of Programming Languages is a compendium of computer     coding methods assembled to provide information and aid your appreciation     for computer science history. The dictionary currently has over 120     entries.",
+    "author": "Neal     Ziring",
+    "count": "NA",
+    "downId": 8941
+  },
+  {
+    "id": 3,
+    "tag": "Programming Languages",
+    "title": "Syntax and Semantics of Programming Languages",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8951
+  },
+  {
+    "id": 4,
+    "tag": "Programming Languages",
+    "title": "Implementing Functional Languages A Tutorial",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8953
+  },
+  {
+    "id": 5,
+    "tag": "Programming Languages",
+    "title": "Principles of Programming Languages",
+    "descriptoin": "This note covers the following topics: The Elements of Programming, Theoretical Introduction of Programming Languages: Syntax, Semantics, Types, Abstraction on Data, Delayed Evaluation on Data and on Control, Type Correctness, Evaluators for Functional Programming, Logic Programming, Imperative Programming.",
+    "author": "Mira Balaban",
+    "count": 423,
+    "downId": 8932
+  },
+  {
+    "id": 6,
+    "tag": "Programming Languages",
+    "title": "Introduction to Programming Lectures Notes",
+    "descriptoin": "Objective of this note is to teach the fundamental principles of programming, making use of the typical aspects of the object-oriented, functional, and imperative programming paradigms. Such basic principles are presented by referring to the Java programming language.",
+    "author": "Prof. Diego Calvanese",
+    "count": "NA",
+    "downId": 8936
+  },
+  {
+    "id": 7,
+    "tag": "Programming Languages",
+    "title": "Programming Languages Lecture Notes",
+    "descriptoin": "This note presents major features of programming languages, with primary emphasis on the role of particular language features in writing good software; programming language design alternatives; various programming paradigms embodied in languages, such as procedural, data-flow, functional and object-oriented languages.",
+    "author": "Clinton L. Jeffery",
+    "count": "NA",
+    "downId": 8935
+  },
+  {
+    "id": 8,
+    "tag": "Programming Languages",
+    "title": "Computer Languages History",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8950
+  },
+  {
+    "id": 9,
+    "tag": "Programming Languages",
+    "title": "Principles of Programming Language by Narayanamma Institute Of Technology and Science",
+    "descriptoin": "This note explains the following topics: Syntax and Semantics, Data types, Expressions and Statements, Subprograms and Blocks, Abstract Data types, Exception Handling and Logic Programming Languages.",
+    "author": "G Narayanamma Institute Of Technology and Science",
+    "count": 144,
+    "downId": 8931
+  },
+  {
+    "id": 10,
+    "tag": "Programming Languages",
+    "title": "Programming Language Concepts by Ryan Stansifer",
+    "descriptoin": "This is a note in comparative programming languages. This will teach you the major programming language paradigms: imperative, logic and functional. Topics covered includes: history of expression and programming languages, syntax, semantics, names, expressions, statements, types, blocks, exception, Haskell, functional programming and Prolog.",
+    "author": "Ryan Stansifer",
+    "count": "NA",
+    "downId": 8934
+  },
+  {
+    "id": 11,
+    "tag": "Programming Languages",
+    "title": "Programming Languages (S.F. Smith)PDF",
+    "descriptoin": "This book is a much more appropriate book for a modern     programming languages course than a traditional one based on paradigms.     Topics covered includes: Parsing, Interpretation, Desugaring, Adding     Functions to the Language, From Substitution to Environments, Functions     Anywhere, Mutation: Structures and Variables, Recursion and Cycles:     Procedures and Data, Objects, Memory Management, Representation Decisions,     Desugaring as a Language Feature, Control Operations, Checking Program     Invariants Statically: Types, Checking Program Invariants Dynamically:     Contracts and Alternate Application Semantics.",
+    "author": "Shriram     Krishnamurthi",
+    "count": 207,
+    "downId": 8942
+  },
+  {
+    "id": 12,
+    "tag": "Programming Languages",
+    "title": "Concepts of Programming Languages",
+    "descriptoin": "This note covers the following topics: Functional Languages, Imperative Languages, Object-Oriented Languages, Constraint Languages and Logic Programming Languages.",
+    "author": "Alan Borning",
+    "count": "NA",
+    "downId": 8938
+  },
+  {
+    "id": 13,
+    "tag": "Programming Languages",
+    "title": "Programming Languages Theory and Practice",
+    "descriptoin": "This note explains the following topics: Transition Systems, Defining a Language, A Functional Language, Control and Data Flow, Imperative Functional Programming, Cost Semantics and Parallelism, Data Structures and Abstraction, Lazy Evaluation, Dynamic Typing, Subtyping and Inheritance, Storage Management.",
+    "author": "Robert Harper",
+    "count": 277,
+    "downId": 8933
+  },
+  {
+    "id": 14,
+    "tag": "Programming Languages",
+    "title": "Languages Lecture Notes",
+    "descriptoin": "This lecture note explains the following concepts related to programming languages such as fundamental concepts of language design, Programming paradigms, Basic concepts of language implementation, Programming environments, History of programming languages and some recent directions in programming languages research.",
+    "author": "Keunwoo Lee",
+    "count": "NA",
+    "downId": 8939
+  },
+  {
+    "id": 15,
+    "tag": "Programming Languages",
+    "title": "Partial Evaluation and Automatic Program Generation",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8955
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "tag": "Lisp",
+    "title": "Lisp Notes",
+    "descriptoin": "This note covers the following topics related to Lisp: Syntax of Lisp, Atoms and Lists, Sample Session, Putting lists together, Commonlisp Forms, Predicates, Lambda expressions, PROGN, Local Variables, Lexical Closures, Characters, Arrays, Strings, Sequences, Input in Lisp, Using the Trace Facility, Output in Lisp, Function Parameters, Loop, Defmacro, Defstruct.",
+    "author": "Luigi Laura",
+    "count": 139,
+    "downId": 8422
+  },
+  {
+    "id": 2,
+    "tag": "Lisp",
+    "title": "Learning Lisp for CMPT 310",
+    "descriptoin": "This note coveres the following topics: Basic LISP Programming, advanced Functional Programming in LISP, Data Abstraction in LISP, Imperative Programming in LISP.",
+    "author": "Philip Fon",
+    "count": "NA",
+    "downId": 8419
+  },
+  {
+    "id": 3,
+    "tag": "Lisp",
+    "title": "Practical     Common Lisp (Peter Seibel)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8427
+  },
+  {
+    "id": 4,
+    "tag": "Lisp",
+    "title": "An     Introduction to Programming in Emacs Lisp",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8433
+  },
+  {
+    "id": 5,
+    "tag": "Lisp",
+    "title": "LISP Tutorial",
+    "descriptoin": "Lisp is a family of computer programming languages with a long history and a distinctive, fully parenthesized prefix notation. Topics covered includes: Locator/Identifier Separation Protocol (LISP), LISP in a nutshell, LISP data-plane, LISP control-plane, The reachability problem, Evaluation, The Internet is evolving, Separating Identifiers from Locators, LISP, a network-based Loc/ID split solution.",
+    "author": "Damien Saucez and Olivier Bonaventure",
+    "count": "NA",
+    "downId": 8415
+  },
+  {
+    "id": 6,
+    "tag": "Lisp",
+    "title": "Introduction to Lisp",
+    "descriptoin": "This note covers the following topics: What is LISP, LISP?s influence on other languages , LISP applications, Common Lisp, Launching Allegro Common Lisp, Defining Lisp Functions , Compiling , Editing Lisp files, Lisp functions , Macros , Operators , Interacting with Allegro Common Lisp,Interacting with Allegro Common Lisp, Debugging , Mapping functions, Destructive versus nondestructive functions.",
+    "author": "Dana Nau",
+    "count": 66,
+    "downId": 8416
+  },
+  {
+    "id": 7,
+    "tag": "Lisp",
+    "title": "On     Lisp (Paul Graham)",
+    "descriptoin": "The   book covers important subjects related to bottom-up programming, including   functional programming, rapid prototyping, interactive development, and   embedded languages.",
+    "author": "NA",
+    "count": "NA",
+    "downId": 8424
+  },
+  {
+    "id": 8,
+    "tag": "Lisp",
+    "title": "The     Common Lisp Cookbook",
+    "descriptoin": "The book covers the following topics: Strings, Dates and Times, Hash Tables, Pattern Matching   or Regular Expressions, Functions, Loop, Input or Output, Files and Directories,   Packages, Macros and Backquote, CLOS (the Common Lisp Object System), Sockets,   Interfacing with your OS, Foreign Function Interfaces, Threads, Defining   Systems, Setting up an IDE with Emacs on Windows or Mac OS X, Using Emacs as a   Lisp IDE, Using the Win32 API and Testing.",
+    "author": "The Common Lisp Cookbook   Project",
+    "count": "NA",
+    "downId": 8426
+  },
+  {
+    "id": 9,
+    "tag": "Lisp",
+    "title": "Loving     Lisp   the Savy Programmers Secret Weapon (Mark Watson)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8434
+  },
+  {
+    "id": 10,
+    "tag": "Lisp",
+    "title": "Developing     Component Software with CORBA",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8435
+  },
+  {
+    "id": 11,
+    "tag": "Lisp",
+    "title": "Intro to Lisp",
+    "descriptoin": "Lisp is much more flexible than most languages. Users have such total control over what goes on that if they do not like the syntax of the language, they may change it to suit themselves. Topics covered includes: Characteristics of Lisp, Syntax of Lisp, Lisp Data Structures, Putting lists together, Equality, PROGN, Defining Functions, Programming Example, Iteration: DOTIMES, Global Variables, Lexical Closures, Characters, Arrays, Strings, Sequences, Input in Lisp, Using the Trace Facility, Multiple Values, Output in Lisp, Function Parameters, Looping Constructs and Defmacro.",
+    "author": "Luigi Laura",
+    "count": 139,
+    "downId": 8418
+  },
+  {
+    "id": 12,
+    "tag": "Lisp",
+    "title": "Introduction To Lisp by Dana Nau",
+    "descriptoin": "his note covers the following topics: LISP?s influence on other languages, LISP applications, Common Lisp, Launching Allegro Common Lisp, Lists, Lisp Functions, Compiling, Editing Lisp files, Macros, Lisp Operators, Loops, Debugging, Allegro debugging commands, Functions of sequences.",
+    "author": "Dana Nau",
+    "count": 66,
+    "downId": 8412
+  },
+  {
+    "id": 13,
+    "tag": "Lisp",
+    "title": "Common     Lisp A Gentle Introduction to Symbolic Computation (by David S. Touretzky)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8432
+  },
+  {
+    "id": 14,
+    "tag": "Lisp",
+    "title": "Programming Languages Lisp",
+    "descriptoin": "This note covers the following topics: Lisp Implementations, Lisp history and dialects, Lists as programs and data, Cons Cells, Plists, Basic data types, Numeric Types, Evaluating lists, Special Operators, Macros, Variables, Control Flow, Defining Functions, REPL Emacs.",
+    "author": "Bob Coyne",
+    "count": 70,
+    "downId": 8413
+  }
+]

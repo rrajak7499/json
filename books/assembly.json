@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "tag": "Assembly Language",
+    "title": "The   Art of Assembly Language Programming (Randall Hyde)PDF",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8718
+  },
+  {
+    "id": 2,
+    "tag": "Assembly Language",
+    "title": "Win32     Programming for x86 Assembly Language",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8716
+  },
+  {
+    "id": 3,
+    "tag": "Assembly Language",
+    "title": "Machine Language     For Beginners",
+    "descriptoin": "This book covers the   following topics: The Fundamentals, The Monitor, Addressing, Arithmetic, The   Instruction Set, Borrowing from BASIC, Building A Program and ML Equivalents   Of BASIC Commands.",
+    "author": "Richard Mansfield",
+    "count": "NA",
+    "downId": 8712
+  },
+  {
+    "id": 4,
+    "tag": "Assembly Language",
+    "title": "Programming     from the Ground Up (Jonathan Bartlett)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8722
+  },
+  {
+    "id": 5,
+    "tag": "Assembly Language",
+    "title": "ARM Assembly Language Programming",
+    "descriptoin": "This book explains all the basic concepts in assembly language programming.",
+    "author": "Peter Knaggs and Stephen Welsh",
+    "count": 156,
+    "downId": 8706
+  },
+  {
+    "id": 6,
+    "tag": "Assembly Language",
+    "title": "Beginners     Introduction to the Assembly Language of ATMEL AVR Microprocessor (Gerhard     Schmidt)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8723
+  },
+  {
+    "id": 7,
+    "tag": "Assembly Language",
+    "title": "The Art of Assembly Language Programming (Randall Hyde)Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8717
+  },
+  {
+    "id": 8,
+    "tag": "Assembly Language",
+    "title": "The Second     Book Of Machine Language",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8714
+  },
+  {
+    "id": 9,
+    "tag": "Assembly Language",
+    "title": "Machine Organization and Assembly Language",
+    "descriptoin": "This note covers the following topics: Computer Science and Engineering University of Washington",
+    "author": "University of Washington",
+    "count": "NA",
+    "downId": 8700
+  },
+  {
+    "id": 10,
+    "tag": "Assembly Language",
+    "title": "Webster Assembly Guides     (Randall Hyde)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8721
+  },
+  {
+    "id": 11,
+    "tag": "Assembly Language",
+    "title": "80x86/87     Assembly Language Tutorial",
+    "descriptoin": "This is one of the best Assembly   tutorials. It starts at the basics of bits and bytes all the way to wrighting   small programs. Once you are finished with this one, you should be able to   read and understand the original programmer's manuals from Intel. They contain   information about the most recent technologies like MMX, Pentium instructions   and so on.",
+    "author": "NA",
+    "count": "NA",
+    "downId": 8713
+  },
+  {
+    "id": 12,
+    "tag": "Assembly Language",
+    "title": "Assembly Programming for Computer Engineers",
+    "descriptoin": "This note covers the following topics: Introduction to Computer Organization,Sample 68000 Addressing Modes, Introduction to Input/Output, Memory Mapped I/O, Stacks and Stack Operations, Stack Related Instructions, Recursive/Re-entrant subroutines, Utilizing The Stack for Local Subroutine Storage, Interrupts & Exceptions, Interrupt-Driven I/O, Vectored Interrupts, PIT I/O and Timer Interrupt Examples,68000 Binary Coded Decimal (BCD) And Multiple-Precision Arithmetic Support , Reduced Instruction Set Computer, Basic concepts of CPU organization.",
+    "author": "Dr. Muhammad Shaaban",
+    "count": "NA",
+    "downId": 8708
+  },
+  {
+    "id": 13,
+    "tag": "Assembly Language",
+    "title": "Lecture Note On Microprocessor And Assembly Language Programmimg",
+    "descriptoin": "This lecture note explains the following topics: Microprocessor Architecture, Address Space Partitioning, Memory Classification, Memory Structure, I/o Ports &",
+    "author": "Mrs. Sasmita Acharya",
+    "count": 101,
+    "downId": 8702
+  },
+  {
+    "id": 14,
+    "tag": "Assembly Language",
+    "title": "x86 64 Assembly Language Programming with Ubuntu",
+    "descriptoin": "The purpose of this text is to provide a reference for University level assembly language and systems programming. Specifically, this text addresses the x86-641 instruction set for the popular x86-64 class of processors using the Ubuntu 64-bit Operating System. While the provided code and various examples should work under any Linux-based 64-bit OS, they have only been tested under Ubuntu 14.04 LTS.",
+    "author": "Ed Jorgensen",
+    "count": 357,
+    "downId": 8699
+  },
+  {
+    "id": 15,
+    "tag": "Assembly Language",
+    "title": "x86 Assembly Language Programming",
+    "descriptoin": "This document contains very brief examples of assembly language programs for the x86.The author gives examples written for NASM, MASM and gas for both Win32 and Linux. Also includes a section on DOS assembly language programs for historical interest.",
+    "author": "Ray Toal",
+    "count": "NA",
+    "downId": 8710
+  },
+  {
+    "id": 16,
+    "tag": "Assembly Language",
+    "title": "PC Assembly     Language",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8720
+  },
+  {
+    "id": 17,
+    "tag": "Assembly Language",
+    "title": "Introduction to MIPS Assembly Language Programming",
+    "descriptoin": "This book starts from basic information needed for MIPS assembly language programming using MARS IDE, the text covers MIPS arithmetic and logical operators, memory model of MIPS, control structures, recursion, and array, and so on in grater details.",
+    "author": "Charles Kann",
+    "count": "NA",
+    "downId": 8698
+  },
+  {
+    "id": 18,
+    "tag": "Assembly Language",
+    "title": "MIPS Assembly Language Programming using QtSpim",
+    "descriptoin": "The purpose of this text is to provide a simple and free reference for university level programming and architecture units that include a brief section covering MIPS assembly language programming. The text assumes usage of the QtSpim simulator. MIPS Architecture, Data Representation, QtSpim Program Formats, Instruction Set, Addressing Modes, Procedures/Functions, QtSpim System Service Calls and Multi-dimension Array Implementation.",
+    "author": "Ed Jorgensen",
+    "count": 168,
+    "downId": 8704
+  },
+  {
+    "id": 19,
+    "tag": "Assembly Language",
+    "title": "An Assembly Language Introduction to Computer Architecture",
+    "descriptoin": "This note describes the following topics: SASM - Simple Abstract Language, Number Systems, Data Representation, Arithmetic and Logical Operations, Floating Point Arithmetic, Data Structures, Using Regsiters for Efficiency, The Pentium Architecture, Procedures,The Assembly Process, Input and Output,Interrupts and Exception Handling, Features for Architectural Performance, Architecture in Perspective, Memory Management and Virtual Memory .",
+    "author": "Karen Miller",
+    "count": "NA",
+    "downId": 8697
+  },
+  {
+    "id": 20,
+    "tag": "Assembly Language",
+    "title": "Introduction to Linux Intel Assembly Language",
+    "descriptoin": "This document introduces the use of assembly language on Linux systems. It is assumed that the reader is already familiar with Unix, and has been exposed a bit to the Intel register and instruction set.",
+    "author": "Norman Matloff",
+    "count": "NA",
+    "downId": 8711
+  }
+]

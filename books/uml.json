@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "tag": "UML",
+    "title": "Unified Modeling Language (UML) in 7 Days",
+    "descriptoin": "The goal of this course note is to give you the basic knowledge about UML diagrams. Topics covered includes: UML basics, Class diagrams and Use Case diagrams, State diagrams, Sequence diagrams and Collaboration diagrams and use of the UML diagram during the process of modeling a system.",
+    "author": "NA",
+    "count": "NA",
+    "downId": 8617
+  },
+  {
+    "id": 2,
+    "tag": "UML",
+    "title": "UML   Fundamentals",
+    "descriptoin": "This book provides an introduction   to Unified Modeling Process and UML Tools.",
+    "author": "Dr. Ernest Cachia",
+    "count": 195,
+    "downId": 8608
+  },
+  {
+    "id": 3,
+    "tag": "UML",
+    "title": "Static   Modeling using the Unified Modeling Language",
+    "descriptoin": "This   note explains the following topics: Classes, Class Names, Class Attributes,   Class Operations, Depicting Classes, Class Responsibilities, Relationships,   Interfaces, Parameterized Class, Enumeration, Exceptions, Packages, Component   Diagram, Deployment Diagram , Dynamic Modeling using the Unified Modeling   Language, Use Cases, State Machine, Sequence Diagram, Collaboration Diagram .",
+    "author": "Spiros Mancoridis",
+    "count": 67,
+    "downId": 8598
+  },
+  {
+    "id": 4,
+    "tag": "UML",
+    "title": "Introduction to UML",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8621
+  },
+  {
+    "id": 5,
+    "tag": "UML",
+    "title": "Object Oriented   Development and The Unified Modeling Language UML",
+    "descriptoin": "This note covers the following topics: Types of Diagrams,   Structural Diagrams, Behavioral Diagram, UML Driven Process, UML Driven   Process Model, Architecture, Models of OO Analysis and Design, Use Case   Diagrams, Developing Use Cases, Refining Use Cases, Use Diagrams , Object   Oriented Analysis, Classes and Objects, Class Diagrams, Modeling Behavior,   Interaction Diagrams, State Chart Diagrams, Activity Diagrams , Implementation   Diagrams, Component diagrams, Deployment diagrams.",
+    "author": "J. Maletic Kent   State University",
+    "count": 102,
+    "downId": 8601
+  },
+  {
+    "id": 6,
+    "tag": "UML",
+    "title": "UML Process (Sharam Hekmat)",
+    "descriptoin": "The purpose of this document is to define the UMLProcess at a level that is suitable for practitioners who have had no prior exposure to a similar process. Topics covered includes: Reference Models, Business Modelling, Application Modelling, System Modelling and Testing.",
+    "author": "Sharam Hekmat",
+    "count": 60,
+    "downId": 8613
+  },
+  {
+    "id": 7,
+    "tag": "UML",
+    "title": "UML   / UML 2.0 tutorial",
+    "descriptoin": "This note explains the following   topics: UML principle: diagram vs. model, Structure description, Behavior   description, UML and tools, Class diagram, UML Class, Properties of UML class,   Class features ? characterized, Active / passive classes, Object ,   Inheritance, polymorphism, Association class, Templates , Component , Port ,   Connector , Communication architecture, State machine.",
+    "author": "Ileana Ober",
+    "count": 106,
+    "downId": 8604
+  },
+  {
+    "id": 8,
+    "tag": "UML",
+    "title": "Object Oriented   Analysis and Design with UML",
+    "descriptoin": "This note covers the following topics: UML Basics, Case Study, Modelling,   Requirements, Architecture, Design, Implementation, Deployment, UML and   Unified Process,Tools.",
+    "author": "Asst. Prof. Charay Lerdsudwichai,   Ph.D",
+    "count": 116,
+    "downId": 8605
+  },
+  {
+    "id": 9,
+    "tag": "UML",
+    "title": "OOAD with UML",
+    "descriptoin": "This note covers the following topics: The Uml within a   development process, Object Orientation, An Overview Of The Uml , The   Inception Phase, The Elaboration Phase, Use Case Modelling, Conceptual   Modelling, Ranking Use Cases, The Construction Phase, Analysis and Design,   Design Class Diagrams, Responsibility Assignment Patterns, Inheritance,   Transition To Code.",
+    "author": "Behrouz   Homayoun Far",
+    "count": 123,
+    "downId": 8602
+  },
+  {
+    "id": 10,
+    "tag": "UML",
+    "title": "UML Quick References",
+    "descriptoin": "This note covers the following topics: Organizational Diagrams, Use-Case Diagram, Activity and State Diagrams, Static-Model (Class) Diagram, Interaction (Dynamic-Model) Diagrams and Collaboration (Communication) Diagram.",
+    "author": "Allen I. Holub",
+    "count": "NA",
+    "downId": 8615
+  },
+  {
+    "id": 11,
+    "tag": "UML",
+    "title": "UML  a tutorial",
+    "descriptoin": "This note covers the following topics:Object-oriented analysis and design using UML, Identifying objects, CASE tools, Patterns, architecture and decoupled designs, Designing components and Notation summary.",
+    "author": "Prof.Farn Wang",
+    "count": 120,
+    "downId": 8607
+  },
+  {
+    "id": 12,
+    "tag": "UML",
+    "title": "UML Basic Class Diagram",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8626
+  },
+  {
+    "id": 13,
+    "tag": "UML",
+    "title": "",
+    "descriptoin": "",
+    "author": "",
+    "count": "NA",
+    "downId": ""
+  },
+  {
+    "id": 14,
+    "tag": "UML",
+    "title": "Object   Oriented Modeling and Design usung UML",
+    "descriptoin": "This note covers the   following topics: Prominent OO Methodologies, Factional view, Static   structural view, Class Modeling and Design Approaches, Behavioral State   diagram, Approaches for developing dynamic systems, Architectural view, Reuse:   Libraries, Frame works components and Patterns.",
+    "author": "The University of Mumbai",
+    "count": 119,
+    "downId": 8599
+  },
+  {
+    "id": 15,
+    "tag": "UML",
+    "title": "UML   Introduction",
+    "descriptoin": "This note explains the following topics: UML Use Case Modeling , UML Activity   Diagrams, Class Architecture Modeling, Class Diagram, Behavioral Modeling:   Sequence Diagrams,UML Components and Deployment Diagrams.",
+    "author": "Hoang Huu Hanh",
+    "count": "NA",
+    "downId": 8603
+  },
+  {
+    "id": 16,
+    "tag": "UML",
+    "title": "UML   Introduction Note",
+    "descriptoin": "This note explains the following topics: Features of UML, Need for UML,   Object Orientation, Structural Things, Behavioral Things, Grouping Things, Annotational Things, Diagrams, Use Case Diagrams, Activity Diagram, Sequence   Diagrams, Class Diagrams.",
+    "author": "Tilak Maharashtra Vidyapeeth",
+    "count": 60,
+    "downId": 8600
+  },
+  {
+    "id": 17,
+    "tag": "UML",
+    "title": "UML Quick ReferencePDF",
+    "descriptoin": "This note covers the following topics: Class diagram, Collaboration diagram, Component diagram, State diagram, Activity diagram and Sequence diagram.",
+    "author": "NA",
+    "count": "NA",
+    "downId": 8616
+  },
+  {
+    "id": 18,
+    "tag": "UML",
+    "title": "UML Basic",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8623
+  },
+  {
+    "id": 19,
+    "tag": "UML",
+    "title": "UML Basic   Activity Diagram",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8625
+  },
+  {
+    "id": 20,
+    "tag": "UML",
+    "title": "UML Tutorial II (PDF 33P)",
+    "descriptoin": "This note covers the following topics: Structural Modeling Diagrams, Behavioral Modeling Diagrams, UML 2 Activity Diagram, Objects and Object Flows, Decision and Merge Nodes, Fork and Join Nodes, UML 2 Class Diagram, UML 2 Communication Diagram, Component Diagram, Composite Structure Diagram,Deployment Diagram, Interaction Overview Diagram, Object Diagrams, Package Diagram, Sequence Diagram, State Machine Diagram, Timing Diagram and Use Case Diagram.",
+    "author": "NA",
+    "count": 33,
+    "downId": 8612
+  }
+]

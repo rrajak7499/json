@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "tag": "Ocaml",
+    "title": "Introduction to Objective Caml",
+    "descriptoin": "This book presents a practical introduction and guide to the language, with topics ranging from how to write a program to the concepts and conventions that affect how affect how programs are developed in OCaml. The text can be divided into three main parts such as Core language, The module system , Objects and class. Topics covered includes: Simple Expressions, Variables and Functions, Basic Pattern Matching, Tuples, Lists, and Polymorphism, Unions, Reference cells and side-effects Records, Arrays, and String, Exceptions, Input and Output, Files, Compilation Units, and Programs, The OCaml Module System, Functors , Classes and inheritance, Multiple inheritance, Polymorphic Classes.",
+    "author": "Jason Hickey",
+    "count": 284,
+    "downId": 7460
+  },
+  {
+    "id": 2,
+    "tag": "Ocaml",
+    "title": "The Objective Caml system",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7468
+  },
+  {
+    "id": 3,
+    "tag": "Ocaml",
+    "title": "Using, Understanding, and Unraveling The OCaml Language From Practice to Theory and vice versa (D. Rmy)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7466
+  },
+  {
+    "id": 4,
+    "tag": "Ocaml",
+    "title": "GODI Users Manual (Gerd Stolpmann)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7464
+  },
+  {
+    "id": 5,
+    "tag": "Ocaml",
+    "title": "The Objective Caml System (X. Leroy)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7463
+  },
+  {
+    "id": 6,
+    "tag": "Ocaml",
+    "title": "Developing Applications With Objective Caml (E. Chailloux, P. Manoury, B. Pagano)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7465
+  },
+  {
+    "id": 7,
+    "tag": "Ocaml",
+    "title": "Objective Caml Tutorial",
+    "descriptoin": "This guide explains the following topics: Structure of OCaml Programs, Modules, Maps, Sets, Hash Tables, Comparison of Standard Containers, Data Types and Matching, Pointers in OCaml, Null Pointers, Asserts, and Warnings, Functional Programming, If Statements, Loops, and Recursion, Labels, Common Error Messages, OCaml Programming Guidelines, Formatting and Wrapping Text, 99 Problems (solved) in OCaml, OCamlbuild, Error handling, Objects, Introduction to Gtk, Garbage Collection, Performance and Profiling, Calling C libraries, Calling Fortran libraries, OCaml and the Web, Standard Library Examples, Setting up OCaml projects with OASIS, Compiling OCaml projects, Command-Line Arguments, File manipulation, Filenames and Extensions, Streams and Stream Expressions.",
+    "author": "ocaml.org",
+    "count": "NA",
+    "downId": 7461
+  },
+  {
+    "id": 8,
+    "tag": "Ocaml",
+    "title": "Functional Programming Using Caml Light",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7467
+  },
+  {
+    "id": 9,
+    "tag": "Ocaml",
+    "title": "Introduction to Objective Caml Programming Language (Jason Hickey)",
+    "descriptoin": "This guide is an introduction to ML programming, specifically for the Objective Caml (OCaml) programming language from INRIA. Topics covered includes: Simple Expressions, Variables and Functions, Basic Pattern Matching, Tuples, Lists, and Polymorphism, Unions, Exceptions, Records, Arrays, and Side-Effects, Input and Output, Files, Compilation Units, and Programs, The OCaml Module System, The OCaml Object System.",
+    "author": "Jason Hickey",
+    "count": 102,
+    "downId": 7459
+  }
+]

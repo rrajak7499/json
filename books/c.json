@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "tag": "C Programming",
+    "title": "C Programming For Mathematical Computing",
+    "descriptoin": "The objective of this note is to introduce the basic concepts of data structure and some applications using the popular high level programming language C. Topics covered includes: Program Fundamentals, Algorithms and Flow charts and C Constants, variables And data types, Operators and Expressions and managing input / output operations, Decision Making and Branching and looping, Arrays and User defined Functions.",
+    "author": "University Of Calicut",
+    "count": 152,
+    "downId": 8813
+  },
+  {
+    "id": 2,
+    "tag": "C Programming",
+    "title": "The GNU C Library",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8836
+  },
+  {
+    "id": 3,
+    "tag": "C Programming",
+    "title": "Learning GNU C (C. O'Riordan)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8834
+  },
+  {
+    "id": 4,
+    "tag": "C Programming",
+    "title": "C   Programming Notes (Steve Summit)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8830
+  },
+  {
+    "id": 5,
+    "tag": "C Programming",
+    "title": "C Programming by wikibooks.org",
+    "descriptoin": "This note explains the following topics: Compiling, Structure and style, Variables, Error handling, Simple Input and Output, Simple math, Procedures and functions, Preprocessor, Libraries, File IO, Arrays, Pointers, Memory management, Strings, Complex types, Networking in UNIX, Particularities of C, Language Overloading and Extensions, Combining Languages, Computer Programming, C Reference Tables, POSIX Reference, Licenses.",
+    "author": "Wikibooks.org",
+    "count": "NA",
+    "downId": 8808
+  },
+  {
+    "id": 6,
+    "tag": "C Programming",
+    "title": "OBJECT ORIENTED   PROGRAMMING and THE OBJECTIVE C LANGUAGE PDF",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8842
+  },
+  {
+    "id": 7,
+    "tag": "C Programming",
+    "title": "Programming in C by Guru Jambheshwar University",
+    "descriptoin": "This note covers the following topics: C essentials, Data types, Data input and output, Operators and expressions, Decision control structure, Loop control statement, Arrays, Functions, Strings, Pointers and Introduction to cpp.",
+    "author": "Guru Jambheshwar University",
+    "count": 278,
+    "downId": 8809
+  },
+  {
+    "id": 8,
+    "tag": "C Programming",
+    "title": "Practical Programming in C Lecture Notes",
+    "descriptoin": "This course note provides a thorough introduction to the C programming language, the workhorse of the UNIX operating system and lingua franca of embedded processors and micro-controllers.",
+    "author": "Daniel Weller and Sharat Chikkerur",
+    "count": "NA",
+    "downId": 8819
+  },
+  {
+    "id": 9,
+    "tag": "C Programming",
+    "title": "The C programming Language by Steve Summit",
+    "descriptoin": "C is a relatively small language, but one which wears well. Topics covered includes: Basic Data Types and Operators, Statements and Control Flow, Functions and Program Structure, Basic I/O, Operators, Strings.",
+    "author": "Steve Summit",
+    "count": 122,
+    "downId": 8812
+  },
+  {
+    "id": 10,
+    "tag": "C Programming",
+    "title": "Essential C",
+    "descriptoin": "This note explains all the common features and techniques for the C language. The coverage is pretty quick, so it is most appropriate for someone with some programming background who needs to see how C works. Topics include variables, int types, floating point types, promotion, truncation, operators, control structures (if, while, for), functions, value parameters, reference parameters, structs, pointers, arrays, the pre-processor, and the standard C library functions.",
+    "author": "NA",
+    "count": "NA",
+    "downId": 8822
+  },
+  {
+    "id": 11,
+    "tag": "C Programming",
+    "title": "C Programming by Tilak Maharashtra Vidyapeeth",
+    "descriptoin": "This note describes the following topics: Beginning With C, Input/output, Control Statements, Loops, Arrays and Strings, Data Types, Functions, Pointers, Structures, File Manipulation.",
+    "author": "Tilak Maharashtra Vidyapeeth",
+    "count": 266,
+    "downId": 8810
+  },
+  {
+    "id": 12,
+    "tag": "C Programming",
+    "title": "Introduction to C Programming",
+    "descriptoin": "This web site contains course notes for an introductory C Programming course, that does not include any features of C++.",
+    "author": "Dr. John T. Bell",
+    "count": "NA",
+    "downId": 8820
+  },
+  {
+    "id": 13,
+    "tag": "C Programming",
+    "title": "Lecture Note On Programming In C",
+    "descriptoin": "This note explains the following topics: C Language Fundamentals such as Character set, Identifiers, keyword, data types, Constants and variables, statements, expression, operators, precedence of operators, Input-output, control structures, decision making and branching, Arrays, Functions and Strings, Pointers, Structures, Unions, File handling.",
+    "author": "Asst. Professor Mrs Etuari Oram and Asst. Prof. Mr Bighnaraj Naik",
+    "count": 127,
+    "downId": 8814
+  },
+  {
+    "id": 14,
+    "tag": "C Programming",
+    "title": "C Programming Lab Manual",
+    "descriptoin": "This lecture note explains how to solve the following programs: sum of individual digits of a positive integer, the roots of a quadratic equation, programs that use both recursive and non-recursive functions, find both the largest and smallest number in a list of integers, C program to count the lines, words and characters in a given text, C program to generate Pascal?s triangle, a C program which copies one file to another, C program to display contents of a file, e C programs that uses non recursive function to search for a key value in a given list of integers using Linear search, C programs that implements the Selection sort method to sort a given array of integers in ascending order, C programs that implement Queue (its operations) using singly linked list to display a given list of integers in same order, C program to implement linear regression algorithm, C program to implement the polynomial regression algorithm, C program to implement the Lagrange interpolation, C program to implement Trapezoidal method, C programs to implement Simpson method.",
+    "author": "Aurora?s Technological And Research Institute",
+    "count": 101,
+    "downId": 8807
+  },
+  {
+    "id": 15,
+    "tag": "C Programming",
+    "title": "The GNU C Programming   Tutorial (M. Burgess) Download",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8838
+  },
+  {
+    "id": 16,
+    "tag": "C Programming",
+    "title": "A Book on C, Edition 4",
+    "descriptoin": "Beginners and professional programmers alike will benefit from the numerous examples and extensive exercises developed to guide readers through each concept. Step-by-step dissections of program code illuminate the correct usage and syntax of C language constructs and reveal the underlying logic of their application. The clarity of exposition and format of the book make it an excellent reference on all aspects of C.",
+    "author": "Al Kelley and Ira Pohl",
+    "count": "NA",
+    "downId": 8821
+  },
+  {
+    "id": 17,
+    "tag": "C Programming",
+    "title": "Programming   in C    UNIX System Calls and Subroutines Using C (by A. D. Marshall)",
+    "descriptoin": "This note covers the following topics: The Common Desktop   Environment, C/C++ Program Compilation, C Basics, Conditionals, Looping and   Iteration, Arrays and Strings, Functions, Pointers, Dynamic Memory Allocation   and Dynamic Structures, Low Level Operators and Bit Fields, The C   Preprocessor, C, UNIX and Standard Libraries, Integer Functions, Random   Number, String Conversion, Searching and Sorting, String Handling, File Access   and Directory System Calls, Interprocess Communication (IPC), PipesRemote   Procedure Calls (RPC) and Writing Larger Programs.",
+    "author": "Dave   Marshall",
+    "count": "NA",
+    "downId": 8824
+  },
+  {
+    "id": 18,
+    "tag": "C Programming",
+    "title": "The GNU C Reference Manual",
+    "descriptoin": "This is a reference manual for the C programming language as implemented by the GNU Compiler Collection (GCC). Topics covered includes: Lexical Elements, Data Types, Expressions and Operators, Functions, Program Structure and Scope.",
+    "author": "Trevis Rothwell and James Youngman",
+    "count": 91,
+    "downId": 8816
+  },
+  {
+    "id": 19,
+    "tag": "C Programming",
+    "title": "C Programming and UNIX",
+    "descriptoin": "C probably has been the most influential programming language during the last 25 years. It was originally introduced for the implementation of UNIX, but is now used for a large variety of very different tasks. This note will introduce the C programming language in the context of the UNIX operating system. It will also cover UNIX from a user and a programmer perspective.",
+    "author": "Stephan Schulz",
+    "count": 646,
+    "downId": 8815
+  },
+  {
+    "id": 20,
+    "tag": "C Programming",
+    "title": "Phil's C Course",
+    "descriptoin": "This course is intended to help a good programmer particularly someone familiar with DEC Fortran, start programming in   C. Topics covered includes: Why is the language called C, Variables, Types and   Functions, Loop and Flow Control Constructs, Arrays, Pointers, Strings,   Structures and Unions, Typedef, Header Files, Macros and the ? operator,   Logical and Relational Operators, Bitwise Operators, Function Prototypes, File   IO Routines and Command Line Arguments, Obfuscation, Changing from VAX C or   K&R C to ANSI Compliant DEC C.",
+    "author": "Phil   Ottewell",
+    "count": "NA",
+    "downId": 8826
+  },
+  {
+    "id": 21,
+    "tag": "C Programming",
+    "title": "Numerical Recipes in C Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8832
+  },
+  {
+    "id": 22,
+    "tag": "C Programming",
+    "title": "The Basics of C Programming",
+    "descriptoin": "This note explains the following topics: Spacing and indentation, Input and output, Branching and looping, Arrays, Variable Types, Operators, Functions, Structures, Libraries, Makefiles, Pointers, Dynamic Data Structures, Advanced Pointers, Strings, Operator Precedence, Command Line Arguments, Text files, Binary Files.",
+    "author": "Marshall Brain",
+    "count": 122,
+    "downId": 8811
+  },
+  {
+    "id": 23,
+    "tag": "C Programming",
+    "title": "C Programming Tutorial",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8828
+  },
+  {
+    "id": 24,
+    "tag": "C Programming",
+    "title": "Beej's Guide to C   Programming",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8827
+  },
+  {
+    "id": 25,
+    "tag": "C Programming",
+    "title": "Learning GNU C (C. O'Riordan) Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8835
+  },
+  {
+    "id": 26,
+    "tag": "C Programming",
+    "title": "The GNU C   Programming Tutorial (M. Burgess)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8837
+  }
+]

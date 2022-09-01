@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "tag": "Fortran",
+    "title": "Numerical Recipes in Fortran 77 Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "",
+    "downId": 8925
+  },
+  {
+    "id": 2,
+    "tag": "Fortran",
+    "title": "Introduction to Programming using Fortran 95",
+    "descriptoin": "This text provides an introduction to programming and problem solving using the Fortran 95 programming language.",
+    "author": "Ed Jorgensen",
+    "count": 179,
+    "downId": 8913
+  },
+  {
+    "id": 3,
+    "tag": "Fortran",
+    "title": "Using C and C++ with Fortran",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8928
+  },
+  {
+    "id": 4,
+    "tag": "Fortran",
+    "title": "Fortran 90/95 Programming Manual",
+    "descriptoin": "This book covers the following topics: Types, Variables, Constants, Operators, Control Constructs, Procedures, Arrays, Modules, Pointers, Numeric Precision, Scope and Lifetime of Variables and Debugging.",
+    "author": "Tanja van Mourik",
+    "count": 67,
+    "downId": 8910
+  },
+  {
+    "id": 5,
+    "tag": "Fortran",
+    "title": "Fortran by Dr David Apsley",
+    "descriptoin": "This note explains the following topics: Basic syntax, Repetition, Arrays, Character handling, Functions and subroutines, Advanced input or output, User-defined types, Interfaces, Generic functions, User-defined operators, Advanced procedures, Advanced arrays and characters, Pointers, Data structures, Object-oriented Fortran.",
+    "author": "David Apsley",
+    "count": "NA",
+    "downId": 8899
+  },
+  {
+    "id": 6,
+    "tag": "Fortran",
+    "title": "Fortran 95 Language Features",
+    "descriptoin": "This is an overview of Fortran 95 language features. Topics covered includes: Language elements, Intrinsic data types, Expressions and assignments, Control statements, Program units and procedures, Array handling, Pointers, Intrinsic procedures, Data transfer and Operations on external files.",
+    "author": "Wikipedia.org",
+    "count": "NA",
+    "downId": 8900
+  },
+  {
+    "id": 7,
+    "tag": "Fortran",
+    "title": "Numerical Recipes in Fortran 90 Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8927
+  },
+  {
+    "id": 8,
+    "tag": "Fortran",
+    "title": "Fortran 90 Lectures",
+    "descriptoin": "This note covers the following topics: Fundamentals of Fortran, Programming Principles, Computer Operating Systems, Unix, Arithmetic Assignment Statements, Introduction to Fortran's Intrinsic Functions, Writing your own Functions and Subroutines, Logical Structures, Allocating space for a problem, Data Types and Data Representation, Using the FORMAT statement, Fortran 90 CHARACTER intrinsic functions,Fortran and Linear Algebra, Numerical Integration and Numerical Differentiation.",
+    "author": "John Mahaffy",
+    "count": "NA",
+    "downId": 8912
+  },
+  {
+    "id": 9,
+    "tag": "Fortran",
+    "title": "Fortran 90 for the Fortran 77 Programmer",
+    "descriptoin": "This tutorial is written in order to ease the transition from the very common and popular programming language Fortran 77 to the more modern Fortran 90. It is required that the reader is knowledgeable in Fortran 77. Topics covered include: Notables in the transition from Fortran 77 to Fortran 90, Specifications, The layout of a program, Control statements, Program units, Keyword arguments and default arguments, Recursion, Generic routines, The use of arrays and array sections, Pointers, The new precision concept, Additional problems at the transition, Use of program libraries, Peculiarities in the language Fortran 90, Status of Fortran 95 and Different Fortran standards.",
+    "author": "Bo Einarsson and Yurij Shokin",
+    "count": "NA",
+    "downId": 8914
+  },
+  {
+    "id": 10,
+    "tag": "Fortran",
+    "title": "Introduction to Programming using Fortran 95/2003/2008",
+    "descriptoin": "This text provides an introduction to programming and problem solving using the Fortran 95/2003/2008 programming language. This introduction is geared for non-computer science majors. The primary focus is on an introduction to problem solving and algorithm development. As such, many details of the Fortran 95/2003/2008 language are omitted.",
+    "author": "Ed Jorgensen",
+    "count": 231,
+    "downId": 8904
+  },
+  {
+    "id": 11,
+    "tag": "Fortran",
+    "title": "Programming In Fortran77",
+    "descriptoin": "This note explains the following topics: Fortran Statements, Data Types, Constants and Variables, Operators, Task Repetition Using DO Loops, Conditional Constructs, Arrays, Input/Output, The Use of Format and Subprograms.",
+    "author": "The University of Edinburgh",
+    "count": "NA",
+    "downId": 8907
+  },
+  {
+    "id": 12,
+    "tag": "Fortran",
+    "title": "Fortran 90 Manual",
+    "descriptoin": "Fortran from its development was intended for translating scientific equations into computer code. Topics covered includes: A very brief history of Fortran, Coding in UNIX, Compiling in UNIX, Fortran 90 v. FORTRAN 77, Basic Fortran, Program Format, Data Types, Declaration, and Parameterization, Operations and Logical Expressions, Precision, Intrinsic Functions, Input, Output and Format Descriptors, Control Structure, Subroutines, External Functions, and Modules, Arrays, Derived Data Types.",
+    "author": "Pradeep P. Bhat, Rice University",
+    "count": "NA",
+    "downId": 8901
+  },
+  {
+    "id": 13,
+    "tag": "Fortran",
+    "title": "Fortran 77 Tutorial by wikibooks.org",
+    "descriptoin": "Fortran is a general purpose programming language, mainly intended for mathematical computations.The goal of this Fortran tutorial is to give a quick introduction to the most common features of the Fortran 77 programming language. A companion tutorial introduces the key enhancements found in Fortran 90.",
+    "author": "wikibooks.org",
+    "count": "NA",
+    "downId": 8903
+  },
+  {
+    "id": 14,
+    "tag": "Fortran",
+    "title": "Introduction to Fortran 90 by Daniel Brown",
+    "descriptoin": "This note explains the following topics: High-level programming languages, Analysis of program, Introduction to UNIX, Creating and editing files, UNIX commands, Data Types and Handling, Arithmetic and Assignment, Initial Values and Constants, Decision Making in Fortran, Repeating Parts of your Program, Arrays, Functions and Subroutines, File Handling.",
+    "author": "Daniel Brown",
+    "count": 86,
+    "downId": 8902
+  },
+  {
+    "id": 15,
+    "tag": "Fortran",
+    "title": "Modular Programming with Fortran 90",
+    "descriptoin": "The goal of this Fortran 90 tutorial is to give a quick introduction to the key differences between Fortran 77 and Fortran 90. Topics covered includes: Main Features of Fortran 90, How to use Fortran 90 on the Unix computers, Basic program structure, Logical expressions, Loops, Arrays, Subprograms, Modules, Derived data types, features of Fortran 90.",
+    "author": "Paul H. Hargrove and Sarah T. Whitlock, Stanford University",
+    "count": "NA",
+    "downId": 8916
+  },
+  {
+    "id": 16,
+    "tag": "Fortran",
+    "title": "Introductory Fortran Programming",
+    "descriptoin": "This book explains the following topics: Motivation,  Fortran 77 and 95, Fortran 77 programming,  Fortran 95 programming, Compiling and linking Fortran programs, Manipulate data files (File I/O), File handling in Fortran, Arrays and loops, Subroutines and functions in Fortran, Pointers in Fortran 95.",
+    "author": "Gunnar Wollan",
+    "count": 240,
+    "downId": 8905
+  },
+  {
+    "id": 17,
+    "tag": "Fortran",
+    "title": "Fortran   90 Tutorial",
+    "descriptoin": "This note covers the following topics: Basic Fortran, Selective Execution, Repetitive Execution, Functions and Modules, Subroutines, One-Dimensional Arrays, Multi-Dimensional Arrays, Formated Input and Output,Fortran Control Structures, Fortran Subprograms and Fortran Arrays.",
+    "author": "Dr. C.-K. Shene, Michigan Technological University",
+    "count": "NA",
+    "downId": 8917
+  },
+  {
+    "id": 18,
+    "tag": "Fortran",
+    "title": "Professional Programmers Guide to Fortran77",
+    "descriptoin": "This book covers the following topics: What Is Fortran, Basic Fortran Concepts, Program Structure and Layout, Fortran in Practice, Constants, Variables, and Arrays, Arithmetic, Character Handling and Logic, Control Statements, Procedures, Input/Output Facilities, DATA Statement, Common Blocks, Obsolete and Deprecated Features, Common Extensions to the Fortran Standard.",
+    "author": "Clive G. Page, University of Leicester, UK",
+    "count": "NA",
+    "downId": 8915
+  },
+  {
+    "id": 19,
+    "tag": "Fortran",
+    "title": "Fortran 90 Tutorial Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8918
+  }
+]

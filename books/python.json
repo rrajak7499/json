@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "tag": "Python",
+    "title": "Object Oriented Programming in Python",
+    "descriptoin": "This note explains the following topics: Essentials of a Python program, Variables and scope, Selection control statement, Collections, Errors and exceptions, Functions, Classes, Object-oriented programming, Packaging and testing, Useful modules in the Standard Library, GUI programming with tkinter, Sorting, searching and algorithm analysis.",
+    "author": "MIT",
+    "count": "NA",
+    "downId": 8964
+  },
+  {
+    "id": 2,
+    "tag": "Python",
+    "title": "Python 2.4 Quick Reference",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8990
+  },
+  {
+    "id": 3,
+    "tag": "Python",
+    "title": "Python Programming",
+    "descriptoin": "Python is a high-level, structured, open-source programming language that can be used for a wide variety of programming tasks. Topics covered includes: Interactive mode, Creating Python programs, Basic syntax, Data types, Numbers , Strings, Operators , Flow control, Functions, Scoping, Exceptions, Modules, Classes, Metaclasses, Reflection, Regular Expression, GUI Programming, Game Programming in Python, Web Page Harvesting, Extending with C and C++.",
+    "author": "wikimedia.org",
+    "count": 199,
+    "downId": 8969
+  },
+  {
+    "id": 4,
+    "tag": "Python",
+    "title": "Dive Into Python Mirror",
+    "descriptoin": "Dive Into Python is a free Python book for experienced programmers. Topics covered includes: Native Datatypes, Comprehensions, Strings, Regular Expressions, Installing Python, Closures and Generators, Classes and Iterators, Advanced Iterators, Unit Testing, Refactoring, Files, XML, Serializing Python Objects, HTTP Web Services, Case Study: Porting chardet to Python 3, Packaging Python Libraries, Porting Code to Python 3 with 2to3 and Special Method Names.",
+    "author": "Mark Pilgrim",
+    "count": "NA",
+    "downId": 8978
+  },
+  {
+    "id": 5,
+    "tag": "Python",
+    "title": "Python Language Reference",
+    "descriptoin": "This reference manual describes the syntax and core semantics of the Python language. Topics covered includes: Lexical analysis, Data model, Execution model , Expressions, Simple statements, Compound statements, Top-level components and Full Grammar specification.",
+    "author": "Guido van Rossum and Fred L. Drake",
+    "count": 128,
+    "downId": 8981
+  },
+  {
+    "id": 6,
+    "tag": "Python",
+    "title": "Python Introduction for Programmers",
+    "descriptoin": "This note assumes that you know no Python whatsoever. This note covers Python 2.2 to 2.6, which are the most common versions currently in use? it does NOT cover the recently released Python 3.0 (or 3.1) since those versions of Python are so new.",
+    "author": "Bruce Beckles and Bob Dowling",
+    "count": 151,
+    "downId": 8968
+  },
+  {
+    "id": 7,
+    "tag": "Python",
+    "title": "Introduction to Computer Programming  Python",
+    "descriptoin": "This note teaches the basics of programming in Python, which is an industrial-strength programming language used at companies like Google and Industrial Light and Magic. Topics covered includes: Python basics, Booleans, Strings, Modules, Loops, Lists, Dictionaries, Files, Classes, Sorting.",
+    "author": "Marek Ryszard Janicki",
+    "count": "NA",
+    "downId": 8961
+  },
+  {
+    "id": 8,
+    "tag": "Python",
+    "title": "Lecture Notes On Object Oriented Programming Through Python",
+    "descriptoin": "This note describes the following topics: Introduction to Python and Object Oriented Concepts, Python Classes and Objects, Strings and Functions, Exception Handling, Graphical User Interface.",
+    "author": "Mr. M Purushotham Reddy and Mrs. A Lakshmi",
+    "count": 119,
+    "downId": 8959
+  },
+  {
+    "id": 9,
+    "tag": "Python",
+    "title": "Non Programmers Tutorial For Python (Josh Cogliati) Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8988
+  },
+  {
+    "id": 10,
+    "tag": "Python",
+    "title": "GUI Programming with Python",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8986
+  },
+  {
+    "id": 11,
+    "tag": "Python",
+    "title": "Python Programming for the Absolute Beginners",
+    "descriptoin": "This book is designed for people with absolutely no experience of programming. This course is probably unsuitable for those with programming experience, even if it is just in shell scripting or Matlab- like programs.",
+    "author": "Bob Dowling",
+    "count": 459,
+    "downId": 8971
+  },
+  {
+    "id": 12,
+    "tag": "Python",
+    "title": "Introduction to Python Programming Course Notes",
+    "descriptoin": "This note covers the following topics: Basic Principles of Python, String Data, String Operations, Numeric Data, Types of Numeric Data, Conversion of Scalar Types, Lists, Tuples and Dictionaries, Input and Output, Programming, Functions, Using Modules, Writing Modules and Exceptions.",
+    "author": "Phil Spector",
+    "count": 164,
+    "downId": 8966
+  },
+  {
+    "id": 13,
+    "tag": "Python",
+    "title": "OReilly Python Books Chapters",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8983
+  },
+  {
+    "id": 14,
+    "tag": "Python",
+    "title": "A Gentle Introduction to Programming Using Python",
+    "descriptoin": "This note will provide a gentle introduction to programming using Python for highly motivated students with little or no prior experience in programming computers. Topics covered includes: Variables and types, Functions, basic recursion, Control flow: Branching and repetition, Introduction to objects: Strings and lists, Structuring larger programs, Python modules, debugging programs, Introduction to data structures: Dictionaries, Functions as a type, anonymous functions and list comprehensions.",
+    "author": "Mihir Kedia and Aseem Kishore",
+    "count": "NA",
+    "downId": 8960
+  },
+  {
+    "id": 15,
+    "tag": "Python",
+    "title": "Dive Into Python",
+    "descriptoin": "This note covers the following topics: Native Datatypes, Comprehensions, Strings, Regular Expressions, Installing Python, Closures and Generators, Classes and Iterators, Advanced Iterators, Unit Testing, Refactoring, Files, XML, Serializing Python Objects, HTTP Web Services, Case Study: Porting chardet to Python 3, Packaging Python Libraries, Porting Code to Python 3 with 2to3 and Special Method Names.",
+    "author": "Mark Pilgrim",
+    "count": "NA",
+    "downId": 8977
+  },
+  {
+    "id": 16,
+    "tag": "Python",
+    "title": "Lecture Notes Introduction to Software Development Using Python",
+    "descriptoin": "Topics covered are: Introduction to computing, Computer hardware and operating systems, Introduction to the Python programming language , Arithmetic, variables, and input-output, Conditional control, Computing with strings, List data structures, How to read and write text files, Objects for GUIs and animations, Programming with C",
+    "author": "NA",
+    "count": "NA",
+    "downId": 8976
+  },
+  {
+    "id": 17,
+    "tag": "Python",
+    "title": "Python Library Reference",
+    "descriptoin": "This library reference manual documents Python's standard library, as well as many optional library modules . It also documents the standard types of the language and its built-in functions and exceptions, many of which are not or incompletely documented in the Reference Manual.",
+    "author": "Guido van Rossum, Python Software Foundation",
+    "count": "NA",
+    "downId": 8982
+  },
+  {
+    "id": 18,
+    "tag": "Python",
+    "title": "The Python Tutorial by Madhavan Mukund",
+    "descriptoin": "Python is an easy to learn, powerful programming language. This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature.",
+    "author": "Madhavan Mukund",
+    "count": "NA",
+    "downId": 8965
+  },
+  {
+    "id": 19,
+    "tag": "Python",
+    "title": "Introduction to Computer Science and Programming in Python",
+    "descriptoin": "Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals.",
+    "author": "Dr. Ana Bell, Prof. Eric Grimson and Prof. John Guttag",
+    "count": "NA",
+    "downId": 8967
+  },
+  {
+    "id": 20,
+    "tag": "Python",
+    "title": "Python Concepts by wikiversity",
+    "descriptoin": "Goal of this note is to teach the following topics: Python integers, non-decimal integers, Python floats, precision of floats, Boolean algebra, complex numbers, convert numbers into different basic data types.",
+    "author": "wikiversity",
+    "count": "NA",
+    "downId": 8963
+  }
+]

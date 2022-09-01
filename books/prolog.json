@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "tag": "Prolog",
+    "title": "An Introduction to Prolog Programming Lecture Notes",
+    "descriptoin": "These lecture notes introduce the declarative programming language Prolog. The emphasis is on learning how to program, rather than on the theory of logic programming. Topics covered includes: Prolog Syntax, Working with Lists, Working with Numbers, Working with Operators, Backtracking, Cuts and Negation, Logic Foundations of Prolog and Recursive Programming.",
+    "author": "Ulle Endriss",
+    "count": 80,
+    "downId": 8515
+  },
+  {
+    "id": 2,
+    "tag": "Prolog",
+    "title": "Prolog by Ryan Stansifer",
+    "descriptoin": "This note describes the following topics: Prolog programming: facts, queries, variables, rules, recursion, Backward chaining, Cut, Data structures: functors and lists, Unification, Relation to logic: not a theorem prover, closed-world assumption, Relation to logic: horn clauses and skolemization, linear resolution.",
+    "author": "Ryan Stansifer",
+    "count": 172,
+    "downId": 8514
+  },
+  {
+    "id": 3,
+    "tag": "Prolog",
+    "title": "Prolog implementation of a graphic tool for generation of Ada language specifications",
+    "descriptoin": "The purpose of this note is to evaluate the suitability of Prolog in the implementation of a graphic tool for design and specification of Ada programs.",
+    "author": "Spencer Shu-tsu Cheng",
+    "count": 70,
+    "downId": 8517
+  },
+  {
+    "id": 4,
+    "tag": "Prolog",
+    "title": "Prolog Programming A First Course (Paul Brna)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8522
+  },
+  {
+    "id": 5,
+    "tag": "Prolog",
+    "title": "Logic, Programming and Prolog, 2nd Edition (Ulf Nilsson/Jan Maluszynski)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8526
+  },
+  {
+    "id": 6,
+    "tag": "Prolog",
+    "title": "Prolog and Natural Language Analysis (Fernando Pereira/Stuart M. Shieber)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8530
+  },
+  {
+    "id": 7,
+    "tag": "Prolog",
+    "title": "Natural Language Processing Techniques in Prolog",
+    "descriptoin": "This note covers the following topics: finite state automata, finite state parsers and transducers, finite state methods in natural language processing, recursive transition networks (RTNs), RTN transducers and ATNs, definite clause grammars, bottom up parsing, top down parsing, using bottom up and top down information for parsing, passive chart parsing, bottom-up active chart parsing, top-down active chart parsing, feature structures, parsing feature-based grammars, natural language generation- a topdown generator.",
+    "author": "Patrick Blackburn and Kristina Striegnitz",
+    "count": "NA",
+    "downId": 8521
+  },
+  {
+    "id": 8,
+    "tag": "Prolog",
+    "title": "Prolog Programming by Paola Bruscoli",
+    "descriptoin": "This note explains the following topics: Terms, Deterministic evaluations, Input-output non-determinism, Non-deterministic evaluation, Influencing efficiency, Unification, List processing, Type checking, Comparing terms, Arithmetic, Disjunction, Negation, Generation and Test Aggregation, Controlling search, Meta-programming.",
+    "author": "Paola Bruscoli",
+    "count": 100,
+    "downId": 8512
+  },
+  {
+    "id": 9,
+    "tag": "Prolog",
+    "title": "Prolog Class Notes",
+    "descriptoin": "The objective of this lecture note is to introduce you to the most basic concepts of the Prolog programming language.",
+    "author": "Lehel Csato",
+    "count": "NA",
+    "downId": 8516
+  },
+  {
+    "id": 10,
+    "tag": "Prolog",
+    "title": "An Introduction to Prolog Programming",
+    "descriptoin": "This note covers the following topics in prolog: Facts about prolog, query in Prolog system, prolog Programs, Matching, Programming Style, Internal Representation, The Bar Notation, Appending Lists, Arithmetic Expressions in Prolog, Matching vs. Arithmetic Evaluation, Relations, Defining Operators, Backtracking, Cuts and Negation.",
+    "author": "Prof. Hugh Murrell",
+    "count": 72,
+    "downId": 8513
+  },
+  {
+    "id": 11,
+    "tag": "Prolog",
+    "title": "Guide to Prolog Programming",
+    "descriptoin": "This note provides an introduction to logic programming and PROLOG for beginners but also cover some advanced topics.",
+    "author": "Roman Bartak",
+    "count": "NA",
+    "downId": 8519
+  }
+]

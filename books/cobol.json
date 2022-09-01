@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "tag": "Cobol",
+    "title": "COBOL Programming",
+    "descriptoin": "This note covers the following topics: Structured Program Design In Cobol, Identification and Environment Divisions, The Data Division, The Procedure Division, Designing and Debugging Batch and Interactive Cobol Programs, Flowcharting, Moving Data, Printing Information, and Formatting Output, Computing In Cobol: The Arithmetic Verbs and Intrinsic Functions, Decision Making Using The If and Evaluate Statements, Iteration: Beyond The Basic Perform, Designing and Writing Control-break Programs, Data Validation, Array Processing and Table Handling, Table Handling and Search Techniques, Sequential File Processing, Sorting and Merging, Indexed File Processing.",
+    "author": "Toru Sakaguchi",
+    "count": "NA",
+    "downId": 7905
+  },
+  {
+    "id": 2,
+    "tag": "Cobol",
+    "title": "COBOL programming Tutorials",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7920
+  },
+  {
+    "id": 3,
+    "tag": "Cobol",
+    "title": "An empirical study into COBOL type inferencing (PDF 23P)",
+    "descriptoin": "This note covers the following topics: Type inference, Implementation using relational algebra, Assessing derived facts and Assessing inferred relations.",
+    "author": "Arie van Deursen and Leon Moonen",
+    "count": 23,
+    "downId": 7912
+  },
+  {
+    "id": 4,
+    "tag": "Cobol",
+    "title": "ZingCOBOL   A Beginners Guide to Programming in COBOL (Timothy Brown)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7918
+  },
+  {
+    "id": 5,
+    "tag": "Cobol",
+    "title": "Cobol Tutorials",
+    "descriptoin": "This note covers the following topics: Format, Variable Declarations, Executable Statements, Input and Output, Compiling And Running, Cobol String Handling, Subscripting Vs Indexing In Cobol and Table Searching in cobol.",
+    "author": "University of Regina",
+    "count": "NA",
+    "downId": 7907
+  },
+  {
+    "id": 6,
+    "tag": "Cobol",
+    "title": "Introduction to COBOL Programming Lecture Notes",
+    "descriptoin": "This note describes the fundamentals of structured programming as well as language structure and capabilities. Students learn about program development using cobol, including program definition, pseudo-code, flowcharting, coding, testing and debugging.",
+    "author": "Bob Roggio",
+    "count": "NA",
+    "downId": 7904
+  },
+  {
+    "id": 7,
+    "tag": "Cobol",
+    "title": "GNU COBOL Programmers Guide",
+    "descriptoin": "This document describes the syntax, semantics and usage of the COBOL programming language as implemented by the current version of GNU COBOL, formerly known as OpenCOBOL.",
+    "author": "Gary L. Cutler",
+    "count": 640,
+    "downId": 7902
+  },
+  {
+    "id": 8,
+    "tag": "Cobol",
+    "title": "COBOL A Beginners Guide to Programming in COBOL (Timothy Brown) Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 7919
+  },
+  {
+    "id": 9,
+    "tag": "Cobol",
+    "title": "COBOL   Programming Standards (A.J. Marston)",
+    "descriptoin": "This note covers the following topics: Source Code Documentation, Program Identification, Program Data, Program Code, Program Structure, Sentences and Statements, Conditional Processing, Hints, Notes and Warnings, Sample Online Procedures, Sample Batch Procedures, Multi-line Enquiry screens and Multi-line Input or Update screens.",
+    "author": "A.J. Marston",
+    "count": "NA",
+    "downId": 7916
+  },
+  {
+    "id": 10,
+    "tag": "Cobol",
+    "title": "Introduction to COBOL",
+    "descriptoin": "This note explains the following topics: Introduction to IBM mainframes, COBOL, Compile and test programs on an IBM mainframe, design, code, and test a structured program, COBOL features for structured coding, arithmetic statements and intrinsic functions.",
+    "author": "Dr. David E. Woolbright",
+    "count": "NA",
+    "downId": 7903
+  },
+  {
+    "id": 11,
+    "tag": "Cobol",
+    "title": "WebSphere Development Studio ILE COBOL Programmers Guide",
+    "descriptoin": "This guide describes how to write, compile, bind, run, debug, and maintain Integrated Language Environment (ILE) COBOL compiler programs on the Operating System/400 (OS/400).",
+    "author": "International Business Machines Corporation",
+    "count": 640,
+    "downId": 7909
+  }
+]

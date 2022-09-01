@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "tag": "Perl",
+    "title": "PerlDesign Patterns",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8466
+  },
+  {
+    "id": 2,
+    "tag": "Perl",
+    "title": "O'ReillyPERL Books Chapters",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8480
+  },
+  {
+    "id": 3,
+    "tag": "Perl",
+    "title": "Perl Programming",
+    "descriptoin": "This note covers the following topics: the basics, arrays, program arguments and conditionals,, reading and writing to files, more loops and some math in perl, subroutines,, hashes associative arrays, string manipulation, more regular expressions, file and directory manipulation, time and perl modules,  system commands, network modules, programming techniques and review.",
+    "author": "Mark Tucker",
+    "count": "NA",
+    "downId": 8450
+  },
+  {
+    "id": 4,
+    "tag": "Perl",
+    "title": "Perl in a Day Peeking Inside the Oyster",
+    "descriptoin": "Objective of this book is to understand the basics of Perl, ?learn to read, modify, and run Perl scripts. Topics covered includes: Scripting, Variables, Control Structures, Data Munging ? Perl for Bioinformatics, Arrays and Hashes, Subroutines and Modules, Objects and BioPerl",
+    "author": "Amir Karger",
+    "count": 126,
+    "downId": 8445
+  },
+  {
+    "id": 5,
+    "tag": "Perl",
+    "title": "PracticalPerl Programming (D. Marshall)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8470
+  },
+  {
+    "id": 6,
+    "tag": "Perl",
+    "title": "Perl 5Internals (S. Cozens)",
+    "descriptoin": "This book covers the following topics: Parts of the Interpreter, Internal Variables, The Lexer and the Parser, Fundamental operations, The Runtime Environment, The Perl Compiler, Hacking on perl and Perl 6 Internals.",
+    "author": "Simon Cozens",
+    "count": "NA",
+    "downId": 8456
+  },
+  {
+    "id": 7,
+    "tag": "Perl",
+    "title": "Extreme Perl",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8469
+  },
+  {
+    "id": 8,
+    "tag": "Perl",
+    "title": "Learning Perlthe Hard Way",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8468
+  },
+  {
+    "id": 9,
+    "tag": "Perl",
+    "title": "Picking Up Perl, 2nd Edition (B.M. Kuhn, N.A. Smyth)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8460
+  },
+  {
+    "id": 10,
+    "tag": "Perl",
+    "title": "Introduction to Perl Programming Course Notes",
+    "descriptoin": "This note explains the following topics: Interpreter vs. Compiler, Perl different from other languages, Variables, Scalar Data, Arrays and Lists, Control Structures, Hashes, Regular Expressions, Functions, Interacting with the Operating System, A few Perl Functions.",
+    "author": "Phil Spector",
+    "count": "NA",
+    "downId": 8441
+  },
+  {
+    "id": 11,
+    "tag": "Perl",
+    "title": "Web ClientProgramming with Perl",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8483
+  },
+  {
+    "id": 12,
+    "tag": "Perl",
+    "title": "Practicalmod_perl",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8467
+  },
+  {
+    "id": 13,
+    "tag": "Perl",
+    "title": "Perl Documentation",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8473
+  },
+  {
+    "id": 14,
+    "tag": "Perl",
+    "title": "Practical Perl Programming",
+    "descriptoin": "This note provides a detailed explanation of the following topics in Perl: Introduction to Perl, Numeric and String Literals, Variables, Arrays, Operators, Perl Statements, Functions, References, Files -- Input and Output in Perl, Regular Expressions, Special Variables, Handling Errors and Signals, Objects in Perl, Perl Modules, Debugging Perl, Networking with Perl, CGI Programming in Perl, CGI Scripts, Using Perl with Web Servers.",
+    "author": "A. D. Marshall",
+    "count": "NA",
+    "downId": 8449
+  },
+  {
+    "id": 15,
+    "tag": "Perl",
+    "title": "BeginningPerl (by Simon Cozens)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8462
+  },
+  {
+    "id": 16,
+    "tag": "Perl",
+    "title": "Web Client Programming with Perl",
+    "descriptoin": "Web Client Programming with Perl is a behind-the-scenes look at how your web browser interacts with web servers. Readers of this book will learn how the Web works and how to write software that is more flexible, dynamic, and powerful than the typical web browser.",
+    "author": "Clinton Wong",
+    "count": "NA",
+    "downId": 8448
+  },
+  {
+    "id": 17,
+    "tag": "Perl",
+    "title": "Perl for theWeb (C. Radcliff)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8465
+  },
+  {
+    "id": 18,
+    "tag": "Perl",
+    "title": "Perl 5 Internals",
+    "descriptoin": "The aim of this note is to give you not just an understanding of the workings of the perl interpreter, but also the means to investigate more about it, to analyze and solve bugs in the Perl core, and to take part in the Perl development process.",
+    "author": "Simon Cozens",
+    "count": "NA",
+    "downId": 8442
+  },
+  {
+    "id": 19,
+    "tag": "Perl",
+    "title": "Beginning Perl Free Book by Simon Cozens",
+    "descriptoin": "Perl is an immensely popular scripting language that combines the best features of C, key UNIX utilities and a powerful use of regular expressions. This book promotes the use of Perl as a programming language, encouraging the creation of legible and sensible programs so as to dispel the image of Perl as a confusing and obscure language.",
+    "author": "Simon Cozens",
+    "count": "NA",
+    "downId": 8443
+  },
+  {
+    "id": 20,
+    "tag": "Perl",
+    "title": "Introduction to Perl and BioPerl",
+    "descriptoin": "This note explains the following topics: Perl program structure, Variable types, Scalars , Pragmas , Operators , Arrays , Hashes , Control structures, Loop modifers, Subroutines , Reading and Writing a file, Filehandles , Regular expressions, Regex anchors and operators, Running perl, POD tools, What is Bioperl, Gotchas , Objects in Perl, Interfaces and Inheritance in Bioperl, Bioperl components, Parse a sequence from file, output, Read in sequence and write out in different format, Sequence Databases.",
+    "author": "Heikki Lehv?slaiho",
+    "count": 104,
+    "downId": 8444
+  },
+  {
+    "id": 21,
+    "tag": "Perl",
+    "title": "Object Oriented Perl (PDF)Mirror",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8472
+  },
+  {
+    "id": 22,
+    "tag": "Perl",
+    "title": "Extreme Programming in Perl",
+    "descriptoin": "This book invites Perl programmers and their customers to take a fresh look at software development. It explains Extreme Perl to both programmers and business people.",
+    "author": "Robert Nagler",
+    "count": 194,
+    "downId": 8447
+  },
+  {
+    "id": 23,
+    "tag": "Perl",
+    "title": "Modern Perl",
+    "descriptoin": "An excellent book that covers exactly what the title says. Modern Perl teaches you how Perl really works. It's the only book that explains Perl thoroughly, from its philosophical roots to the pragmatic decisions that help you solve real problems and keep them solved.",
+    "author": "Chromatic",
+    "count": "NA",
+    "downId": 8446
+  },
+  {
+    "id": 24,
+    "tag": "Perl",
+    "title": "Using Perl 5 For Web Programming",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8485
+  },
+  {
+    "id": 25,
+    "tag": "Perl",
+    "title": "PerlPocket Reference",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8461
+  },
+  {
+    "id": 26,
+    "tag": "Perl",
+    "title": "Perl Programming by Nathan Clement",
+    "descriptoin": "This note provides a brief introduction to the language for students who want to add Perl to their toolbox. It assumes familiarity with the fundamental elements of computer programming, but no prior experience with Perl or any other particular language is necessary. Topics covered includes: Data types, Variables, Sigils, Defined-ness, Truth, Control flow, Advanced iteration, Functions, Regular expressions, Using modules and objects, Tied variables, Perl CGI and Perl DBI.",
+    "author": "Nathan Clement",
+    "count": "NA",
+    "downId": 8440
+  },
+  {
+    "id": 27,
+    "tag": "Perl",
+    "title": "PerlTutorial",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8478
+  }
+]

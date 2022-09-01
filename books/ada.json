@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "tag": "Ada",
+    "title": "Ada 95 Tutorial",
+    "descriptoin": "This tutorial teaches the entire Ada 95 dialect of the Ada language. It is composed of 33 chapters which should be studied in order since topics are introduced in a logical order and build upon topics introduced in previous chapters.",
+    "author": "Gordon Dodrill",
+    "count": "NA",
+    "downId": 8169
+  },
+  {
+    "id": 2,
+    "tag": "Ada",
+    "title": "Ada Distilled An Introduction to Ada Programming (Richard Riehle)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8178
+  },
+  {
+    "id": 3,
+    "tag": "Ada",
+    "title": "Ada Quality and Style Guide",
+    "descriptoin": "The purpose of this guide is to help computer professionals produce better Ada programs by identifying a set of stylistic guidelines that will directly impact the quality of their Ada programs. This style guide is not intended to replace the Ada Reference Manual, or the Rationale, or to serve as a tutorial for the Ada programming language.",
+    "author": "wikibooks.org",
+    "count": "NA",
+    "downId": 8164
+  },
+  {
+    "id": 4,
+    "tag": "Ada",
+    "title": "Ada 95 Reference   Manual (Magnus Kempe)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8179
+  },
+  {
+    "id": 5,
+    "tag": "Ada",
+    "title": "Introducing Ada 95   The Language for a Complex World",
+    "descriptoin": "This document contains four chapters. Chapter 1 gives the background to the development process including the capture of the requirements from the existing and future user community. Chapter 2 introduces the highlights of the language, Chapter 3 gives an overview of the whole language showing how the new facilities fit into the overall framework. Finally, Chapter 4 addresses the issue of upward compatibility with Ada 83 and shows that for normal programs the goal of compatibility has been achieved. This document will be of special value to program managers, team leaders and all software professionals with concern for the organized development of software.",
+    "author": "John Barnes",
+    "count": "NA",
+    "downId": 8166
+  },
+  {
+    "id": 6,
+    "tag": "Ada",
+    "title": "ADA95 Tutorial Part 1",
+    "descriptoin": "This tutorial teaches the entire Ada 95 dialect of the Ada language. It is composed of 33 chapters which should be studied in order since topics are introduced in a logical order and build upon topics introduced in previous chapters. Topics covered includes: Program Structure, The Integer Type Variable, Logical Compares and precedence, Control Structures, Additional Scalar Types, Derived Types, Subprograms, Blocks and Scope of variables, Arrays, The Character and String Type, Records, The Access Type Variable, Input/Output and Packages",
+    "author": "NA",
+    "count": 194,
+    "downId": 8163
+  },
+  {
+    "id": 7,
+    "tag": "Ada",
+    "title": "A Crash Course in Ada",
+    "descriptoin": "This note explains the following topics: C-Syntax Pitfalls and Comparison to Ada, C-Syntax versus Ada Syntax, loop in Ada, Programming by Contract, Pitfalls and Issues when Programming in Ada, Identifier Casing and Loop Boundaries, The Order of Expression Evaluation in Ada, Distinguished Properties of Ada, Types and Subtypes, Constrained Arrays, Private Types, Polymorphism, Callbacks.",
+    "author": "Rainer Koschke",
+    "count": 75,
+    "downId": 8165
+  },
+  {
+    "id": 8,
+    "tag": "Ada",
+    "title": "Ada and Beyond Software Policies for the Department of Defense",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8183
+  },
+  {
+    "id": 9,
+    "tag": "Ada",
+    "title": "Ada 95 for   C and C++ Programmers (Simon Johnston)",
+    "descriptoin": "This   document is written primarily for C and C++ programmers and is set out to   describe the Ada programming language in a way more accessible to them. Topics   covered includes: Ada predefined types, complex types, simple language   constructs, new Ada-95 Object Oriented programming constructs, Ada tools for   managing concurrency, the task and protected types, Ada IO library and the   differences in concept and implementation between it and C stdio.",
+    "author": "Simon Johnston",
+    "count": "NA",
+    "downId": 8173
+  },
+  {
+    "id": 10,
+    "tag": "Ada",
+    "title": "Quick Ada (Dale Stanbrough)",
+    "descriptoin": "Currently this section contains no detailed description for the page, will update this page soon.",
+    "author": "",
+    "count": "NA",
+    "downId": 8181
+  },
+  {
+    "id": 11,
+    "tag": "Ada",
+    "title": "Ada 95The Craft of Object Oriented Programming (John English)",
+    "descriptoin": "The book is in three parts. The first part deals with the fundamentals   of Ada programming. The second part deals with abstract data types. The third   and final part is concerned with using the object-oriented programming   features of Ada 95 to develop extensible programs.",
+    "author": "John   English",
+    "count": "NA",
+    "downId": 8170
+  },
+  {
+    "id": 12,
+    "tag": "Ada",
+    "title": "Ada Programming",
+    "descriptoin": "Ada puts unique emphasis on, and provides strong support for, good software engineering practices that scale well to very large software systems. This book, Ada Programming is a featured book on Wikibooks because it contains substantial content and it is well-formatted. If you are a beginner you will learn the latest standard , if you are a seasoned Ada user you can see what's new.",
+    "author": "wikibooks.org",
+    "count": "NA",
+    "downId": 8162
+  },
+  {
+    "id": 13,
+    "tag": "Ada",
+    "title": "Ada 95 Rationale (Laurent Guerby)",
+    "descriptoin": "This document describes the rationale for Ada 95, the revised   International Standard. This note is divided in to several parts. The first   part gives an Introduction to Ada 95. The second part contains a more detailed   chapter by chapter account of the Core language. The third part covers the   various Annexes which address the predefined environment and the needs of   specialized application areas.",
+    "author": "Laurent   Guerby",
+    "count": "NA",
+    "downId": 8172
+  },
+  {
+    "id": 14,
+    "tag": "Ada",
+    "title": "Hypertext Ada 95 Rationale",
+    "descriptoin": "This is a hypertext version of the Ada 95 Rationale with a full hypertext index and table of contents.This document is in several parts. The first part is an Introduction to Ada 95; it presents a general discussion of the scope and objectives of Ada 95 and its major technical features. The second part contains a more detailed chapter by chapter account of the Core language. The third part covers the various Annexes which address the predefined environment and the needs of specialized application areas. This document will be of special value to program managers, team leaders and all software professionals with concern for the organized development of software.",
+    "author": "Laurent Guerby",
+    "count": "NA",
+    "downId": 8167
+  },
+  {
+    "id": 15,
+    "tag": "Ada",
+    "title": "Ada in Action Practical Programming Examples (Do While Jones)",
+    "descriptoin": "This book is not intended to teach you the Ada programming language. You   should already be familiar with Ada syntax and semantics. Authors goal   is to share with you the experiences he had using Ada in engineering   applications.",
+    "author": "Do-While   Jones",
+    "count": "NA",
+    "downId": 8171
+  }
+]
