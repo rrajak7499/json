@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "GATE ACADEMY",
+    "branch": "Computer Science",
+    "tags": "gate academy computer science cse",
+    "link": "https://www.youtube.com/channel/UCnaOzPCUym-vNapCjV2p9Pg",
+    "icon": "https://yt3.ggpht.com/ytc/AMLnZu_YgyEz5fREMnhcglGPoLRruVK67k6VCzo8BofW=s176-c-k-c0x00ffffff-no-rj-mo",
+    "disc": "GATE ACADEMY provides India's Best GATE/ESE/PSU Courses with a wide coverage of all topics! Our Director, Umesh Dhande Sir started GATE ACADEMY in 2004 with a vision to provide the highest quality education. Over the past 18 years, the team has developed the course curriculum and teaching methodology for the GATE/ESE/PSU. Our main endeavor is to make learning compelling."
+  },
+
+  {
+    "id": 2,
+    "name": "Gate Smashers",
+    "branch": "Computer Science",
+    "tags": "gate smashers computer science cse",
+    "link": "https://www.youtube.com/c/GateSmashers",
+    "icon": "https://yt3.ggpht.com/ytc/AMLnZu_LhOHz5PA3kggEkJwnS5Mm98g-N2YDytLkMxV4_A=s176-c-k-c0x00ffffff-no-rj-mo",
+    "disc": "Gate Smashers is India's no 1 Free education platform for those aspirants who want to just smash the entrance exam like GATE,UGC NET,KVS,NVS,HTET,CTET etc in Computer Science but they are lagging behind due to lack of proper guidance."
+  },
+  {
+    "id": 3,
+    "name": "KNOWLEDGE GATE",
+    "branch": "Computer Science",
+    "tags": "gate knowledge computer science cse",
+    "link": "https://www.youtube.com/c/KNOWLEDGEGATE_kg",
+    "icon": "https://yt3.ggpht.com/iW7wCyiHHOZ9WIya-tYpLKldMhKm1bzHUUThlWLwURwsjaO_vNPHaRLbvkpIRBRYvk0JDPKKhNs=s88-c-k-c0x00ffffff-no-rj",
+    "disc": "KG College and GATE helps (CS/IT) students to prepare for University/semester and GATE Exams. We upload Videos and conduct Live Classes for: ➡ GATE and Competitive Exams  ➡ Core subjects of Computer Science ➡ University & Semester Exams"
+  },
+  {
+    "id": 4,
+    "name": "Easy Engineering",
+    "branch": "Computer Science",
+    "tags": "gate Easy Engineering computer science cse",
+    "link": "https://www.youtube.com/c/EasyEngineeringClasses",
+    "icon": "https://yt3.ggpht.com/ytc/AMLnZu9YKQQXrZvn-f24qMAhMgRJUHyvAj58FbYGEU7NVA=s176-c-k-c0x00ffffff-no-rj-mo",
+    "disc": "Easy Engineering Classes Channel is a one-stop destination for engineering students of various Universities like GGSIPU, UPTU, and others. Here they can find lectures according to the syllabus and previous year solved question papers. Lots of Subjects such as DBMS, Java, DS, ADA, TOC, OS, CGMM, SE, Digital Electronics, Adhoc Sensor Networks, Cloud Computing, Data Mining, and more are discussed with lots of solved examples. Students preparing for GATE, UGC NET, ISRO, NIELIT, PGT TGT Computer Science entrance exams can find lots of one-minute last moment revision videos and previous year solved questions."
+  },
+  {
+    "id": 5,
+    "name": "Jenny's lectures",
+    "branch": "Computer Science",
+    "tags": "gate Jenny's lectures computer science cse",
+    "link": "https://www.youtube.com/c/JennyslecturesCSITNETJRF",
+    "icon": "https://starsunfolded.com/wp-content/uploads/2022/04/Jayanti-Khatri-Lamba.jpg",
+    "disc": "Jenny’s Lectures CS/IT NET&JRF is a Free YouTube Channel providing Computer Science / Information Technology / Computer-related tutorials including NET & JRF Coaching Videos, GATE Coaching Videos, UGC NET, NTA NET, JRF, BTech, MTech, Ph.D., tips and other helpful videos for Computer Science / Information Technology students. Teaching Computer Science in Informal Space. "
+  },
+  {
+    "id": 6,
+    "name": "Dr.Gajendra Purohit",
+    "branch": "Computer Science",
+    "tags": "gate Dr.Gajendra Purohit computer electrical science cse eee",
+    "link": "https://www.youtube.com/c/DrGajendraPurohitGATEIITJAMCSIRNET",
+    "icon": "https://yt3.ggpht.com/R_RGTvBKYRDOLItgoe1mLBEmBLIRZtlNyE5GCERI6j4TgBFgpcZutZg8qV6qPKgYdmxLaCZ3Ia8=s88-c-k-c0x00ffffff-no-rj",
+    "disc": "This Channel Is Dedicated To Teaching Mathematics For All Students Of  B.Tech/B.Sc./M.Sc./GATE/CSIR/NET/IIT-JAM/IIT-JEE & other competitive exams. Educator’s Profile – Dr GajendraPurohit (GP Sir)  • M.Sc(Maths), NET, PhD. (Pure Mathematics) • Over 17 years Of Teaching Experience • Educator On Unacademy For CSIR NET & IIT JAM [Plus] • Author Of Best Seller Book For CSIR-NET Mathematics"
+  },
+  {
+    "id": 7,
+    "name": "Apni Kaksha",
+    "branch": "Computer Science",
+    "tags": "Apni Kaksha computer science cse programming java c++ cpp",
+    "link": "https://www.youtube.com/channel/UCF7BExjT2zH_mmyqOB139Dg",
+    "icon": "https://yt3.ggpht.com/ihsWXKohHPRkXNqYSaTvO548Lbcc2eCexL3GoYP8JQw_-SzZwA0-xvg2EFVuxUmnU0TDTRc6mW0=s176-c-k-c0x00ffffff-no-rj-mo",
+    "disc": "Hey guys, we have created this channel to provide quality education to students who want to learn, grow and do something beautiful with their life. In return we want you to do the same to your juniors and help the youth of this nation to find its right path. Love you all 3000."
+  },
+  {
+    "id": 8,
+    "name": "Fraz",
+    "branch": "Computer Science",
+    "tags": "fraz computer science cse programming java c++ cpp",
+    "link": "https://www.youtube.com/c/FrazMohammad",
+    "icon": "https://yt3.ggpht.com/FitboDHvZPrXqXtbe1JjfeN9x_wgNxv58GDadFqIf5nu1peeADWpWdW82Sb7eBaFH-TNy9AqgbM=s176-c-k-c0x00ffffff-no-rj-mo",
+    "disc": "Hello, I am Fraz. I am a Software Engineer at @Google. I have made this channel to help all who are ready to learn, grow, and do something big in the field of Tech. I create content through informational videos, tutorials, and podcasts that will help students and software engineers."
+  },
+  {
+    "id": 9,
+    "name": "Anuj Bhaiya",
+    "branch": "Computer Science",
+    "tags": "Anuj Bhaiya computer science cse programming java c++ cpp",
+    "link": "https://www.youtube.com/c/AnujBhaiya",
+    "icon": "https://yt3.ggpht.com/ytc/AMLnZu8pzDZIxsUyu_z7kL3Y8KoNBeH8a5pwUJv_dQZD=s176-c-k-c0x00ffffff-no-rj-mo",
+    "disc": "Hey, What's up guys, Anuj here. Ex Software Engineer at Amazon & Urban Company and a self-taught programmer. I started this channel to teach you all the things I have learned, things I wish I had known sooner, and things to help you along the way. I'll teach you how to learn new Programming languages, help you understand Data Structures and Algorithms, and develop your soft skills. My goal is to provide you the best advice I can through tutorials so that you can crack the dream company you deserve."
+  },
+  {
+    "id": 10,
+    "name": "G Centrick",
+    "branch": "Electronics and Electrical Engineering",
+    "tags": "gate G Centrick electrical engineering eee",
+    "link": "https://www.youtube.com/c/Kreatryx",
+    "icon": "https://yt3.ggpht.com/74LQQiQlV0iFg1rXrUR4DM7cmCSDmnaLxRoj1QeKkIpBs8lDmJghJE58-pEgJ1zg_1fBvX2wSA=s88-c-k-c0x00ffffff-no-rj",
+    "disc": "G-Centrick is working towards the well-being of fellow students. We provide the best content for GATE/PSUs at the most affordable price by experienced and GATE rankers faculties. In our first ever GATE-RESULTS, we have proven that ranks can be achieved without paying lump-sum fees at the coaching institutions. Anyone can check our quality content on Youtube lectures and then can start the preparation from G-Centrick App."
+  }
+]
