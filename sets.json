@@ -552,6 +552,23 @@
       "slug": "3"
     }
   ],
+  "react-mcqs": [
+    {
+      "id": 1,
+      "title": "Set - 1",
+      "slug": "1"
+    },
+    {
+      "id": 2,
+      "title": "Set - 2",
+      "slug": "2"
+    },
+    {
+      "id": 3,
+      "title": "Set - 3",
+      "slug": "3"
+    }
+  ],
   "visual-basic-mcqs": [
     {
       "id": 1,
