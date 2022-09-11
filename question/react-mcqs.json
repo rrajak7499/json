@@ -6,200 +6,200 @@
         "B": "Original DOM",
         "C": "Both A and B",
         "D": "None of the above",
+        "exp": "Virtual DOM is used in React.js to increase performance.",
         "id": 1,
         "prob": "1. Which of the following is used in React.js to increase performance?",
-        "sol": "A",
-        "exp": "Virtual DOM is used in React.js to increase performance."
+        "sol": "A"
       },
       {
         "A": "Server-side framework",
         "B": "user interface framework",
         "C": "both a and b",
         "D": "none of the above",
+        "exp": "ReactJS is a user-interface framework.",
         "id": 2,
         "prob": "2. What is ReactJS?",
-        "sol": "B",
-        "exp": "ReactJS is a user-interface framework."
+        "sol": "B"
       },
       {
         "A": "Render with arguments",
         "B": "setState",
         "C": "PropTypes",
         "D": "props",
+        "exp": "props are used to pass data to components from outside.",
         "id": 3,
         "prob": "3. Identify the one which is used to pass data to components from outside",
-        "sol": "D",
-        "exp": "props are used to pass data to components from outside."
+        "sol": "D"
       },
       {
         "A": "Jordan Mike",
         "B": "Jordan Walke",
         "C": "Tim Lee",
         "D": "Jordan Lee",
+        "exp": "Jordan Walke created React.js.",
         "id": 4,
         "prob": "4. Who created React.js?",
-        "sol": "B",
-        "exp": "Jordan Walke created React.js."
+        "sol": "B"
       },
       {
         "A": "Python",
         "B": "JavaScript",
         "C": "Java",
         "D": "PHP",
+        "exp": "React.js is written in Javascript.",
         "id": 5,
         "prob": "5. In which language is React.js written?",
-        "sol": "B",
-        "exp": "React.js is written in Javascript."
+        "sol": "B"
       },
       {
         "A": "JavaScript compiler",
         "B": "JavaScript interpreter",
         "C": "JavaScript transpiler",
         "D": "None of the above",
+        "exp": "Devil is a JavaScript compiler.",
         "id": 6,
         "prob": "6. What is Babel?",
-        "sol": "D",
-        "exp": "Devil is a JavaScript compiler."
+        "sol": "D"
       },
       {
         "A": "npm install create-react-app",
         "B": "npm install -g create-react-app",
         "C": "install -g create-react-app",
         "D": "None of the above",
+        "exp": "npm install -g create-react-app is used to create a react app.",
         "id": 7,
         "prob": "7. Identify the command used to create a react app.",
-        "sol": "B",
-        "exp": "npm install -g create-react-app is used to create a react app."
+        "sol": "B"
       },
       {
         "A": 3000,
         "B": 3306,
         "C": 3030,
         "D": 8080,
+        "exp": "8080 is the default where webpack-dev-server runs.",
         "id": 8,
         "prob": "8. Which of the following port is the default where webpack-dev-server runs?",
-        "sol": "D",
-        "exp": "8080 is the default where webpack-dev-server runs."
+        "sol": "D"
       },
       {
         "A": 1,
         "B": 2,
         "C": 3,
         "D": 4,
+        "exp": "A valid red component can return only 1 element.",
         "id": 9,
         "prob": "9. How many elements can a valid react component return?",
-        "sol": "A",
-        "exp": "A valid red component can return only 1 element."
+        "sol": "A"
       },
       {
         "A": "The internal storage of the component",
         "B": "External storage of the component",
         "C": "Permanent storage",
         "D": "All of the above",
+        "exp": "A state in React.js is also known as the internal storage of the component.",
         "id": 10,
         "prob": "10. A state in React.js is also known as?",
-        "sol": "A",
-        "exp": "A state in React.js is also known as the internal storage of the component."
+        "sol": "A"
       },
       {
         "A": "this.prototype.stateValue",
         "B": "this,getState()",
         "C": "this.values",
         "D": "this.state",
+        "exp": "this.values is used to access the state of a component from inside of a member function.",
         "id": 11,
         "prob": "11. Which of the following method is used to access the state of a component from inside of a member function?",
-        "sol": "C",
-        "exp": "this.values is used to access the state of a component from inside of a member function."
+        "sol": "C"
       },
       {
         "A": "True",
         "B": "False",
         "C": "",
         "D": "",
+        "exp": "The above statement is True.",
         "id": 12,
         "prob": "12. State whether true or false:  Props are methods into other components?",
-        "sol": "A",
-        "exp": "The above statement is True."
+        "sol": "A"
       },
       {
         "A": "Elements",
         "B": "Props",
         "C": "Keys",
         "D": "Ref",
+        "exp": "Arbitrary inputs of components in react also known as Props.",
         "id": 13,
         "prob": "13. What are arbitrary inputs of components in react also known as?",
-        "sol": "B",
-        "exp": "Arbitrary inputs of components in react also known as Props."
+        "sol": "B"
       },
       {
         "A": "Model",
         "B": "Controller",
         "C": "Router",
         "D": "Middleware",
+        "exp": "In MVC, React.js act as Controller.",
         "id": 14,
         "prob": "14. In MVC, what does React.js act as?",
-        "sol": "B",
-        "exp": "In MVC, React.js act as Controller."
+        "sol": "B"
       },
       {
         "A": "True",
         "B": "False",
         "C": "",
         "D": "",
+        "exp": "The above statement is true.",
         "id": 15,
         "prob": "15. State whether true or false: React.js covers only the view layer of the app.",
-        "sol": "A",
-        "exp": "The above statement is true."
+        "sol": "A"
       },
       {
         "A": "DOM",
         "B": "Flux",
         "C": "JSX",
         "D": "Props",
+        "exp": "FLux helps react for keeping their data uni-directional.",
         "id": 16,
         "prob": "16. Among The following options, choose the one which helps react for keeping their data uni-directional?",
-        "sol": "B",
-        "exp": "FLux helps react for keeping their data uni-directional."
+        "sol": "B"
       },
       {
         "A": "preventDefault()",
         "B": "avoidDefault()",
         "C": "revokeDefault()",
         "D": "None of the above",
+        "exp": "preventDefault() is used to prevent default behavior in react.",
         "id": 17,
         "prob": "17. Using which of the following command can prevent default behaviour at in react?",
-        "sol": "A",
-        "exp": "preventDefault() is used to prevent default behavior in react."
+        "sol": "A"
       },
       {
         "A": "Props",
         "B": "Elements",
         "C": "Components",
         "D": "None of the above",
+        "exp": "Components are the smallest building blocks of ReactJS.",
         "id": 18,
         "prob": "18. Identify the smallest building block of React.JS.",
-        "sol": "C",
-        "exp": "Components are the smallest building blocks of ReactJS."
+        "sol": "C"
       },
       {
         "A": "Database",
         "B": "Connectivity",
         "C": "User interface",
         "D": "Design platform",
+        "exp": "ReactJS is mainly used for building user interfaces.",
         "id": 19,
         "prob": "19. What is ReactJS mainly used for building?",
-        "sol": "C",
-        "exp": "ReactJS is mainly used for building user interfaces."
+        "sol": "C"
       },
       {
         "A": "this.setState()",
         "B": "this.state()",
         "C": "this.setChangeState()",
         "D": "None of the above",
+        "exp": "this.setState() is used to change the state of react component.",
         "id": 20,
         "prob": "20. Which of the following function is used to change the state of react component?",
-        "sol": "A",
-        "exp": "this.setState() is used to change the state of react component."
+        "sol": "A"
       }
     ],
     "2": [
@@ -208,200 +208,200 @@
         "B": "Render",
         "C": "Class",
         "D": "props",
+        "exp": "props act as the input of the class-based components.",
         "id": 1,
         "prob": "1. Among the following which acts as the input of class-based component?",
-        "sol": "D",
-        "exp": "props act as the input of the class-based components."
+        "sol": "D"
       },
       {
         "A": "Inherits",
         "B": "Extends",
         "C": "Create",
         "D": "this",
+        "exp": "Extends are used to create a class inheritance.",
         "id": 2,
         "prob": "2. Among the following which is used to create a class inheritance?",
-        "sol": "B",
-        "exp": "Extends are used to create a class inheritance."
+        "sol": "B"
       },
       {
         "A": "Action -> Dispatcher -> Store -> View",
         "B": "Action -> Dispatcher -> View -> Store",
         "C": "Action -> Store -> View -> Dispatcher",
         "D": "Dispatcher -> Action -> Store -> View",
+        "exp": "he correct data flow sequence of flux concept is  :  Action -> Dispatcher -> Store -> View",
         "id": 3,
         "prob": "3. Choose the correct data flow sequence of flux concept.",
-        "sol": "A",
-        "exp": "he correct data flow sequence of flux concept is  :  Action -> Dispatcher -> Store -> View"
+        "sol": "A"
       },
       {
         "A": 1,
         "B": 2,
         "C": 3,
         "D": 4,
+        "exp": "There are three ways of defining variables in ES6: let, var and const.",
         "id": 4,
         "prob": "4. Total ways of defining variables in ES6 is?",
-        "sol": "C",
-        "exp": "There are three ways of defining variables in ES6: let, var and const."
+        "sol": "C"
       },
       {
         "A": "services and components",
         "B": "State and props",
         "C": "state and services",
         "D": "state and component",
+        "exp": "State and props is used to handle data in react.",
         "id": 5,
         "prob": "5. Which of the following are two ways to handle data in react?",
-        "sol": "B",
-        "exp": "State and props is used to handle data in react."
+        "sol": "B"
       },
       {
         "A": "renderComponent",
         "B": "SetinitialComponent",
         "C": "Render",
         "D": "All of the above",
+        "exp": "renderComponent is a must-have for every ReactJS component.",
         "id": 6,
         "prob": "6. Among the corner which is a must-have for every ReactJS component?",
-        "sol": "A",
-        "exp": "renderComponent is a must-have for every ReactJS component."
+        "sol": "A"
       },
       {
         "A": "ECMA 6",
         "B": "ECMAJavaScript 6",
         "C": "ECMAScript 6",
         "D": "EJavaScript 6",
+        "exp": "ES6 stands for ECMAScript 6.",
         "id": 7,
         "prob": "7. ES6 stands for _________",
-        "sol": "C",
-        "exp": "ES6 stands for ECMAScript 6."
+        "sol": "C"
       },
       {
         "A": "this()",
         "B": "super()",
         "C": "iniherits()",
         "D": "self()",
+        "exp": "super() refers to the parent class in ReactJS.",
         "id": 8,
         "prob": "8. Choose the method with refers to the parent class in ReactJS?",
-        "sol": "B",
-        "exp": "super() refers to the parent class in ReactJS."
+        "sol": "B"
       },
       {
         "A": "Javascript XML",
         "B": "JSON XML",
         "C": "JSON",
         "D": "Javascript and AngularJS",
+        "exp": "JSX stands for Javascript XML.",
         "id": 9,
         "prob": "9. JSX stands for __________",
-        "sol": "A",
-        "exp": "JSX stands for Javascript XML."
+        "sol": "A"
       },
       {
         "A": "ReactDOM_render()",
         "B": "render()",
         "C": "render_DOM()",
         "D": "DOM_HTML()",
+        "exp": "render() is called to render HTML to a web page in react.",
         "id": 10,
         "prob": "10. The function which is called to render HTML to a web page in react?",
-        "sol": "B",
-        "exp": "render() is called to render HTML to a web page in react."
+        "sol": "B"
       },
       {
         "A": "Access the previous state before the setState operation.",
         "B": "invoke code after the setState  operation is done",
         "C": "replace this date completely instead of the default merge actionnone of the above",
         "D": "none of the above",
+        "exp": "setState invoke code after the setState operation is done.",
         "id": 11,
         "prob": "11. Choose the functionality of setState?",
-        "sol": "B",
-        "exp": "setState invoke code after the setState operation is done."
+        "sol": "B"
       },
       {
         "A": "ReactDOM.createPortal()",
         "B": "ReactDOM.hydrate()",
         "C": "ReactDOM.destroy()",
         "D": "ReactDOM.findDOMNode()",
+        "exp": "ReactDOM.destroy() is not a part of ReactDOM.",
         "id": 12,
         "prob": "12. Choose the method which is not a part of ReactDOM?",
-        "sol": "C",
-        "exp": "ReactDOM.destroy() is not a part of ReactDOM."
+        "sol": "C"
       },
       {
         "A": "source of truth can be anything",
         "B": "source of truth is a component state",
         "C": "source of truth is DOM",
         "D": "none of the above",
+        "exp": "Source of truth is DOM is correct in the context of uncontrolled components in ReactJS.",
         "id": 13,
         "prob": "13. Choose the correct statement in the context of uncontrolled components in ReactJS?",
-        "sol": "C",
-        "exp": "Source of truth is DOM is correct in the context of uncontrolled components in ReactJS."
+        "sol": "C"
       },
       {
         "A": "vendor/js/components/",
         "B": "components/js",
         "C": "js/components",
         "D": "vendor/components",
+        "exp": "React component is saved in js/components in/.",
         "id": 14,
         "prob": "14. In which directory is react component saved?",
-        "sol": "C",
-        "exp": "React component is saved in js/components in/."
+        "sol": "C"
       },
       {
         "A": "Runs react local development server",
         "B": "transfer files all the JavaScript down into one file",
         "C": "a module blunder",
         "D": "none of the above",
+        "exp": "Webpack is a model blunder.",
         "id": 15,
         "prob": "15. What is the functionality of a “webpack” command?",
-        "sol": "A",
-        "exp": "Webpack is a model blunder."
+        "sol": "A"
       },
       {
         "A": "True",
         "B": "False",
         "C": "",
         "D": "",
+        "exp": "The above statement is true.",
         "id": 16,
         "prob": "16. State whether true or false: React merges the objects you provide into the current state using setState().",
-        "sol": "A",
-        "exp": "The above statement is true."
+        "sol": "A"
       },
       {
         "A": "True",
         "B": "False",
         "C": "",
         "D": "",
+        "exp": "The above statement is true.",
         "id": 17,
         "prob": "17. State whether true or false: React creates virtual DOM in memory.",
-        "sol": "A",
-        "exp": "The above statement is true."
+        "sol": "A"
       },
       {
         "A": "Unique among his siblings only",
         "B": "unique in the DOM",
         "C": "Does not requires to be unique",
         "D": "all of the above",
+        "exp": "The key should be unique among his siblings only.",
         "id": 18,
         "prob": "18. In react, the key should be?",
-        "sol": "A",
-        "exp": "The key should be unique among his siblings only."
+        "sol": "A"
       },
       {
         "A": "Apple",
         "B": "Facebook",
         "C": "Google",
         "D": "Twitter",
+        "exp": "ReactJS was developed by Facebook.",
         "id": 19,
         "prob": "19. Which company developed ReactJS?",
-        "sol": "B",
-        "exp": "ReactJS was developed by Facebook."
+        "sol": "B"
       },
       {
         "A": "componentDidUpdate",
         "B": "componentDidMount",
         "C": "willComponentUpdate",
         "D": "shouldComponentUpdate",
+        "exp": "shouldComponentUpdate should be override to stop the component from updating.",
         "id": 20,
         "prob": "20. Choose the component which should be overridden to stop the component from updating?",
-        "sol": "D",
-        "exp": "shouldComponentUpdate should be override to stop the component from updating."
+        "sol": "D"
       }
     ],
     "3": [
@@ -410,100 +410,100 @@
         "B": "<h1>{fetch}</h1>",
         "C": "<h1>${fetch}</h1>",
         "D": "<h1>{fetch()}</h1>",
+        "exp": "The correct command is <h1>{fetch()}</h1>.",
         "id": 1,
         "prob": "1. Which of the following is used to access a function fetch()  from h1 element in JSX?",
-        "sol": "D",
-        "exp": "The correct command is <h1>{fetch()}</h1>."
+        "sol": "D"
       },
       {
         "A": "duplicate key error",
         "B": "repetitive output happiness on the screen",
         "C": "nothing happens",
         "D": "stackoverflow error",
+        "exp": "Stackoverflow error occurs when setState()  is called inside render() method.",
         "id": 2,
         "prob": "2. When setState()  is called inside render() method, which of the following events takes place?",
-        "sol": "D",
-        "exp": "Stackoverflow error occurs when setState()  is called inside render() method."
+        "sol": "D"
       },
       {
         "A": "it will be rendered as enabled",
         "B": "it will be rendered as disabled",
         "C": "it will not be rendered at all",
         "D": "None of the above",
+        "exp": "It will be rendered as enabled if you render an input element with disabled = {false}.",
         "id": 3,
         "prob": "3. What happens if you render an input element with disabled = {false}?",
-        "sol": "A",
-        "exp": "It will be rendered as enabled if you render an input element with disabled = {false}."
+        "sol": "A"
       },
       {
         "A": "When we want to replace redux",
         "B": "when we want to break our production app",
         "C": "when we want to improve performance",
         "D": "none of the above",
+        "exp": "When we want to replace redux, useReducer is used over useState.",
         "id": 4,
         "prob": "4. When is useReducer used over useState in React component?",
-        "sol": "A",
-        "exp": "When we want to replace redux, useReducer is used over useState."
+        "sol": "A"
       },
       {
         "A": "JavaScript framework",
         "B": "JavaScript library",
         "C": "both  a and b",
         "D": "none of the above",
+        "exp": "React is a JavaScript library.",
         "id": 5,
         "prob": "5. React is a ___________",
-        "sol": "B",
-        "exp": "React is a JavaScript library."
+        "sol": "B"
       },
       {
         "A": "Sinon",
         "B": "Chai",
         "C": "Jest",
         "D": "Mocha",
+        "exp": "Jest is most often associated with react.",
         "id": 6,
         "prob": "6. Choose the library which is most often associated with react?",
-        "sol": "C",
-        "exp": "Jest is most often associated with react."
+        "sol": "C"
       },
       {
         "A": "React.lazy",
         "B": "React.memo",
         "C": "React.fallback",
         "D": "React.split",
+        "exp": "React.lazy is used to handle code splitting.",
         "id": 7,
         "prob": "7. What is used to handle code-splitting?",
-        "sol": "A",
-        "exp": "React.lazy is used to handle code splitting."
+        "sol": "A"
       },
       {
         "A": "To complete the update",
         "B": "to optimize for all devices",
         "C": "To change the layout of the screen",
         "D": "when you need the browser to paint before the effectors",
+        "exp": "When you need the browser to paint before the effect runs, useLayoutEffect used.",
         "id": 8,
         "prob": "8. Why is useLayoutEffect used?",
-        "sol": "D",
-        "exp": "When you need the browser to paint before the effect runs, useLayoutEffect used."
+        "sol": "D"
       },
       {
         "A": "Imperative",
         "B": "Integrated",
         "C": "Declarative",
         "D": "closed",
+        "exp": "Declarative is commonly used to describe react applications.",
         "id": 9,
         "prob": "9. Which of the following terms commonly described react applications?",
-        "sol": "C",
-        "exp": "Declarative is commonly used to describe react applications."
+        "sol": "C"
       },
       {
         "A": "to bind the function",
         "B": "to call a function",
         "C": "to directly access the DOM node",
         "D": "to refer to another JS file",
+        "exp": "Ref is used to directly access the DOM node.",
         "id": 10,
         "prob": "10. Why is ref used?",
-        "sol": "C",
-        "exp": "Ref is used to directly access the DOM node."
+        "sol": "C"
       }
     ]
   }
