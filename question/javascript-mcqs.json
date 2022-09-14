@@ -71,7 +71,7 @@
         "prob": "6. What will be the output of the following JavaScript code?",
         "lanuage": "javascript",
         "sol": "B",
-        "codeString": "\t\nfunction compare() {\n\t\tint a = 1;\n\t\tchar b = 1;\n\t\tif(a.tostring() === b) return true;\n\t\telse return false;\t\n}"
+        "codeString": "\tfunction compare() {\n\t\tint a = 1;\n\t\tchar b = 1;\n\t\tif(a.tostring() === b) return true;\n\t\telse return false;\n\t}"
       },
       {
         "A": "1",
