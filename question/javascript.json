@@ -1,0 +1,126 @@
+{
+  "javascript-mcqs": {
+    "1": [
+      {
+        "A": "0",
+        "B": "1",
+        "C": "10",
+        "D": "Undeinified",
+        "exp": "The if else statement is a part of the javascript conditioning statements. The line of code inside the “if” statement is executed if the value passed to “if” is 1.",
+        "id": 1,
+        "prob": "1. What will be the output of the following JavaScript code?",
+        "lanuage": "javascript",
+        "sol": "B",
+        "codeString": "\tInt a = 1;\n\tif (a > 10) {\n\t\tdocument.write(10);\n\t} else {\n\t\tdocument.write(a);\n\t}"
+      },
+      {
+        "A": "Constructor Calling Expression",
+        "B": "Primary Expression",
+        "C": "Invocation Expression",
+        "D": "Object Creation Expression",
+        "exp": "An object creation expression creates a new object and invokes a function (called a constructor) to initialize the properties of that object. Object creation expressions are like invocation expressions except that they are prefixed with the keyword new.",
+        "id": 2,
+        "prob": "2. What kind of expression is “new Point(2,3)”?",
+        "lanuage": "javascript",
+        "sol": "D",
+        "codeString": ""
+      },
+      {
+        "A": "x = (x = (y = z));w = ~(-y);\nq = a?b:(c?d:(e?f:g));",
+        "B": "x = ~(-y); w = (x = (y = z)); \nq = (c?d:(e?f:g));",
+        "C": "x = a?b:(c?d:(e?f:g));\nq = ~(-y); w = (x = (y = z));",
+        "D": "x = ~(-y); w = (x = (y = z));\nq = a?b:(c?d:(e?f:g));",
+        "exp": "Brackets have higher precedence than any other operator. The placement of brackets results in the same result as without putting any bracket.",
+        "id": 3,
+        "prob": "3. What will be the equivalent output of the following JavaScript code snippet?",
+        "lanuage": "javascript",
+        "sol": "D",
+        "codeString": "\tx = ~-y;\n\tw = x = y = z;\n\tq = a?b:c?d:e?f:g; "
+      },
+      {
+        "A": "error",
+        "B": "true",
+        "C": "12",
+        "D": "false",
+        "exp": "The Object.preventExtensions() only prevents the addition of new properties from ever being added to an object. This change is a permanent that means once an object has been made non-extensible, it cannot be made extensible again.",
+        "id": 4,
+        "prob": "4. What will be the output of the following JavaScript code?",
+        "lanuage": "javascript",
+        "sol": "D",
+        "codeString": "\tconst obj = {prop: 12};\n\tObject.preventExtensions(obj);\n\tconsole.log( Object.isExtensible(obj));"
+      },
+      {
+        "A": "he value of count from 0 to 9 is displayed in the console",
+        "B": "An error is displayed",
+        "C": "The values of count are logged or stored in a particular location or storage",
+        "D": "An exception is thrown",
+        "exp": "Console.log is a predefined function in JavaScript which takes the value as an argument of its function.console.log prints this value in the argument in the console at the time of execution of the code.",
+        "id": 5,
+        "prob": "5. What happens in the following javaScript code snippet?",
+        "lanuage": "javascript",
+        "sol": "A",
+        "codeString": "\tvar count = 0;\n\twhile (count < 10)\n\t{\n\t\tconsole.log(count);\n\t\tcount++;\n\t}"
+      },
+      {
+        "A": "runtime error",
+        "B": "true",
+        "C": "logical error",
+        "D": "false",
+        "exp": "A non string (integer) can be converted to string using .tostring() function. A strict comparison is only true if the operands are of the same type and the contents match. Hence the following code snippet would result into true output.",
+        "id": 6,
+        "prob": "6. What will be the output of the following JavaScript code?",
+        "lanuage": "javascript",
+        "sol": "B",
+        "codeString": "/t/nfunction compare() {/n/t/tint a = 1;/n/t/tchar b = 1;/n/t/tif(a.tostring() === b) return true;/n/t/telse return false;/t/n}"
+      },
+      {
+        "A": "1",
+        "B": "runtime error",
+        "C": "0",
+        "D": "compiler error",
+        "exp": "!= is the not equal to operator. It gives a value of 1 if the two values which are compared are not equal and give 0 if the two values are equal.",
+        "id": 7,
+        "prob": "7. What will be the output of the following JavaScript code?",
+        "lanuage": "javascript",
+        "sol": "A",
+        "codeString": "/tint a = 1;/n/tif(a != null) return 1;/n/telse return 0;"
+      },
+      {
+        "A": "7.25",
+        "B": "-7.25",
+        "C": "-7",
+        "D": "7",
+        "exp": "The abs() method returns the absolute value of a number. The method is find in the math library of Javascript.",
+        "id": 8,
+        "prob": "8. What will be the output of the following JavaScript code?",
+        "lanuage": "javascript",
+        "sol": "A",
+        "codeString": "/t<p id=\"demo\"></p>/n/t<script>/n/t/tfunction myFunction() {/n/t/t/tdocument.getElementById(\"demo\").innerHTML = Math.abs(-7.25);/n/t/t}/n/t</script>"
+      },
+      {
+        "A": "5",
+        "B": "error",
+        "C": "0",
+        "D": "4",
+        "exp": "The value of a will increase until it will become equal to 5 after that the cursor will come out the loop. There are no statements for the for loop therefore only the value of a will increase. Hence the output will be five.",
+        "id": 9,
+        "prob": "9. What will be the output of the following JavaScript code?",
+        "lanuage": "javascript",
+        "sol": "A",
+        "codeString": "/tint a=0;/n/tfor(a;a<5;a++);/n/tconsole.log(a);"
+      },
+      {
+        "A": "false true",
+        "B": "true true",
+        "C": "false true",
+        "D": "true false",
+        "exp": "Array a1 is defined with null values. Therefore we can access the indexes 0, 1 and 2. But array a2 is only defined not declared. Therefore we cannot access index 0.",
+        "id": 10,
+        "prob": "10. What will be the output of the following JavaScript code?",
+        "lanuage": "javascript",
+        "sol": "D",
+        "codeString": "/tvar a1 = [,,,]; /n/tvar a2 = new Array(3); /n/t0 in a1 /n/t0 in a2"
+      }
+    ]
+  }
+}
