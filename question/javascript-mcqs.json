@@ -71,7 +71,7 @@
         "prob": "6. What will be the output of the following JavaScript code?",
         "lanuage": "javascript",
         "sol": "B",
-        "codeString": "/t/nfunction compare() {/n/t/tint a = 1;/n/t/tchar b = 1;/n/t/tif(a.tostring() === b) return true;/n/t/telse return false;/t/n}"
+        "codeString": "\t\nfunction compare() {\n\t\tint a = 1;\n\t\tchar b = 1;\n\t\tif(a.tostring() === b) return true;\n\t\telse return false;\t\n}"
       },
       {
         "A": "1",
@@ -83,7 +83,7 @@
         "prob": "7. What will be the output of the following JavaScript code?",
         "lanuage": "javascript",
         "sol": "A",
-        "codeString": "/tint a = 1;/n/tif(a != null) return 1;/n/telse return 0;"
+        "codeString": "\tint a = 1;\n\tif(a != null) return 1;\n\telse return 0;"
       },
       {
         "A": "7.25",
@@ -95,7 +95,7 @@
         "prob": "8. What will be the output of the following JavaScript code?",
         "lanuage": "javascript",
         "sol": "A",
-        "codeString": "/t<p id=\"demo\"></p>/n/t<script>/n/t/tfunction myFunction() {/n/t/t/tdocument.getElementById(\"demo\").innerHTML = Math.abs(-7.25);/n/t/t}/n/t</script>"
+        "codeString": "\t<p id=\"demo\"></p>\n\t<script>\n\t\tfunction myFunction() {\n\t\t\tdocument.getElementById(\"demo\").innerHTML = Math.abs(-7.25);\n\t\t}\n\t</script>"
       },
       {
         "A": "5",
@@ -107,7 +107,7 @@
         "prob": "9. What will be the output of the following JavaScript code?",
         "lanuage": "javascript",
         "sol": "A",
-        "codeString": "/tint a=0;/n/tfor(a;a<5;a++);/n/tconsole.log(a);"
+        "codeString": "\tint a=0;\n\tfor(a;a<5;a++);\n\tconsole.log(a);"
       },
       {
         "A": "false true",
@@ -119,7 +119,7 @@
         "prob": "10. What will be the output of the following JavaScript code?",
         "lanuage": "javascript",
         "sol": "D",
-        "codeString": "/tvar a1 = [,,,]; /n/tvar a2 = new Array(3); /n/t0 in a1 /n/t0 in a2"
+        "codeString": "\tvar a1 = [,,,]; \n\tvar a2 = new Array(3); \n\t0 in a1 \n\t0 in a2"
       }
     ]
   }
